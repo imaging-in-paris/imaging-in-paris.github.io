@@ -1,10 +1,16 @@
 - speaker: Julie Delon
+  date: 06 Avril 2025
+  time: 14h-15h
+  room: 413
   affiliation: Paris 5
   url: https://delon.wp.mines-telecom.fr/
   title: Proving P=NP using NL-means
   abstract: In this talk blabla bla NL-mean blabla bla  blabla bla  blabla bla  blabla bla blabla bla blabla bla trivialities blabla bla blabla bla.
 
 - speaker: Yann Gousseau
+  date: 06 Avril 2025
+  time: 14h30-15h30
+  room: 413
   affiliation: Telecom Paristech
   url: http://perso.telecom-paristech.fr/~gousseau/
   title: Deep learning solves the Riemanian Hypoehsis
