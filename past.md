@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Prochains passés"
+title: "Séminaires passés"
 description: "Past seminars"
-header-img: "img/paris1.png"
+header-img: "img/paris3.png"
 ---
 
 Liste des séminaires passés:

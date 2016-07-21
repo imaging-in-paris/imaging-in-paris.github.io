@@ -2,7 +2,7 @@
 layout: page
 title: "Prochains séminaires"
 description: "Next seminars"
-header-img: "img/paris1.png"
+header-img: "img/paris2.png"
 ---
 
 Liste des séminaires à venir:
