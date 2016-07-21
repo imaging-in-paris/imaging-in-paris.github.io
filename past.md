@@ -8,12 +8,11 @@ header-img: "img/paris1.png"
 Liste des séminaires passés:
 
 
-<ul>
-{% for codeitem in site.data.past %}
-<li>
-  {{ codeitem.speaker }} ({{ codeitem.affiliation }})<br/>
-  <b>Title:</b> <i>{{ codeitem.title }}</i><br/>
-  <b>Abstract:</b> {{ codeitem.abstract }}
-</li>
+
+{% for oneitem in site.data.past %}
+<p>
+  <a href="{{ oneitem.url }}"> {{ oneitem.speaker }} </a> ({{ oneitem.affiliation }})<br/>
+  <b>Title:</b> <i>{{ oneitem.title }}</i><br/>
+  <b>Abstract:</b> {{ oneitem.abstract }}
+  </p>
 {% endfor %}
-</ul>
