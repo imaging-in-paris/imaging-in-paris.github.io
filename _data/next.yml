@@ -1,17 +1,35 @@
-- speaker: Julie Delon
-  date: 06 Avril 2025
+- speaker: ...
+  date: 6 Octobre 2016
   time: 14h-15h
   room: 413
-  affiliation: Paris 5
-  url: https://delon.wp.mines-telecom.fr/
-  title: Proving P=NP using NL-means
-  abstract: In this talk blabla bla NL-mean blabla bla  blabla bla  blabla bla  blabla bla blabla bla blabla bla trivialities blabla bla blabla bla.
+  affiliation:
+  url:
+  title: ...
+  abstract: ...
 
-- speaker: Yann Gousseau
-  date: 06 Avril 2025
-  time: 14h30-15h30
+- speaker: ...
+  date: 6 Octobre 2016
+  time: 15h30-16h30
   room: 413
-  affiliation: Telecom Paristech
-  url: http://perso.telecom-paristech.fr/~gousseau/
-  title: Deep learning solves the Riemanian Hypoehsis
-  abstract: Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning Deep learning.
+  affiliation:
+  url:
+  title: ...
+  abstract: ...
+
+- speaker: Stéphane Mallat
+  date: 3 Novembre 2016
+  time: 14h-15h
+  room: 413
+  affiliation: ENS
+  url: https://www.di.ens.fr/~mallat/
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Emilie Chouzenoux
+  date: 3 Novembre 2016
+  time: 15h30-16h30
+  room: 413
+  affiliation: Université Paris-Est Marne-La-Vallée
+  url: http://www-syscom.univ-mlv.fr/~chouzeno/
+  title: À venir.
+  abstract: À venir.
