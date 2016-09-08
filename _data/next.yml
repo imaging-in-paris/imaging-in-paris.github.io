@@ -14,8 +14,8 @@
   room: 413
   affiliation: Paris 5
   url: https://sites.google.com/site/stephanieallassonniere/
-  title: ...
-  abstract: ...
+  title: À venir.
+  abstract: À venir.
 
 - speaker: Stéphane Mallat
   date: 3 Novembre 2016
@@ -41,5 +41,51 @@
   room: 413
   affiliation: ENS Cachan
   url: https://sites.google.com/site/jeanmichelmorelcmlaenscachan/
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Maureen Clerc
+  date: 24 Novembre 2016
+  time: 15h-16h
+  room: 413
+  affiliation: INRIA
+  url: http://www-sop.inria.fr/members/Maureen.Clerc/index.php
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Sandrine Anthoine
+  date: 5 Janvier 2017
+  time: 15h-16h
+  room: 413
+  affiliation: CNRS et I2M
+  url: http://www.i2m.univ-amu.fr/~santhoine/
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Caroline Chaux
+  date: 2 Février 2017
+  time: 15h-16h
+  room: 413
+  affiliation: CNRS et I2M
+  url: https://www.i2m.univ-amu.fr/~caroline.chaux/
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Valérie Perrier
+  date: 2 Mars 2017
+  time: 15h-16h
+  room: 413
+  affiliation: LJK
+  url: http://www-ljk.imag.fr/membres/Valerie.Perrier/
+  title: À venir.
+  abstract: À venir.
+
+
+- speaker: Julien Tierny
+  date: 1er Juin 2017
+  time: 15h-16h
+  room: 413
+  affiliation: CNRS et LIP6
+  url: http://www-pequan.lip6.fr/~tierny/
   title: À venir.
   abstract: À venir.
