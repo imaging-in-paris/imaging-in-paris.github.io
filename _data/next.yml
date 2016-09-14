@@ -33,13 +33,7 @@
   affiliation: Université Paris-Est Marne-La-Vallée
   url: http://www-syscom.univ-mlv.fr/~chouzeno/
   title:  "A Block Parallel Majorize-Minimize Memory Gradient Algorithm"
-  abstract: "In the field of 3D image recovery, huge amounts of data need to be processed. Parallel optimization methods are then of main interest since they allow to overcome memory limitation issues, while benefiting from the intrinsic acceleration provided by recent multicore computing architectures. In this context, we propose a Block Parallel Majorize-Minimize Memory Gradient (BP3MG) algorithm for solving  large scale optimization problems. This algorithm combines a block coordinate strategy with an efficient parallel update. The proposed method is applied to a 3D microscopy image restoration problem involving a depth-variant blur, where it  is shown to lead to significant computational time savings with respect to a sequential approach.
-
-[1] S. Cadoni, E. Chouzenoux, J.-C. Pesquet and C. Chaux. A Block Parallel Majorize-Minimize Memory Gradient Algorithm. In Proceedings of the 23rd IEEE International Conference on Image Processing (ICIP 2016), Phoenix, Arizona, 25-28 Sept. 2016. Finalist of the Best Student Paper Award.
-
-[2] E. Chouzenoux, A. Jezierska, J.-C. Pesquet and H. Talbot. A Majorize-Minimize Subspace Approach for l2-l0 Image Regularization. SIAM Journal on Imaging Science, Vol. 6, No. 1, pages 563-591, 2013. 
-
-[3] E. Chouzenoux, J. Idier and S. Moussaoui. A Majorize-Minimize Strategy for Subspace Optimization Applied to Image Restoration. IEEE Transactions on Image Processing, Vol. 20, No. 18, pages 1517-1528, juin 2011."
+  abstract: "In the field of 3D image recovery, huge amounts of data need to be processed. Parallel optimization methods are then of main interest since they allow to overcome memory limitation issues, while benefiting from the intrinsic acceleration provided by recent multicore computing architectures. In this context, we propose a Block Parallel Majorize-Minimize Memory Gradient (BP3MG) algorithm for solving  large scale optimization problems. This algorithm combines a block coordinate strategy with an efficient parallel update. The proposed method is applied to a 3D microscopy image restoration problem involving a depth-variant blur, where it  is shown to lead to significant computational time savings with respect to a sequential approach."
 
 - speaker: Jean-Michel Morel
   date: 24 Novembre 2016
