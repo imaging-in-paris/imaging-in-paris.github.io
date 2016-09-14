@@ -33,7 +33,7 @@
   affiliation: Université Paris-Est Marne-La-Vallée
   url: http://www-syscom.univ-mlv.fr/~chouzeno/
   title:  "A Block Parallel Majorize-Minimize Memory Gradient Algorithm"
-  abstract: "In the field of 3D image recovery, huge amounts of data need to be processed. Parallel optimization methods are then of main interest since they allow to overcome memory limitation issues, while benefiting from the intrinsic acceleration provided by recent multicore computing architectures. In this context, we propose a Block Parallel Majorize-Minimize Memory Gradient (BP3MG) algorithm for solving  large scale optimization problems. This algorithm combines a block coordinate strategy with an efficient parallel update. The proposed method is applied to a 3D microscopy image restoration problem involving a depth-variant blur, where it  is shown to lead to significant computational time savings with respect to a sequential approach."
+  abstract: ""
 
 - speaker: Jean-Michel Morel
   date: 24 Novembre 2016
