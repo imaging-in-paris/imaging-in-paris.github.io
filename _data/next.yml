@@ -1,22 +1,3 @@
-- speaker: "Frédéric Champagnat"
-  date: 6 Octobre 2016
-  time: 14h-15h
-  room: 413
-  affiliation: ONERA
-  url: "https://www.researchgate.net/profile/F_Champagnat"
-  title: "Régularisation spatio-temporelle physique pour la mesure de champs de vitesse des fluides"
-  abstract: "La vélocimétrie par imagerie de particules PIV est un outil essentiel d\'investigation de la turbulence ouvrant la voie d\'une analyse Lagrangienne et offrant un moyen d\'accéder à la mesure de pression. Le développement de la PIV haute cadence (dite PIV TR pour \"time resolved\") a permis l\'émergence de nouvelles classes de méthodes reposant sur la cohérence spatio-temporelle des champs de vitesse. Les approches les plus courantes en PIV TR reposent sur un développement de Taylor spatio-temporel du champ de mouvement. L\'exploitation de ces régularités par des outils de régularisation \"générique\" permet déjà de pallier efficacement les défauts de l\'imagerie TR (résolution spatiale limitée, biais liés au repliement spatial). L\'objet de cette présentation est d\'aborder la régularisation physique de ces données qui s\'appuie en l\'espèce sur les équations de Navier-Stokes incompressibles (ou des approximations physiques de ces dernières). Nous donnons d\'abord les principes généraux des méthodes d\'assimilation qui permettent d\'estimer des champs de vitesses respectant strictement Navier-Stokes à partir d\'images PIV TR. Puis nous présentons une alternative originale basée sur une approximation de Navier-Stokes permettant sous certaines hypothèses d\'obtenir un champ résolu en temps à partir d\'une mesure du champ moyen et d\'une mesure ponctuelle résolue en temps. Nous illustrons la capacité d\'amélioration du RSB et de super-résolution de ces méthodes et traçons leurs limites et les voies de recherche en cours. Collaborateurs: R. Yegavian, B. Leclaire, O. Marquet, S. Beneddine, D. Sipp"
-
-
-- speaker: Stephanie Allassonniere
-  date: 6 Octobre 2016
-  time: 15h00-16h00
-  room: 413
-  affiliation: Paris 5
-  url: https://sites.google.com/site/stephanieallassonniere/
-  title: "Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data"
-  abstract: "In this work, we propose a generic hierarchical spatiotemporal model for longitudinal manifold-valued data, which consist in repeated measurements over time for a group of individuals. This model allows us to estimate a group-average trajectory of progression, considered as a geodesic of a given Riemannian manifold. Individual trajectories of progression are obtained as random variations, which consist in parallel shifting and time reparametrization, of the average trajectory. These spatiotemporal transformations allow us to characterize changes in the direction and in the pace at which trajectories are followed. We propose to estimate the parameters of the model using a stochastic version of the expectation-maximization (EM) algorithm, the Monte Carlo Markov Chain Stochastic Approximation EM (MCMC SAEM) algorithm.  This generic spatiotemporal model is used to analyze the temporal progression of a family of biomarkers. This progression model estimates a normative scenario of the progressive impairments of several cognitive functions, considered here as biomarkers, during the course of Alzheimer’s disease. The estimated average trajectory provides a normative scenario of disease progression. Random effects provide unique insights into the variations in the ordering and timing of the succession of cognitive impairments across different individuals."
-
 - speaker: Stéphane Mallat
   date: 3 Novembre 2016
   time: 14h-15h
