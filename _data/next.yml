@@ -1,7 +1,7 @@
 - speaker: Stéphane Mallat
   date: 3 Novembre 2016
   time: 14h-15h
-  room: 413
+  room: 314
   affiliation: "Ecole Normale Superieure"
   url: https://www.di.ens.fr/~mallat/
   title: "Unsupervised Learning and Inverse Problems with Deep Neural Networks"
@@ -10,7 +10,7 @@
 - speaker: Emilie Chouzenoux
   date: 3 Novembre 2016
   time: 15h00-16h00
-  room: 413
+  room: 314
   affiliation: Université Paris-Est Marne-La-Vallée
   url: http://www-syscom.univ-mlv.fr/~chouzeno/
   title:  "A Block Parallel Majorize-Minimize Memory Gradient Algorithm"
@@ -19,7 +19,7 @@
 - speaker: Jean-Michel Morel
   date: 24 Novembre 2016
   time: 14h-15h
-  room: 413
+  room: 314
   affiliation: ENS Cachan
   url: https://sites.google.com/site/jeanmichelmorelcmlaenscachan/
   title: À venir.
@@ -28,7 +28,7 @@
 - speaker: Maureen Clerc
   date: 24 Novembre 2016
   time: 15h-16h
-  room: 413
+  room: 314
   affiliation: INRIA
   url: http://www-sop.inria.fr/members/Maureen.Clerc/index.php
   title: À venir.
@@ -37,7 +37,7 @@
 - speaker: Sandrine Anthoine
   date: 5 Janvier 2017
   time: 15h-16h
-  room: 413
+  room: 314
   affiliation: CNRS et I2M
   url: http://www.i2m.univ-amu.fr/~santhoine/
   title: À venir.
@@ -46,7 +46,7 @@
 - speaker: Caroline Chaux
   date: 2 Février 2017
   time: 15h-16h
-  room: 413
+  room: 314
   affiliation: CNRS et I2M
   url: https://www.i2m.univ-amu.fr/~caroline.chaux/
   title: À venir.
@@ -55,7 +55,7 @@
 - speaker: Valérie Perrier
   date: 2 Mars 2017
   time: 15h-16h
-  room: 413
+  room: 314
   affiliation: LJK
   url: http://www-ljk.imag.fr/membres/Valerie.Perrier/
   title: À venir.
@@ -65,7 +65,7 @@
 - speaker: Julien Tierny
   date: 1er Juin 2017
   time: 15h-16h
-  room: 413
+  room: 314
   affiliation: CNRS et LIP6
   url: http://www-pequan.lip6.fr/~tierny/
   title: À venir.
