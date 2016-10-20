@@ -2,10 +2,10 @@
   date: 3 Novembre 2016
   time: 14h-15h
   room: 413
-  affiliation: ENS
+  affiliation: "Ecole Normale Superieure"
   url: https://www.di.ens.fr/~mallat/
-  title: À venir.
-  abstract: À venir.
+  title: "Unsupervised Learning and Inverse Problems with Deep Neural Networks"
+  abstract: "Deep neural networks have obtained remarkable results to learn generative image models. We show that it opens a new probabilistic framework to define non-Gaussian and non-ergodic random processes, which can be estimated with a reduced number of samples. The mathematics are introduced through multiscale wavelet scattering networks and applied to image and audio textures, but also to standard statistical physics processes such as Ising or stochatic geometry. We explain how such models are applied to inverse problems and super-resolution."
 
 - speaker: Emilie Chouzenoux
   date: 3 Novembre 2016
