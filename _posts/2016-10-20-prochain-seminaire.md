@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Séminaire le 6 Octobre"
+title:      "Séminaire le 3 Novembre"
 subtitle:   "Stéphane Mallat & Emilie Chouzenoux"
 date:       2016-10-20 12:00:00
 author:     "Imaging in Paris"
