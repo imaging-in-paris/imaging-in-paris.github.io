@@ -2,21 +2,21 @@
   date: 3 Novembre 2016
   time: 14h-15h
   room: 314
-  affiliation: "Ecole Normale Superieure"
+  affiliation: Ecole Normale Superieure
   url: https://www.di.ens.fr/~mallat/
-  title: "Unsupervised Learning and Inverse Problems with Deep Neural Networks"
-  abstract: "Deep neural networks have obtained remarkable results to learn generative image models. We show that it opens a new probabilistic framework to define non-Gaussian and non-ergodic random processes, which can be estimated with a reduced number of samples. The mathematics are introduced through multiscale wavelet scattering networks and applied to image and audio textures, but also to standard statistical physics processes such as Ising or stochatic geometry. We explain how such models are applied to inverse problems and super-resolution."
+  title: Unsupervised Learning and Inverse Problems with Deep Neural Networks
+  abstract: Deep neural networks have obtained remarkable results to learn generative image models. We show that it opens a new probabilistic framework to define non-Gaussian and non-ergodic random processes, which can be estimated with a reduced number of samples. The mathematics are introduced through multiscale wavelet scattering networks and applied to image and audio textures, but also to standard statistical physics processes such as Ising or stochatic geometry. We explain how such models are applied to inverse problems and super-resolution.
 
 - speaker: Emilie Chouzenoux
   date: 3 Novembre 2016
-  time: 15h00-16h00
+  time: 15h-16h
   room: 314
   affiliation: Université Paris-Est Marne-La-Vallée
   url: http://www-syscom.univ-mlv.fr/~chouzeno/
-  title:  "A Block Parallel Majorize-Minimize Memory Gradient Algorithm"
-  abstract: "In the field of 3D image recovery, huge amounts of data need to be processed. Parallel optimization methods are then of main interest since they allow to overcome memory limitation issues, while benefiting from the intrinsic acceleration provided by recent multicore computing architectures. In this context, we propose a Block Parallel Majorize-Minimize Memory Gradient (BP3MG) algorithm for solving  large scale optimization problems. This algorithm combines a block coordinate strategy with an efficient parallel update. The proposed method is applied to a 3D microscopy image restoration problem involving a depth-variant blur, where it is shown to lead to significant computational time savings with respect to a sequential approach."
+  title:  A Block Parallel Majorize-Minimize Memory Gradient Algorithm
+  abstract: In the field of 3D image recovery, huge amounts of data need to be processed. Parallel optimization methods are then of main interest since they allow to overcome memory limitation issues, while benefiting from the intrinsic acceleration provided by recent multicore computing architectures. In this context, we propose a Block Parallel Majorize-Minimize Memory Gradient (BP3MG) algorithm for solving  large scale optimization problems. This algorithm combines a block coordinate strategy with an efficient parallel update. The proposed method is applied to a 3D microscopy image restoration problem involving a depth-variant blur, where it is shown to lead to significant computational time savings with respect to a sequential approach.
 
-- speaker: "Frédéric Champagnat"
+- speaker: Frédéric Champagnat
   date: 6 Octobre 2016
   time: 14h-15h
   room: 413
