@@ -13,8 +13,8 @@
   room: 314
   affiliation: INRIA
   url: http://www-sop.inria.fr/members/Maureen.Clerc/index.php
-  title: À venir.
-  abstract: À venir.
+  title: Imaging brain activity
+  abstract: The living human brain is a tremendously complex organ that modern science is striving to better understand. Electroencephalography (EEG) allows to study it non-invasively, at a macroscopic scale. Typically, EEG datasets consist of multi-trial and multi-sensor signals, buried in very strong noise, making information extraction extremely challenging. In this talk I will address brain activity reconstruction and its application to real-time brain activity interpretation for brain-computer interfaces.
 
 - speaker: Sandrine Anthoine
   date: 5 Janvier 2017
