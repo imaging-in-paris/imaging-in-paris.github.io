@@ -18,30 +18,51 @@
 
 - speaker: Sandrine Anthoine
   date: 5 Janvier 2017
-  time: 15h-16h
+  time: 14h-15h
   room: 314
   affiliation: CNRS et I2M
   url: http://www.i2m.univ-amu.fr/~santhoine/
   title: À venir.
   abstract: À venir.
 
+- speaker: Jean-Marie Mirebeau
+  date: 5 Janvier 2017
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS, labo de mathématiques d'Orsay	
+  url: http://www.math.u-psud.fr/~mirebeau/
+  title: Calcul de chemins minimaux avec pénalisation de courbure, via l'algorithme du Fast Marching. Applications en segmentation d'images.
+  abstract: Nous considérons des modèles de plus courts chemins avec pénalisation de courbure, tels que les élasticas d'Euler/Mumford, ou la voiture de Reed-Shepp avec ou sans marche arrière. Pour calculer le chemin d'énérgie minimale joignant deux points donnés, nous approchons ces modèles singuliers à l'aide de métriques Riemanniennes ou Finsleriennes fortement anisotropes sur l'espace produit R^d x S^{d-1}. Les équations eikonales associées sont ensuites résolues via des variantes spécialisées de l'algorithme du Fast-Marching. Nous présentons des applications à la segmentation de structures tubulaires dans les images médicales.
+
+
 - speaker: Caroline Chaux
   date: 2 Février 2017
-  time: 15h-16h
+  time: 14h-15h
   room: 314
   affiliation: CNRS et I2M
   url: https://www.i2m.univ-amu.fr/~caroline.chaux/
   title: À venir.
   abstract: À venir.
 
+- speaker: Simon Masnou
+  date: 2 Février 2017
+  time: 15h-16h
+  room: 314
+  affiliation: Institut Camille Jordan
+  url: http://math.univ-lyon1.fr/homes-www/masnou/
+  title: À venir.
+  abstract: À venir.
+
+
 - speaker: Patrick Perez
   date: 2 Mars 2017
   time: 14h-15h
   room: 314
-  affiliation: LJK
+  affiliation: Technicolor
   url: http://www.technicolor.com/en/patrick-perez
   title: À venir.
   abstract: À venir.
+
 
 - speaker: Valérie Perrier
   date: 2 Mars 2017
@@ -49,6 +70,24 @@
   room: 314
   affiliation: LJK
   url: http://www-ljk.imag.fr/membres/Valerie.Perrier/
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Stéphane Jaffard
+  date: 30 Mars 2017
+  time: 14h-15h
+  room: 201
+  affiliation: LAMA, UPEC
+  url: http://perso-math.univ-mlv.fr/users/jaffard.stephane/
+  title: À venir.
+  abstract: À venir.
+
+- speaker: Nicolas Papadakis
+  date: 30 Mars 2017
+  time: 15h-16h
+  room: 201
+  affiliation: CNRS, IMB  
+  url: https://www.math.u-bordeaux.fr/~npapadak/
   title: À venir.
   abstract: À venir.
 

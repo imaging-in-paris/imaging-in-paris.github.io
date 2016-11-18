@@ -26,6 +26,6 @@ Pour 2016-2017, les dates sont les suivantes :
 - 05 janvier
 - 02 février
 - 02 mars
-- 06 avril
+- 30 mars
 - 04 mai
 - 01 juin
