@@ -1,35 +1,18 @@
-- speaker: Jean-Michel Morel
-  date: 24 Novembre 2016
-  time: 14h-15h
-  room: 314
-  affiliation: ENS Cachan
-  url: https://sites.google.com/site/jeanmichelmorelcmlaenscachan/
-  title: The ego-motion scale space.
-  abstract: This is a joint work with Javier Sánchez Pérez (Universidad de Las Palmas Gran Canaria). We address the homographic stabilization of video. This is the process by which the jitter of a moving camera is being compensated automatically from the video itself, in absence of external calibration information like the  one that would be provided by accelerometers or gyroscopes. I will discuss the various modes to define video stabilization. Then I will display several examples illustrating the visual benefits and inconveniences of stabilization.  It turns out that the filtering process of  the signal produced by the stabilization brings valuable intrinsic information about ego-motion.  This yields what we naturally called ego-motion scale space. Indeed the stabilization signal can be the object of a time-frequency analysis and yield an intrinsic description of the camera motion.
-
-- speaker: Maureen Clerc
-  date: 24 Novembre 2016
-  time: 15h-16h
-  room: 314
-  affiliation: INRIA
-  url: http://www-sop.inria.fr/members/Maureen.Clerc/index.php
-  title: Imaging brain activity
-  abstract: The living human brain is a tremendously complex organ that modern science is striving to better understand. Electroencephalography (EEG) allows to study it non-invasively, at a macroscopic scale. Typically, EEG datasets consist of multi-trial and multi-sensor signals, buried in very strong noise, making information extraction extremely challenging. In this talk I will address brain activity reconstruction and its application to real-time brain activity interpretation for brain-computer interfaces.
-
 - speaker: Sandrine Anthoine
   date: 5 Janvier 2017
   time: 14h-15h
   room: 314
   affiliation: CNRS et I2M
   url: http://www.i2m.univ-amu.fr/~santhoine/
-  title: À venir.
-  abstract: À venir.
+  title: Generalized greedy algorithms
+  abstract: Matching Pursuit or CoSaMP are classical algorithms in signal processing that seek the best $k$-term approximation of a signal on a specified dictionary. Matching Pursuit is greedy in the sense that it chooses the atoms that enter the decomposition one at a time. Its descendants, such as CoSaMP or Subspace Pursuit, do not exactly choose one atom at a time but still aim at pinpointing the support of length $k$ exactly of the solution. By opposition to convex relaxation alternatives, such as $l_1$ penalized solutions, which do not seek an exactly $k$-sparse solution, we generally term Matching Pursuit, and its descendants "greedy". In approximation theory, the notion of "best" approximation is naturally in the sense of the $l_2$ norm. Hence greedy algorithms are designed to find the $k$-sparse element that minimizes the $l_2$ discrepancy. By contrast with convex relaxation, it is not easy to extend their scope to other discrepancies and obtain convergence guarantees. In this work, we propose to extend the scope of four greedy algorithms, Subspace Pursuit, CoSaMP, Orthogonal Matching Pursuit with Replacement and Iterative Hard Thresholding to the problem of findings zeros of operators in a Hilbert space. To do so we design the "Restricted Diagonal Property", which, as the "Restricted Isometry Property" in the classical case, ensures the good behavior of the algorithms. We are thus able for example to use these algorithms to find sparse critical points of functions that are neither convex nor concave. We finally give examples that illustrate the method. This is joint work with F.-X. Dupé (LIF).
+
 
 - speaker: Jean-Marie Mirebeau
   date: 5 Janvier 2017
   time: 15h-16h
   room: 314
-  affiliation: CNRS, labo de mathématiques d'Orsay	
+  affiliation: CNRS, labo de mathématiques d'Orsay
   url: http://www.math.u-psud.fr/~mirebeau/
   title: Calcul de chemins minimaux avec pénalisation de courbure, via l'algorithme du Fast Marching. Applications en segmentation d'images.
   abstract: Nous considérons des modèles de plus courts chemins avec pénalisation de courbure, tels que les élasticas d'Euler/Mumford, ou la voiture de Reed-Shepp avec ou sans marche arrière. Pour calculer le chemin d'énérgie minimale joignant deux points donnés, nous approchons ces modèles singuliers à l'aide de métriques Riemanniennes ou Finsleriennes fortement anisotropes sur l'espace produit R^d x S^{d-1}. Les équations eikonales associées sont ensuites résolues via des variantes spécialisées de l'algorithme du Fast-Marching. Nous présentons des applications à la segmentation de structures tubulaires dans les images médicales.
@@ -86,7 +69,7 @@
   date: 30 Mars 2017
   time: 15h-16h
   room: 201
-  affiliation: CNRS, IMB  
+  affiliation: CNRS, IMB
   url: https://www.math.u-bordeaux.fr/~npapadak/
   title: À venir.
   abstract: À venir.

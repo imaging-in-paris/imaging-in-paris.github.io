@@ -1,3 +1,21 @@
+- speaker: Jean-Michel Morel
+  date: 24 Novembre 2016
+  time: 14h-15h
+  room: 314
+  affiliation: ENS Cachan
+  url: https://sites.google.com/site/jeanmichelmorelcmlaenscachan/
+  title: The ego-motion scale space.
+  abstract: This is a joint work with Javier Sánchez Pérez (Universidad de Las Palmas Gran Canaria). We address the homographic stabilization of video. This is the process by which the jitter of a moving camera is being compensated automatically from the video itself, in absence of external calibration information like the  one that would be provided by accelerometers or gyroscopes. I will discuss the various modes to define video stabilization. Then I will display several examples illustrating the visual benefits and inconveniences of stabilization.  It turns out that the filtering process of  the signal produced by the stabilization brings valuable intrinsic information about ego-motion.  This yields what we naturally called ego-motion scale space. Indeed the stabilization signal can be the object of a time-frequency analysis and yield an intrinsic description of the camera motion.
+
+- speaker: Maureen Clerc
+  date: 24 Novembre 2016
+  time: 15h-16h
+  room: 314
+  affiliation: INRIA
+  url: http://www-sop.inria.fr/members/Maureen.Clerc/index.php
+  title: Imaging brain activity
+  abstract: The living human brain is a tremendously complex organ that modern science is striving to better understand. Electroencephalography (EEG) allows to study it non-invasively, at a macroscopic scale. Typically, EEG datasets consist of multi-trial and multi-sensor signals, buried in very strong noise, making information extraction extremely challenging. In this talk I will address brain activity reconstruction and its application to real-time brain activity interpretation for brain-computer interfaces.
+
 - speaker: Stéphane Mallat
   date: 3 Novembre 2016
   time: 14h-15h
