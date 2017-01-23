@@ -13,8 +13,8 @@
   room: 314
   affiliation: Institut Camille Jordan
   url: http://math.univ-lyon1.fr/homes-www/masnou/
-  title: À venir.
-  abstract: À venir.
+  title: Reconstruction de volume à partir de coupes.
+  abstract: Le problème de reconstruire un volume 3D à partir de coupes 2D est fréquent dans de nombreuses applications en imagerie médicale ou en infographie. La principale difficulté est d'incorporer les contraintes car, en fonction du contexte, on peut parfois vouloir imposer des contraintes strictes, et d'autres fois conserver une certaine liberté en cas de données bruitées ou imprécises. Je présenterai des résultats récents que nous avons obtenus pour ce problème avec Elie Bretin et François Dayrens. Notre approche repose sur un modèle variationnel utilisant un terme de régularisation géométrique (tel que le périmètre ou une énergie faisant intervenir la courbure) couplé à des contraintes de densité pour les coupes. Nous avons démontré que ce modèle peut être bien approché par des énergies régulières à l'aide d'une méthode de champ de phase et nous avons proposé un schéma numérique efficace et précis pour son approximation numérique. Je présenterai les résultats que nous avons obtenus pour des contraintes variées : coupes planaires ou non planaires, parallèles ou non parallèles, surfaciques ou ponctuelles, etc. La méthode peut être étendue à des volumes multiples, ce qui est notamment intéressant pour la reconstruction de données segmentées.
 
 
 - speaker: Patrick Perez
@@ -35,25 +35,6 @@
   url: http://www-ljk.imag.fr/membres/Valerie.Perrier/
   title: À venir.
   abstract: À venir.
-
-- speaker: Stéphane Jaffard
-  date: 30 Mars 2017
-  time: 14h-15h
-  room: 201
-  affiliation: LAMA, UPEC
-  url: http://perso-math.univ-mlv.fr/users/jaffard.stephane/
-  title: À venir.
-  abstract: À venir.
-
-- speaker: Nicolas Papadakis
-  date: 30 Mars 2017
-  time: 15h-16h
-  room: 201
-  affiliation: CNRS, IMB
-  url: https://www.math.u-bordeaux.fr/~npapadak/
-  title: À venir.
-  abstract: À venir.
-
 
 - speaker: Stéphane Jaffard
   date: 30 Mars 2017
