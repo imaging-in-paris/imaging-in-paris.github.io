@@ -1,3 +1,21 @@
+- speaker: Caroline Chaux
+  date: 2 Février 2017
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS et I2M
+  url: https://www.i2m.univ-amu.fr/~caroline.chaux/
+  title: Nonnegative Tensor Factorization using a proximal algorithm, application to 3D fluorescence spectroscopy.
+  abstract: This is a Joint work with Xuan Vu, Nadège Thirion-Moreau and Sylvain Maire (LSIS, Toulon). We address the problem of third order nonnegative tensor factorization with penalization. More precisely, the Canonical Polyadic Decomposition (CPD) is considered. It constitutes a compact and informative model consisting of decomposing a tensor into a minimal sum of rank-one terms.  This multi-linear decomposition has been widely studied in the litterature. Coupled with 3D fluorescence spectroscopy analysis, it has found numerous interesting applications in chemistry, chemometrics, data analysis for the environment, monitoring and so on. The resulting inverse problem at hand is often hard to solve especially when the tensor rank is unknown and when data corrupted by noise and large dimensions are considered. We adopted a variational approach and the factorization problem is thus formulated under a penalized minimization problem.  Indeed, a new penalized nonnegative third order CPD algorithm has been derived based on a block coordinate variable metric forward-backward method. The proposed iterative algorithm have been successfully applied not only to synthetic data (showing its efficiency, robustness and flexibility) but also on real 3D fluorescence spectroscopy data.
+
+- speaker: Simon Masnou
+  date: 2 Février 2017
+  time: 15h-16h
+  room: 314
+  affiliation: Institut Camille Jordan
+  url: http://math.univ-lyon1.fr/homes-www/masnou/
+  title: Reconstruction de volume à partir de coupes.
+  abstract: Le problème de reconstruire un volume 3D à partir de coupes 2D est fréquent dans de nombreuses applications en imagerie médicale ou en infographie. La principale difficulté est d'incorporer les contraintes car, en fonction du contexte, on peut parfois vouloir imposer des contraintes strictes, et d'autres fois conserver une certaine liberté en cas de données bruitées ou imprécises. Je présenterai des résultats récents que nous avons obtenus pour ce problème avec Elie Bretin et François Dayrens. Notre approche repose sur un modèle variationnel utilisant un terme de régularisation géométrique (tel que le périmètre ou une énergie faisant intervenir la courbure) couplé à des contraintes de densité pour les coupes. Nous avons démontré que ce modèle peut être bien approché par des énergies régulières à l'aide d'une méthode de champ de phase et nous avons proposé un schéma numérique efficace et précis pour son approximation numérique. Je présenterai les résultats que nous avons obtenus pour des contraintes variées, coupes planaires ou non planaires, parallèles ou non parallèles, surfaciques ou ponctuelles, etc. La méthode peut être étendue à des volumes multiples, ce qui est notamment intéressant pour la reconstruction de données segmentées.
+
 - speaker: Sandrine Anthoine
   date: 5 Janvier 2017
   time: 14h-15h
