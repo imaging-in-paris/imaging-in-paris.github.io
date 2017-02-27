@@ -5,8 +5,8 @@
   room: 314
   affiliation: Technicolor
   url: http://www.technicolor.com/en/patrick-perez
-  title: À venir.
-  abstract: À venir.
+  title: Signaux sur graphe, du traitement à l'apprentissage.
+  abstract: Motivées par la profusion de signaux intéressants qui sont attachés un graphe (un réseau de transport, un réseau social, un maillage 3D) ou dont la structure interne est bien captée par un graphe entre ses parties (un image, un son), des études visant à étendre aux graphes les outils classiques de la théorie et du traitement des signaux ont vu le jour dans un passé récent. Nous rappellerons les bases de telles extensions, en particulier au moyen de l'analyse spectrale de graphe, pour nous concentrer ensuite sur plusieurs problèmes et applications; (1) L'échantillonnage aléatoire de signaux sur graphe et la reconstruction à partir des échantillons obtenus avec application aux super-pixels d'une image; (2)  L'extraction et la régression de corrections harmoniques de maillages paramétriques avec application à la modélisation de visages; (3) L'unification de traitements locaux et non-locaux de signaux sur graphe au moyen de réseaux convolutifs aléatoires ou appris, avec application au débruitage et à l'édition d'images.
 
 
 - speaker: Valérie Perrier
