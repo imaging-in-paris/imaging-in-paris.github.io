@@ -24,8 +24,8 @@
   room: W (ENS)
   affiliation: UPMC
   url: http://www.lsta.upmc.fr/boyer/
-  title: À venir.
-  abstract: À venir.
+  title: Adapting to unknown noise level in super-resolution.
+  abstract: We study sparse spikes deconvolution over the space of complex-valued measures when the input measure is a finite sum of Dirac masses. We introduce a new procedure to handle the spike deconvolution when the noise level is unknown. Prediction and localization results will be presented for this approach. An insight on the probabilistic tools used in the proofs could be briefly given as well.
 
 - speaker: Nicolas Papadakis
   date: 30 Mars 2017
