@@ -1,3 +1,21 @@
+- speaker: Patrick Perez
+  date: 2 Mars 2017
+  time: 14h-15h
+  room: 314
+  affiliation: Technicolor
+  url: http://www.technicolor.com/en/patrick-perez
+  title: Signaux sur graphe, du traitement à l'apprentissage.
+  abstract: Motivées par la profusion de signaux intéressants qui sont attachés un graphe (un réseau de transport, un réseau social, un maillage 3D) ou dont la structure interne est bien captée par un graphe entre ses parties (un image, un son), des études visant à étendre aux graphes les outils classiques de la théorie et du traitement des signaux ont vu le jour dans un passé récent. Nous rappellerons les bases de telles extensions, en particulier au moyen de l'analyse spectrale de graphe, pour nous concentrer ensuite sur plusieurs problèmes et applications; (1) L'échantillonnage aléatoire de signaux sur graphe et la reconstruction à partir des échantillons obtenus avec application aux super-pixels d'une image; (2)  L'extraction et la régression de corrections harmoniques de maillages paramétriques avec application à la modélisation de visages; (3) L'unification de traitements locaux et non-locaux de signaux sur graphe au moyen de réseaux convolutifs aléatoires ou appris, avec application au débruitage et à l'édition d'images.
+
+- speaker: Valérie Perrier
+  date: 2 Mars 2017
+  time: 15h-16h
+  room: 314
+  affiliation: LJK
+  url: http://www-ljk.imag.fr/membres/Valerie.Perrier/
+  title: Application des ondelettes à divergence nulle pour le transport optimal
+  abstract: "Dans de nombreuses applications, la solution du problème est  un champ de vecteur qui doit vérifier une condition de divergence nulle : c'est le cas des champs de vitesse incompressibles solutions des équations de Navier-Stokes, ou du champ magnétique pour les solutions de Maxwell. Plus récemment, les champs à divergence nulle ont trouvé d'autres applications, comme la compression de champs de vecteur en infographie, ou encore la résolution du transport optimal dans sa formulation dynamique. Dans cet exposé, nous intéressons à la décomposition des champs à divergence nulle vérifiant des conditions aux limites \"physiques\" : pour cela nous introduisons une nouvelle base d'ondelettes à divergence nulle sur le carré ou le cube, qui diagonalise les opérateurs de dérivation. En particulier sur cette base, la complexité pour résoudre un Laplacien-Dirichlet avec condition de divergence nulle est optimale (linéaire). Dans un deuxième temps, nous considérons la formulation du transport optimal dynamique de Benamou-Brenier, que nous reformulons sur un espace de contraintes à divergence nulle. La minimisation de la fonctionnelle est alors effectuée par une descente de gradient sur l'espace des coefficients d'ondelettes à divergence nulle, et uniquement grâce à des décompositions-recompositions sur ondelettes. Ce travail est effectué en collaboration avec Morgane Henri, Souleymane Kadri-Harouna (université de La Rochelle) et Emmanuel Maître."
+
 - speaker: Caroline Chaux
   date: 2 Février 2017
   time: 14h-15h
