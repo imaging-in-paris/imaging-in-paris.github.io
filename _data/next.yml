@@ -13,8 +13,8 @@
   room: W (ENS)
   affiliation: CNRS et Bordeaux 1
   url: https://www.math.u-bordeaux.fr/~npapadak/
-  title: À venir.
-  abstract: À venir.
+  title: Covariant LEAst-Square Re-fitting for image restoration.
+  abstract: We propose a new framework to remove parts of the systematic errors affecting popular restoration algorithms, with a special focus for image processing tasks. Generalizing ideas that emerged for l1 regularization, we develop an approach re-fitting the results of standard methods towards the input data. Total variation regularizations and non-local means are special cases of interest. We identify important covariant information that should be preserved by the re-fitting method, and emphasize the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator. Then, we provide an approach that has a ``twicing'' flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. We illustrate the benefits of our method on numerical simulations for image restoration tasks. Joint work with C.-A. Deledalle (IMBordeaux), J. Salmon (TELECOM ParisTech) and S. Vaiter (IMBourgogne).
 
 - speaker: Stéphane Jaffard
   date: 04 Mai 2017
