@@ -9,19 +9,22 @@ Bienvenu sur le site du Séminaire Parisien des Mathématiques Appliquées à l'
 
 Le but de ce séminaire est de couvrir le domaine des mathématiques de l'imagerie. Il est ouvert à tous. Le séminaire a lieu le premier jeudi de chaque mois à [l'IHP](venir/), de 14h à 16h. Chaque séance est composée de deux exposés.
 
-Vous pouvez consulter la [liste des séminaires à venir](next/) ainsi que celle [des séminaire passés](past/).
+Vous pouvez consulter la [liste des séminaires à venir](next/) ainsi que celle [des séminaire passés](past/). La liste de séminaires antérieurs à septembre 2016 sont disponibles dans le site [SMATI](https://smati.wp.imt.fr/).
+
+Vous pouvez également vous abonner ou désabonner à la [liste de diffusion du séminaire](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris).
 
 
 Organisateurs
 -----
 
-- [Andres Almansa](http://perso.telecom-paristech.fr/~almansa/HomePage/) (CNRS et Telecom-Paris)
+- [Andrés Almansa](http://perso.telecom-paristech.fr/~almansa/HomePage/) (CNRS et Paris 5)
 - [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
 - [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS et ENS Cachan)
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
 - [Bruno Galerne](http://www.math-info.univ-paris5.fr/~bgalerne/) (Paris 5)
-- [Yann Gousseau](http://perso.telecom-paristech.fr/~gousseau/) (Telecom Paris)
+- [Yann Gousseau](http://perso.telecom-paristech.fr/~gousseau/) (Telecom ParisTech)
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS et ENS)
+
 
 Remerciements
 -----
