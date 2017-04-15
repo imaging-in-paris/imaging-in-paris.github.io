@@ -1,3 +1,21 @@
+- speaker: Claire Boyer
+  date: 30 Mars 2017
+  time: 14h-15h
+  room: W (ENS)
+  affiliation: UPMC
+  url: http://www.lsta.upmc.fr/boyer/
+  title: Adapting to unknown noise level in super-resolution.
+  abstract: We study sparse spikes deconvolution over the space of complex-valued measures when the input measure is a finite sum of Dirac masses. We introduce a new procedure to handle the spike deconvolution when the noise level is unknown. Prediction and localization results will be presented for this approach. An insight on the probabilistic tools used in the proofs could be briefly given as well.
+
+- speaker: Nicolas Papadakis
+  date: 30 Mars 2017
+  time: 15h-16h
+  room: W (ENS)
+  affiliation: CNRS et Bordeaux 1
+  url: https://www.math.u-bordeaux.fr/~npapadak/
+  title: Covariant LEAst-Square Re-fitting for image restoration.
+  abstract: We propose a new framework to remove parts of the systematic errors affecting popular restoration algorithms, with a special focus for image processing tasks. Generalizing ideas that emerged for l1 regularization, we develop an approach re-fitting the results of standard methods towards the input data. Total variation regularizations and non-local means are special cases of interest. We identify important covariant information that should be preserved by the re-fitting method, and emphasize the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator. Then, we provide an approach that has a ``twicing'' flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. We illustrate the benefits of our method on numerical simulations for image restoration tasks. Joint work with C.-A. Deledalle (IMBordeaux), J. Salmon (TELECOM ParisTech) and S. Vaiter (IMBourgogne).
+
 - speaker: Patrick Perez
   date: 2 Mars 2017
   time: 14h-15h
