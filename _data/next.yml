@@ -13,8 +13,8 @@
   room: 314
   affiliation: Google & New York University
   url: https://balle.io/
-  title: À venir.
-  abstract: À venir.
+  title: The importance of local gain control.
+  abstract: Local gain control is ubiquitous in biological sensory systems and leads, for example, to masking effects in the visual system. When modeled as an operation known as divisive normalization, it represents an invertible nonlinear transformation, and has several interesting properties useful for image processing. We introduce a generalized version of the transform (GDN), and use it to construct a novel visual quality metric which outperforms MS-SSIM in predicting human distortion assessments. We also show it can be used to Gaussianize image densities, yielding factorized representations, and providing probabilistic image models superior to sparse representations. Finally, we use it to design a simple image compression method, yielding compression quality which is visually close to the state of the art.
 
 
 - speaker: Charles Bouveuyron
