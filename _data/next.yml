@@ -1,30 +1,11 @@
-- speaker: Stéphane Jaffard
-  date: 04 Mai 2017
-  time: 14h-15h
-  room: 314
-  affiliation: Paris Est
-  url: http://perso-math.univ-mlv.fr/users/jaffard.stephane/
-  title: Analyse multifractale pour la classification d'images.
-  abstract: L'analyse multifractale a été introduite à la fin des années 1980 par des physiciens dont le but était de relier les indices de régularité globale d'un signal (la vitesse d'un fluide turbulent), avec la distribution des singularités ponctuelles présentes dans les données. Différentes variantes de la méthode existent, basées sur les sup locaux d'une transformée continue en ondelettes, ou sur la DFA (Detrented Fluctuation Analysis). Nous considérerons d'autres versions, construites à partir des coefficients sur une base orthonormée d'ondelettes.  Nous verrons comment les outils fournis par l'analyse multifractale  peuvent être adaptés à différents types de données; utilisation des ``p-leaders'' (normes \(\ell^p\) locales de coefficients d'odelettes) à la place des 'leaders' (sup locaux de coefficients d'ondelettes) pour des données peu régulières, ou encore ondelettes anisotropes pour l'analyse de textures anisotropes. Nous verrons aussi comment adapter l'analyse quand  les données ne présentent pas d'autosimilarité.  Les exemples illustrant ces méthode seront tirés (en 1D) de  la turbulence, le trafic internet, le rythme cardiaque, les textes littéraires, et (en 2D), des images naturelles, des peintures et des papiers photographiques anciens. En ce qui concerne les textes littéraires et les peintures, nous verrons en quoi ces méthodes permettent de fournir de nouveaux outils en textométrie et en stylométrie.
-
-- speaker: Johannes Ballé
-  date: 04 Mai 2017
-  time: 15h-16h
-  room: 314
-  affiliation: Google & New York University
-  url: https://balle.io/
-  title: The importance of local gain control.
-  abstract: Local gain control is ubiquitous in biological sensory systems and leads, for example, to masking effects in the visual system. When modeled as an operation known as divisive normalization, it represents an invertible nonlinear transformation, and has several interesting properties useful for image processing. We introduce a generalized version of the transform (GDN), and use it to construct a novel visual quality metric which outperforms MS-SSIM in predicting human distortion assessments. We also show it can be used to Gaussianize image densities, yielding factorized representations, and providing probabilistic image models superior to sparse representations. Finally, we use it to design a simple image compression method, yielding compression quality which is visually close to the state of the art.
-
-
-- speaker: Charles Bouveuyron
+- speaker: Charles Bouveyron
   date: 1er Juin 2017
   time: 14h-15h
   room: 314
   affiliation: MAP5 - Université Paris Descartes
   url: http://w3.mi.parisdescartes.fr/~cbouveyr/
-  title: À venir.
-  abstract: À venir.
+  title: High-Dimensional Mixture Models for Unsupervised Image Denoising
+  abstract: This work addresses the problem of patch-based single image denoising through the unsupervised learning of a probabilistic high-dimensional mixture models on the noisy patches. The model, named hereafter HDMI, proposes a full modeling of the process that is supposed to have generated the noisy patches. To overcome the potential estimation problems due to the high dimension of the patches, the HDMI model adopts a parsimonious modeling which assumes that the data live in group-specific subspaces of low dimensionalities. This parsimonious modeling allows in turn to get a numerically stable computation of the conditional expectation of the image which is applied for denoising. The use of such a model also permits to rely on model selection tools, such as BIC, to automatically determine the intrinsic dimensions of the subspaces and the variance of the noise. This yields a blind denoising algorithm that demonstrates state-of-the-art performance, both when the noise level is known and unknown. Joint work with A. Houdard (Télécom ParisTech) and J. Delon (MAP5 - Paris Descartes).
 
 - speaker: Julien Tierny
   date: 1er Juin 2017
