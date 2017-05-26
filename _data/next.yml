@@ -13,6 +13,6 @@
   room: 314
   affiliation: CNRS et LIP6
   url: http://www-pequan.lip6.fr/~tierny/
-  title: À venir.
-  abstract: À venir.
+  title: Topological Data Analysis for Scientific Visualization.
+  abstract: Scientific visualization aims at helping users (i) represent, (ii) explore, and (iii) analyze acquired or simulated geometrical data, for interpretation, validation or communication purposes. Among the existing techniques, algorithms inspired by Morse theory have demonstrated their utility in this context for the efficient and robust extraction of geometrical features, at multiple scales of importance. In this talk, I will give a brief tutorial on the topological methods used in scientific visualization for the analysis of scalar data. I will present algorithms with practical efficiency for the computation of topological abstractions (Reeb graphs, Morse-Smale complexes, persistence diagrams, etc.) in low dimensions (typically 2 or 3). I will also illustrate these notions with concrete use cases in astrophysics, fluid dynamics, molecular chemistry or combustion. I will also present the "Topology ToolKit" (topology-tool-kit.github.io), a recently released open-source library for topological data analysis, which implements most of the algorithms described above. I will give a brief usage tutorial, both for end-users and developers. I will also describe how easily it can be extended to disseminate research code. Finally,I will discuss perspectives, both from a research and implementation point of view.
 
