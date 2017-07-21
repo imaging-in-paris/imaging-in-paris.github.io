@@ -1,18 +1,2 @@
-- speaker: Charles Bouveyron
-  date: 1er Juin 2017
-  time: 14h-15h
-  room: 314
-  affiliation: MAP5 - Université Paris Descartes
-  url: http://w3.mi.parisdescartes.fr/~cbouveyr/
-  title: High-Dimensional Mixture Models for Unsupervised Image Denoising
-  abstract: This work addresses the problem of patch-based single image denoising through the unsupervised learning of a probabilistic high-dimensional mixture models on the noisy patches. The model, named hereafter HDMI, proposes a full modeling of the process that is supposed to have generated the noisy patches. To overcome the potential estimation problems due to the high dimension of the patches, the HDMI model adopts a parsimonious modeling which assumes that the data live in group-specific subspaces of low dimensionalities. This parsimonious modeling allows in turn to get a numerically stable computation of the conditional expectation of the image which is applied for denoising. The use of such a model also permits to rely on model selection tools, such as BIC, to automatically determine the intrinsic dimensions of the subspaces and the variance of the noise. This yields a blind denoising algorithm that demonstrates state-of-the-art performance, both when the noise level is known and unknown. Joint work with A. Houdard (Télécom ParisTech) and J. Delon (MAP5 - Paris Descartes).
 
-- speaker: Julien Tierny
-  date: 1er Juin 2017
-  time: 15h-16h
-  room: 314
-  affiliation: CNRS et LIP6
-  url: http://www-pequan.lip6.fr/~tierny/
-  title: Topological Data Analysis for Scientific Visualization.
-  abstract: Scientific visualization aims at helping users (i) represent, (ii) explore, and (iii) analyze acquired or simulated geometrical data, for interpretation, validation or communication purposes. Among the existing techniques, algorithms inspired by Morse theory have demonstrated their utility in this context for the efficient and robust extraction of geometrical features, at multiple scales of importance. In this talk, I will give a brief tutorial on the topological methods used in scientific visualization for the analysis of scalar data. I will present algorithms with practical efficiency for the computation of topological abstractions (Reeb graphs, Morse-Smale complexes, persistence diagrams, etc.) in low dimensions (typically 2 or 3). I will also illustrate these notions with concrete use cases in astrophysics, fluid dynamics, molecular chemistry or combustion. I will also present the "Topology ToolKit" (topology-tool-kit.github.io), a recently released open-source library for topological data analysis, which implements most of the algorithms described above. I will give a brief usage tutorial, both for end-users and developers. I will also describe how easily it can be extended to disseminate research code. Finally,I will discuss perspectives, both from a research and implementation point of view.
 

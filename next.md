@@ -18,14 +18,14 @@ Liste des séminaires à venir :
 {% endfor %}
 
 
-Pour 2016-2017, les dates sont les suivantes :
+Pour 2017-2018, les dates sont les suivantes :
 
-- 06 octobre
-- 03 novembre
-- 24 novembre
-- 05 janvier
-- 02 février
-- 02 mars
-- 30 mars
-- 04 mai
-- 01 juin
+- jeudi 5 octobre : Salle 314
+- jeudi 9 novembre : Salle 314
+- jeudi 7 décembre : Salle 201 
+- jeudi 11 janvier : Salle 314
+- jeudi 8 février : Salle 314
+- jeudi 8 mars : Salle 314
+- jeudi 5 avril : Salle 314
+- jeudi 3 mai : Salle 314
+- jeudi 7 juin : Salle 314
