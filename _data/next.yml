@@ -21,11 +21,15 @@
   affiliation: ONERA \& CMLA - ENS Paris Saclay
   url: https://sites.google.com/view/paulinetan
   title: Alternating proximal gradient descent for nonconvex regularised problems with biconvex and multiconvex coupling terms
-  abstract: "|
+  abstract: "
   There is an increasing interest in nonconvex regularized block biconvex / multiconvex optimization problems, especially after the very successful schemes proposed by Xu and Yin in 2013, followed by many works. These schemes are based on alternate proximal linearized gradient descent where the proximity operators are computed with respect to simple regularization terms.
+  
   In this talk, we address a very wide class of nonconvex regularized block biconvex / multiconvex optimization problems where the coupling term is smooth and multiconvex and the (non)convex regularizers are smooth on the domain of the objective function. We propose a simple algorithm that successfully exploits the multiconvex structure of the coupling term. We use alternate proximal linearized gradient descent where the proximity operators are taken with respect to coupling term. This is the main factor for the simplicity of the algorithm where iterates are always uniquely defined and for the possibility to use rich application-dependent regularization terms.
+
   Global convergence of the algorithm to a critical point is proved using the so-called Kurdyka-Lojasiewicz property for subanalytic functions. In particular, we prove that a large class of useful objective functions obeying our assumptions are subanalytic and thus enjoy the KL property. 
+
   I will also present two particular applications of the algorithm to big-data air-born sequences of images, which are already used by our industrial partner ONERA.
+
   This is a joint work with Mila Nikolova (CMLA, CNRS, ENS Paris-Saclay)."
 
   
