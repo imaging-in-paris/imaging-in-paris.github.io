@@ -4,7 +4,12 @@
   room: 314
   affiliation: MIP - Université Paul Sabatier, Toulouse
   url: https://www.math.univ-toulouse.fr/~fmalgouy/
-  title: TBA
+  title: Stable recovery of the factors from a deep matrix product and application to convolutional network
+  abstract: "We study a deep matrix factorization problem. It takes as input a matrix $X$ obtained by multiplying $K$ matrices (called factors). Each factor is obtained by applying a fixed linear operator to a short vector of parameters satisfying a model (for instance sparsity, grouped sparsity, non-negativity, constraints defining a convolution network\ldots). We call the problem deep or multi-layer because the number of factors is not limited. In the practical situations we have in mind, we can typically have $K=10$ or $100$. This work aims at identifying  conditions on the structure of the model that guarantees the stable recovery of the factors from the knowledge of $X$ and the model for the factors.
+
+We provide necessary and sufficient conditions for the identifiability of the factors (up to a scale rearrangement). We also provide a necessary and sufficient condition called Deep Null-Space-Property (because of the analogy with the usual Null Space Property in the compressed sensing framework) which guarantees that even an inaccurate optimization algorithm for  the factorization stably recovers the factors. 
+
+We illustrate the theory with a practical example where the deep factorization is a linear convolutional network."
 
 - speaker: Fabien Pierre
   date: 5 Octobre 2017
