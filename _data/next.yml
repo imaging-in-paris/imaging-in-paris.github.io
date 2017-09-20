@@ -13,7 +13,8 @@
   room: 314
   affiliation: LORIA - Université de Lorraine
   url: http://www.fabienpierre.fr/
-  title: TBA
+  title: Colorisation de vidéos, de l'état-de-l'art aux débouchés industriels
+  abstract: La colorisation d'image est un problème extrêmement mal posé mais qui intéresse l'industrie du divertissement. Ce double point de vue en fait un sujet très attractif. Dans cet exposé, on présentera l'état de l'art et les méthodes qui ont été développées par l'orateur pendant sa thèse. Celles-ci reposent sur des approches non-locales et variationnelles. Les fonctionnelles utilisées sont non-lisses et non-convexes et ont fait l'objet de techniques de minimisation originales. Cela a permis d'implémenter un logiciel expérimental qui associe l'utilisateur à une approche basée-exemple ce qui donne une méthode efficace, flexible et rapide. Une extension à la vidéo est proposée, dont l'implémentation en GPU permet une interactivité de l'approche variationnelle avec l'utilisateur. Néanmoins, celle-ci n'est pas opérationnelle aux yeux d'experts du milieu de la colorisation. En vue de se conformer à ces besoins, quelques pistes seront proposées.
 
 - speaker: Pauline Tan  
   date: 9 Novembre 2017
