@@ -1,48 +1,34 @@
 ---
 layout: page
 title: "Imaging in Paris"
-description: "Séminaire Parisien des Mathématiques Appliquées à  l'Imagerie"
+description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
 
-Bienvenu sur le site du Séminaire Parisien des Mathématiques Appliquées à l'Imagerie.
+This website is the home for the IHP semester "Imaging in Paris" that will take place between January to April 2019.
 
-Le but de ce séminaire est de couvrir le domaine des mathématiques de l'imagerie. Il est ouvert à tous. Le séminaire a lieu le premier jeudi de chaque mois à [l'IHP](venir/), de 14h à 16h. Chaque séance est composée de deux exposés.
+You can also access [the monthly seminar website from here](seminar/).
 
-Vous pouvez consulter la [liste des séminaires à venir](next/) ainsi que celle [des séminaire passés](past/). La liste de séminaires antérieurs à septembre 2016 sont disponibles dans le site [SMATI](https://smati.wp.imt.fr/).
+Conferences
+-------------
 
-Vous pouvez également vous abonner ou désabonner à la [liste de diffusion du séminaire](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris).
+All the conferences will take place at IHP. Registration is mandatory (more information soon).
 
+- _Variational methods and optimization in imaging_, February 4th-8th  2019.
+- _Statistical Modeling for Shapes and Imaging_, March 11th-15th 2019.
+- _Imaging and machine learning_, April 1st-5th 2019.
 
-Organisateurs
------
+CIRM pre-school
+-------------
 
-- [Andrés Almansa](http://perso.telecom-paristech.fr/~almansa/HomePage/) (CNRS et Paris 5)
-- [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
-- [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS et ENS Cachan)
-- [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
-- [Bruno Galerne](http://www.math-info.univ-paris5.fr/~bgalerne/) (Paris 5)
-- [Yann Gousseau](http://perso.telecom-paristech.fr/~gousseau/) (Telecom ParisTech)
-- [Gabriel Peyré](http://www.gpeyre.com) (CNRS et ENS)
+January 7-11th 2019, [CIRM](http://www.cirm-math.fr/) pre-school for PhD students and postdocs.
 
+Monthly seminar on imaging sciences
+-------------
 
-Remerciements
------
+More [information here](seminar/).
 
-Le séminaire est hébergé par [l'IHP](http://www.ihp.fr), et est labélisé par le groupe [SIGMA](http://smai.emath.fr/spip.php?article406) de la SMAI et le [GdR MIA](gdr-mia.math.cnrs.fr).
+High-school and general audience activity
+-------------
 
-<p align="center">
-
-<a href="http://www.ihp.fr">
-<img width="150" src="img/logo-ihp.jpg"/>
-</a>
-
-<a href="http://smai.emath.fr/spip.php?article406">
-<img width="150" src="img/logo-sigma.jpg"/>
-</a>
-
-<a href="https://fadili.users.greyc.fr/mia/">
-<img width="150" src="img/logo-mia.jpg"/>
-</a>
-
-</p>
+More information soon.
