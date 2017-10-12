@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""The Mathematics of Imaging"
+title: "The Mathematics of Imaging"
 description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
