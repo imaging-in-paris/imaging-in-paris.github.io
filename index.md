@@ -42,3 +42,37 @@ Organizers
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
 - [Bruno Galerne](http://www.math-info.univ-paris5.fr/~bgalerne/) (Paris 5)
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS)
+
+
+Sponsors
+-----
+
+<p align="center">
+
+<a href="http://www.ihp.fr">
+<img width="120" src="../img/logo-ihp.jpg"/>
+</a>
+
+<a href="http://www.cnrs.fr/">
+<img width="150" src="../img/logo-cnrs.jpg"/>
+</a>
+
+<a href="http://www.u-psud.fr/fr/index.html">
+<img width="150" src="../img/logo-paris-sud.jpg"/>
+</a>
+
+<a href="https://www.sciencesmaths-paris.fr/">
+<img width="150" src="../img/logo-fsmp.jpg"/>
+</a>
+
+<a href="http://www.upmc.fr/">
+<img width="150" src="../img/logo-upmc.jpg"/>
+</a>
+
+<a href="https://www.cimpa.info/">
+<img width="150" src="../img/logo-cimpa.jpg"/>
+</a>
+
+
+
+</p>
