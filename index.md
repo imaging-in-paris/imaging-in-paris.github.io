@@ -59,7 +59,9 @@ Sponsors
 
 <a href="http://www.u-psud.fr/fr/index.html">
 <img width="150" src="../img/logo-paris-sud.png"/>
-</a>&nbsp;&nbsp;
+</a>
+
+<br/>
 
 <a href="https://www.sciencesmaths-paris.fr/">
 <img width="150" src="../img/logo-fsmp.png"/>
