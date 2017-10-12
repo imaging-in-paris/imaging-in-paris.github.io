@@ -51,23 +51,23 @@ Sponsors
 
 <a href="http://www.ihp.fr">
 <img width="120" src="../img/logo-ihp.jpg"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="http://www.cnrs.fr/">
-<img width="150" src="../img/logo-cnrs.png"/>
-</a>
+<img width="120" src="../img/logo-cnrs.png"/>
+</a>&nbsp;&nbsp;
 
 <a href="http://www.u-psud.fr/fr/index.html">
 <img width="150" src="../img/logo-paris-sud.png"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.sciencesmaths-paris.fr/">
 <img width="150" src="../img/logo-fsmp.png"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="http://www.upmc.fr/">
 <img width="150" src="../img/logo-upmc.png"/>
-</a>
+</a>&nbsp;&nbsp;
 
 <a href="https://www.cimpa.info/">
 <img width="150" src="../img/logo-cimpa.png"/>
