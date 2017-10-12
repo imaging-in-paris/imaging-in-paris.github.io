@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Imaging in Paris"
+title: ""The Mathematics of Imaging"
 description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
@@ -32,3 +32,13 @@ High-school and general audience activity
 -------------
 
 More information soon.
+
+Organizers
+-----
+
+- [Jean-François Aujol](https://www.math.u-bordeaux.fr/~jaujol/) (Bordeaux).
+- [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
+- [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS and ENS Cachan)
+- [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
+- [Bruno Galerne](http://www.math-info.univ-paris5.fr/~bgalerne/) (Paris 5)
+- [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS)
