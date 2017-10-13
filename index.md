@@ -5,7 +5,7 @@ description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
 
-This website is the home for the IHP semester "Imaging in Paris" that will take place between January to April 2019.
+This website is the home for the IHP semester "The Mathematics of Imaging" that will take place between January to April 2019.
 
 You can also access [the monthly seminar website from here](seminar/).
 
