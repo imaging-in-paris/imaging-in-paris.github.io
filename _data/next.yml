@@ -41,7 +41,8 @@
   room: 314
   affiliation: CNRS, INRIA Lille, Université de Lille
   url: http://chercheurs.lille.inria.fr/ekaufman
-  title: TBA
+  title: A tutorial on Multi-Armed Bandit problems, Theory and Practice
+  abstract: A Multi-Armed Bandit (MAB) model is a simple framework in which an agent sequentially sample arms, that are unknown probability distributions, in order to learn something about these underlying distributions, possibly under the constraint of maximizing some notion of reward. Stochastic MABs have been introduced in the 1930s as a simple model for clinical trials, and are widely studied nowadays for several applications, that range from sequential content optimization, cognitive radios or the design of AI for games. In this introduction to MAB, we will review existing (efficient) algorithms to either achieve an exploration/exploitation trade-off or to optimally explore a simple, i.i.d., stochastic environment. We will then see how these algorithms can be extended to deal with more realistic applications.
 
 - speaker: Irene Kaltenmark  
   date: 7 décembre 2017
