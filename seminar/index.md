@@ -5,16 +5,16 @@ description: "Parisian Seminar on the Mathematics of Imaging"
 header-img: "../img/paris1.png"
 ---
 
-Welcome on the website of the Parisian Seminar on the Mathematics of Imaging.
+Welcome on the website of the Paris Seminar on the Mathematics of Imaging.
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place the first thursday of each month at [IHP](../venir/), from 14:00 to 16:00. Each seminar is composed of two presentation.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place the first Thursday of each month at [IHP](../venir/), from 14:00 to 16:00. Each seminar is composed of two presentations.
 
-You can access the list of [past seminar](past/). The list of seminar prior to sept. 2016 is available on the website  [SMATI](https://smati.wp.imt.fr/).
+You can access the list of [past seminars](past/). The list of seminars prior to sept. 2016 is available on the website  [SMATI](https://smati.wp.imt.fr/).
 
 You can also subscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris).
 
 
-Next seminars
+Upcoming seminars
 -----
 
 {% for oneitem in site.data.next %}
@@ -44,7 +44,7 @@ Dates for 2017-2018
 Organizers
 -----
 
-- [Andrés Almansa](http://perso.telecom-paristech.fr/~almansa/HomePage/) (CNRS and Paris 5)
+- [Andrés Almansa](http://perso.telecom-paristech.fr/~almansa/) (CNRS and Paris 5)
 - [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
 - [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS and ENS Cachan)
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
