@@ -1,3 +1,26 @@
+- speaker: Pauline Tan  
+  date: 9 Novembre 2017
+  time: 14h-15h
+  room: 314
+  affiliation: ONERA \& CMLA - ENS Paris Saclay
+  url: https://sites.google.com/view/paulinetan
+  title: Alternating proximal gradient descent for nonconvex regularised problems with biconvex and multiconvex coupling terms
+  abstract: "
+  There has been an increasing interest in constrained nonconvex  regularized block biconvex / multiconvex optimization problems. We introduce an  approach that effectively exploits the biconvex / multiconvex structure of the coupling term and enables complex application-dependent regularization terms to be used.The proposed ASAP algorithm enjoys simple well defined updates. Global convergence of the algorithm to a critical point is proved using the so-called Kurdyka-Lojasiewicz  property for subanalytic functions. Moreover, we prove that a large class of useful objective functions obeying our assumptions are subanalytic and thus satisfy the Kurdyka-Lojasiewicz property. I will also present two particular applications of the algorithm to big-data air-born sequences of images, which are already used by our industrial partner ONERA. 
+
+This is a joint work with Mila Nikolova (CMLA, CNRS, ENS Paris-Saclay). "
+
+  
+- speaker: Emilie Kaufmann 
+  date: 9 Novembre 2017
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS, INRIA Lille, Université de Lille
+  url: http://chercheurs.lille.inria.fr/ekaufman
+  title: A tutorial on Multi-Armed Bandit problems, Theory and Practice
+  abstract: A Multi-Armed Bandit (MAB) model is a simple framework in which an agent sequentially sample arms, that are unknown probability distributions, in order to learn something about these underlying distributions, possibly under the constraint of maximizing some notion of reward. Stochastic MABs have been introduced in the 1930s as a simple model for clinical trials, and are widely studied nowadays for several applications, that range from sequential content optimization, cognitive radios or the design of AI for games. In this introduction to MAB, we will review existing (efficient) algorithms to either achieve an exploration/exploitation trade-off or to optimally explore a simple, i.i.d., stochastic environment. We will then see how these algorithms can be extended to deal with more realistic applications.
+
+
 - speaker: François Malgouyres
   date: 5 Octobre 2017
   time: 14h-15h
