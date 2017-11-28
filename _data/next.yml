@@ -21,3 +21,20 @@ tailored to the genome of patients. This field depends on collecting considerabl
 Unfortunately, we still lack effective methods to reliably detect, from
 this data, which of the genomic features determine a phenotype such as disease predisposition or response to treatment. One of the major issues is that the number of features that can be measured is large (easily reaching tens of millions) with respect to the number of samples for which they can be collected (more usually of the order of hundreds or thousands), posing both computational and statistical difficulties.
 In my talk I will discuss several ways to use constraints on the feature selection procedure to address this problem."
+
+- speaker: Nelly Pustelnik
+  date: 08 mars 2018
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, Laboratoire de Physique - CNRS UMR 5672 -- ENS Lyon
+  url: http://perso.ens-lyon.fr/nelly.pustelnik/
+  title: ""
+
+- speaker: Rémi Gribonval
+  date: 03 mai 2018
+  time: 14h-15h
+  room: 314
+  affiliation: INRIA Rennes, équipe-projet PANAMA  
+  url: http://people.irisa.fr/Remi.Gribonval/
+  title: ""
+
