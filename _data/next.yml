@@ -35,8 +35,8 @@ In my talk I will discuss several ways to use constraints on the feature selecti
   date: 08 février 2018
   time: 14h-15h
   room: 314
-  affiliation:  SIERRA team, INRIA / Ecole Normale Supérieure
-  url: https://lchizat.github.io   /  https://audeg.github.io
+  affiliation:  
+  url: 
   title: ""
 
 - speaker: Nelly Pustelnik
@@ -47,7 +47,7 @@ In my talk I will discuss several ways to use constraints on the feature selecti
   url: http://perso.ens-lyon.fr/nelly.pustelnik/
   title: ""
 
-- speaker:Barbara Gris
+- speaker: Barbara Gris
   date: 08 mars 2018
   time: 15h-16h
   room: 314
