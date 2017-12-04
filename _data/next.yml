@@ -22,6 +22,23 @@ Unfortunately, we still lack effective methods to reliably detect, from
 this data, which of the genomic features determine a phenotype such as disease predisposition or response to treatment. One of the major issues is that the number of features that can be measured is large (easily reaching tens of millions) with respect to the number of samples for which they can be collected (more usually of the order of hundreds or thousands), posing both computational and statistical difficulties.
 In my talk I will discuss several ways to use constraints on the feature selection procedure to address this problem."
 
+
+- speaker: Edouard Oyallon
+  date: 11 janvier 2018
+  time: 14h-15h
+  room: 314
+  affiliation: 
+  url: 
+  title: ""
+
+- speaker: Lénaïc Chizat et Aude Genevay
+  date: 08 février 2018
+  time: 14h-15h
+  room: 314
+  affiliation:  SIERRA team, INRIA / Ecole Normale Supérieure
+  url: https://lchizat.github.io   /  https://audeg.github.io
+  title: ""
+
 - speaker: Nelly Pustelnik
   date: 08 mars 2018
   time: 14h-15h
@@ -30,8 +47,16 @@ In my talk I will discuss several ways to use constraints on the feature selecti
   url: http://perso.ens-lyon.fr/nelly.pustelnik/
   title: ""
 
+- speaker:Barbara Gris
+  date: 08 mars 2018
+  time: 15h-16h
+  room: 314
+  affiliation: KTH Royal Institute of Technology in Stockholm 
+  url: http://gris.perso.math.cnrs.fr/fr/
+  title: ""
+
 - speaker: Rémi Gribonval
-  date: 03 mai 2018
+  date: 05 avril 2018
   time: 14h-15h
   room: 314
   affiliation: INRIA Rennes, équipe-projet PANAMA  
