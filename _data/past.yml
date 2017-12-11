@@ -1,3 +1,27 @@
+- speaker: Irene Kaltenmark
+  date: 7 décembre 2017
+  time: 14h-15h
+  room: 201
+  affiliation: Institut de Neurosciences de La Timone - Université d'Aix-Marseille
+  url: https://sites.google.com/site/irenekaltenmark/
+  title: Modèles géométriques de croissance en anatomie computationnelle
+  abstract: L’utilisation de groupes de difféomorphismes agissant sur des ensembles de formes, équipant ces derniers d’une structure riemannienne, s’est avérée extrêmement efficace pour modéliser et analyser la variabilité de populations de formes issues de données d’imagerie médicale. Néanmoins, à l'intégration de l'analyse longitudinale des données, ont émergé des phénomènes biologiques de croissance ou de dégénérescence se manifestant par des déformations de nature non difféomorphique. La croissance d'un organisme par adjonction progressive et localisée de nouvelles molécules, à l’instar d’un processus de cristallisation, ne s'apparente pas à un simple étirement du tissu initial. Face à cette observation, nous proposons de garder l'esprit géométrique qui fait la puissance des approches difféomorphiques dans les espaces de formes mais en introduisant un concept assez général de déploiement où l'on modélise les phénomènes de croissance comme le déploiement optimal progressif d’une forme préalablement repliée dans une région de l'espace. À la question délicate de la caractérisation des appariements partiels modélisant le déploiement de la forme, nous répondons par un système de coordonnées biologiques évolutif et nous aboutissons finalement à un nouveau problème de contrôle optimal pour l'assimilation de données de surfaces évoluant dans le temps et représentées par des courants ou des varifolds.
+
+- speaker: Chloé-Agathe Azencott
+  date: 7 décembre 2017
+  time: 15h-16h
+  room: 201
+  affiliation: CBIO -- Institut Mines-ParisTech, Institut Curie \& INSERM
+  url: http://cazencott.info/
+  title: "Structured feature selection in high dimension for precision medicine"
+  abstract: "Differences in disease predisposition or response to treatment can be
+explained in great part by genomic differences between individuals. This
+realization has given birth to precision medicine, where treatment is
+tailored to the genome of patients. This field depends on collecting considerable amounts of molecular data for large numbers of individuals, which is being enabled by thriving developments in genome sequencing and other high-throughput experimental technologies.
+Unfortunately, we still lack effective methods to reliably detect, from
+this data, which of the genomic features determine a phenotype such as disease predisposition or response to treatment. One of the major issues is that the number of features that can be measured is large (easily reaching tens of millions) with respect to the number of samples for which they can be collected (more usually of the order of hundreds or thousands), posing both computational and statistical difficulties.
+In my talk I will discuss several ways to use constraints on the feature selection procedure to address this problem."
+
 - speaker: Pauline Tan  
   date: 9 Novembre 2017
   time: 14h-15h
