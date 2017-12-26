@@ -3,9 +3,17 @@
   time: 14h-15h
   room: 314
   affiliation: 
-  url: 
+  url:
   title: ""
 
+- speaker: Arthur Leclaire
+  date: 11 janvier 2018
+  time: 15h-16h
+  room: 314
+  affiliation: CMLA, ENS Paris-Saclay 
+  url: http://www.math-info.univ-paris5.fr/~aleclair/
+  title: "Semi-discrete optimal transport in patch space for structured texture synthesis"
+  
 - speaker: Lénaïc Chizat 
   date: 08 février 2018
   time: 14h-15h
