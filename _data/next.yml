@@ -13,7 +13,8 @@
   affiliation: CMLA, ENS Paris-Saclay 
   url: http://www.math-info.univ-paris5.fr/~aleclair/
   title: "Semi-discrete optimal transport in patch space for structured texture synthesis"
-  
+  abstract: "In this talk we address exemplar-based texture synthesis using a model obtained as a local transform of a Gaussian random field. The local transformation is designed to solve a semi-discrete optimal transport problem in the patch space in order to reimpose the patch distribution of the exemplar texture. Since the patch space is high-dimensional, the optimal transport problem is solved with a stochastic optimization procedure. The resulting model inherits several benefits of the Gaussian model (stationarity, mid-range correlations) with an additional statistical guarantee on the patch distribution. We will also propose a multiscale extension of this model, which allows to synthesize structured textures with low requirements in terms of time and memory storage."
+
 - speaker: Lénaïc Chizat 
   date: 08 février 2018
   time: 14h-15h
