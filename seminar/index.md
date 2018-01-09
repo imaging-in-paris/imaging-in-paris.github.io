@@ -38,7 +38,7 @@ Dates for 2017-2018
 - thursday 8 march: Salle 314
 - thursday 5 april: Salle 314
 - thursday 3 may: Salle 314
-- thursday 7 june: Salle 314
+- thursday 14 june: Salle 314 (to be confirmed)
 
 
 Organizers
