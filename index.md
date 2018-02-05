@@ -18,10 +18,10 @@ All the conferences will take place at IHP. Registration is mandatory (more info
 - _Statistical Modeling for Shapes and Imaging_, March 11th-15th 2019.
 - _Imaging and machine learning_, April 1st-5th 2019.
 
-CIRM pre-school
+[CIRM pre-school](semester2019/school)
 -------------
 
-January 7-11th 2019, [CIRM](http://www.cirm-math.fr/) pre-school for PhD students and postdocs.
+January 7-11th 2019, [CIRM  pre-school for PhD students and postdocs](semester2019/school).
 
 Monthly seminar on imaging sciences
 -------------
