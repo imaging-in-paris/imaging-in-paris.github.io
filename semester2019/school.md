@@ -9,6 +9,11 @@ This Winter school is intended to be a pre-school for the  [thematic trimester](
 
 This pre-school will take place at the [CIRM](http://www.cirm-math.fr/) (Centre International de Rencontres Mathématiques), Marseille, the week January 7-11, 2019.
 
+Pre-registration
+-------------
+
+You can pre-register on the [CIRM website of the school](https://conferences.cirm-math.fr/1993.html).
+
 Program of the school
 -------------
 
