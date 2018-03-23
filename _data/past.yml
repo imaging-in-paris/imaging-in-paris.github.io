@@ -1,3 +1,21 @@
+- speaker: Nelly Pustelnik
+  date: 08 mars 2018
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, Laboratoire de Physique - CNRS UMR 5672 -- ENS Lyon
+  url: http://perso.ens-lyon.fr/nelly.pustelnik/
+  title: "Analyse multirésolution et optimisation non lisse pour la segmentation de texture"
+  abstract: "La segmentation d'images texturées continue de présenter un challenge majeur en traitement d'images quand les textures rencontrées sont de type stochastiques. Dans cet exposé, nous aborderons cette question par le couplage entre analyse multirésolution et outils d’optimisation non lisse. Nous présenterons d'une part les approches usuelles en deux temps estimation/segmentation puis nous expliciterons les modèles développés permettant d'effectuer les deux étapes de façon jointe. D'autre part, nous nous intéresserons à affiner ces procédures de segmentation de textures d'un point de vue algorithmique pour obtenir des méthodes à faible coût calculatoire de façon à évaluer les performances des outils développés sur les grands volumes de données tels que ceux rencontrés dans l’étude de la dynamique des écoulements multiphasiques dans des milieux poreux."
+
+- speaker: Barbara Gris
+  date: 08 mars 2018
+  time: 15h-16h
+  room: 314
+  affiliation: KTH Royal Institute of Technology in Stockholm
+  url: http://gris.perso.math.cnrs.fr/fr/
+  title: "Reconstruction d'image à l'aide d'un a priori de déformation"
+  abstract: "La tomographie est une technique d'imagerie médicale qui consiste à reconstruire le volume d’un objet à partir de ses projections. Lorsque l'acquisition des données est longue, le sujet peut effectuer des mouvements (par exemple respiratoires) qui provoquent des artefacts dans l'image reconstruite. Le modèle que je propose a pour but de tenir compte des mouvements possibles afin d'aider à la reconstruction de l'image. Une première étape est de reconstruire  cette image comme déformation d'une image template supposée connue, tout en incorporant un a priori dans les déformations possibles. Je présenterai la notion de module de déformation et montrerai comment elle permet de contraindre les déformations à respecter une certaine structure (donnée par exemple des contraintes physiques) tout en laissant certains paramètres libres afin qu'elles puissent s'adapter aux données."
+
 - speaker: Lénaïc Chizat
   date: 08 février 2018
   time: 14h-15h

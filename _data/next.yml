@@ -30,7 +30,9 @@
   room: 314
   affiliation: CMAP, Ecole Polytechnique
   url: http://lucacalatroni.weebly.com/
-  title: ""
+  title: "A variational model for mixed noise removal: analysis, optimisation and structure of solutions"
+  abstract: "In several real-word imaging applications such as microscopy, astronomy and medical imaging, a combination of transmission and acquisition faults result in multiple noise statistics in the observed image, such as impulsive/Gaussian or Gaussian/Possion mixtures.  By means of a joint MAP estimation, we derive a statistically consistent variational model where single data fidelities are combined in a handy infimal convoution fashion to model the noise mixture and separated from each other via a Total Variation smoothing. By means of a fine analysis in suitable function spaces, we then study the structure of the solutions of the corresponding variational model and propose a bilevel optimisation strategy for the estimation of the optimal regularisation weights.
+This is joint work with C.B. Schönlieb (University of Cambridge, UK), J.C. De Los Reyes (ModeMat, Quito, Ecuador)  and K. Papafitsoros (WIAS Institue, Berlin, Germany)."
 
 
 - speaker: Guillaume Charpiat
