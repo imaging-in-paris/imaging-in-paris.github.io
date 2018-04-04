@@ -7,7 +7,7 @@ header-img: "../img/paris1.png"
 
 Welcome on the website of the Paris Seminar on the Mathematics of Imaging.
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place the first Thursday of each month at [IHP](../venir/), from 14:00 to 16:00. Each seminar is composed of two presentations.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place the first Thursday of each month at [IHP](../coming/), from 14:00 to 16:00. Each seminar is composed of two presentations.
 
 You can access the list of [past seminars](past/). The list of seminars prior to sept. 2016 is available on the website  [SMATI](https://smati.wp.imt.fr/).
 
