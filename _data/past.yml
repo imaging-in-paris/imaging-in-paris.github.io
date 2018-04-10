@@ -1,3 +1,24 @@
+- speaker: Nicolas Keriven
+  date: 05 avril 2018
+  time: 14h-15h
+  room: 314
+  affiliation: ENS
+  url: https://nkeriven.github.io/
+  title: "Sketched Learning from Random Features Moments"
+  abstract: "Learning parameters from voluminous data can be prohibitive in terms of memory and computational requirements. Furthermore, modern architectures often ask for learning methods to be amenable to streaming or distributed computing. In this context, a popular approach is to first compress the database into a representation called a linear sketch, then learn the desired information using only this sketch. In this talk, we introduce a methodology to fit a mixture of probability distributions on the data, using only a sketch of the database. The sketch is defined by combining two notions from the reproducing kernel literature, kernel mean embedding and random features. It is seen to correspond to linear measurements of the probability distribution of the data, and the problem is thus analyzed under the lens of Compressive Sensing (CS), in which a signal is randomly measured and recovered. We analyze the problem using two classical approaches in CS: first a Restricted Isometry Property in the Banach space of finite signed measures, from which we obtain strong recovery guarantees however with an intractable non-convex minimization problem, and second with a dual certificate analysis, from which we show that total-variation regularization yields a convex minimization problem that in some cases recovers exactly the number of components of a gaussian mixture model. We also briefly describe a flexible heuristic greedy algorithm to estimate mixture models from a sketch, and apply it on synthetic and real data."
+
+
+- speaker: Luca Calatroni
+  date: 05 avril 2018
+  time: 15h-16h
+  room: 314
+  affiliation: CMAP, Ecole Polytechnique
+  url: http://lucacalatroni.weebly.com/
+  title: "A variational model for mixed noise removal: analysis, optimisation and structure of solutions"
+  abstract: "In several real-word imaging applications such as microscopy, astronomy and medical imaging, a combination of transmission and acquisition faults result in multiple noise statistics in the observed image, such as impulsive/Gaussian or Gaussian/Possion mixtures.  By means of a joint MAP estimation, we derive a statistically consistent variational model where single data fidelities are combined in a handy infimal convoution fashion to model the noise mixture and separated from each other via a Total Variation smoothing. By means of a fine analysis in suitable function spaces, we then study the structure of the solutions of the corresponding variational model and propose a bilevel optimisation strategy for the estimation of the optimal regularisation weights.
+This is joint work with C.B. Schönlieb (University of Cambridge, UK), J.C. De Los Reyes (ModeMat, Quito, Ecuador)  and K. Papafitsoros (WIAS Institue, Berlin, Germany)."
+
+
 - speaker: Nelly Pustelnik
   date: 08 mars 2018
   time: 14h-15h
