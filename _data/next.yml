@@ -12,7 +12,10 @@
   room: 314
   affiliation: CMAP, Ecole Polytechnique
   url: https://imsc.uni-graz.at/hollerm/
-  title: ""
+  title: "Analysis and applications of coupled regularization with multiple data discrepancies"
+  abstract: "In many applications of inverse problem in imaging, the measured data does not correspond to a single measurement but rather to multiple simultaneous or sequential measurements, featuring different forward models and/or noise characteristics. Examples of such a setting are the joint acquisition of magnetic resonance (MR) and positron emission tomography (PET) images or the sequential acquisition of multiple time frames in dynamic imaging.
+Assuming that the images one aims to reconstruct from such measurements have different but related content, coupled regularization techniques aim at exploiting such correlations for improved reconstruction. A corresponding variational formulation comprises multiple potentially different data discrepancies and raises the question of how standard stability and convergence results in inverse problems transfer to such a situation.
+In this talk, we address this question. Motivated by concrete applications with different noise characteristics, we first consider a rather general setting and in particular show how the adaption of parameter choices strategies to different discrepancy terms yields improved convergence results. We then further elaborate on practically relevant special cases and show numerical results for joint MR-PET reconstruction and multi-spectral electron microscopy."
 
 
 - speaker: Angélique Drémeau
