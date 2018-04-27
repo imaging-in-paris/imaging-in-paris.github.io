@@ -5,7 +5,7 @@
   affiliation: Équipe TAO - INRIA Saclay
   url: https://www.lri.fr/~gcharpia/
   title: "Introduction to Neural Networks"
-  abstract: "Neural networks have become extremely popular these last years, notably due to their recent impressive successes in computer vision, under the name of "deep learning". This tutorial will describe the main principles and properties of neural networks, with a focus on convolutional neural networks (CNN), particularly suited for image-based machine learning tasks. Depending on the audience, and if time permits, we may also cover topics such as auto-encoders, generative adversarial networks, or style transfer."
+  abstract: "Neural networks have become extremely popular these last years, notably due to their recent impressive successes in computer vision, under the name of deep learning. This tutorial will describe the main principles and properties of neural networks, with a focus on convolutional neural networks (CNN), particularly suited for image-based machine learning tasks. Depending on the audience, and if time permits, we may also cover topics such as auto-encoders, generative adversarial networks, or style transfer."
 
 - speaker: Martin Holler
   date: 03 mai 2018
