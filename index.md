@@ -75,6 +75,15 @@ Sponsors
 <img width="150" src="../img/logo-cimpa.png"/>
 </a>
 
+<br/>
+
+<a href="http://gdr-mia.math.cnrs.fr/">
+<img width="150" src="../img/logo-mia.png"/>
+</a>
+
+<a href="http://www.gpeyre.com/noria/">
+<img width="150" src="../img/logo-erc.jpg"/>
+</a>
 
 
 </p>
