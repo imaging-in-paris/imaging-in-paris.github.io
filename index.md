@@ -9,10 +9,15 @@ This website is the home for the IHP semester "The Mathematics of Imaging" that 
 
 You can also access [the monthly seminar website from here](seminar/).
 
+Registration
+-------------
+
+[Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to one (or to all!) of these conferences and to the pre-school. 
+
 Conferences
 -------------
 
-All the conferences will take place at IHP. Registration is mandatory (more information soon).
+All the conferences will take place at IHP.
 
 - _Variational methods and optimization in imaging_, February 4th-8th  2019.
 - _Statistical Modeling for Shapes and Imaging_, March 11th-15th 2019.
