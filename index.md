@@ -49,6 +49,21 @@ Organizers
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS)
 
 
+Scientific committee
+------
+
+- Coloma Ballester (Pompeu Fabra Univ., Spain)
+- Andrea Bertozzi (UCLA, USA)
+- Laure Blanc-Feraud (CNRS, Nice Sophia Antipolis Univ., France)
+- Donald Geman (Johns Hopkins Univ., USA)
+- Stephane Mallat (ENS Ulm, France)
+- Simon Masnou (Univ. Lyon 1, France)
+- Jean-Michel Morel (ENS Cachan, France)
+- - David Mumford (Brown University, Providence,USA)
+- Mila Nikolova (CNRS, ENS Cachan, France)
+- Joachim Weickert (Saarland Univ., Germany)
+
+
 Sponsors
 -----
 
