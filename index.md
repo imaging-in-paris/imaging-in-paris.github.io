@@ -59,7 +59,7 @@ Scientific committee
 - Stephane Mallat (ENS Ulm, France)
 - Simon Masnou (Univ. Lyon 1, France)
 - Jean-Michel Morel (ENS Cachan, France)
-- - David Mumford (Brown University, Providence,USA)
+- David Mumford (Brown University, Providence,USA)
 - Mila Nikolova (CNRS, ENS Cachan, France)
 - Joachim Weickert (Saarland Univ., Germany)
 
