@@ -1,31 +1,12 @@
-- speaker: Guillaume Charpiat
-  date: 03 mai 2018
-  time: 14h-15h
-  room: 314
-  affiliation: Équipe TAO - INRIA Saclay
-  url: https://www.lri.fr/~gcharpia/
-  title: "Introduction to Neural Networks"
-  abstract: "Neural networks have become extremely popular these last years, notably due to their recent impressive successes in computer vision, under the name of deep learning. This tutorial will describe the main principles and properties of neural networks, with a focus on convolutional neural networks (CNN), particularly suited for image-based machine learning tasks. Depending on the audience, and if time permits, we may also cover topics such as auto-encoders, generative adversarial networks, or style transfer."
-
-- speaker: Martin Holler
-  date: 03 mai 2018
-  time: 15h-16h
-  room: 314
-  affiliation: CMAP, Ecole Polytechnique
-  url: https://imsc.uni-graz.at/hollerm/
-  title: "Analysis and applications of coupled regularization with multiple data discrepancies"
-  abstract: "In many applications of inverse problem in imaging, the measured data does not correspond to a single measurement but rather to multiple simultaneous or sequential measurements, featuring different forward models and/or noise characteristics. Examples of such a setting are the joint acquisition of magnetic resonance (MR) and positron emission tomography (PET) images or the sequential acquisition of multiple time frames in dynamic imaging.
-Assuming that the images one aims to reconstruct from such measurements have different but related content, coupled regularization techniques aim at exploiting such correlations for improved reconstruction. A corresponding variational formulation comprises multiple potentially different data discrepancies and raises the question of how standard stability and convergence results in inverse problems transfer to such a situation.
-In this talk, we address this question. Motivated by concrete applications with different noise characteristics, we first consider a rather general setting and in particular show how the adaption of parameter choices strategies to different discrepancy terms yields improved convergence results. We then further elaborate on practically relevant special cases and show numerical results for joint MR-PET reconstruction and multi-spectral electron microscopy."
-
-
-- speaker: Angélique Drémeau
+- speaker: Pablo Musé
   date: 14 juin 2018
   time: 14h-15h
   room: 314
-  affiliation: ENSTA Bretagne, Lab-STICC
-  url: http://angelique.dremeau.free.fr/Site_anglais/Home.html
-  title: ""
+  affiliation: Facultad de Ingeniería, Universidad de la República, Montevideo, Uruguay
+  url: https://iie.fing.edu.uy/~pmuse/
+  title: "OLÉ, Orthogonal Low-rank Embedding, A Novel Approach for Deep Metric Learning"
+  abstract: "Deep neural networks trained using a softmax layer at the top and the cross-entropy loss are common tools for image classification. Yet, this does not naturally enforce intra-class similarity nor inter-class margin of the learned deep representations. To simultaneously achieve these two goals, different solutions have been proposed in the literature, such as the pairwise or triplet losses. However, such solutions carry the extra task of selecting pairs or triplets, and the extra computational burden of computing and learning for many combinations of them. 
+In this talk we present a plug-and-play loss term for deep networks that explicitly reduces intra-class variance and enforces inter-class margin simultaneously, in a simple geometric manner. For each class, the deep features are collapsed into a learned linear subspace, or union of them, and inter-class subspaces are pushed to be as orthogonal as possible. Our proposed Orthogonal Low-rank Embedding does not require carefully crafting pairs or triplets of samples for training, and works standalone as a classification loss. Because of the improved margin between features of different classes, the resulting deep networks generalize better, are more discriminative and more robust. This is a joint work with José Lezama, Qiang Qiu and Guillermo Sapiro"
 
 - speaker: Paul Escande
   date: 14 juin 2018
@@ -33,7 +14,10 @@ In this talk, we address this question. Motivated by concrete applications with 
   room: 314
   affiliation: Johns Hopkins University
   url: https://www.math.univ-toulouse.fr/~pescande/index.html
-  title: ""
+  title: "Multi-scale Decomposition of Transformations (MUSCADET)"
+  abstract: "In many applications, transformations between two domains are defined through point-wise mappings. These functions can be costly to store and compute, but also hard to interpret in a geometric fashion. In this work, we propose a way to overcome these difficulties. The main idea is a novel multi-scale decomposition of complex transformations into a cascade of elementary, user-specified, transformations.
+This methods allows to (i) Construct efficient approximations for elements of large spaces of complex transformations using simple understandable blocks, (ii) Use transformations to measure similarities between complex objects, (iii) Deal with invariance under certain transformations, (iv) Perform statistical inference tasks on sets of transformations.
+We will describe the method as well as provide theoretical guarantees on the quality of the multi-scale approximations. Then we will present some numerical experiments that show its computational efficiency."
 
 
 - speaker: Rémi Gribonval
