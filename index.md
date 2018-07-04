@@ -38,13 +38,12 @@ Master Courses
 
 The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) course, and is also open to all the participants of the semester:
 
-- January 21: [Clarice Poon (Cambridge)](http://www.damtp.cam.ac.uk/user/cmhsp2/)
-- January 28: [Marcelo Pereyra (Heriot-Watt)](http://www.macs.hw.ac.uk/~mp71/about.html)
-- February 11, 18:  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
-- February 25: [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/)
-- March 4, 18, 25: [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/)
+- January 21 (Hermite amphitheater): [Clarice Poon (Cambridge)](http://www.damtp.cam.ac.uk/user/cmhsp2/).
+- January 28 (Hermite amphitheater): [Marcelo Pereyra (Heriot-Watt)](http://www.macs.hw.ac.uk/~mp71/about.html).
+- February 11, 18 (Hermite amphitheater):  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html).
+- February 25 (Hermite amphitheater): [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/).
+- March 4, 18 (Hermite amphitheater), 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/).
 
-All the course will be on Monday mornings, in Darboux amphitheater.
 
 High-school and general audience activity
 -------------
