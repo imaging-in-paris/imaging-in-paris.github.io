@@ -12,7 +12,7 @@ You can also access [the monthly seminar website from here](seminar/).
 Registration
 -------------
 
-[Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to one (or to all!) of these conferences and to the pre-school. 
+[Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to one (or to all!) of these conferences and to the pre-school.
 
 Conferences
 -------------
@@ -32,6 +32,19 @@ Monthly seminar on imaging sciences
 -------------
 
 More [information here](seminar/).
+
+Master Courses
+-------------
+
+The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/) course, and is also open to all the participants of the semester:
+
+- January 21: [Clarice Poon (Cambridge)](http://www.damtp.cam.ac.uk/user/cmhsp2/)
+- January 28: [Marcelo Pereyra (Heriot-Watt)](http://www.macs.hw.ac.uk/~mp71/about.html)
+- February 11, 18:  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
+- February 25: [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/)
+- March 4, 18, 25: [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/)
+
+All the course will be on Monday mornings, in Darboux amphitheater.
 
 High-school and general audience activity
 -------------
