@@ -40,7 +40,7 @@ The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/vers
 
 - January 21 (Hermite amphitheater): [Clarice Poon (Cambridge)](http://www.damtp.cam.ac.uk/user/cmhsp2/).
 - January 28 (Hermite amphitheater): [Marcelo Pereyra (Heriot-Watt)](http://www.macs.hw.ac.uk/~mp71/about.html).
-- February 11, 18 (Hermite amphitheater):  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html).
+- February 18 (Hermite amphitheater):  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html).
 - February 25 (Hermite amphitheater): [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/).
 - March 4, 18 (Hermite amphitheater), 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/).
 
