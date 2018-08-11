@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Mathematics of Imaging Workshop #1"
+title: "Mathematics of Imaging
+          Workshop #1"
 description: "Variational methods and optimization in imaging"
 header-img: "../img/paris2.png"
 ---
@@ -76,39 +77,39 @@ Sponsors
 <p align="center">
 
 <a href="http://www.ihp.fr">
-<img width="120" src="../img/logo-ihp.jpg"/>
+<img width="120" src="../../img/logo-ihp.jpg"/>
 </a>&nbsp;&nbsp;
 
 <a href="http://www.cnrs.fr/">
-<img width="120" src="../img/logo-cnrs.png"/>
+<img width="120" src="../../img/logo-cnrs.png"/>
 </a>&nbsp;&nbsp;
 
 <a href="http://www.u-psud.fr/fr/index.html">
-<img width="150" src="../img/logo-paris-sud.png"/>
+<img width="150" src="../../img/logo-paris-sud.png"/>
 </a>
 
 <br/>
 
 <a href="https://www.sciencesmaths-paris.fr/">
-<img width="150" src="../img/logo-fsmp.png"/>
+<img width="150" src="../../img/logo-fsmp.png"/>
 </a>&nbsp;&nbsp;
 
 <a href="http://www.upmc.fr/">
-<img width="150" src="../img/logo-upmc.png"/>
+<img width="150" src="../../img/logo-upmc.png"/>
 </a>&nbsp;&nbsp;
 
 <a href="https://www.cimpa.info/">
-<img width="150" src="../img/logo-cimpa.png"/>
+<img width="150" src="../../img/logo-cimpa.png"/>
 </a>
 
 <br/>
 
 <a href="http://gdr-mia.math.cnrs.fr/">
-<img width="150" src="../img/logo-mia.png"/>
+<img width="150" src="../../img/logo-mia.png"/>
 </a>
 
 <a href="http://www.gpeyre.com/noria/">
-<img width="150" src="../img/logo-erc.jpg"/>
+<img width="150" src="../../img/logo-erc.jpg"/>
 </a>
 
 
