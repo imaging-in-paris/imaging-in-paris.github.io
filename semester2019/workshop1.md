@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Mathematics of Imaging
+title: "Variational methods and optimization in imaging"
+description: "Mathematics of Imaging
           Workshop #1"
-description: "Variational methods and optimization in imaging"
 header-img: "../img/paris2.png"
 ---
 
