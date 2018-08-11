@@ -2,7 +2,7 @@
 layout: page
 title: "Mathematics of Imaging Workshop #1"
 description: "Variational methods and optimization in imaging"
-header-img: "img/paris2.png"
+header-img: "../img/paris2.png"
 ---
 
 Dates
