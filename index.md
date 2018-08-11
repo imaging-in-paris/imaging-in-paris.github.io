@@ -19,7 +19,7 @@ Conferences
 
 All the conferences will take place at IHP.
 
-- _Variational methods and optimization in imaging_, February 4th-8th  2019.
+- _[Variational methods and optimization in imaging](semester2019/workshop1)_, February 4th-8th  2019.
 - _Statistical Modeling for Shapes and Imaging_, March 11th-15th 2019.
 - _Imaging and machine learning_, April 1st-5th 2019.
 
