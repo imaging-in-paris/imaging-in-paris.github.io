@@ -20,6 +20,7 @@ Registration
 Confirmed Speakers
 -------------
 
+- [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/) (CNRS, Lyon)
 - [Kristian Bredies](https://imsc.uni-graz.at/bredies/) (Graz)
 - [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/) (NTU)
 - [Blanche Buet](https://www.math.u-psud.fr/~buet/) (Paris Sud)
@@ -39,7 +40,7 @@ Confirmed Speakers
 - [Christoph Schnörr](https://ipa.iwr.uni-heidelberg.de/cschnoerr/) (U. Heidelberg)
 - [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/) (Kaiserslautern)
 - [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html) (Centrale Paris)
-- [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/) (CNRS, Lyon)
+- [Thomas Veit](http://perso.lcpc.fr/veit.thomas/) (GoPro)
 - [Rebecca Willett](https://voices.uchicago.edu/willett/) (UChicago)
 
 
