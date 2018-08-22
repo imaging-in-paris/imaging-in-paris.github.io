@@ -26,6 +26,8 @@ Confirmed Speakers
 - [Blanche Buet](https://www.math.u-psud.fr/~buet/) (Paris Sud)
 - [Martin Burger](https://www.uni-muenster.de/AMM/num/Arbeitsgruppen/ag_burger/organization/burger//) (Munster)
 - [Antonin Chambolle](http://www.cmap.polytechnique.fr/~antonin/) (CNRS and Polytechnique)
+- [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/) (CNRS et Aix-Marseille Université)
+- [Camille Couprie](https://research.fb.com/people/couprie-camille/) (Facebook)
 - [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (Toulouse)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
 - [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (UCDavis)
