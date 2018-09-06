@@ -25,6 +25,69 @@ The 4 main courses will be:
 - [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt): _Bayesian methods in imaging_
 - [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (Cambridge): _sparsity in imaging_
 
+Agenda
+-------------
+
+MONDAY
+
+- 9h00-10h30 - Convex  methods in imaging
+- 10h30-11h - Coffee break
+- 11h-12h30 - Convex  methods in imaging
+- 12h30-14h - Lunch
+- 14h-15h30 - Sparsity in imaging
+- 15h30-16h - Coffee break
+- 16h00 -17h30 - Sparsity in imaging
+- Evening - Poster session (TBC)
+
+TUESDAY
+
+- 9h00-10h30 - Convex  methods in imaging
+- 10h30-11h - Coffee break
+- 11h-12h30 - Convex  methods in imaging
+- 12h30-14h - Lunch
+- 14h-15h30 - Sparsity in imaging
+- 15h30-16h - Coffee break
+- 16h00 -17h30 - Sparsity in imaging
+- Evening - Poster session (TBC)
+
+WEDNESDAY
+
+- 9h00-10h30 - Bayesian methods in imaging
+- 10h30-11h - Coffee break
+- 11h-12h30 - Bayesian methods in imaging
+- 12h30-14h - Lunch
+- Free afternoon
+- Evening - TBA
+
+THURSDAY
+
+- 9h00-10h30 - Bayesian methods in imaging
+- 10h30-11h - Coffee break
+- 11h-12h30 - Bayesian methods in imaging
+- 12h30-14h - Lunch
+- 14h-15h30 - Machine learning for imaging in neuroscience
+- 15h30-16h - Coffee break
+- 16h00 -17h30 - Machine learning for imaging in neuroscience
+
+FRIDAY
+- 9h00-10h30 - Machine learning for imaging in neuroscience
+- 10h30-11h - Coffee break
+- 11h-12h30 - Machine learning for imaging in neuroscience
+- 12h30-14h - Lunch
+
+
+Abstracts
+------
+
+[Daniel Cremers](https://vision.in.tum.de/members/cremers) (Technische Universität München), _convex methods in imaging_: TBA
+
+[Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (University of Cambridge): _sparsity in imaging_:
+In the last few decades sparsity has become ubiquitous and is often one of the key assumptions behind imaging methods. In this course, we will discuss how sparsity arises in imaging (in particular, wavelets) and some ways in which sparsity has been exploited (in particular, compressed sensing and super resolution of measures).
+
+[Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt University, Edinburgh): _Bayesian methods in imaging_: This course presents an overview of modern Bayesian strategies for solving imaging inverse problems. We will start by introducing the Bayesian statistical decision theory framework underpinning Bayesian analysis, and then explore efficient numerical methods for performing Bayesian computation in large-scale settings. We will pay special attention to high-dimensional imaging models that are log-concave w.r.t. the unknown image, related to so-called "convex imaging problems". This will provide an opportunity to establish connections with the convex optimisation and machine learning approaches to imaging, and to discuss some of their relative strengths and drawbacks. Examples of topics covered in the course include: efficient stochastic simulation and optimisation numerical methods that tightly combine proximal convex optimisation with Markov chain Monte Carlo techniques; strategies for estimating unknown model parameters and performing model selection, methods for calculating Bayesian confidence intervals for images and performing uncertainty quantification analyses; and new theory regarding the role of convexity in maximum-a-posteriori and minimum-mean-square-error estimation. The theory, methods, and algorithms are illustrated with a range of mathematical imaging experiments.
+
+[Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA, Parietal Team, Université Paris-Saclay),  _machine learning for imaging in neuroscience_: TBA
+
 
 Scientific Committee
 -----
