@@ -86,7 +86,14 @@ In the last few decades sparsity has become ubiquitous and is often one of the k
 
 [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt University, Edinburgh): _Bayesian methods in imaging_: This course presents an overview of modern Bayesian strategies for solving imaging inverse problems. We will start by introducing the Bayesian statistical decision theory framework underpinning Bayesian analysis, and then explore efficient numerical methods for performing Bayesian computation in large-scale settings. We will pay special attention to high-dimensional imaging models that are log-concave w.r.t. the unknown image, related to so-called "convex imaging problems". This will provide an opportunity to establish connections with the convex optimisation and machine learning approaches to imaging, and to discuss some of their relative strengths and drawbacks. Examples of topics covered in the course include: efficient stochastic simulation and optimisation numerical methods that tightly combine proximal convex optimisation with Markov chain Monte Carlo techniques; strategies for estimating unknown model parameters and performing model selection, methods for calculating Bayesian confidence intervals for images and performing uncertainty quantification analyses; and new theory regarding the role of convexity in maximum-a-posteriori and minimum-mean-square-error estimation. The theory, methods, and algorithms are illustrated with a range of mathematical imaging experiments.
 
-[Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA, Parietal Team, Université Paris-Saclay),  _machine learning for imaging in neuroscience_: TBA
+[Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA, Parietal Team, Université Paris-Saclay),  _Practical machine learning_: What you will learn in this course:
+
+- how fundamental hypothesis of statistical learning theory are challenged in practice (violation of independence, covariate shifts etc.) ;
+- what are the most successful models in data challenges and how they work ;
+- how to automate model search and hyperparameter selection ;
+- learn about great packages for machine learning using Python ;
+- how to conduct rigorous machine learning experiments by competing on
+a data challenge.
 
 
 Scientific Committee
