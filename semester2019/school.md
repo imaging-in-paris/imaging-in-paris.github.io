@@ -21,7 +21,7 @@ The pre-school will contain courses, practical sessions, flash presentations and
 
 The 4 main courses will be:
 - [Daniel Cremers](https://vision.in.tum.de/members/cremers) (München), _convex methods in imaging_
-- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA),  _machine learning for imaging in neuroscience_
+- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA),  _practical machine learning_
 - [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt): _Bayesian methods in imaging_
 - [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (Cambridge): _sparsity in imaging_
 
@@ -65,14 +65,14 @@ THURSDAY
 - 10h30-11h - Coffee break
 - 11h-12h30 - Bayesian methods in imaging
 - 12h30-14h - Lunch
-- 14h-15h30 - Machine learning for imaging in neuroscience
+- 14h-15h30 - Practical machine learning
 - 15h30-16h - Coffee break
-- 16h00 -17h30 - Machine learning for imaging in neuroscience
+- 16h00 -17h30 - Practical machine learning
 
 FRIDAY
-- 9h00-10h30 - Machine learning for imaging in neuroscience
+- 9h00-10h30 - Practical machine learning
 - 10h30-11h - Coffee break
-- 11h-12h30 - Machine learning for imaging in neuroscience
+- 11h-12h30 - Practical machine learning
 - 12h30-14h - Lunch
 
 
