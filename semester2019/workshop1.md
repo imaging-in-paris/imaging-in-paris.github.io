@@ -32,7 +32,6 @@ Confirmed Speakers
 - [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (Toulouse)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
 - [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (UCDavis)
-- [Mario Figueiredo](http://www.lx.it.pt/~mtf/) (Lisboa)
 - [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/) (ENS Paris-Saclay)
 - [Guy Gilboa](http://guygilboa.eew.technion.ac.il/) (Technion)
 - [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz) (Braunschweig)
