@@ -29,6 +29,7 @@ Confirmed Speakers
 - [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/) (CNRS et Aix-Marseille Université)
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (CentraleSupélec)
 - [Camille Couprie](https://research.fb.com/people/couprie-camille/) (Facebook)
+- [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon) (Brown)
 - [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (Toulouse)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
 - [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (UCDavis)
