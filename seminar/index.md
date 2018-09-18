@@ -27,24 +27,22 @@ Upcoming seminars
 {% endfor %}
 
 
-Dates for 2017-2018
+Dates for 2018
 ----
 
-- thursday 5 oct: Salle 314
-- thursday 9 nov: Salle 314
-- thursday 7 dec: Salle 201
-- thursday 11 jan: Salle 314
-- thursday 8 feb: Salle 314
-- thursday 8 march: Salle 314
-- thursday 5 april: Salle 314
-- thursday 3 may: Salle 314
-- thursday 14 june: Salle 314 (to be confirmed)
+- thursday oct 4th: Salle 314
+- thursday nov 8th: TBA
+- thursday dec 6th: Salle 314
+
+The seminar will stop in its usual form during the IHP trimester "The Mathematics of Imaging".
+
+After that the seminar will start again in october 2019. 
 
 
 Organizers
 -----
 
-- [Andrés Almansa](http://perso.telecom-paristech.fr/~almansa/) (CNRS and Paris 5)
+- [Andrés Almansa](http://up5.fr/almansa/) (CNRS and Paris 5)
 - [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
 - [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS and ENS Cachan)
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
