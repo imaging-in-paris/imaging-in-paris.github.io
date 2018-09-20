@@ -8,11 +8,18 @@
   url: http://people.irisa.fr/Remi.Gribonval/
   title: ""
 
-- speaker: Denis Fortun
+- speaker: Hughes Talbot
   date: 6 december 2018
   time: 14h-15h
+  room: 314
+  affiliation: CentraleSupelec
+  url: https://hugues-talbot.github.io/
+  title: ""
+
+- speaker: Denis Fortun
+  date: 6 december 2018
+  time: 15h-16h
   room: 314
   affiliation: iCUBE, CNRS, Université de Strasbourg
   url: http://bigwww.epfl.ch/fortun/index.html
   title: ""
-
