@@ -1,10 +1,11 @@
 - speaker: Charles Hessel
   date: 4 october 2018
-  time: 15h-16h
-  room: TBA
+  time: 14h-15h
+  room: 314
   affiliation: DxO and CMLA, ENS Paris Saclay
   url: https://www.linkedin.com/in/charles-hessel-2aa70284/?originalSubdomain=fr
-  title: ""
+  title: "Base and detail decomposition filters and the measure of their artifacts"
+  abstract: "In this CIFRE thesis, a collaboration between the CMLA, ENS Paris-Saclay and the company DxO, we tackle the problem of the additive decomposition of an image into base and detail. Such a decomposition is a fundamental tool in image processing. For applications to professional photo editing in DxO Photolab, a core requirement is the absence of artifacts. For instance, in the context of contrast enhancement, in which the base is reduced and the detail increased, minor artifacts becomes highly visible. The distortions thus introduced are unacceptable from the point of view of a photographer. The objective of this thesis is to single out and study the most suitable filters to perform this task, to improve the best ones and to define new ones. This requires a rigorous measure of the quality of the base plus detail decomposition. We examine two classic artifacts (halo and staircasing) and discover three more sorts that are equally crucial: contrast halo, compartmentalization, and the dark halo. This leads us to construct five adapted patterns to measure these artifacts. We end up ranking the optimal filters based on these measurements, and arrive at a clear decision about the best filters. Two filters stand out, including one we propose."
 
 - speaker: Rémi Gribonval
   date: 8 november 2018
