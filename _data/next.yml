@@ -18,7 +18,7 @@
   Radon measures. A common approach to off-the-grid deconvolution considers semidefinite
   (SDP) relaxations of the total variation (the total mass of the absolute value of the measure)
   minimization problem. The direct resolution of this SDP is however intractable for large scale
-  settings, since the problem size grows as $n^{2d}$ where n is the cutoff frequency of the filter and d the ambient dimension. I will first introduce a penalized formulation of this semidefinite lifting, which has low-rank solutions. This formulation is then solved using a conditional gradient optimization scheme with non-convex updates. This algorithm leverages both the low-rank and the convolutive structure of the problem, resulting in an O(n^d log n) complexity per iteration. Numerical simulations are promising and show that the algorithm converges in exactly r steps, r being the number of Diracs composing the solution."
+  settings, since the problem size grows as n^2d where n is the cutoff frequency of the filter and d the ambient dimension. I will first introduce a penalized formulation of this semidefinite lifting, which has low-rank solutions. This formulation is then solved using a conditional gradient optimization scheme with non-convex updates. This algorithm leverages both the low-rank and the convolutive structure of the problem, resulting in an O(n^d log n) complexity per iteration. Numerical simulations are promising and show that the algorithm converges in exactly r steps, r being the number of Diracs composing the solution."
 
 - speaker: Rémi Gribonval
   date: 8 november 2018
