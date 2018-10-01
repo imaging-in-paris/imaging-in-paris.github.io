@@ -33,19 +33,23 @@ Confirmed Speakers
 - [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (Toulouse)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
 - [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (UCDavis)
+- [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
 - [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/) (ENS Paris-Saclay)
 - [Guy Gilboa](http://guygilboa.eew.technion.ac.il/) (Technion)
 - [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz) (Braunschweig)
 - [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (CNRS and Bordeaux)
+- [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html) (Université Nancy)
 - [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (Cambridge)
 - [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/) (Bonn)
 - [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) (Cambridge)
 - [Christoph Schnörr](https://ipa.iwr.uni-heidelberg.de/cschnoerr/) (U. Heidelberg)
 - [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/) (Kaiserslautern)
 - [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html) (Centrale Paris)
+- [Yves van Gennip](https://www.nottingham.ac.uk/mathematics/people/y.vangennip) (Nottingham univ., UK)
 - [Thomas Veit](http://perso.lcpc.fr/veit.thomas/) (GoPro)
+- [Joachim  Weickert](https://www.mia.uni-saarland.de/weickert/index.shtml) (Univ. Saarland)
 - [Rebecca Willett](https://voices.uchicago.edu/willett/) (UChicago)
-
+- [Luca Zanni](http://cdm.unimo.it/home/matematica/zanni.luca/) (Univ. Modena, Italy)
 
 
 
