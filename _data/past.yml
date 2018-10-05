@@ -1,3 +1,25 @@
+- speaker: Charles Hessel
+  date: 4 october 2018
+  time: 14h-15h
+  room: 314
+  affiliation: DxO and CMLA, ENS Paris Saclay
+  url: https://www.linkedin.com/in/charles-hessel-2aa70284/?originalSubdomain=fr
+  title: "Base and detail decomposition filters and the measure of their artifacts"
+  abstract: "In this CIFRE thesis, a collaboration between the CMLA, ENS Paris-Saclay and the company DxO, we tackle the problem of the additive decomposition of an image into base and detail. Such a decomposition is a fundamental tool in image processing. For applications to professional photo editing in DxO Photolab, a core requirement is the absence of artifacts. For instance, in the context of contrast enhancement, in which the base is reduced and the detail increased, minor artifacts becomes highly visible. The distortions thus introduced are unacceptable from the point of view of a photographer. The objective of this thesis is to single out and study the most suitable filters to perform this task, to improve the best ones and to define new ones. This requires a rigorous measure of the quality of the base plus detail decomposition. We examine two classic artifacts (halo and staircasing) and discover three more sorts that are equally crucial: contrast halo, compartmentalization, and the dark halo. This leads us to construct five adapted patterns to measure these artifacts. We end up ranking the optimal filters based on these measurements, and arrive at a clear decision about the best filters. Two filters stand out, including one we propose."
+
+- speaker: Paul Catala
+  date: 4 october 2018
+  time: 15h-16h
+  room: 314
+  affiliation: ENS
+  url: https://www.math.ens.fr/fiche-membre/fiche-membre.php?id_membre=361
+  title: "A Low-Rank Approach to Off-The-Grid Sparse Deconvolution"
+  abstract: "In this talk, I will present a new solver for the sparse spikes deconvolution problem over the space of
+  Radon measures. A common approach to off-the-grid deconvolution considers semidefinite
+  (SDP) relaxations of the total variation (the total mass of the absolute value of the measure)
+  minimization problem. The direct resolution of this SDP is however intractable for large scale
+  settings, since the problem size grows as n^2d where n is the cutoff frequency of the filter and d the ambient dimension. I will first introduce a penalized formulation of this semidefinite lifting, which has low-rank solutions. This formulation is then solved using a conditional gradient optimization scheme with non-convex updates. This algorithm leverages both the low-rank and the convolutive structure of the problem, resulting in an O(n^d log n) complexity per iteration. Numerical simulations are promising and show that the algorithm converges in exactly r steps, r being the number of Diracs composing the solution."
+
 - speaker: Pablo Musé
   date: 14 juin 2018
   time: 14h-15h
@@ -5,7 +27,7 @@
   affiliation: Facultad de Ingeniería, Universidad de la República, Montevideo, Uruguay
   url: https://iie.fing.edu.uy/~pmuse/
   title: "OLÉ, Orthogonal Low-rank Embedding, A Novel Approach for Deep Metric Learning"
-  abstract: "Deep neural networks trained using a softmax layer at the top and the cross-entropy loss are common tools for image classification. Yet, this does not naturally enforce intra-class similarity nor inter-class margin of the learned deep representations. To simultaneously achieve these two goals, different solutions have been proposed in the literature, such as the pairwise or triplet losses. However, such solutions carry the extra task of selecting pairs or triplets, and the extra computational burden of computing and learning for many combinations of them. 
+  abstract: "Deep neural networks trained using a softmax layer at the top and the cross-entropy loss are common tools for image classification. Yet, this does not naturally enforce intra-class similarity nor inter-class margin of the learned deep representations. To simultaneously achieve these two goals, different solutions have been proposed in the literature, such as the pairwise or triplet losses. However, such solutions carry the extra task of selecting pairs or triplets, and the extra computational burden of computing and learning for many combinations of them.
 In this talk we present a plug-and-play loss term for deep networks that explicitly reduces intra-class variance and enforces inter-class margin simultaneously, in a simple geometric manner. For each class, the deep features are collapsed into a learned linear subspace, or union of them, and inter-class subspaces are pushed to be as orthogonal as possible. Our proposed Orthogonal Low-rank Embedding does not require carefully crafting pairs or triplets of samples for training, and works standalone as a classification loss. Because of the improved margin between features of different classes, the resulting deep networks generalize better, are more discriminative and more robust. This is a joint work with José Lezama, Qiang Qiu and Guillermo Sapiro"
 
 - speaker: Paul Escande
