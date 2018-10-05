@@ -36,6 +36,7 @@ Confirmed Speakers
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
 - [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/) (ENS Paris-Saclay)
 - [Guy Gilboa](http://guygilboa.eew.technion.ac.il/) (Technion)
+- [Michael Hintermuller](https://www.math.hu-berlin.de/~hp_hint/) (Humboldt-Universität)
 - [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz) (Braunschweig)
 - [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (CNRS and Bordeaux)
 - [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html) (Université Nancy)
