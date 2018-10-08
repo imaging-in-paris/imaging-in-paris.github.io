@@ -31,6 +31,7 @@ Confirmed Speakers
 - [Camille Couprie](https://research.fb.com/people/couprie-camille/) (Facebook)
 - [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon) (Brown)
 - [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (Toulouse)
+- [Yiqiu Dong](http://www2.compute.dtu.dk/~yido) (Technical University of Denmark)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
 - [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (UCDavis)
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
