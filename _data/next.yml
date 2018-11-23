@@ -14,17 +14,6 @@ The talk first describes an empirical approach to approximate a given matrix by 
 In a second part, we study the expressivity of sparsely connected deep networks. Measuring a network's complexity by its number of connections, we consider the class of functions which error of best approximation with networks of a given complexity decays at a certain rate. Using classical approximation theory, we show that this class can be endowed with a norm that makes it a nice function space, called approximation space. We establish that the presence of certain “skip connections” has no impact of the approximation space, and discuss the role of the network's nonlinearity (also known as activation function) on the resulting spaces, as well as the benefits of depth.  
 For the popular ReLU nonlinearity (as well as its powers), we relate the newly identified spaces to classical Besov spaces, which have a long history as image models associated to sparse wavelet decompositions. The sharp embeddings that we establish highlight how depth enables sparsely connected networks to approximate functions of increased “roughness” (decreased Besov smoothness) compared to shallow networks and wavelets.
 
-Joint work with Luc Le Magoarou (Inria), Gitta Kutyniok (TU Berlin), Morten Nielsen (Aalborg University) and Felix Voigtlaender (KU Eichstätt). "
-
-- speaker: Antoine Houdard
-  date: 8 november 2018
-  time: 15h-16h
-  room: "235A, 29 rue de l'Ulm"
-  affiliation: "Telecom ParisTech & Universite Paris Descartes"
-  url: https://houdard.wp.imt.fr
-  title: "Some advances in patch-based image denoising"
-  abstract: "In this talk I will present my PhD thesis work on non-local methods for image denoising. Natural images contain redundant structures, and this property can be used for restoration purposes. A common way to consider this self-similarity is to separate the image into patches. These patches can then be grouped, compared and filtered together. The main part of this talk will be dedicated to the study of Gaussian priors for patch-based image denoising. Such priors are widely used for image restoration. We propose some ideas to answer the following questions: Why are Gaussian priors so widely used? What information do they encode about the image? Next I shall propose a probabilistic high-dimensional mixture model on the noisy patches. This model adopts a sparse modeling which assumes that the data lie on group-specific subspaces of low dimensionalities. This yields a denoising algorithm that demonstrates state-of-the-art performance."
-
 
 - speaker: Hughes Talbot
   date: 6 december 2018
@@ -40,4 +29,5 @@ Joint work with Luc Le Magoarou (Inria), Gitta Kutyniok (TU Berlin), Morten Niel
   room: 314
   affiliation: iCUBE, CNRS, Université de Strasbourg
   url: http://bigwww.epfl.ch/fortun/index.html
-  title: ""
+  title: "Fast piecewise-affine motion estimation without segmentation"
+  abstract: "In this talk, we will review existing strategies for regularizing motion fields, and present a new method dedicated to piecewise affine models. Current algorithmic approaches for piecewise affine motion estimation are based on alternating motion segmentation and estimation. In contrast, our method estimates piecewise affine motion directly without intermediate segmentation. To this end, we reformulate the problem by imposing piecewise constancy of the parameter field, and derive a specific proximal splitting optimization scheme. A key component of our framework is an efficient 1D piecewise-affine estimator for vector-valued signals. The first advantage of our approach over segmentation-based methods is its absence of initialization. The second advantage is its lower computational cost, which is independent of the complexity of the motion field. In addition to these features, we demonstrate competitive accuracy with other piecewise-parametric methods on standard evaluation benchmarks. Our new regularization scheme also outperforms the more standard use of total variation and total generalized variation."
