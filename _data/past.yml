@@ -1,3 +1,8 @@
+ding  have been shown to perform well in practice, a striking example being their ability to somehow “reverse engineer” the fast Hadamard transform. Yet, developing a solid understanding of their conditions of success remains an open challenge.
+
+In a second part, we study the expressivity of sparsely connected deep networks. Measuring a network's complexity by its number of connections, we consider the class of functions which error of best approximation with networks of a given complexity decays at a certain rate. Using classical approximation theory, we show that this class can be endowed with a norm that makes it a nice function space, called approximation space. We establish that the presence of certain “skip connections” has no impact of the approximation space, and discuss the role of the network's nonlinearity (also known as activation function) on the resulting spaces, as well as the benefits of depth.  
+For the popular ReLU nonlinearity (as well as its powers), we relate the newly identified spaces to classical Besov spaces, which have a long history as image models associated to sparse wavelet decompositions. The sharp embeddings that we establish highlight how depth enables sparsely connected networks to approximate functions of increased “roughness” (decreased Besov smoothness) compared to shallow networks and wavelets.
+
 Joint work with Luc Le Magoarou (Inria), Gitta Kutyniok (TU Berlin), Morten Nielsen (Aalborg University) and Felix Voigtlaender (KU Eichstätt). "
 
 - speaker: Antoine Houdard
