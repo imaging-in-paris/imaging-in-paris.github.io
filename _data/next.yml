@@ -1,16 +1,4 @@
 
-
-- speaker: Rémi Gribonval
-  date: 8 november 2018
-  time: 14h-15h
-  room: "235A, 29 rue de l'Ulm"
-  affiliation: INRIA, Panama project-team
-  url: http://people.irisa.fr/Remi.Gribonval/
-  title: "Approximation with sparsely connected deep networks"
-  abstract: "Many of the data analysis and processing pipelines that have been carefully engineered by generations of mathematicians and practitioners can in fact be implemented as deep networks. Allowing the parameters of these networks to be automatically trained (or even randomized) allows to revisit certain classical constructions.
-
-The talk first describes an empirical approach to approximate a given matrix by a fast linear transform through numerical optimization. The main idea is to write fast linear transforms as products of few sparse factors, and to iteratively optimize over the factors. This corresponds to training a sparsely connected, linear, deep neural network. Learning algorithms exploiting iterative hard-threshol
-
 - speaker: Hughes Talbot
   date: 6 december 2018
   time: 14h-15h

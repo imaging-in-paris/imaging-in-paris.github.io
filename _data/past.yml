@@ -1,4 +1,13 @@
-ding  have been shown to perform well in practice, a striking example being their ability to somehow “reverse engineer” the fast Hadamard transform. Yet, developing a solid understanding of their conditions of success remains an open challenge.
+- speaker: Rémi Gribonval
+  date: 8 november 2018
+  time: 14h-15h
+  room: "235A, 29 rue de l'Ulm"
+  affiliation: INRIA, Panama project-team
+  url: http://people.irisa.fr/Remi.Gribonval/
+  title: "Approximation with sparsely connected deep networks"
+  abstract: "Many of the data analysis and processing pipelines that have been carefully engineered by generations of mathematicians and practitioners can in fact be implemented as deep networks. Allowing the parameters of these networks to be automatically trained (or even randomized) allows to revisit certain classical constructions.
+
+The talk first describes an empirical approach to approximate a given matrix by a fast linear transform through numerical optimization. The main idea is to write fast linear transforms as products of few sparse factors, and to iteratively optimize over the factors. This corresponds to training a sparsely connected, linear, deep neural network. Learning algorithms exploiting iterative hard-thresholding  have been shown to perform well in practice, a striking example being their ability to somehow “reverse engineer” the fast Hadamard transform. Yet, developing a solid understanding of their conditions of success remains an open challenge.
 
 In a second part, we study the expressivity of sparsely connected deep networks. Measuring a network's complexity by its number of connections, we consider the class of functions which error of best approximation with networks of a given complexity decays at a certain rate. Using classical approximation theory, we show that this class can be endowed with a norm that makes it a nice function space, called approximation space. We establish that the presence of certain “skip connections” has no impact of the approximation space, and discuss the role of the network's nonlinearity (also known as activation function) on the resulting spaces, as well as the benefits of depth.  
 For the popular ReLU nonlinearity (as well as its powers), we relate the newly identified spaces to classical Besov spaces, which have a long history as image models associated to sparse wavelet decompositions. The sharp embeddings that we establish highlight how depth enables sparsely connected networks to approximate functions of increased “roughness” (decreased Besov smoothness) compared to shallow networks and wavelets.
