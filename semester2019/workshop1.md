@@ -17,6 +17,9 @@ Registration
 
 [Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to this workshop and to the other one of the semester.
 
+Program ([click here](https://imaging-in-paris.github.io/semester2019/workshop1prog))
+-------------
+
 Confirmed Speakers
 -------------
 
