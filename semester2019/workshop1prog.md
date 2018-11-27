@@ -19,7 +19,7 @@ Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
 - 14h45-15h30 : [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Michael Hintermuller](https://www.math.hu-berlin.de/~hp_hint/)
-- 16h45-17h30 : F[Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html)
+- 16h45-17h30 : [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html)
 
 
 Tuesday 5 February
@@ -51,7 +51,7 @@ Wednesday 6 February
 
 Thursday 7 February
 --------------
-- 9h30-10h15: [Martin Burger](https://www.uni-muenster.de/AMM/num/Arbeitsgruppen/ag_burger/organization/burger//)t
+- 9h30-10h15: [Martin Burger](https://www.uni-muenster.de/AMM/num/Arbeitsgruppen/ag_burger/organization/burger//)
 - 10h15-10h45 : Coffee break 
 - 10h45-11h30 : [Kristian Bredies](https://imsc.uni-graz.at/bredies/)
 - 11h30-12h15 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/)
