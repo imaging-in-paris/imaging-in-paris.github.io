@@ -34,7 +34,7 @@ Tuesday 5 February
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
 - 16h45 -17h30 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/)
-- 19h: cocktail at Tour Zamansky Jussieu
+- 19h: welcome cocktail at Tour Zamansky Jussieu
 
 Wednesday 6 February
 -------------
