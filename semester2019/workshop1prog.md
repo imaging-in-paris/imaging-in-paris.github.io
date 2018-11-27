@@ -33,7 +33,7 @@ Tuesday 5 February
 - 14h45-15h30 : [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
-- 16h45 -17h30 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/)
+- 16h45 -17h30 : [Rebecca Willett](https://voices.uchicago.edu/willett/)
 - 19h: welcome cocktail at Tour Zamansky Jussieu
 
 Wednesday 6 February
@@ -54,7 +54,7 @@ Thursday 7 February
 - 9h30-10h15: [Martin Burger](https://www.uni-muenster.de/AMM/num/Arbeitsgruppen/ag_burger/organization/burger//)t
 - 10h15-10h45 : Coffee break 
 - 10h45-11h30 : [Kristian Bredies](https://imsc.uni-graz.at/bredies/)
-- 11h30-12h15 : [Rebecca Willett](https://voices.uchicago.edu/willett/)
+- 11h30-12h15 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/)
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Yves van Gennip](https://www.nottingham.ac.uk/mathematics/people/y.vangennip)
 - 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/)
