@@ -8,14 +8,23 @@ header-img: "../img/paris2.png"
 Tentative program : 
 
 Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
+
 10h30 : Welcome/Coffee 
+
 11h-11h45 : [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
+
 11h45-12h30 : [Antonin Chambolle](http://www.cmap.polytechnique.fr/~antonin/) 
+
 12h30-14h : Lunch break
+
 14h-14h45 : [Joachim  Weickert](https://www.mia.uni-saarland.de/weickert/index.shtml)
+
 14h45-15h30 : [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/)
+
 15h30-16h : Coffee break 
+
 16h-16h45 : [Michael Hintermuller](https://www.math.hu-berlin.de/~hp_hint/)
+
 16h45-17h30 : F[Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html)
 
 
