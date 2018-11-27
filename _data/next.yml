@@ -5,7 +5,13 @@
   room: 314
   affiliation: CentraleSupelec
   url: https://hugues-talbot.github.io/
-  title: ""
+  title: "Path operators for thin objects restoration"
+  abstract: "In this talk we will present path operators, which are efficient recursive mathematical morphology connected operators that use
+paths as structuring elements. These operators are designed to preserve thin objects in images, such as hair, cilia, vessels, oriented textures,
+etc, which are traditionally very difficult to filter using classical operators in many settings. By combining these filters, we show how we can
+propose a vesselness operator with significant better performance than the traditional linear operators based on the Hessian (Frangi, Sato, etc)
+or the structure tensor. We also show recent work on how to use these operators as regularizers in variational frameworks for image restoration, in the context of discrete calculus."
+
 
 - speaker: Denis Fortun
   date: 6 december 2018
