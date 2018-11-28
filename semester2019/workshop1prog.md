@@ -29,7 +29,7 @@ Tuesday 5 February
 - 10h45-11h30 : [Guy Gilboa](http://guygilboa.eew.technion.ac.il/)
 - 11h30-12h15 : [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/)
 - 12h15-14h : Lunch break
-- 14h-14h45 :  [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz)
+- 14h-14h45 :  [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/)
 - 14h45-15h30 : [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
@@ -60,9 +60,9 @@ Thursday 7 February
 - 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/) 
-- 16h45 -17h30 : [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/)
+- 16h45 -17h30 : [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz)
 
-Friday 7 February
+Friday 8 February
 --------------
 - 9h30-10h15: [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/)
 - 10h15-10h45 : Coffee break 
