@@ -73,7 +73,16 @@ Friday 8 February
 - 14h45-15h30 : [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html)
 - 15h30-16h : Coffee break - end of the workshop
 
-
+Abstracts
+--------
+{% for oneitem in site.data.workshop1 %}
+<p>
+  <a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a> ({{ oneitem.affiliation }})<br/>
+  <b>Title:</b> <i>{{ oneitem.title }}</i>
+  <br/>
+  <b>Abstract:</b> {{ oneitem.abstract }}
+  </p>
+{% endfor %}
 
 Sponsors
 -----
