@@ -75,13 +75,12 @@ Friday 8 February
 
 Abstracts
 --------
-{% for oneitem in site.data.workshop1 %}
-<p>
-  {{ oneitem.speaker }}<br/>
-  <b>Title:</b> <i>{{ oneitem.title }}</i>
-  <br/>
-  <b>Abstract:</b> {{ oneitem.abstract }}
-  </p>
+{% for oneitem in site.data.next %}
+
+Le {{ oneitem.date }}, {{ oneitem.time }}, salle {{ oneitem.room }}.
+{{ oneitem.speaker }} ({{ oneitem.affiliation }})
+Title: {{ oneitem.title }}
+Abstract: {{ oneitem.abstract }}
 {% endfor %}
 
 Sponsors
