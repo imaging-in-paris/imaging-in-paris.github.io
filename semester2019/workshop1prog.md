@@ -34,7 +34,7 @@ Tuesday 5 February
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
 - 16h45 -17h30 : [Rebecca Willett](https://voices.uchicago.edu/willett/)
-- 19h: welcome cocktail at Tour Zamansky Jussieu
+- 18h30: welcome cocktail at Tour Zamansky Jussieu
 
 Wednesday 6 February
 -------------
