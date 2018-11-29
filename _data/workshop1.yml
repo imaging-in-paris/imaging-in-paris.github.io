@@ -1,0 +1,66 @@
+
+- speaker: Carola Schoenlieb
+  title: "A geometric integration approach to non-smooth and non-convex optimisation"
+  abstract: "This is joint work with Erlend Riis, Matthias Ehrhardt and Reinout Quispel."
+
+- speaker: Clarice Poon
+  title: "On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation"
+  abstract: "Sparse regularization is a central technique for both machine learning and imaging sciences. 
+  Existing performance guarantees assume a separation of the spikes based on an ad-hoc (usually Euclidean) minimum distance condition, 
+  which ignore the geometry of the problem. In this talk, we study the BLASSO (i.e. the off-the-grid version of l1 LASSO regularization) 
+  and show that the Fisher-Rao distance is the natural way to ensure and quantify support recovery. 
+  Under a separation imposed by this distance, I will present results which show that stable recovery of a sparse measure can 
+  be achieved when the sampling complexity is (up to log factors) linear with sparsity. 
+  On deconvolution problems, which are translation invariant, this generalizes to the multi-dimensional setting existing results 
+  of the literature. For more complex translation-varying problems, such as Laplace transform inversion, 
+  this gives the first geometry-aware guarantees for sparse recovery. 
+  This is joint work with Nicolas Keriven and Gabriel Peyre."
+
+
+- speaker: Emilie Chouzenoux
+  title: "Deep Unfolding of a Proximal Interior Point Method for Image Restoration"
+  abstract: "Variational methods have started to be widely applied to ill-posed inverse problems since they have the ability to embed 
+  prior knowledge about the solution. However, the level of performance of these methods significantly depends on a set of parameters, 
+  which can be estimated through computationally expensive and time-consuming processes. In contrast, deep learning offers very generic and efficient architectures, at the expense of explainability, since it is often used as a black-box, without any fine control over its output. Deep unfolding provides a convenient approach to combine variational-based and deep learning approaches. Starting from a variational formulation for image restoration, we develop iRestNet, a neural network architecture obtained by unfolding an interior point proximal algorithm. Hard constraints, encoding desirable properties for the restored image, are incorporated into the network thanks to a logarithmic barrier, while the barrier parameter, the stepsize, and the penalization weight are learned by the network. We derive explicit expressions for the gradient of the proximity operator for various choices of constraints, which allows training iRestNet with gradient descent and backpropagation. In addition, we provide theoretical results regarding the stability of the network. Numerical experiments on image deblurring problems show that the proposed approach outperforms both state-of-the-art variational and machine learning methods in terms of image quality.
+joint work with: C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato."
+
+- speaker: Nicolas Papadakis
+  title: "Covariant LEAst-square Re-fitting for Image Restoration"
+  abstract: "In this talk, a framework to remove parts of the systematic errors affecting popular restoration algorithms is presented, with a special focus on image processing tasks. Generalizing ideas that emerged for ℓ1 regularization, an approach re-fitting the results of standard methods towards the input data is developed. Total variation regularization and non-local means are special cases of interest. Important covariant information that should be preserved by the re-fitting method are identified, and the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator is emphasized. Then, a numerical approach is proposed. It has a "twicing" flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. The benefits of the method are illustrated on numerical simulations for image restoration tasks.
+This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Montpellier) and Samuel Vaiter (CNRS)."
+
+- speaker: Camille Couprie
+  title: "Image generative modeling for future prediction or inspirational purposes"
+  abstract: "Generative models, and in particular adversarial ones, are becoming prevalent in computer vision as they enable enhancing artistic creation, inspire designers, prove usefulness in semi-supervised learning or robotics applications. An important prerequisite towards intelligent behavior is the ability to anticipate future events. Predicting the appearance of future video frames is a proxy task towards pursuing this ability. We will present how generative adversarial networks (GANs) can help, and novel approaches predicting in higher level feature spaces of semantic segmentations. In a second part, we will see how to develop the abilities of GANs to deviate from training examples to generate novel images. Finally, as a limitation of GANs is the production of raw images of low resolution, we present solutions to produce vectorized results."
+
+- speaker: Xavier Bresson
+  title: "Convolutional Neural Networks on Graphs"
+  abstract: "In the past years, deep learning methods have achieved unprecedented performance on a broad range of problems in various fields from computer vision to speech recognition. So far research has mainly focused on developing deep learning methods for grid-structured data, while many important applications have to deal with graph-structured data. Such geometric data are becoming increasingly important in computer graphics and 3D vision, sensor networks, drug design, biomedicine, recommendation systems, and web applications. The purpose of this talk is to introduce the emerging field of deep learning on graphs, overview existing solutions as well as applications for this class of problems."
+
+- speaker: B. Buet
+  title: "A varifold approach to surface approximation and curvature estimation on point clouds"
+  abstract: "We propose a natural framework for the study of surfaces and their different discretizations based on varifolds. Varifolds have been introduced by Almgren to carry out the study of minimal surfaces. Though mainly used in the context of rectifiable sets, they turn out to be well suited to the study of discrete type objects as well. Let us briefly explain what a $d$--varifold is: it is a Radon measure on $\Omega \times G_{d,n}$ where $G_{d,n} = \{ d\text{--vector plane of } \mathbb{R}^n \}$ is the $d$--Grassmanian. It can be equivalently understood as the data of a Radon measure $\mu$ on $\R^n$ and a probability measure $\nu_x$ on $G_{d,n}$ at each point $x$ in the support of $\mu$. Using this point of view, we can easily associate a $d$--varifold with a $d$--submanifold $M$ of $\R^n$: we take the surface measure for $\mu$ (the $d$--Hausdorff measure restricted to $M$, which can be weighted) and for $\nu_x$, we take the Dirac mass at the tangent plane $T_x M$ on $G_{d,n}$. Loosely speaking, mass and tangent planes are enough to define a varifold. Hence, given a finite set of points  $\{ x_i \}_{i=1 \ldots N} \subset \R^n$,
+weighted by masses $\{ m_i \}_{i=1 \ldots N} \subset \R_+$,
+and provided with directions $\{ P_i \}_{i=1 \ldots N} \subset G_{d,n}$,
+we associate the $d$--varifold
+\[
+V_N = \sum_{i=1}^N m_i \, \delta_{(x_i, P_i)}  \: .
+\]
+While the structure of varifold is flexible enough to adapt to both regular and discrete objects, it allows to define variational notions of mean curvature and second fundamental form based on the divergence theorem. Thanks to a regularization of these weak formulations, we propose a notion of discrete curvature (actually a family of discrete curvatures associated with a regularization scale) relying only on the varifold structure. We prove nice convergence properties involving a natural growth assumption: the scale of regularization must be large with respect to the acuracy of the discretization. We performed numerical computations of mean curvature and Gaussian curvature on point clouds in $\R^3$ to illustrate this approach.
+Joint work with Gian Paolo Leonardi (Modena) and Simon Masnou (Lyon)."
+
+- speaker: G. Steidl
+  title: "Vector-valued optimal Lipschitz extensions on finite graphs"
+  abstract: "Let $G := (V,E,w)$  be an undirected connected weighted graph 
+ with weight function $w \colon E\to [0,1]$ and $\emptyset \neq U \subseteq V$, where $(u,v) \not \in E$ if $u,v \in U$.
+ We deal with  minimizers of the functionals
+\begin{align*}
+E_{p}f
+&:=  
+  \sum_{u \in V} \Big( \sum_{v \sim u} w(u,v)^p |f(u) - f(v)|^p \Big), \\
+E_{\infty} f
+&:= 
+ \max_{u \in V} \left(\max_{v \sim u} w(u,v) |f(u) - f(v)| \right)
+\end{align*}
+subject to $f|_U = g$ for vector-valued functions $f$ and address their relation to  midrange filters and $p$-Laplacians.
+Joint work with M. Ba{\v{c}}{\'a}k, J. Hertrich and S. Neumayer"
