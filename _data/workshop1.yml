@@ -22,7 +22,7 @@
   abstract: "Variational methods have started to be widely applied to ill-posed inverse problems since they have the ability to embed 
   prior knowledge about the solution. However, the level of performance of these methods significantly depends on a set of parameters, 
   which can be estimated through computationally expensive and time-consuming processes. In contrast, deep learning offers very generic and efficient architectures, at the expense of explainability, since it is often used as a black-box, without any fine control over its output. Deep unfolding provides a convenient approach to combine variational-based and deep learning approaches. Starting from a variational formulation for image restoration, we develop iRestNet, a neural network architecture obtained by unfolding an interior point proximal algorithm. Hard constraints, encoding desirable properties for the restored image, are incorporated into the network thanks to a logarithmic barrier, while the barrier parameter, the stepsize, and the penalization weight are learned by the network. We derive explicit expressions for the gradient of the proximity operator for various choices of constraints, which allows training iRestNet with gradient descent and backpropagation. In addition, we provide theoretical results regarding the stability of the network. Numerical experiments on image deblurring problems show that the proposed approach outperforms both state-of-the-art variational and machine learning methods in terms of image quality.
-joint work with: C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato."
+joint work with C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato."
 
 - speaker: Nicolas Papadakis
   title: "Covariant LEAst-square Re-fitting for Image Restoration"
