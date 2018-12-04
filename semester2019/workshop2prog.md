@@ -8,70 +8,63 @@ header-img: "../img/paris2.png"
 Tentative program
 -------------
 
-Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
+Monday 
 -------------
 
-- 10h30 : Welcome/Coffee 
-- 11h-11h45 : [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html)
-- 11h45-12h30 : [Antonin Chambolle](http://www.cmap.polytechnique.fr/~antonin/) 
-- 12h30-14h : Lunch break
-- 14h-14h45 : [Joachim  Weickert](https://www.mia.uni-saarland.de/weickert/index.shtml)
-- 14h45-15h30 : [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html)
+- 14h-14h45 : [Sylvain Paris](https://people.csail.mit.edu/sparis/)
+- 14h45-15h30 : [Sylvain Lefebvre](http://www.antexel.com/sylefeb/research/)
 - 15h30-16h : Coffee break 
-- 16h-16h45 : [Michael Hintermuller](https://www.math.hu-berlin.de/~hp_hint/)
-- 16h45-17h30 : [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/)
+- 16h-16h45 : [Pooran Memari](http://www.lix.polytechnique.fr/~memari/)
+- 16h45-17h30 : [Julien Rabin](https://sites.google.com/site/rabinjulien/)
 
 
-Tuesday 5 February
+Tuesday 
 -------------
-- 9h30-10h15: [Christoph Schnörr](https://ipa.iwr.uni-heidelberg.de/cschnoerr/)
+- 9h30-10h15: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) 
 - 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Guy Gilboa](http://guygilboa.eew.technion.ac.il/)
-- 11h30-12h15 : [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/)
+- 10h45-11h30 : [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)
+- 11h30-12h15 : [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
 - 12h15-14h : Lunch break
-- 14h-14h45 :  [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/)
-- 14h45-15h30 : [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/)
+- 14h-14h45 : [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
+- 14h45-15h30 : [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/)
 - 15h30-16h : Coffee break 
-- 16h-16h45 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
-- 16h45 -17h30 : [Rebecca Willett](https://voices.uchicago.edu/willett/)
-- 18h30: welcome cocktail at Tour Zamansky Jussieu
+- 16h-16h45 : [Pierre Chainais](http://pierrechainais.ec-lille.fr)
+- 16h45 -17h30 : [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
 
-Wednesday 6 February
+Wednesday 
 -------------
-- 9h30-10h15: [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/)
+- 9h30-10h15: [Alain Trouvé](http://atrouve.perso.math.cnrs.fr)
 - 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/)
-- 11h30-12h15 : [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) 
+- 10h45-11h30 : [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/)
+- 11h30-12h15 : [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
 - 12h15-14h : Lunch break
-- 14h-14h45 : [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon)
-- 14h45-15h30 : [Camille Couprie](https://research.fb.com/people/couprie-camille/)
-- 15h30-16h15 : [Thomas Veit](http://perso.lcpc.fr/veit.thomas/)
+- 14h-14h45 : [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/)
+- 14h45-15h30 : [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html)
+- 15h30-16h15 : [Xavier Descombes](https://www-sop.inria.fr/members/Xavier.Descombes/)
 - 16h15-17h: Coffee break 
-- 17h-18h : [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), Outreach plenary conference 
+- 17h-18h : [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference 
 
-Thursday 7 February
+Thursday 
 --------------
-- 9h30-10h15: [Martin Burger](https://www.uni-muenster.de/AMM/num/Arbeitsgruppen/ag_burger/organization/burger//)
-- 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Kristian Bredies](https://imsc.uni-graz.at/bredies/)
-- 11h30-12h15 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/)
-- 12h15-14h : Lunch break
-- 14h-14h45 : [Yves van Gennip](https://www.nottingham.ac.uk/mathematics/people/y.vangennip)
-- 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/)
-- 15h30-16h : Coffee break 
-- 16h-16h45 : [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/) 
-- 16h45 -17h30 : [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz)
+- 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/)
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Neus Sabater](https://www.technicolor.com/neus-sabater)
+- 11h30-12h15: [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/)
+- 12h15-14h: Lunch break
+- 14h-14h45: [Michael Unser](http://bigwww.epfl.ch/unser/)
+- 14h45-15h30: [Marianne Clausel](https://sites.google.com/site/marianneclausel/)
+- 15h30-16h: Coffee break 
+- 16h-16h45: [Pablo Arias](http://gpi.upf.edu/profile/211)
+- 16h45 -17h30: [François-Xavier Vialard](https://www.ceremade.dauphine.fr/%7Evialard/)
 
-Friday 8 February
+Friday 
 --------------
-- 9h30-10h15: [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/)
-- 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Yiqiu Dong](http://www2.compute.dtu.dk/~yido)
-- 11h30-12h15 : [Luca Zanni](http://cdm.unimo.it/home/matematica/zanni.luca/) 
-- 12h15-14h : Lunch break
-- 14h-14h45 : [Blanche Buet](https://www.math.u-psud.fr/~buet/)
-- 14h45-15h30 : [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html)
-- 15h30-16h : Coffee break - end of the workshop
+- 9h30-10h15: [Jean-Francois Cardoso]()
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Alfred Hero](https://hero.engin.umich.edu) (TO BE CONFIRMED)
+- 11h30-12h15: [Gersende Fort](https://www.math.univ-toulouse.fr/~gfort/)
+- 12h15: end of the workshop
+
 
 Abstracts
 --------
