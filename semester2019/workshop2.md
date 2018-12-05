@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Variational methods and optimization in imaging"
+title: "Statistical modeling for shapes and imaging"
 description: "Mathematics of Imaging
-          Workshop #1"
-header-img: "../img/paris2.png"
+          Workshop #2"
+header-img: "../img/paris4.png"
 ---
 
 Dates
