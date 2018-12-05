@@ -40,7 +40,7 @@ Confirmed Speakers
 - [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) (Technion)
 - [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (Univ. Bordeaux) 
 - [Sylvain Lefebvre](http://www.antexel.com/sylefeb/research/) (INRIA Nancy)
-- [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) (Technion, Israel) 
+- [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) (Technion) 
 - [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/) (Univ. Orléans)
 - [Pooran Memari](http://www.lix.polytechnique.fr/~memari/) (Polytechnique)
 - [Sylvain Paris](https://people.csail.mit.edu/sparis/) (adobe/MIT)  
