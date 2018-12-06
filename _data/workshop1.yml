@@ -25,6 +25,23 @@ joint work with C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato."
   title: "Image generative modeling for future prediction or inspirational purposes"
   abstract: "Generative models, and in particular adversarial ones, are becoming prevalent in computer vision as they enable enhancing artistic creation, inspire designers, prove usefulness in semi-supervised learning or robotics applications. An important prerequisite towards intelligent behavior is the ability to anticipate future events. Predicting the appearance of future video frames is a proxy task towards pursuing this ability. We will present how generative adversarial networks (GANs) can help, and novel approaches predicting in higher level feature spaces of semantic segmentations. In a second part, we will see how to develop the abilities of GANs to deviate from training examples to generate novel images. Finally, as a limitation of GANs is the production of raw images of low resolution, we present solutions to produce vectorized results."
 
+- speaker: Dirk Lorenz
+  title: "Quadratically regularized optimal transport"
+  abstract: "Among regularization techniques for optimal transport, entropic regularization has played a pivotal rule. The main reason may be its computational simplicity: the Sinkhorn-Knopp iteration can be implemented in two- or even one line ad enjoys a linear convergence rate. However, some care is needed to calculate optimizer for small regularization parameters and convergence can be quite slow for badly behaved data. Faster algorithms, e.g. Newton methods, are hard to analyze and tend to be unstable in practice. Moreover, the continuous theory is intricate in this case and takes place in Orlicz-Luxemburg spaces (as we will illustrate in this talk).
+After sketching parts of the continuous theory for entropic regularization, we will analyze a different regularizer, namely a simple quadratic penalty. First our focus lies on the continuous case where it is still quite challenging to show existence of suitable solutions for the dual problem. Then we will derive different numerical methods for the discrete problem which include a globally convergent Newton method which converges very fast to high accuracy even for fairly small regularization parameters.
+The talk is based on joint work with Christoph Brauer, Christian Clason, Paul Manns, Christian Meyer, and Benedikt Wirth."
+
+- speaker: Vincent Duval
+  title: "An atomic norm perspective on total variation regularization in image processing"
+  abstract: "It is folklore knowledge that the total (gradient) variation regularization tends to promote piecewise constant ``cartoon-like'' images. In this talk I will relate that property to the description of the extreme points of the total variation unit ball. 
+These extreme points have been characterized by Ambrosio, Caselles, Masnou and Morel as the indicator functions of ``simple sets''. I will explain how it is possible to describe the solutions of variational problems as a sum of such functions, by using a general representation principle.
+This is a joint work with C. Boyer, A. Chambolle, Y. De Castro, F. de Gournay and P. Weiss."
+
+- speaker: Albert Fannjiang
+  title: "Blind Ptychography: Theory and Algorithm"
+  abstract: "Blind ptychography is a phase retrieval method using multiple coded diffraction patterns from different, overlapping parts of the unknown extended object illuminated with an unknown window function. As such blind ptychography is the inverse problem of simultaneous recovery of the object and the window function given the intensities of  the windowed Fourier transform. 
+We derive a general set of conditions under which the object and the window function can be uniquely determined up to a scaling factor and an affine phase factor. We also characterize all the other ambiguities inherent to the raster scan which consists of the shift positions of  the standard windowed Fourier transform and propose an explicit remedy. Finally, we present  a reconstruction algorithm based on the Douglas-Rachford Splitting with initialization informed by the uniqueness theory."
+
 - speaker: Nicolas Papadakis
   title: "Covariant LEAst-square Re-fitting for Image Restoration"
   abstract: "In this talk, a framework to remove parts of the systematic errors affecting popular restoration algorithms is presented, with a special focus on image processing tasks. Generalizing ideas that emerged for \\( \\ell_1 \\) regularization, an approach re-fitting the results of standard methods towards the input data is developed. Total variation regularization and non-local means are special cases of interest. Important covariant information that should be preserved by the re-fitting method are identified, and the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator is emphasized. Then, a numerical approach is proposed. It has a twicing flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. The benefits of the method are illustrated on numerical simulations for image restoration tasks.
@@ -45,21 +62,4 @@ This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Mon
   \\[ E_{p} f:= \\sum_{u \\in V} \\Big( \\sum_{v \\sim u} w(u,v)^p |f(u) - f(v)|^p \\Big), \\]
   \\[E_{\\infty} f:=\\max_{u \\in V} \\left(\\max_{v \\sim u} w(u,v) |f(u) - f(v)| \\right) \\]
   subject to \\( f|_U = g \\) for vector-valued functions \\( f \\) and address their relation to midrange filters and \\( p \\)-Laplacians. Joint work with M. Bacak, J. Hertrich and S. Neumayer."
-  
-- speaker: Dirk Lorenz
-  title: "Quadratically regularized optimal transport"
-  abstract: "Among regularization techniques for optimal transport, entropic regularization has played a pivotal rule. The main reason may be its computational simplicity: the Sinkhorn-Knopp iteration can be implemented in two- or even one line ad enjoys a linear convergence rate. However, some care is needed to calculate optimizer for small regularization parameters and convergence can be quite slow for badly behaved data. Faster algorithms, e.g. Newton methods, are hard to analyze and tend to be unstable in practice. Moreover, the continuous theory is intricate in this case and takes place in Orlicz-Luxemburg spaces (as we will illustrate in this talk).
-After sketching parts of the continuous theory for entropic regularization, we will analyze a different regularizer, namely a simple quadratic penalty. First our focus lies on the continuous case where it is still quite challenging to show existence of suitable solutions for the dual problem. Then we will derive different numerical methods for the discrete problem which include a globally convergent Newton method which converges very fast to high accuracy even for fairly small regularization parameters.
-The talk is based on joint work with Christoph Brauer, Christian Clason, Paul Manns, Christian Meyer, and Benedikt Wirth."
-
-- speaker: Vincent Duval
-  title: "An atomic norm perspective on total variation regularization in image processing"
-  abstract: "It is folklore knowledge that the total (gradient) variation regularization tends to promote piecewise constant ``cartoon-like'' images. In this talk I will relate that property to the description of the extreme points of the total variation unit ball. 
-These extreme points have been characterized by Ambrosio, Caselles, Masnou and Morel as the indicator functions of ``simple sets''. I will explain how it is possible to describe the solutions of variational problems as a sum of such functions, by using a general representation principle.
-This is a joint work with C. Boyer, A. Chambolle, Y. De Castro, F. de Gournay and P. Weiss."
-
-- speaker: Albert Fannjiang
-  title: "Blind Ptychography: Theory and Algorithm"
-  abstract: "Blind ptychography is a phase retrieval method using multiple coded diffraction patterns from different, overlapping parts of the unknown extended object illuminated with an unknown window function. As such blind ptychography is the inverse problem of simultaneous recovery of the object and the window function given the intensities of  the windowed Fourier transform. 
-We derive a general set of conditions under which the object and the window function can be uniquely determined up to a scaling factor and an affine phase factor. We also characterize all the other ambiguities inherent to the raster scan which consists of the shift positions of  the standard windowed Fourier transform and propose an explicit remedy. Finally, we present  a reconstruction algorithm based on the Douglas-Rachford Splitting with initialization informed by the uniqueness theory."
-
+ 
