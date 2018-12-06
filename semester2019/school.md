@@ -104,7 +104,7 @@ Scientific Committee
 - [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
 - [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS and ENS Cachan)
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
-- [Bruno Galerne](http://www.math-info.univ-paris5.fr/~bgalerne/) (Paris 5)
+- [Bruno Galerne](https://www.idpoisson.fr/galerne/) (Orléans)
 - [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (Cambridge)
 - [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/) (Kaiserslautern)
 - [Clothilde Mélot](https://old.i2m.univ-amu.fr/~melot/index.html) (Marseille)
