@@ -46,7 +46,7 @@ The talk is based on joint work with Christoph Brauer, Christian Clason, Paul Ma
 These extreme points have been characterized by Ambrosio, Caselles, Masnou and Morel as the indicator functions of ``simple sets''. I will explain how it is possible to describe the solutions of variational problems as a sum of such functions, by using a general representation principle.
 This is a joint work with C. Boyer, A. Chambolle, Y. De Castro, F. de Gournay and P. Weiss."
 
-- speaker: A. Fannjiang:
+- speaker: A. Fannjiang
   title: "Blind Ptychography: Theory and Algorithm"
   abstract: "Blind ptychography is a phase retrieval method using multiple coded diffraction patterns from different, overlapping parts of the unknown extended object illuminated with an unknown window function. As such blind ptychography is the inverse problem of simultaneous recovery of the object and the window function given the intensities of  the windowed Fourier transform. 
 We derive a general set of conditions under which the object and the window function can be uniquely determined up to a scaling factor and an affine phase factor. We also characterize all the other ambiguities inherent to the raster scan which consists of the shift positions of  the standard windowed Fourier transform and propose an explicit remedy. Finally, we present  a reconstruction algorithm based on the Douglas-Rachford Splitting with initialization informed by the uniqueness theory."
