@@ -60,7 +60,7 @@ Organizers
 - [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
 - [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS and ENS Cachan)
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
-- [Bruno Galerne](http://www.math-info.univ-paris5.fr/~bgalerne/) (Paris 5)
+- [Bruno Galerne](https://www.idpoisson.fr/galerne/) (Orléans)
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS)
 
 
