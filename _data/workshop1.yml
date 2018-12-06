@@ -4,7 +4,7 @@
 
 - speaker: Clarice Poon
   title: "On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation"
-  abstract: "Sparse regularization is a central technique for both machine learning and imaging sciences. Existing performance guarantees assume a separation of the spikes based on an ad-hoc (usually Euclidean) minimum distance condition, which ignore the geometry of the problem. In this talk, we study the BLASSO (i.e. the off-the-grid version of \\( \ell_1 \\) LASSO regularization) and show that the Fisher-Rao distance is the natural way to ensure and quantify support recovery. Under a separation imposed by this distance, I will present results which show that stable recovery of a sparse measure can be achieved when the sampling complexity is (up to log factors) linear with sparsity. On deconvolution problems, which are translation invariant, this generalizes to the multi-dimensional setting existing results of the literature. For more complex translation-varying problems, such as Laplace transform inversion, this gives the first geometry-aware guarantees for sparse recovery. This is joint work with Nicolas Keriven and Gabriel Peyre."
+  abstract: "Sparse regularization is a central technique for both machine learning and imaging sciences. Existing performance guarantees assume a separation of the spikes based on an ad-hoc (usually Euclidean) minimum distance condition, which ignore the geometry of the problem. In this talk, we study the BLASSO (i.e. the off-the-grid version of \\( l_1 \\) LASSO regularization) and show that the Fisher-Rao distance is the natural way to ensure and quantify support recovery. Under a separation imposed by this distance, I will present results which show that stable recovery of a sparse measure can be achieved when the sampling complexity is (up to log factors) linear with sparsity. On deconvolution problems, which are translation invariant, this generalizes to the multi-dimensional setting existing results of the literature. For more complex translation-varying problems, such as Laplace transform inversion, this gives the first geometry-aware guarantees for sparse recovery. This is joint work with Nicolas Keriven and Gabriel Peyre."
 
 - speaker: Emilie Chouzenoux
   title: "Deep Unfolding of a Proximal Interior Point Method for Image Restoration"
@@ -15,7 +15,7 @@ joint work with C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato."
 
 - speaker: Nicolas Papadakis
   title: "Covariant LEAst-square Re-fitting for Image Restoration"
-  abstract: "In this talk, a framework to remove parts of the systematic errors affecting popular restoration algorithms is presented, with a special focus on image processing tasks. Generalizing ideas that emerged for \\( \ell_1 \\) regularization, an approach re-fitting the results of standard methods towards the input data is developed. Total variation regularization and non-local means are special cases of interest. Important covariant information that should be preserved by the re-fitting method are identified, and the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator is emphasized. Then, a numerical approach is proposed. It has a twicing flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. The benefits of the method are illustrated on numerical simulations for image restoration tasks.
+  abstract: "In this talk, a framework to remove parts of the systematic errors affecting popular restoration algorithms is presented, with a special focus on image processing tasks. Generalizing ideas that emerged for \\( l_1 \\) regularization, an approach re-fitting the results of standard methods towards the input data is developed. Total variation regularization and non-local means are special cases of interest. Important covariant information that should be preserved by the re-fitting method are identified, and the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator is emphasized. Then, a numerical approach is proposed. It has a twicing flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. The benefits of the method are illustrated on numerical simulations for image restoration tasks.
 This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Montpellier) and Samuel Vaiter (CNRS)."
 
 - speaker: Camille Couprie
@@ -32,8 +32,7 @@ This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Mon
 
 - speaker: Gabriele Steidl
   title: "Vector-valued optimal Lipschitz extensions on finite graphs"
-  abstract: "Let \\( a=b \\)"
-  #be an undirected connected weighted graph with weight function \\( w: E \to [0,1] \\) 
+  abstract: "Let \\( G := (V,E,w) \\) be an undirected connected weighted graph with weight function \\( w: E \to [0,1] \\)"
 #and \\( \emptyset \neq U \subseteq V \\), where \\( (u,v) \not \in E \\) if \\( u,v \in U \\).
  #We deal with  minimizers of the functionals
 #\\[ E_{p}f:=\sum_{u \in V} \Big( \sum_{v \sim u} w(u,v)^p |f(u) - f(v)|^p \Big), \\]
