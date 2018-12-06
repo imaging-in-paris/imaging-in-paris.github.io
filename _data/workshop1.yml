@@ -32,8 +32,8 @@ This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Mon
 
 - speaker: Gabriele Steidl
   title: "Vector-valued optimal Lipschitz extensions on finite graphs"
-  abstract: "Let \\( G := (V,E,w) \\) be an undirected connected weighted graph with weight function \\( w : E \\to [0,1] \\) and \\( \\emptyset \\neq U \\subseteq V \\), where \\( (u,v) \\not \\in E \\) if \\( u,v \\in U \\)."
-#  We deal with minimizers of the functionals
+  abstract: "Let \\( G := (V,E,w) \\) be an undirected connected weighted graph with weight function \\( w : E \\to [0,1] \\) and \\( \\emptyset \\neq U \\subseteq V \\), where \\( (u,v) \\not \\in E \\) if \\( u,v \\in U \\). 
+  We deal with minimizers of the functionals"
 #  \\[ E_{p} f:= \\sum_{u \\in V} \\Big( \\sum_{v \\sim u} w(u,v)^p |f(u) - f(v)|^p \\Big), \\]
 #  \\[E_{\\infty} f:=\max_{u \\in V} \\left(\\max_{v \\sim u} w(u,v) |f(u) - f(v)| \\right) \\]"
   #subject to \\( f|_U = g \\) for vector-valued functions \\( f \\) and address their relation to midrange filters and \\( p \\)-Laplacians.</br>
