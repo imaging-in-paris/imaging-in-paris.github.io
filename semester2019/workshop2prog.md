@@ -22,14 +22,14 @@ Tuesday
 -------------
 - 9h30-10h15: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) 
 - 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)
+- 10h45-11h30 : [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
 - 11h30-12h15 : [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
 - 14h45-15h30 : [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Pierre Chainais](http://pierrechainais.ec-lille.fr)
-- 16h45 -17h30 : [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
+- 16h45 -17h30 : [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)
 
 Wednesday 
 -------------
