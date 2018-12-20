@@ -28,10 +28,19 @@ All the conferences will take place at IHP.
 
 January 7-11th 2019, [CIRM  pre-school for PhD students and postdocs](semester2019/school).
 
+Special events organized by AMIES  
+------------
+- January 29th 2019 "[Artificial intelligence for imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
+- February 15th 2019 "[Environment and imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
+- March 22th 2019 "[Medical imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
+
+
+
 Monthly seminar on imaging sciences
 -------------
 
 More [information here](seminar/).
+
 
 Master Courses
 -------------
