@@ -71,3 +71,7 @@ This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Mon
   \\[E_{\\infty} f:=\\max_{u \\in V} \\left(\\max_{v \\sim u} w(u,v) |f(u) - f(v)| \\right) \\]
   subject to \\( f|_U = g \\) for vector-valued functions \\( f \\) and address their relation to midrange filters and \\( p \\)-Laplacians. Joint work with M. Bacak, J. Hertrich and S. Neumayer."
  
+- speaker: Hugues Talbot 
+  title: "Discrete multigrid convergent estimators of curvature"
+  abstract: "Recent works have indicated the potential of using curvature as a regularizer in image segmentation, in particular for the class of thin and elongated objects. These are ubiquitous in bio-medical imaging (e.g. vascular networks), in which length regularization can sometime performs badly, as well as in texture identication. However, curvature is a second-order dierential measure, and so its estimators are sensitive to noise. The straightforward extentions to Total Variation are not convex, making it a challenge to optimize. State-of-art techniques make use of a coarse approximation of curvature that limit practical applications. We argue that curvature must instead be computed using a multigrid convergent estimator, and we propose in this paper a new digital curvature ow which mimicks continuous curvature flow. We illustrate its potential as a post-processing step to a variational segmentation framework."
+
