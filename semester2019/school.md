@@ -30,14 +30,15 @@ Agenda
 
 MONDAY
 
-- 9h00-10h30 - Convex  methods in imaging
+- 9h00-10h30 - Sparsity in imaging
 - 10h30-11h - Coffee break
-- 11h-12h30 - Convex  methods in imaging
+- 11h-12h30 - Sparsity in imaging
 - 12h30-14h - Lunch
-- 14h-15h30 - Sparsity in imaging
+- 14h-15h30 - Convex  methods in imaging
 - 15h30-16h - Coffee break
-- 16h00 -17h30 - Sparsity in imaging
-- Evening - Poster session (TBC)
+- 16h00-17h30 - Convex  methods in imaging
+- 18h00-19h00 - Flash presentations session
+- Evening 
 
 TUESDAY
 
@@ -47,8 +48,9 @@ TUESDAY
 - 12h30-14h - Lunch
 - 14h-15h30 - Sparsity in imaging
 - 15h30-16h - Coffee break
-- 16h00 -17h30 - Sparsity in imaging
-- Evening - Poster session (TBC)
+- 16h00-17h30 - Sparsity in imaging
+- 18h00-19h00 - Poster session 
+- Evening 
 
 WEDNESDAY
 
@@ -57,7 +59,7 @@ WEDNESDAY
 - 11h-12h30 - Bayesian methods in imaging
 - 12h30-14h - Lunch
 - Free afternoon
-- Evening - TBA
+- Evening 
 
 THURSDAY
 
@@ -68,6 +70,7 @@ THURSDAY
 - 14h-15h30 - Practical machine learning
 - 15h30-16h - Coffee break
 - 16h00 -17h30 - Practical machine learning
+- Evening - Bouillabaisse diner
 
 FRIDAY
 - 9h00-10h30 - Practical machine learning
