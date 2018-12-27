@@ -69,6 +69,14 @@ Friday
 Abstracts
 --------
 
+{% for oneitem in site.data.workshop2 %}
+<p>
+  {{ oneitem.speaker }}<br/>
+  <b>Title:</b> <i>{{ oneitem.title }}</i><br/>
+  <b>Abstract:</b> {{ oneitem.abstract }}
+</p>
+{% endfor %}
+
 
 
 Sponsors
