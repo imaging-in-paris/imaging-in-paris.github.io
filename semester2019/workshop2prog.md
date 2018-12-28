@@ -20,9 +20,9 @@ Monday
 
 Tuesday 
 -------------
-- 9h30-10h15: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) 
+- 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) 
 - 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
+- 10h45-11h30 : [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/)
 - 11h30-12h15 : [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
@@ -46,7 +46,7 @@ Wednesday
 
 Thursday 
 --------------
-- 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/)
+- 9h30-10h15: [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Neus Sabater](https://www.technicolor.com/neus-sabater)
 - 11h30-12h15: [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/)
