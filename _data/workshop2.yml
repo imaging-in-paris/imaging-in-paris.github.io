@@ -7,7 +7,7 @@
   abstract: "The marked point process framework has been successfully developed in the field of image analysis to detect a configuration of predefined objects. In this talk I will show how it can be particularly applied to biological imagery. We present a simple model that shows how some of the challenges specific to biological data are well addressed by the methodology. I will describe an extension to this first model to address other challenges due, for example, to the shape variability in biological material. The results  illustrate the MPP framework using the 'simcep' algorithm for simulating populations of cells."
 
 - speaker: Alfred Hero
-  title: "Functional Data Analysis Under Shape Constraints"
+  title: "TeraLasso for sparse time-varying image modeling"
   abstract: "We propose a new ultrasparse graphical model for representing time varying images, and other multiway data,  based on a Kronecker sum representation of the spatio-temporal inverse covariance matrix. This statistical model decomposes the inverse covariance into a linear Kronecker sum representation with sparse Kronecker factors. Under the assumption that the multiway observations are matrix-normal the l1 sparsity regularized log-likelihood function is convex and admits significantly faster statistical rates of convergence than other sparse matrix normal algorithms such as graphical lasso or Kronecker graphical lasso. We will illustrate the method on meteoroligical and MRI imagery to demonstrate the ability of the model to capture sparse structure  with few samples. This is joint work with Kristjan Greenewald and Shuheng Zhou."
 
 
