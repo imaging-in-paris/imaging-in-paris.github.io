@@ -8,7 +8,7 @@ header-img: "../img/paris4.png"
 Tentative program
 -------------
 
-Monday 
+Monday (March 11)
 -------------
 
 - 14h-14h45 : [Sylvain Paris](https://people.csail.mit.edu/sparis/)
@@ -18,7 +18,7 @@ Monday
 - 16h45-17h30 : [Julien Rabin](https://sites.google.com/site/rabinjulien/)
 
 
-Tuesday 
+Tuesday (March 12)
 -------------
 - 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) 
 - 10h15-10h45 : Coffee break 
@@ -31,7 +31,7 @@ Tuesday
 - 16h-16h45 : [Pierre Chainais](http://pierrechainais.ec-lille.fr)
 - 16h45 -17h30 : [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)
 
-Wednesday 
+Wednesday (March 13)
 -------------
 - 9h30-10h15: [Alain Trouvé](http://atrouve.perso.math.cnrs.fr)
 - 10h15-10h45 : Coffee break 
@@ -44,7 +44,7 @@ Wednesday
 - 16h15-17h: Coffee break 
 - 17h-18h : [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference 
 
-Thursday 
+Thursday (March 14)
 --------------
 - 9h30-10h15: [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
 - 10h15-10h45: Coffee break 
@@ -57,7 +57,7 @@ Thursday
 - 16h-16h45: [Pablo Arias](http://gpi.upf.edu/profile/211)
 - 16h45 -17h30: [François-Xavier Vialard](https://www.ceremade.dauphine.fr/%7Evialard/)
 
-Friday 
+Friday (March 15)
 --------------
 - 9h30-10h15: [Jean-Francois Cardoso]()
 - 10h15-10h45: Coffee break 
