@@ -24,7 +24,7 @@ Confirmed Speakers
 -------------
 
 - [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) (Univ. Paris Descartes)
-- [Pablo Arias](http://gpi.upf.edu/profile/211) (Univ. Pompeu Fabra, Spain) 
+- [Pablo Arias](http://gpi.upf.edu/profile/211) (ENS Paris Saclay) 
 - [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/) (Univ. Poitiers)
 - [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/) (Univ. Bordeaux)
 - [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/) (Polytechnique)
