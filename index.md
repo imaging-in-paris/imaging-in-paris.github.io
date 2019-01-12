@@ -21,7 +21,7 @@ All the conferences will take place at IHP.
 
 - [Variational methods and optimization in imaging](semester2019/workshop1), February 4th-8th  2019.
 - [Statistical Modeling for Shapes and Imaging](semester2019/workshop2), March 11th-15th 2019.
-- [Imaging and machine learning](), April 1st-5th 2019.
+- [Imaging and machine learning](semester2019/workshop3), April 1st-5th 2019.
 
 [CIRM pre-school](semester2019/school)
 -------------
@@ -30,6 +30,7 @@ January 7-11th 2019, [CIRM  pre-school for PhD students and postdocs](semester20
 
 Special events organized by AMIES  
 ------------
+
 - January 29th 2019 "[Artificial intelligence for imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
 - February 15th 2019 "[Environment and imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
 - March 22th 2019 "[Medical imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
