@@ -45,7 +45,7 @@ Wednesday 6 February
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon)
 - 14h45-15h30 : [Camille Couprie](https://research.fb.com/people/couprie-camille/)
-- 15h30-16h15 : [Thomas Veit](http://perso.lcpc.fr/veit.thomas/)
+- 15h30-16h15 : [Thomas Veit](https://gopro.com/news)
 - 16h15-17h: Coffee break 
 - 17h-18h : [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), Outreach plenary conference 
 
