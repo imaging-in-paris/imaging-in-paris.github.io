@@ -1,4 +1,8 @@
 - speaker: Xavier Bresson
+  title: "Sliced Partial Optimal Transport"
+  abstract: "Sliced optimal transport is a blazing fast way to compute a notion of optimal transport between uniform measures supported on point clouds via 1-d projections. However, it requires these point clouds to have the same cardinality. This talk will show a fast numerical scheme to compute partial optimal transport in 1-d : this corresponds to solving an alignment problem often solved with dynamic programming, though our solution is much faster. We integrate this 1-d alignment algorithm within a sliced transport framework, for applications such as color transfer. We also make use of sliced partial optimal transport to solve point cloud registration tasks such as those traditionally solved with ICP. I'll show results involving hundreds of thousands of points computed within seconds or minutes. I'll also show preliminary results on sliced partial Wasserstein barycenters."
+
+- speaker: Xavier Bresson
   title: "Convolutional Neural Networks on Graphs"
   abstract: "In the past years, deep learning methods have achieved unprecedented performance on a broad range of problems in various fields from computer vision to speech recognition. So far research has mainly focused on developing deep learning methods for grid-structured data, while many important applications have to deal with graph-structured data. Such geometric data are becoming increasingly important in computer graphics and 3D vision, sensor networks, drug design, biomedicine, recommendation systems, and web applications. The purpose of this talk is to introduce the emerging field of deep learning on graphs, overview existing solutions as well as applications for this class of problems."
 
