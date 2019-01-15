@@ -9,7 +9,7 @@ header-img: "../img/paris4.png"
 Dates
 -------------
 
-March 11th-15th 2019.
+April 1st-5th 2019.
 
 
 Registration
