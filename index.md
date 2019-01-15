@@ -23,6 +23,14 @@ All the conferences will take place at IHP.
 - [Statistical Modeling for Shapes and Imaging](semester2019/workshop2), March 11th-15th 2019.
 - [Imaging and machine learning](semester2019/workshop3), April 1st-5th 2019.
 
+
+Outreach plenary conferences (conférences grand public)
+-------------
+
+- [Jean-Michel Morel (ENS Paris-Saclay)](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), February 6th 2019.
+- [Marie-Paul Cani (Polytechnique)](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), March 13th 2019.
+- [Stéphane Mallat (Collège de France)](https://www.college-de-france.fr/site/stephane-mallat/index.htm), April 3rd 2019.
+
 [CIRM pre-school](semester2019/school)
 -------------
 
