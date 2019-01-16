@@ -14,12 +14,20 @@ Registration
 
 [Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to one (or to all!) of these conferences and to the pre-school.
 
-Conferences
+Conferences #1 - [Variational methods and optimization in imaging](semester2019/workshop1)
 -------------
-All the conferences will take place at IHP.
-- [Variational methods and optimization in imaging](semester2019/workshop1), February 4th-8th  2019.
-- [Statistical Modeling for Shapes and Imaging](semester2019/workshop2), March 11th-15th 2019.
-- [Imaging and machine learning](semester2019/workshop3), April 1st-5th 2019.
+
+February 4th-8th  2019.
+
+Conferences #2 - [Statistical Modeling for Shapes and Imaging](semester2019/workshop2)
+-------------
+
+March 11th-15th 2019.
+
+Conferences #3 - [Imaging and machine learning](semester2019/workshop3)
+-------------
+
+April 1st-5th 2019.
 
 Outreach plenary conferences (conférences grand public)
 -------------
@@ -60,10 +68,6 @@ The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/vers
 - March 4, 18 (Hermite amphitheater), 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
 
 
-High-school and general audience activity
--------------
-
-More information soon.
 
 Organizers
 -----
