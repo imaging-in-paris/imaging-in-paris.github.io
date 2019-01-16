@@ -14,20 +14,20 @@ Registration
 
 [Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to one (or to all!) of these conferences and to the pre-school.
 
-Conferences #1 - [Variational methods and optimization in imaging](semester2019/workshop1)
+[Conferences #1: Variational methods and optimization in imaging](semester2019/workshop1)
 -------------
 
-February 4th-8th  2019.
+February 4th-8th  2019, IHP.
 
-Conferences #2 - [Statistical Modeling for Shapes and Imaging](semester2019/workshop2)
+[Conferences #2: Statistical Modeling for Shapes and Imaging](semester2019/workshop2)
 -------------
 
-March 11th-15th 2019.
+March 11th-15th 2019, IHP.
 
-Conferences #3 - [Imaging and machine learning](semester2019/workshop3)
+ [Conferences #3: Imaging and machine learning](semester2019/workshop3)
 -------------
 
-April 1st-5th 2019.
+April 1st-5th 2019, IHP.
 
 Outreach plenary conferences (conférences grand public)
 -------------
