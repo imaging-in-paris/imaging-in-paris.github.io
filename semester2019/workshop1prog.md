@@ -65,8 +65,8 @@ Thursday 7 February
 Friday 8 February
 --------------
 - 9h30-10h15: [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/)
-- 10h15-10h45 : - 11h30-12h15 : [Luca Zanni](http://cdm.unimo.it/home/matematica/zanni.luca/)  
-- 10h45-11h30 : Coffee break
+- 10h15-11h : [Luca Zanni](http://cdm.unimo.it/home/matematica/zanni.luca/)  
+- 11h-11h30 : Coffee break
 - 11h30-12h15 : [Blanche Buet](https://www.math.u-psud.fr/~buet/) 
 - 12h15-13h00 : [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html)
 - Lunch break - end of the workshop
