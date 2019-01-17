@@ -22,7 +22,7 @@ The pre-school will contain courses, practical sessions, flash presentations and
 The 4 main courses will be:
 - [Daniel Cremers](https://vision.in.tum.de/members/cremers) (München), _convex methods in imaging_
 - [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA),  _practical machine learning_
-- [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt): _Bayesian methods in imaging_. **SLIDES**: [Slides Part I](./slides/Pereyra_Presentation_CIRM_I_Jan_2019.pdf), [Slides Part II](./slides/Pereyra_Presentation_CIRM_II_Jan_2019.pdf), [Slides Part III](./slides/Pereyra_Presentation_CIRM_III_Jan_2019.pdf), [Slides Part IV](./slides/Pereyra_Presentation_CIRM_IV_Jan_2019.pdf)
+- [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt): _Bayesian methods in imaging_. **SLIDES**: [Part I](./slides/Pereyra_Presentation_CIRM_I_Jan_2019.pdf), [Part II](./slides/Pereyra_Presentation_CIRM_II_Jan_2019.pdf), [Part III](./slides/Pereyra_Presentation_CIRM_III_Jan_2019.pdf), [Part IV](./slides/Pereyra_Presentation_CIRM_IV_Jan_2019.pdf)
 - [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (Cambridge): _sparsity in imaging_
 
 Agenda
