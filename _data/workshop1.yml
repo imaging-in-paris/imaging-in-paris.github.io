@@ -18,10 +18,14 @@ V_N = \\sum_{i=1}^N m_i , \\delta_{(x_i, P_i)} .
 While the structure of varifold is flexible enough to adapt to both regular and discrete objects, it allows to define variational notions of mean curvature and second fundamental form based on the divergence theorem. Thanks to a regularization of these weak formulations, we propose a notion of discrete curvature (actually a family of discrete curvatures associated with a regularization scale) relying only on the varifold structure. We prove nice convergence properties involving a natural growth assumption: the scale of regularization must be large with respect to the accuracy of the discretization. We performed numerical computations of mean curvature and Gaussian curvature on point clouds in \\( \\mathbb{R}^3 \\) to illustrate this approach.  
 Joint work with Gian Paolo Leonardi (Modena) and Simon Masnou (Lyon)."
 
+- speaker: Antonin Chambolle
+  title: "Finite element discretizations of the total variation"
+  abstract: "In this talk we will discuss the merits of the P1 and non-conforming P1 finite elements for approximating the total variation, and in particular of discontinuous functions. We propose, in 2D, an automatic mesh adaption process which adapts to the direction of the discontinuities."
+
 - speaker: Caroline Chaux
   title: "From the modelization of direct problems in image processing to the resolution of inverse problems"
   abstract: "In this work, we are interested in the resolution of inverse problems raised in many image processing applications. We considered inverse problems starting from models (understanding the acquisition process), then addressing their resolution (formulated as an optimization problem) while considering the parameters or hyperparameters involved all along the process (e.g. noise nature/intensity, regularization parameters). Different models will be considered corresponding to different application cases such as tensor factorization, source separation or time-frequency inpainting. All these issues have been addressed by adopting a variational approach leading to various optimization problems that we propose to solve by developing proximal approaches."
-
+  
 - speaker: Emilie Chouzenoux
   title: "Deep Unfolding of a Proximal Interior Point Method for Image Restoration"
   abstract: "Variational methods have started to be widely applied to ill-posed inverse problems since they have the ability to embed 
@@ -32,6 +36,10 @@ Joint work with C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato."
 - speaker: Camille Couprie
   title: "Image generative modeling for future prediction or inspirational purposes"
   abstract: "Generative models, and in particular adversarial ones, are becoming prevalent in computer vision as they enable enhancing artistic creation, inspire designers, prove usefulness in semi-supervised learning or robotics applications. An important prerequisite towards intelligent behavior is the ability to anticipate future events. Predicting the appearance of future video frames is a proxy task towards pursuing this ability. We will present how generative adversarial networks (GANs) can help, and novel approaches predicting in higher level feature spaces of semantic segmentations. In a second part, we will see how to develop the abilities of GANs to deviate from training examples to generate novel images. Finally, as a limitation of GANs is the production of raw images of low resolution, we present solutions to produce vectorized results."
+
+- speaker: Charles Dossal
+  title: "Exact rate of Nesterov Scheme"
+  abstract: "In 1984 Nesterov proposed an inertial gradient scheme to minimize convex functions which ensures a \\( 1/n^2 \\) decay rate. In this talk, we give the exact decay rate of this scheme depending on the geometrical properties of the function to minimize."
 
 - speaker: Vincent Duval
   title: "An atomic norm perspective on total variation regularization in image processing"
