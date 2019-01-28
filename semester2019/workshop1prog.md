@@ -32,7 +32,7 @@ Tuesday 5 February
 - 14h-14h45 :  [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/)
 - 14h45-15h30 : [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/)
 - 15h30-16h : Coffee break 
-- 16h-16h45 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
+- 16h-16h45 : [Camille Couprie](https://research.fb.com/people/couprie-camille/)
 - 16h45 -17h30 : [Rebecca Willett](https://voices.uchicago.edu/willett/)
 - 18h30: welcome cocktail at Tour Zamansky Jussieu
 
@@ -44,8 +44,8 @@ Wednesday 6 February
 - 11h30-12h15 : [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) 
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon)
-- 14h45-15h30 : [Camille Couprie](https://research.fb.com/people/couprie-camille/)
-- 15h30-16h15 : [Thomas Veit](https://gopro.com/news)
+- 14h45-15h30 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
+- 15h30-16h15 : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html)
 - 16h15-17h: Coffee break 
 - 17h-18h : [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), Outreach plenary conference 
 
