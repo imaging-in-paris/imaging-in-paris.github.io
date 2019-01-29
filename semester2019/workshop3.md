@@ -25,6 +25,8 @@ Confirmed Speakers
 - [Chloé-Agathe Azencott](http://cazencott.info/) (Mines-Paristech)
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA)
 - [Erik Bekkers](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research/research-groups/medical-image-analysis/organization/former-group-members/ir-ej-erik-bekkers/) (Eindhoven University of Technology)
+- [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (University College London) 
+- [Christoph Brune](https://people.utwente.nl/c.brune)  (University of Twente) 
 - [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (UST HK)
 - [Matthieu Cord](http://webia.lip6.fr/~cord/) (UPMC)
 - [Romain Couillet](http://romaincouillet.hebfree.org/) (Univ. Grenoble)
@@ -36,17 +38,20 @@ Confirmed Speakers
 - [Rodolphe Jenatton](http://rodolphejenatton.com/) (Amazon)
 - [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (INRIA)
 - [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (Collège de France)
+- [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (Naver)
 - [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (Swiss Data Science Center)
+- [Ozan Öktem](https://www.kth.se/profile/ozan) (KTH)
 - [Patrick Pérez](https://ptrckprz.github.io/) (Valeo)
 - [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT-IIT)
 - [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke Univ.)
+- [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC)
 - [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner) (Oxford)
+- [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (Swiss Data Science Center)
 - [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (INRIA)
 - [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (Poli Milano)
 - [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (Mines ParisTech, Google)
 - [Claire Vernade](https://www.cvernade.com/) (Google Deepmind)
 - [Irene Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (CNRS and Paris-Dauphine)
-
 
 
 
