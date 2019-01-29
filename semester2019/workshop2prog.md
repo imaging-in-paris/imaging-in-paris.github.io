@@ -61,7 +61,7 @@ Friday (March 15)
 --------------
 - 9h30-10h15: [Jean-Francois Cardoso]()
 - 10h15-10h45: Coffee break 
-- 10h45-11h30: [Alfred Hero](https://hero.engin.umich.edu) (TO BE CONFIRMED)
+- 10h45-11h30: [Alfred Hero](https://hero.engin.umich.edu) 
 - 11h30-12h15: [Gersende Fort](https://www.math.univ-toulouse.fr/~gfort/)
 - 12h15: end of the workshop
 

@@ -23,7 +23,7 @@ Program ([click here](https://imaging-in-paris.github.io/semester2019/workshop1p
 Confirmed Speakers
 -------------
 
-- [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) (CNRS and Paris 5)
+- [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) (CNRS and Paris Descartes)
 - [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/) (CNRS Lyon)
 - [Kristian Bredies](https://imsc.uni-graz.at/bredies/) (Univ. Graz)
 - [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/) (Nanyang Technological University)

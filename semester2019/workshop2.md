@@ -35,7 +35,7 @@ Confirmed Speakers
 - [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (Eindhoven Univ. of Technology) 
 - [Gersende Fort](https://www.math.univ-toulouse.fr/~gfort/) (CNRS, Univ. Toulouse)
 - [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/) (Univ. Paris Descartes) 
-- [Alfred Hero](https://hero.engin.umich.edu) (Univ. of Michigan)  TO BE CONFIRMED
+- [Alfred Hero](https://hero.engin.umich.edu) (Univ. of Michigan)
 - [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html) (INRIA Rennes)
 - [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) (Technion)
 - [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (Univ. Bordeaux) 
