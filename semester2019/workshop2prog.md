@@ -21,28 +21,28 @@ Monday (March 11)
 Tuesday (March 12)
 -------------
 - 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) 
-- 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/)
-- 11h30-12h15 : [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
-- 12h15-14h : Lunch break
-- 14h-14h45 : [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
-- 14h45-15h30 : [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/)
-- 15h30-16h : Coffee break 
-- 16h-16h45 : [Pierre Chainais](http://pierrechainais.ec-lille.fr)
-- 16h45 -17h30 : [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/)
+- 11h30-12h15: [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
+- 12h15-14h: Lunch break
+- 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
+- 14h45-15h30: [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/)
+- 15h30-16h: Coffee break 
+- 16h-16h45: [Pierre Chainais](http://pierrechainais.ec-lille.fr)
+- 16h45 -17h30: [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)
 
 Wednesday (March 13)
 -------------
-- 9h30-10h15: [Alain Trouvé](http://atrouve.perso.math.cnrs.fr)
-- 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [[Talk abstract in pdf](./abstracts/abstractIHPworkshop2.pdf)]
-- 11h30-12h15 : [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
-- 12h15-14h : Lunch break
-- 14h-14h45 : [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/)
-- 14h45-15h30 : [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html)
-- 15h30-16h15 : [Xavier Descombes](https://www-sop.inria.fr/members/Xavier.Descombes/)
+- 9h30-10h15: [Gersende Fort](https://www.math.univ-toulouse.fr/~gfort/)
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [[Talk abstract in pdf](./abstracts/abstractIHPworkshop2.pdf)]
+- 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
+- 12h15-14h: Lunch break
+- 14h-14h45: [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/)
+- 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html)
+- 15h30-16h15: [Xavier Descombes](https://www-sop.inria.fr/members/Xavier.Descombes/)
 - 16h15-17h: Coffee break 
-- 17h-18h : [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference 
+- 17h-18h: [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference 
 
 Thursday (March 14)
 --------------
@@ -62,7 +62,7 @@ Friday (March 15)
 - 9h30-10h15: [Jean-Francois Cardoso]()
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Alfred Hero](https://hero.engin.umich.edu) 
-- 11h30-12h15: [Gersende Fort](https://www.math.univ-toulouse.fr/~gfort/)
+- 11h30-12h15: [Alain Trouvé](http://atrouve.perso.math.cnrs.fr)
 - 12h15: end of the workshop
 
 
