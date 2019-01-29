@@ -35,7 +35,7 @@ Wednesday (March 13)
 -------------
 - 9h30-10h15: [Alain Trouvé](http://atrouve.perso.math.cnrs.fr)
 - 10h15-10h45 : Coffee break 
-- 10h45-11h30 : [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/)
+- 10h45-11h30 : [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [Talk abstract](./abstracts/abstractIHPworkshop2.pdf)
 - 11h30-12h15 : [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/)
