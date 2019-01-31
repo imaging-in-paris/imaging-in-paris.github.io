@@ -47,7 +47,6 @@ Wednesday 6 February
 - 14h45-15h30 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (***Exact rate of Nesterov Scheme***)
 - 15h30-16h15 : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) (***The Shannon Total Variation***)
 - 16h15-17h: Coffee break 
-- 17h-18h : [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), Outreach plenary conference 
 
 Thursday 7 February
 --------------
