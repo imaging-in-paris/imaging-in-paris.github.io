@@ -66,7 +66,7 @@ Friday 8 February
 - 9h30-10h15: [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (***Blind Ptychography: Theory and Algorithm***)
 - 10h15-11h : [Luca Zanni](http://cdm.unimo.it/home/matematica/zanni.luca/) (***Spectral properties of steplength selections in gradient methods: from unconstrained to constrained optimization***)
 - 11h-11h30 : Coffee break
-- 11h30-12h15 : [Jérôme Bobin](http://jbobin.cosmostat.org/) (***TBA***)
+- 11h30-12h15 : [Jérôme Bobin](http://jbobin.cosmostat.org/) (***Sparse matrix factorization, and its applications in astrophysics***)
 - 12h15-13h00 : [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html) (***Discrete multigrid convergent estimators of curvature***)
 - Lunch break - end of the workshop
 
