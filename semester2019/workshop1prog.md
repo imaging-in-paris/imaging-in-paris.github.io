@@ -45,7 +45,7 @@ Wednesday 6 February
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon)
 - 14h45-15h30 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/)
-- 15h30-16h15 : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html)
+- 15h30-16h15 : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) The Shannon Total Variation
 - 16h15-17h: Coffee break 
 - 17h-18h : [Jean-Michel Morel](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), Outreach plenary conference 
 
@@ -57,7 +57,7 @@ Thursday 7 February
 - 11h30-12h15 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/)
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Yves van Gennip](https://www.nottingham.ac.uk/mathematics/people/y.vangennip)
-- 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/)
+- 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/) Sliced Partial Optimal Transport
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/) 
 - 16h45 -17h30 : [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz)
