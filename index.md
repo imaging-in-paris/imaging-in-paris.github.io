@@ -32,7 +32,7 @@ April 1st-5th 2019, IHP.
 Outreach plenary conferences (conférences grand public)
 -------------
 
-- [Jean-Michel Morel (ENS Paris-Saclay)](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), February 6th 2019 17h-18h30 (***[details](http://ihp.diatem.fr/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=245&key=rOYrdP0t&subid=13859-185ddb92ee1a1a5476c33f39bfd42bcb&tmpl=component)***).
+- [Jean-Michel Morel (ENS Paris-Saclay)](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), February 6th 2019 17h-18h30 (**[details](http://ihp.diatem.fr/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=245&key=rOYrdP0t&subid=13859-185ddb92ee1a1a5476c33f39bfd42bcb&tmpl=component)**).
 - [Marie-Paul Cani (Polytechnique)](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), March 13th 2019.
 - [Stéphane Mallat (Collège de France)](https://www.college-de-france.fr/site/stephane-mallat/index.htm), April 3rd 2019.
 
