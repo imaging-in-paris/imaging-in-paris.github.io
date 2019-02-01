@@ -42,11 +42,10 @@ Wednesday 6 February
 - 10h15-10h45 : Coffee break 
 - 10h45-11h30 : [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (***An atomic norm perspective on total variation regularization in image processing***)
 - 11h30-12h15 : [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (***On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation***)
-- 12h15-14h : Lunch break
-- 14h-14h45 : [Jérome Darbon](https://www.brown.edu/academics/applied-mathematics/jerome-darbon) (***TBA***)
-- 14h45-15h30 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (***Exact rate of Nesterov Scheme***)
-- 15h30-16h15 : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) (***The Shannon Total Variation***)
-- 16h15-17h: Coffee break 
+- 12h15-14h30 : Lunch break
+- 14h30-15h15 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (***Exact rate of Nesterov Scheme***)
+- 15h15-16h : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) (***The Shannon Total Variation***)
+- 16h-16h45: Coffee break 
 
 Thursday 7 February
 --------------
