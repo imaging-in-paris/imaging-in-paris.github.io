@@ -15,12 +15,10 @@ Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
 - 11h-11h45 : [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) (***A geometric integration approach to non-smooth and non-convex optimisation***)
 - 11h45-12h30 : [Antonin Chambolle](http://www.cmap.polytechnique.fr/~antonin/) (***Finite element discretizations of the total variation***)
 - 12h30-14h : Lunch break
-- 14h-14h45 : [Joachim  Weickert](https://www.mia.uni-saarland.de/weickert/index.shtml) (***TBA***)
+- 14h-14h45 : [Joachim  Weickert](https://www.mia.uni-saarland.de/weickert/index.shtml) (***Stable Models and Algorithms for Backward Diffusion Evolutions***)
 - 14h45-15h30 : [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html) (***Coupling variational method with CNN for image colorization***)
 - 15h30-16h : Coffee break 
-- 16h-16h45 : [Michael Hintermuller](https://www.math.hu-berlin.de/~hp_hint/) (***TBA***)
-- 16h45-17h30 : [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/) (***Vector-valued optimal Lipschitz extensions on finite graphs***)
-
+- 16h-16h45 : [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/) (***Vector-valued optimal Lipschitz extensions on finite graphs***)
 
 Tuesday 5 February
 -------------
