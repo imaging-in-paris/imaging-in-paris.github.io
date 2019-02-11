@@ -29,6 +29,14 @@ March 11th-15th 2019, IHP.
 
 April 1st-5th 2019, IHP.
 
+
+[Young researchers Imaging Seminars](semester2019/young)
+-------------
+
+Every Wednesday in Darboux amphitheater, starting from Wednesday 20 February (except for Wednesday March 13), a two-hour session from 14:00 to 16:00 is dedicated to young researchers. 
+
+If you are interested to present your work, see the announcement [HERE](semester2019/young).
+
 Outreach plenary conferences (conférences grand public)
 -------------
 
