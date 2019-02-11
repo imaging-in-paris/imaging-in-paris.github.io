@@ -27,7 +27,7 @@ This generic spatiotemporal model is used to analyze the temporal progression of
 
 - speaker:Sylvain Paris
   title: "Photography Made Easy"
-  abstract: "With digital cameras and smartphones, taking a picture has become effortless and easy. Autofocus and autoexposure ensure that all photos are sharp and properly exposed. However, this is not sufficient to get great photos. Most pictures need to be retouched to become aesthetically pleasing. This step still requires a great deal of expertise and a lot of time when done with existing tools. Over the years, I have dedicated a large part of my research to improving this situation. In this talk, I will present a few recent results where we use existing photos by artists as models to make ordinary pictures look better — I will also discuss the algorithmic and statistical underpinnings of these results."
+  abstract: "With digital cameras and smartphones, taking a picture has become effortless and easy. Autofocus and autoexposure ensure that all photos are sharp and properly exposed. However, this is not sufficient to get great photos. Most pictures need to be retouched to become aesthetically pleasing. This step still requires a great deal of expertise and a lot of time when done with existing tools. Over the years, I have dedicated a large part of my research to improving this situation. In this talk, I will present a few recent results where we use existing photos by artists as models to make ordinary pictures look better. I will also discuss the algorithmic and statistical underpinnings of these results."
 
 - speaker: Marcelo Pereyra
   title: "Bayesian inference and convex geometry: theory, methods, and algorithms"
