@@ -17,6 +17,6 @@ For the first session (Wednesday 20th February) we ask interested speakers to co
 
 The organisers,
 
-Luca Calatroni (luca.calatroni@polytechnique.edu)
+Luca Calatroni (luca 'dot' calatroni 'at' polytechnique 'dot' edu)
 
-Guillaume Garrigos (guillaume.garrigos@lpsm.paris)
+Guillaume Garrigos (guillaume 'dot' garrigos 'at' lpsm 'dot' paris)
