@@ -17,7 +17,10 @@ Registration
 
 [Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to this workshop and to the other one of the semester.
 
+
+Program ([click here](../workshop3prog/))
 -------------
+
 
 Confirmed Speakers
 -------------
@@ -25,8 +28,8 @@ Confirmed Speakers
 - [Chloé-Agathe Azencott](http://cazencott.info/) (Mines-Paristech)
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA)
 - [Erik Bekkers](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research/research-groups/medical-image-analysis/organization/former-group-members/ir-ej-erik-bekkers/) (Eindhoven University of Technology)
-- [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (University College London) 
-- [Christoph Brune](https://people.utwente.nl/c.brune)  (University of Twente) 
+- [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (University College London)
+- [Christoph Brune](https://people.utwente.nl/c.brune)  (University of Twente)
 - [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (UST HK)
 - [Matthieu Cord](http://webia.lip6.fr/~cord/) (UPMC)
 - [Romain Couillet](http://romaincouillet.hebfree.org/) (Univ. Grenoble)
