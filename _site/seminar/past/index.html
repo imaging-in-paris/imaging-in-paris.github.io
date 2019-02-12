@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -112,6 +112,34 @@
                 </li>
                 
                 <li>
+                    <a href="/semester2019/workshop1/">Variational methods and optimization in imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop1prog/">Variational methods and optimization in imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop2/">Statistical modeling for shapes and imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop2prog/">Statistical modeling for shapes and imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop3/">Imaging and machine learning</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop3prog/">Imaging and machine learning</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/young/">Young researchers Imaging Seminars</a>
+                </li>
+                
+                <li>
                     
                 </li>
                 
@@ -150,6 +178,127 @@
 	<div class="row">
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			<p>List of past seminars:</p>
+
+<p>
+  8 november 2018, 14h-15h, <a href="http://people.irisa.fr/Remi.Gribonval/">Rémi Gribonval</a> (INRIA, Panama project-team)<br />
+  <b>Title:</b> <i>Approximation with sparsely connected deep networks</i>
+  
+  <br />
+  <b>Abstract:</b> Many of the data analysis and processing pipelines that have been carefully engineered by generations of mathematicians and practitioners can in fact be implemented as deep networks. Allowing the parameters of these networks to be automatically trained (or even randomized) allows to revisit certain classical constructions.
+The talk first describes an empirical approach to approximate a given matrix by a fast linear transform through numerical optimization. The main idea is to write fast linear transforms as products of few sparse factors, and to iteratively optimize over the factors. This corresponds to training a sparsely connected, linear, deep neural network. Learning algorithms exploiting iterative hard-thresholding  have been shown to perform well in practice, a striking example being their ability to somehow “reverse engineer” the fast Hadamard transform. Yet, developing a solid understanding of their conditions of success remains an open challenge.
+In a second part, we study the expressivity of sparsely connected deep networks. Measuring a network's complexity by its number of connections, we consider the class of functions which error of best approximation with networks of a given complexity decays at a certain rate. Using classical approximation theory, we show that this class can be endowed with a norm that makes it a nice function space, called approximation space. We establish that the presence of certain “skip connections” has no impact of the approximation space, and discuss the role of the network's nonlinearity (also known as activation function) on the resulting spaces, as well as the benefits of depth. For the popular ReLU nonlinearity (as well as its powers), we relate the newly identified spaces to classical Besov spaces, which have a long history as image models associated to sparse wavelet decompositions. The sharp embeddings that we establish highlight how depth enables sparsely connected networks to approximate functions of increased “roughness” (decreased Besov smoothness) compared to shallow networks and wavelets.
+Joint work with Luc Le Magoarou (Inria), Gitta Kutyniok (TU Berlin), Morten Nielsen (Aalborg University) and Felix Voigtlaender (KU Eichstätt). 
+  </p>
+
+<p>
+  8 november 2018, 15h-16h, <a href="https://houdard.wp.imt.fr">Antoine Houdard</a> (Telecom ParisTech &amp; Universite Paris Descartes)<br />
+  <b>Title:</b> <i>Some advances in patch-based image denoising</i>
+  
+  <br />
+  <b>Abstract:</b> In this talk I will present my PhD thesis work on non-local methods for image denoising. Natural images contain redundant structures, and this property can be used for restoration purposes. A common way to consider this self-similarity is to separate the image into patches. These patches can then be grouped, compared and filtered together. The main part of this talk will be dedicated to the study of Gaussian priors for patch-based image denoising. Such priors are widely used for image restoration. We propose some ideas to answer the following questions: Why are Gaussian priors so widely used? What information do they encode about the image? Next I shall propose a probabilistic high-dimensional mixture model on the noisy patches. This model adopts a sparse modeling which assumes that the data lie on group-specific subspaces of low dimensionalities. This yields a denoising algorithm that demonstrates state-of-the-art performance.
+  </p>
+
+<p>
+  4 october 2018, 14h-15h, <a href="https://www.linkedin.com/in/charles-hessel-2aa70284/?originalSubdomain=fr">Charles Hessel</a> (DxO and CMLA, ENS Paris Saclay)<br />
+  <b>Title:</b> <i>Base and detail decomposition filters and the measure of their artifacts</i>
+  
+  <br />
+  <b>Abstract:</b> In this CIFRE thesis, a collaboration between the CMLA, ENS Paris-Saclay and the company DxO, we tackle the problem of the additive decomposition of an image into base and detail. Such a decomposition is a fundamental tool in image processing. For applications to professional photo editing in DxO Photolab, a core requirement is the absence of artifacts. For instance, in the context of contrast enhancement, in which the base is reduced and the detail increased, minor artifacts becomes highly visible. The distortions thus introduced are unacceptable from the point of view of a photographer. The objective of this thesis is to single out and study the most suitable filters to perform this task, to improve the best ones and to define new ones. This requires a rigorous measure of the quality of the base plus detail decomposition. We examine two classic artifacts (halo and staircasing) and discover three more sorts that are equally crucial: contrast halo, compartmentalization, and the dark halo. This leads us to construct five adapted patterns to measure these artifacts. We end up ranking the optimal filters based on these measurements, and arrive at a clear decision about the best filters. Two filters stand out, including one we propose.
+  </p>
+
+<p>
+  4 october 2018, 15h-16h, <a href="https://www.math.ens.fr/fiche-membre/fiche-membre.php?id_membre=361">Paul Catala</a> (ENS)<br />
+  <b>Title:</b> <i>A Low-Rank Approach to Off-The-Grid Sparse Deconvolution</i>
+  
+  <br />
+  <b>Abstract:</b> In this talk, I will present a new solver for the sparse spikes deconvolution problem over the space of Radon measures. A common approach to off-the-grid deconvolution considers semidefinite (SDP) relaxations of the total variation (the total mass of the absolute value of the measure) minimization problem. The direct resolution of this SDP is however intractable for large scale settings, since the problem size grows as n^2d where n is the cutoff frequency of the filter and d the ambient dimension. I will first introduce a penalized formulation of this semidefinite lifting, which has low-rank solutions. This formulation is then solved using a conditional gradient optimization scheme with non-convex updates. This algorithm leverages both the low-rank and the convolutive structure of the problem, resulting in an O(n^d log n) complexity per iteration. Numerical simulations are promising and show that the algorithm converges in exactly r steps, r being the number of Diracs composing the solution.
+  </p>
+
+<p>
+  14 juin 2018, 14h-15h, <a href="https://iie.fing.edu.uy/~pmuse/">Pablo Musé</a> (Facultad de Ingeniería, Universidad de la República, Montevideo, Uruguay)<br />
+  <b>Title:</b> <i>OLÉ, Orthogonal Low-rank Embedding, A Novel Approach for Deep Metric Learning</i>
+  
+  <br />
+  <b>Abstract:</b> Deep neural networks trained using a softmax layer at the top and the cross-entropy loss are common tools for image classification. Yet, this does not naturally enforce intra-class similarity nor inter-class margin of the learned deep representations. To simultaneously achieve these two goals, different solutions have been proposed in the literature, such as the pairwise or triplet losses. However, such solutions carry the extra task of selecting pairs or triplets, and the extra computational burden of computing and learning for many combinations of them. In this talk we present a plug-and-play loss term for deep networks that explicitly reduces intra-class variance and enforces inter-class margin simultaneously, in a simple geometric manner. For each class, the deep features are collapsed into a learned linear subspace, or union of them, and inter-class subspaces are pushed to be as orthogonal as possible. Our proposed Orthogonal Low-rank Embedding does not require carefully crafting pairs or triplets of samples for training, and works standalone as a classification loss. Because of the improved margin between features of different classes, the resulting deep networks generalize better, are more discriminative and more robust. This is a joint work with José Lezama, Qiang Qiu and Guillermo Sapiro
+  </p>
+
+<p>
+  14 juin 2018, 15h-16h, <a href="https://www.math.univ-toulouse.fr/~pescande/index.html">Paul Escande</a> (Johns Hopkins University)<br />
+  <b>Title:</b> <i>Multi-scale Decomposition of Transformations (MUSCADET)</i>
+  
+  <br />
+  <b>Abstract:</b> In many applications, transformations between two domains are defined through point-wise mappings. These functions can be costly to store and compute, but also hard to interpret in a geometric fashion. In this work, we propose a way to overcome these difficulties. The main idea is a novel multi-scale decomposition of complex transformations into a cascade of elementary, user-specified, transformations. This methods allows to (i) Construct efficient approximations for elements of large spaces of complex transformations using simple understandable blocks, (ii) Use transformations to measure similarities between complex objects, (iii) Deal with invariance under certain transformations, (iv) Perform statistical inference tasks on sets of transformations. We will describe the method as well as provide theoretical guarantees on the quality of the multi-scale approximations. Then we will present some numerical experiments that show its computational efficiency.
+  </p>
+
+<p>
+  03 mai 2018, 14h-15h, <a href="https://www.lri.fr/~gcharpia/">Guillaume Charpiat</a> (Équipe TAO - INRIA Saclay)<br />
+  <b>Title:</b> <i>Introduction to Neural Networks</i>
+  
+  <br />
+  <b>Abstract:</b> Neural networks have become extremely popular these last years, notably due to their recent impressive successes in computer vision, under the name of deep learning. This tutorial will describe the main principles and properties of neural networks, with a focus on convolutional neural networks (CNN), particularly suited for image-based machine learning tasks. Depending on the audience, and if time permits, we may also cover topics such as auto-encoders, generative adversarial networks, or style transfer.
+  </p>
+
+<p>
+  03 mai 2018, 15h-16h, <a href="https://imsc.uni-graz.at/hollerm/">Martin Holler</a> (CMAP, Ecole Polytechnique)<br />
+  <b>Title:</b> <i>Analysis and applications of coupled regularization with multiple data discrepancies</i>
+  
+  <br />
+  <b>Abstract:</b> In many applications of inverse problem in imaging, the measured data does not correspond to a single measurement but rather to multiple simultaneous or sequential measurements, featuring different forward models and/or noise characteristics. Examples of such a setting are the joint acquisition of magnetic resonance (MR) and positron emission tomography (PET) images or the sequential acquisition of multiple time frames in dynamic imaging. Assuming that the images one aims to reconstruct from such measurements have different but related content, coupled regularization techniques aim at exploiting such correlations for improved reconstruction. A corresponding variational formulation comprises multiple potentially different data discrepancies and raises the question of how standard stability and convergence results in inverse problems transfer to such a situation. In this talk, we address this question. Motivated by concrete applications with different noise characteristics, we first consider a rather general setting and in particular show how the adaption of parameter choices strategies to different discrepancy terms yields improved convergence results. We then further elaborate on practically relevant special cases and show numerical results for joint MR-PET reconstruction and multi-spectral electron microscopy.
+  </p>
+
+<p>
+  05 avril 2018, 14h-15h, <a href="https://nkeriven.github.io/">Nicolas Keriven</a> (ENS)<br />
+  <b>Title:</b> <i>Sketched Learning from Random Features Moments</i>
+  
+    <b>[<a href="../slides/keriven.pdf">Slides</a>]</b>
+  
+  <br />
+  <b>Abstract:</b> Learning parameters from voluminous data can be prohibitive in terms of memory and computational requirements. Furthermore, modern architectures often ask for learning methods to be amenable to streaming or distributed computing. In this context, a popular approach is to first compress the database into a representation called a linear sketch, then learn the desired information using only this sketch. In this talk, we introduce a methodology to fit a mixture of probability distributions on the data, using only a sketch of the database. The sketch is defined by combining two notions from the reproducing kernel literature, kernel mean embedding and random features. It is seen to correspond to linear measurements of the probability distribution of the data, and the problem is thus analyzed under the lens of Compressive Sensing (CS), in which a signal is randomly measured and recovered. We analyze the problem using two classical approaches in CS: first a Restricted Isometry Property in the Banach space of finite signed measures, from which we obtain strong recovery guarantees however with an intractable non-convex minimization problem, and second with a dual certificate analysis, from which we show that total-variation regularization yields a convex minimization problem that in some cases recovers exactly the number of components of a gaussian mixture model. We also briefly describe a flexible heuristic greedy algorithm to estimate mixture models from a sketch, and apply it on synthetic and real data.
+  </p>
+
+<p>
+  05 avril 2018, 15h-16h, <a href="http://lucacalatroni.weebly.com/">Luca Calatroni</a> (CMAP, Ecole Polytechnique)<br />
+  <b>Title:</b> <i>A variational model for mixed noise removal: analysis, optimisation and structure of solutions</i>
+  
+  <br />
+  <b>Abstract:</b> In several real-word imaging applications such as microscopy, astronomy and medical imaging, a combination of transmission and acquisition faults result in multiple noise statistics in the observed image, such as impulsive/Gaussian or Gaussian/Possion mixtures.  By means of a joint MAP estimation, we derive a statistically consistent variational model where single data fidelities are combined in a handy infimal convoution fashion to model the noise mixture and separated from each other via a Total Variation smoothing. By means of a fine analysis in suitable function spaces, we then study the structure of the solutions of the corresponding variational model and propose a bilevel optimisation strategy for the estimation of the optimal regularisation weights. This is joint work with C.B. Schönlieb (University of Cambridge, UK), J.C. De Los Reyes (ModeMat, Quito, Ecuador)  and K. Papafitsoros (WIAS Institue, Berlin, Germany).
+  </p>
+
+<p>
+  08 mars 2018, 14h-15h, <a href="http://perso.ens-lyon.fr/nelly.pustelnik/">Nelly Pustelnik</a> (CNRS, Laboratoire de Physique - CNRS UMR 5672 -- ENS Lyon)<br />
+  <b>Title:</b> <i>Analyse multirésolution et optimisation non lisse pour la segmentation de texture</i>
+  
+  <br />
+  <b>Abstract:</b> La segmentation d'images texturées continue de présenter un challenge majeur en traitement d'images quand les textures rencontrées sont de type stochastiques. Dans cet exposé, nous aborderons cette question par le couplage entre analyse multirésolution et outils d’optimisation non lisse. Nous présenterons d'une part les approches usuelles en deux temps estimation/segmentation puis nous expliciterons les modèles développés permettant d'effectuer les deux étapes de façon jointe. D'autre part, nous nous intéresserons à affiner ces procédures de segmentation de textures d'un point de vue algorithmique pour obtenir des méthodes à faible coût calculatoire de façon à évaluer les performances des outils développés sur les grands volumes de données tels que ceux rencontrés dans l’étude de la dynamique des écoulements multiphasiques dans des milieux poreux.
+  </p>
+
+<p>
+  08 mars 2018, 15h-16h, <a href="http://gris.perso.math.cnrs.fr/fr/">Barbara Gris</a> (KTH Royal Institute of Technology in Stockholm)<br />
+  <b>Title:</b> <i>Reconstruction d'image à l'aide d'un a priori de déformation</i>
+  
+  <br />
+  <b>Abstract:</b> La tomographie est une technique d'imagerie médicale qui consiste à reconstruire le volume d’un objet à partir de ses projections. Lorsque l'acquisition des données est longue, le sujet peut effectuer des mouvements (par exemple respiratoires) qui provoquent des artefacts dans l'image reconstruite. Le modèle que je propose a pour but de tenir compte des mouvements possibles afin d'aider à la reconstruction de l'image. Une première étape est de reconstruire  cette image comme déformation d'une image template supposée connue, tout en incorporant un a priori dans les déformations possibles. Je présenterai la notion de module de déformation et montrerai comment elle permet de contraindre les déformations à respecter une certaine structure (donnée par exemple des contraintes physiques) tout en laissant certains paramètres libres afin qu'elles puissent s'adapter aux données.
+  </p>
+
+<p>
+  08 février 2018, 14h-15h, <a href="https://lchizat.github.io">Lénaïc Chizat</a> (Lénaïc Chizat (SIERRA team, INRIA))<br />
+  <b>Title:</b> <i>A tutorial on optimal transport, part I: theory, model, properties</i>
+  
+    <b>[<a href="../slides/chizat.pdf">Slides</a>]</b>
+  
+  <br />
+  <b>Abstract:</b> The optimal transport (OT) problem is often described as that of finding the most efficient way of moving a pile of dirt from one configuration to another. Once stated formally, OT provides extremely useful tools for comparing, interpolating and processing objects such as distributions of mass, probability measures, histograms or densities. This talk is an up-to-date tutorial on a selection of topics in OT. In the first part, we will present an intuitive description on OT, its behaviour and main properties. In the second part, we will introduce state-of-the-art numerical methods for solving OT (based on entropic regularization) and present how this tool can be used for both imaging and machine learning problems.
+  </p>
+
+<p>
+  08 février 2018, 15h-16h, <a href="https://audeg.github.io">Aude Genevay</a> (Aude Genevay (Ecole Normale Supérieure et Université Paris Dauphine))<br />
+  <b>Title:</b> <i>A tutorial on optimal transport, part II: Optimal transport for machine learning</i>
+  
+    <b>[<a href="../slides/genevay.pdf">Slides</a>]</b>
+  
+  <br />
+  <b>Abstract:</b> The optimal transport (OT) problem is often described as that of finding the most efficient way of moving a pile of dirt from one configuration to another. Once stated formally, OT provides extremely useful tools for comparing, interpolating and processing objects such as distributions of mass, probability measures, histograms or densities. This talk is an up-to-date tutorial on a selection of topics in OT. In the first part, we will present an intuitive description on OT, its behaviour and main properties. In the second part, we will introduce state-of-the-art numerical methods for solving OT (based on entropic regularization) and present how this tool can be used for both imaging and machine learning problems.
+  </p>
 
 <p>
   11 janvier 2018, 14h-15h, <a href="https://edouardoyallon.github.io/">Edouard Oyallon</a> (CentraleSupelec)<br />
@@ -420,7 +569,7 @@ This is a joint work with Mila Nikolova (CMLA, CNRS, ENS Paris-Saclay).
                     
                 </ul>
                 <!--
-                  <p class="copyright text-muted">Copyright &copy; Séminaire Parisien des Mathématiques de l'Imagerie 2018</p>
+                  <p class="copyright text-muted">Copyright &copy; Séminaire Parisien des Mathématiques de l'Imagerie 2019</p>
                 -->
             </div>
         </div>

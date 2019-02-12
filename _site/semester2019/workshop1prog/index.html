@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Séminaire Parisien des Mathématiques de l'Imagerie">
+
+
+    <title>Variational methods and optimization in imaging - Séminaire Parisien des Mathématiques de l'Imagerie</title>
+
+    <link rel="canonical" href="http://localhost:4000/semester2019/workshop1prog/">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/img/favicon.png">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/clean-blog.css">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <script src="/js/jquery.min.js "></script>
+
+    <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Séminaire Parisien des Mathématiques de l'Imagerie" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+        <!-- Loading mathjax -->
+        <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Home</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+
+
+
+                  <!--<li>
+                    <a href="/next">Prochains</a>
+                </li>
+                <li>
+                    <a href="/past">Passés</a>
+                </li>  -->
+
+                  <li>
+                        <a href="/seminar/">Seminar</a>
+                  </li>
+                  <li>
+                        <a href="/coming">Coming</a>
+                  </li>
+
+                <!--
+
+                
+                <li>
+                    <a href="/coming/">Comming</a>
+                </li>
+                
+                <li>
+                    <a href="/index-old/">Imaging in Paris</a>
+                </li>
+                
+                <li>
+                    <a href="/seminar/">Imaging in Paris Seminar</a>
+                </li>
+                
+                <li>
+                    <a href="/">The Mathematics of Imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/seminar/next/">Prochains séminaires</a>
+                </li>
+                
+                <li>
+                    <a href="/seminar/past/">Past seminar</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/school/">The mathematics of imaging: the CIRM pre-school</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop1/">Variational methods and optimization in imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop1prog/">Variational methods and optimization in imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop2/">Statistical modeling for shapes and imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop2prog/">Statistical modeling for shapes and imaging</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop3/">Imaging and machine learning</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/workshop3prog/">Imaging and machine learning</a>
+                </li>
+                
+                <li>
+                    <a href="/semester2019/young/">Young researchers Imaging Seminars</a>
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                -->
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Page Header -->
+<header class="intro-header" style="background-image: url('/../img/paris2.png')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>Variational methods and optimization in imaging</h1>
+                    <hr class="small">
+                    <span class="subheading">Mathematics of Imaging Workshop #1</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			<h2 id="tentative-program">Tentative program</h2>
+
+<h2 id="monday-4-february--to-the-memory-of-our-dear-friend-and-colleague-mila-nikolova">Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova</h2>
+
+<ul>
+  <li>10h30 : Welcome/Coffee</li>
+  <li>11h-11h45 : <a href="http://www.damtp.cam.ac.uk/user/cbs31/Home.html">Carola Schoenlieb</a> (<strong><em>A geometric integration approach to non-smooth and non-convex optimisation</em></strong>)</li>
+  <li>11h45-12h30 : <a href="http://www.cmap.polytechnique.fr/~antonin/">Antonin Chambolle</a> (<strong><em>Finite element discretizations of the total variation</em></strong>)</li>
+  <li>12h30-14h : Lunch break</li>
+  <li>14h-14h45 : <a href="http://www.fabienpierre.fr/bienvenue.html">Fabien Pierre</a> (<strong><em>Coupling variational method with CNN for image colorization</em></strong>)</li>
+  <li>14h45-15h30 : <a href="https://www.mia.uni-saarland.de/weickert/index.shtml">Joachim  Weickert</a> (<strong><em>Stable Models and Algorithms for Backward Diffusion Evolutions</em></strong>)</li>
+  <li>15h30-16h : Coffee break</li>
+  <li>16h-16h45 : <a href="http://www.mathematik.uni-kl.de/imagepro/members/steidl/">Gabriele Steidl</a> (<strong><em>Vector-valued optimal Lipschitz extensions on finite graphs</em></strong>)</li>
+</ul>
+
+<h2 id="tuesday-5-february">Tuesday 5 February</h2>
+<ul>
+  <li>9h30-10h15: <a href="https://ipa.iwr.uni-heidelberg.de/cschnoerr/">Christoph Schnörr</a> (<strong><em>The Assignment Flow</em></strong>)</li>
+  <li>10h15-10h45 : Coffee break</li>
+  <li>10h45-11h30 : <a href="http://guygilboa.eew.technion.ac.il/">Guy Gilboa</a> (<strong><em>Characterizing functionals and flows by nonlinear eigenvalue analysis</em></strong>)</li>
+  <li>11h30-12h15 : <a href="https://www.math.u-bordeaux.fr/~npapadak/">Nicolas Papadakis</a> (<strong><em>Covariant LEAst-square Re-fitting for Image Restoration</em></strong>)</li>
+  <li>12h15-14h : Lunch break</li>
+  <li>14h-14h45 :  <a href="http://www.ntu.edu.sg/home/xbresson/">Xavier Bresson</a> (<strong><em>Convolutional Neural Networks on Graphs</em></strong>)</li>
+  <li>14h45-15h30 : <a href="http://www-syscom.univ-mlv.fr/~chouzeno/">Emilie Chouzenoux</a> (<strong><em>Deep Unfolding of a Proximal Interior Point Method for Image Restoration</em></strong>)</li>
+  <li>15h30-16h : Coffee break</li>
+  <li>16h-16h45 : <a href="https://research.fb.com/people/couprie-camille/">Camille Couprie</a> (<strong><em>Image generative modeling for future prediction or inspirational purposes</em></strong>)</li>
+  <li>16h45 -17h30 : <a href="https://voices.uchicago.edu/willett/">Rebecca Willett</a> (<strong><em>Learning to Solve Inverse Problems in Imaging</em></strong>)</li>
+  <li>18h30: welcome cocktail at Tour Zamansky Jussieu</li>
+</ul>
+
+<h2 id="wednesday-6-february">Wednesday 6 February</h2>
+<ul>
+  <li>9h30-10h15: <a href="http://www.damtp.cam.ac.uk/research/afha/anders/">Anders Hansen</a> (<strong><em>On computational barriers in mathematics of information and instabilities in deep learning for inverse problems</em></strong>)</li>
+  <li>10h15-10h45 : Coffee break</li>
+  <li>10h45-11h30 : <a href="https://who.rocq.inria.fr/Vincent.Duval/">Vincent Duval</a> (<strong><em>An atomic norm perspective on total variation regularization in image processing</em></strong>)</li>
+  <li>11h30-12h15 : <a href="http://www.damtp.cam.ac.uk/user/cmhsp2/">Clarice Poon</a> (<strong><em>On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation</em></strong>)</li>
+  <li>12h15-14h30 : Lunch break</li>
+  <li>14h30-15h15 : <a href="https://www.math.u-bordeaux.fr/~cdossal/">Charles Dossal</a> (<strong><em>Exact rate of Nesterov Scheme</em></strong>)</li>
+  <li>15h15-16h : <a href="http://helios.mi.parisdescartes.fr/~rabergel/index.html">Rémy Abergel</a> (<strong><em>The Shannon Total Variation</em></strong>)</li>
+  <li>16h-16h45: Coffee break</li>
+</ul>
+
+<h2 id="thursday-7-february">Thursday 7 February</h2>
+<ul>
+  <li>9h30-10h15: <a href="https://www.math.u-psud.fr/~buet/">Blanche Buet</a> (<strong><em>A varifold approach to surface approximation and curvature estimation on point clouds</em></strong>)</li>
+  <li>10h15-10h45 : Coffee break</li>
+  <li>10h45-11h30 : <a href="https://imsc.uni-graz.at/bredies/">Kristian Bredies</a> (<strong><em>Infimal-convolution-type regularization for inverse problems in imaging</em></strong>)</li>
+  <li>11h30-12h15 : <a href="https://www.i2m.univ-amu.fr/~caroline.chaux/">Caroline Chaux</a> (<strong><em>From the modelization of direct problems in image processing to the resolution of inverse problems</em></strong>)</li>
+  <li>12h15-14h : Lunch break</li>
+  <li>14h-14h45 : <a href="https://www.nottingham.ac.uk/mathematics/people/y.vangennip">Yves van Gennip</a> (<strong><em>Variational methods on graphs with applications in imaging and data classification</em></strong>)</li>
+  <li>14h45-15h30 : <a href="https://perso.liris.cnrs.fr/nicolas.bonneel/">Nicolas Bonneel</a> (<strong><em>Sliced Partial Optimal Transport</em></strong>)</li>
+  <li>15h30-16h : Coffee break</li>
+  <li>16h-16h45 : <a href="http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/">Martin Rumpf</a> <em>(<strong>Metamorphosis on generalized image manifolds</strong></em>)</li>
+  <li>16h45 -17h30 : <a href="https://www.tu-braunschweig.de/iaa/personal/lorenz">Dirk Lorenz</a> (<strong><em>Quadratically regularized optimal transport</em></strong>)</li>
+</ul>
+
+<h2 id="friday-8-february">Friday 8 February</h2>
+<ul>
+  <li>9h30-10h15: <a href="https://www.math.ucdavis.edu/~fannjiang/">Albert Fannjiang</a> (<strong><em>Blind Ptychography: Theory and Algorithm</em></strong>)</li>
+  <li>10h15-11h : <a href="http://cdm.unimo.it/home/matematica/zanni.luca/">Luca Zanni</a> (<strong><em>Spectral properties of steplength selections in gradient methods: from unconstrained to constrained optimization</em></strong>)</li>
+  <li>11h-11h30 : Coffee break</li>
+  <li>11h30-12h15 : <a href="http://jbobin.cosmostat.org/">Jérôme Bobin</a> (<strong><em>Sparse matrix factorization, and its applications in astrophysics</em></strong>)</li>
+  <li>12h15-13h00 : <a href="http://hugues.zahlt.info/bienvenue.html">Hugues Talbot</a> (<strong><em>Discrete multigrid convergent estimators of curvature</em></strong>)</li>
+  <li>Lunch break - end of the workshop</li>
+</ul>
+
+<h2 id="abstracts">Abstracts</h2>
+
+<p>
+  Rémy Abergel<br />
+  <b>Title:</b> <i>The Shannon Total Variation</i><br />
+  <b>Abstract:</b> Joint work with Lionel Moisan. In image processing problems, the minimization of total variation (TV) based energies requires discretization schemes, such as the commonly used finite differences approach. Unfortunately, such schemes generally lead to images which are difficult to interpolate at sub-pixel scales, which can be extremely problematic for subsequent processing. In this talk, we study a Fourier-based estimate called Shannon total variation (STV), which behaves much better in terms of sub-pixel accuracy and isotropy. We will first explain how the STV regularization can be efficiently handled with modern dual algorithms, and show that replacing the classical discrete TV model by this STV variant does not raise any theoretical or numerical difficulties. We will then consider many classical TV-based restoration models, such as image denoising (Rudin, Osher and Fatemi), image deblurring and spectrum extrapolation (Guichard-Malgouyres), where the improved behavior of the Shannon total variation yields images that are easy to interpolate. Lastly, we will propose a new STV-regularized optimization problem (involving a data-fidelity term formulated in the frequency domain), which can be used to remove aliasing from an image, or given an image which is difficult to interpolate, can produce a visually similar image which can be easily interpolated. The experimental results that we provide show the interesting perspectives opened by this model in applications where the correct sampling of the data (according to the Shannon sampling theory) is carefully taken into account.
+</p>
+
+<p>
+  Jérôme Bobin<br />
+  <b>Title:</b> <i>Sparse matrix factorization, and its applications in astrophysics</i><br />
+  <b>Abstract:</b> Unsupervised matrix factorization is a classical mathematical problem that plays a key role in statistics, such as in blind source separation (BSS). In this presentation we show how the problem of separating sparse sources is of utmost importance in the context of astrophysics. More specifically, we will see how sparse matrix factorization (SMF) has been applied in cosmology to yield an accurate estimation of the so-called CMB (cosmological microwave background - the most ancient light that is observable in our Universe) from the space mission Planck. As well, it has recently been adapted to understand the content of multispectral images from high-energy astrophysics, and especially from X-ray images. We will see how SMF has been tailored to account for the statistics of such data and illustrate it with recent results obtained from Chandra data.
+</p>
+
+<p>
+  Nicolas Bonneel<br />
+  <b>Title:</b> <i>Sliced Partial Optimal Transport</i><br />
+  <b>Abstract:</b> Sliced optimal transport is a blazing fast way to compute a notion of optimal transport between uniform measures supported on point clouds via 1-d projections. However, it requires these point clouds to have the same cardinality. This talk will show a fast numerical scheme to compute partial optimal transport in 1-d : this corresponds to solving an alignment problem often solved with dynamic programming, though our solution is much faster. We integrate this 1-d alignment algorithm within a sliced transport framework, for applications such as color transfer. We also make use of sliced partial optimal transport to solve point cloud registration tasks such as those traditionally solved with ICP. I'll show results involving hundreds of thousands of points computed within seconds or minutes. I'll also show preliminary results on sliced partial Wasserstein barycenters.
+</p>
+
+<p>
+  Kristian Bredies<br />
+  <b>Title:</b> <i>Infimal-convolution-type regularization for inverse problems in imaging</i><br />
+  <b>Abstract:</b> Infimal-convolution-type regularization for inverse problems in imaging  In the last decades, infimal-convolution-type techniques developed to a viable set of tools in variational imaging. Nowadays, the infimal convolution has successfully been used to construct various regularization functionals for inverse problems in imaging. It is commonly interpreted as a way to realize two or more competing variational image models by a single functional. Many convex models base on this approach, such as, for instance, regularization on multiple orders of smoothness via total variation (TV) or total generalized variation (TGV), energies for cartoon/texture decomposition as well as modelling of different time scales for image sequences.  In the talk, we consider a general framework for the infimal convolution of regularization functionals with a focus on the one-homogeneous case. We show that the latter class of functionals can arbitrarily be combined by infimal convolution in order to regularize a general class of ill-posed inverse problems, provided that their kernels are finite-dimensional and that each functional is coercive up to the kernel, leading to a well-posed decomposition of the image to recover.  We then discuss recently-introduced instances where these conditions are met and infimal convolution has been successfully applied: an oscillatory version of the second-order total generalized variation (TGV\( ^{osci} \)) as well as anisotropic total (generalized) variation. In particular, imaging applications are shown where the use of infimal-convolution-type regularization is beneficial, such as applications in magnetic resonance imaging (MRI), electron tomography, and photoacoustic imaging. Finally, we discuss how the constructed regularization functionals can be used to derive dedicated efficient preconditioners for numerical optimization algorithms.
+</p>
+
+<p>
+  Xavier Bresson<br />
+  <b>Title:</b> <i>Convolutional Neural Networks on Graphs</i><br />
+  <b>Abstract:</b> In the past years, deep learning methods have achieved unprecedented performance on a broad range of problems in various fields from computer vision to speech recognition. So far research has mainly focused on developing deep learning methods for grid-structured data, while many important applications have to deal with graph-structured data. Such geometric data are becoming increasingly important in computer graphics and 3D vision, sensor networks, drug design, biomedicine, recommendation systems, and web applications. The purpose of this talk is to introduce the emerging field of deep learning on graphs, overview existing solutions as well as applications for this class of problems.
+</p>
+
+<p>
+  Blanche Buet<br />
+  <b>Title:</b> <i>A varifold approach to surface approximation and curvature estimation on point clouds</i><br />
+  <b>Abstract:</b> We propose a natural framework for the study of surfaces and their different discretizations based on varifolds. Varifolds have been introduced by Almgren to carry out the study of minimal surfaces. Though mainly used in the context of rectifiable sets, they turn out to be well suited to the study of discrete type objects as well. Let us briefly explain what a \( d \)-varifold is: it is a Radon measure on \( \Omega \times G_{d,n} \) where \( G_{d,n} = \{ d\text{-vector plane of } \mathbb{R}^n \} \) is the \( d \)--Grassmanian. It can be equivalently understood as the data of a Radon measure \( \mu \) on \( \mathbb{R}^n \) and a probability measure \( \nu_x \) on \( G_{d,n} \) at each point \( x \) in the support of \( \mu \). Using this point of view, we can easily associate a \( d \)-varifold with a \( d \)-submanifold \( M \) of \( \mathbb{R}^n \): we take the surface measure for \( \mu \) (the \( d \)-Hausdorff measure restricted to \( M \), which can be weighted) and for \( \nu_x \), we take the Dirac mass at the tangent plane \( T_x M \) on \( G_{d,n} \). Loosely speaking, mass and tangent planes are enough to define a varifold. Hence, given a finite set of points  \( \{ x_i \}_{i=1 \ldots N} \subset \mathbb{R}^n \), weighted by masses \( \{ m_i \}_{i=1 \ldots N} \subset \mathbb{R}_+ \), and provided with directions \( \{ P_i \}_{i=1 \ldots N} \subset G_{d,n} \), we associate the \( d \)-varifold \[ V_N = \sum_{i=1}^N m_i , \delta_{(x_i, P_i)} . \] While the structure of varifold is flexible enough to adapt to both regular and discrete objects, it allows to define variational notions of mean curvature and second fundamental form based on the divergence theorem. Thanks to a regularization of these weak formulations, we propose a notion of discrete curvature (actually a family of discrete curvatures associated with a regularization scale) relying only on the varifold structure. We prove nice convergence properties involving a natural growth assumption: the scale of regularization must be large with respect to the accuracy of the discretization. We performed numerical computations of mean curvature and Gaussian curvature on point clouds in \( \mathbb{R}^3 \) to illustrate this approach. Joint work with Gian Paolo Leonardi (Modena) and Simon Masnou (Lyon).
+</p>
+
+<p>
+  Antonin Chambolle<br />
+  <b>Title:</b> <i>Finite element discretizations of the total variation</i><br />
+  <b>Abstract:</b> In this talk we will discuss the merits of the P1 and non-conforming P1 finite elements for approximating the total variation, and in particular of discontinuous functions. We propose, in 2D, an automatic mesh adaption process which adapts to the direction of the discontinuities.
+</p>
+
+<p>
+  Caroline Chaux<br />
+  <b>Title:</b> <i>From the modelization of direct problems in image processing to the resolution of inverse problems</i><br />
+  <b>Abstract:</b> In this work, we are interested in the resolution of inverse problems raised in many image processing applications. We considered inverse problems starting from models (understanding the acquisition process), then addressing their resolution (formulated as an optimization problem) while considering the parameters or hyperparameters involved all along the process (e.g. noise nature/intensity, regularization parameters). Different models will be considered corresponding to different application cases such as tensor factorization, source separation or time-frequency inpainting. All these issues have been addressed by adopting a variational approach leading to various optimization problems that we propose to solve by developing proximal approaches.
+</p>
+
+<p>
+  Emilie Chouzenoux<br />
+  <b>Title:</b> <i>Deep Unfolding of a Proximal Interior Point Method for Image Restoration</i><br />
+  <b>Abstract:</b> Variational methods have started to be widely applied to ill-posed inverse problems since they have the ability to embed prior knowledge about the solution. However, the level of performance of these methods significantly depends on a set of parameters, which can be estimated through computationally expensive and time-consuming processes. In contrast, deep learning offers very generic and efficient architectures, at the expense of explainability, since it is often used as a black-box, without any fine control over its output. Deep unfolding provides a convenient approach to combine variational-based and deep learning approaches. Starting from a variational formulation for image restoration, we develop iRestNet, a neural network architecture obtained by unfolding an interior point proximal algorithm. Hard constraints, encoding desirable properties for the restored image, are incorporated into the network thanks to a logarithmic barrier, while the barrier parameter, the stepsize, and the penalization weight are learned by the network. We derive explicit expressions for the gradient of the proximity operator for various choices of constraints, which allows training iRestNet with gradient descent and backpropagation. In addition, we provide theoretical results regarding the stability of the network. Numerical experiments on image deblurring problems show that the proposed approach outperforms both state-of-the-art variational and machine learning methods in terms of image quality. Joint work with C. Bertocchi, M.C. Corbineau, J.C. Pesquet and M. Prato.
+</p>
+
+<p>
+  Camille Couprie<br />
+  <b>Title:</b> <i>Image generative modeling for future prediction or inspirational purposes</i><br />
+  <b>Abstract:</b> Generative models, and in particular adversarial ones, are becoming prevalent in computer vision as they enable enhancing artistic creation, inspire designers, prove usefulness in semi-supervised learning or robotics applications. An important prerequisite towards intelligent behavior is the ability to anticipate future events. Predicting the appearance of future video frames is a proxy task towards pursuing this ability. We will present how generative adversarial networks (GANs) can help, and novel approaches predicting in higher level feature spaces of semantic segmentations. In a second part, we will see how to develop the abilities of GANs to deviate from training examples to generate novel images. Finally, as a limitation of GANs is the production of raw images of low resolution, we present solutions to produce vectorized results.
+</p>
+
+<p>
+  Charles Dossal<br />
+  <b>Title:</b> <i>Exact rate of Nesterov Scheme</i><br />
+  <b>Abstract:</b> In 1984 Nesterov proposed an inertial gradient scheme to minimize convex functions which ensures a \( 1/n^2 \) decay rate. In this talk, we give the exact decay rate of this scheme depending on the geometrical properties of the function to minimize.
+</p>
+
+<p>
+  Vincent Duval<br />
+  <b>Title:</b> <i>An atomic norm perspective on total variation regularization in image processing</i><br />
+  <b>Abstract:</b> It is folklore knowledge that the total (gradient) variation regularization tends to promote piecewise constant ``cartoon-like'' images. In this talk I will relate that property to the description of the extreme points of the total variation unit ball. These extreme points have been characterized by Ambrosio, Caselles, Masnou and Morel as the indicator functions of ``simple sets''. I will explain how it is possible to describe the solutions of variational problems as a sum of such functions, by using a general representation principle. This is a joint work with C. Boyer, A. Chambolle, Y. De Castro, F. de Gournay and P. Weiss.
+</p>
+
+<p>
+  Albert Fannjiang<br />
+  <b>Title:</b> <i>Blind Ptychography: Theory and Algorithm</i><br />
+  <b>Abstract:</b> Blind ptychography is a phase retrieval method using multiple coded diffraction patterns from different, overlapping parts of the unknown extended object illuminated with an unknown window function. As such blind ptychography is the inverse problem of simultaneous recovery of the object and the window function given the intensities of  the windowed Fourier transform. We derive a general set of conditions under which the object and the window function can be uniquely determined up to a scaling factor and an affine phase factor. We also characterize all the other ambiguities inherent to the raster scan which consists of the shift positions of  the standard windowed Fourier transform and propose an explicit remedy. Finally, we present  a reconstruction algorithm based on the Douglas-Rachford Splitting with initialization informed by the uniqueness theory.
+</p>
+
+<p>
+  Guy Gilboa<br />
+  <b>Title:</b> <i>Characterizing functionals and flows by nonlinear eigenvalue analysis</i><br />
+  <b>Abstract:</b> Nonquadratic regularizers and nonlinear flows are often difficult to characterize analytically. Nonlinear eigenvalue analysis can provide a convenient framework for such investigations. Two examples are given. First, we examine nonlinear eigenfunctions (calibrable sets) of adaptive-anisotropic total-variation. Theoretical and experimental results show the type of geometrical structures that can be perfectly preserved under the regularization or descent flow, generalizing the TV theory. A second part examines explicit methods for p-Laplacian flows. Analytic solutions of the flow for p-Laplacian eigenfunctions suggest a new type of stability criterion, generalizing the CFL time-step bound.
+</p>
+
+<p>
+  Anders Hansen<br />
+  <b>Title:</b> <i>On computational barriers in mathematics of information and instabilities in deep learning for inverse problems</i><br />
+  <b>Abstract:</b> Modern mathematics of information relies heavily on computing minimisers of optimisation problems such as linear programming, constrained and unconstrained Lasso, Basis Pursuit etc. We will discuss the following potentially surprising issue. When given irrational inputs or using floating point arithmetic, we have the following phenomenon. For any of the mentioned optimisation problems, and given any integer \( K &gt; 2 \), there does exists a class of well conditioned inputs, such that: (1) there does not exists any algorithm that can produce a minimiser with \( K \) correct digits. (2) However, there does exist an algorithm that can produce \( K-1 \) correct digits, but any algorithm doing so will use arbitrarily long time. (3) Moreover, the problem of computing \( K-2 \) digits is in P, that is, there exists an algorithm providing a solution with \( K-2 \) correct digits requiring polynomial runtime in the number of variables. A seemingly unrelated problem is the phenomenon of instabilities in deep learning. It is a well documented issue that deep learning for the classification problem becomes unstable. We will discuss how deep learning for inverse problems in general also becomes unstable. Paradoxically, despite the mentioned instabilities, it is possible to produce neural networks that are completely stable for Magnetic Resonance Imaging (MRI). We will show how such neural networks require no training (no deep learning), have recovery guarantees, and that there does exist efficient algorithms to compute them. The existence of such networks are intimately related to the \( (K,K-1,K-2) \)-phenomenon described above regarding existence of algorithms for optimisation problems in modern mathematics of information.
+</p>
+
+<p>
+  Dirk Lorenz<br />
+  <b>Title:</b> <i>Quadratically regularized optimal transport</i><br />
+  <b>Abstract:</b> Among regularization techniques for optimal transport, entropic regularization has played a pivotal rule. The main reason may be its computational simplicity: the Sinkhorn-Knopp iteration can be implemented in two- or even one line ad enjoys a linear convergence rate. However, some care is needed to calculate optimizer for small regularization parameters and convergence can be quite slow for badly behaved data. Faster algorithms, e.g. Newton methods, are hard to analyze and tend to be unstable in practice. Moreover, the continuous theory is intricate in this case and takes place in Orlicz-Luxemburg spaces (as we will illustrate in this talk). After sketching parts of the continuous theory for entropic regularization, we will analyze a different regularizer, namely a simple quadratic penalty. First our focus lies on the continuous case where it is still quite challenging to show existence of suitable solutions for the dual problem. Then we will derive different numerical methods for the discrete problem which include a globally convergent Newton method which converges very fast to high accuracy even for fairly small regularization parameters. The talk is based on joint work with Christoph Brauer, Christian Clason, Paul Manns, Christian Meyer, and Benedikt Wirth.
+</p>
+
+<p>
+  Nicolas Papadakis<br />
+  <b>Title:</b> <i>Covariant LEAst-square Re-fitting for Image Restoration</i><br />
+  <b>Abstract:</b> In this talk, a framework to remove parts of the systematic errors affecting popular restoration algorithms is presented, with a special focus on image processing tasks. Generalizing ideas that emerged for \( \ell_1 \) regularization, an approach re-fitting the results of standard methods towards the input data is developed. Total variation regularization and non-local means are special cases of interest. Important covariant information that should be preserved by the re-fitting method are identified, and the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator is emphasized. Then, a numerical approach is proposed. It has a twicing flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. The benefits of the method are illustrated on numerical simulations for image restoration tasks. This a joint work with Charles-Alban. Deledalle (CNRS), Joseph Salmon (Univ. Montpellier) and Samuel Vaiter (CNRS).
+</p>
+
+<p>
+  Fabien Pierre<br />
+  <b>Title:</b> <i>Coupling variational method with CNN for image colorization</i><br />
+  <b>Abstract:</b> Our works aim to join the powerful prediction of the convolutional neural network (CNN) with the pixel-level accuracy of variational methods. The limitations of CNN-based image colorization approaches will be described. We then focus on a CNN that is able to compute a statistical color distribution for each pixel of the image from a learning process on a large color image database. After describing its limitation, the variational method of Pierre et al. 2015 is briefly recalled. This method selects a color from a given set while regularizing the result. By combining this approach with a CNN, we have designed a fully automatic image colorization framework taht improves the accuracy in comparison to CNN alone. Some numerical experiments show the accuracy provided by our method.
+</p>
+
+<p>
+  Clarice Poon<br />
+  <b>Title:</b> <i>On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation</i><br />
+  <b>Abstract:</b> Sparse regularization is a central technique for both machine learning and imaging sciences. Existing performance guarantees assume a separation of the spikes based on an ad-hoc (usually Euclidean) minimum distance condition, which ignore the geometry of the problem. In this talk, we study the BLASSO (i.e. the off-the-grid version of \( \ell_1 \) LASSO regularization) and show that the Fisher-Rao distance is the natural way to ensure and quantify support recovery. Under a separation imposed by this distance, I will present results which show that stable recovery of a sparse measure can be achieved when the sampling complexity is (up to log factors) linear with sparsity. On deconvolution problems, which are translation invariant, this generalizes to the multi-dimensional setting existing results of the literature. For more complex translation-varying problems, such as Laplace transform inversion, this gives the first geometry-aware guarantees for sparse recovery. This is joint work with Nicolas Keriven and Gabriel Peyré.
+</p>
+
+<p>
+  Martin Rumpf<br />
+  <b>Title:</b> <i>Metamorphosis on generalized image manifolds</i><br />
+  <b>Abstract:</b> In the metamorphosis model the space of images is equipped with a Riemannian metric measuring both the cost of transport of image intensities and the variation of them along motion lines. In this talk a recently introduced variational time discretization to compute discrete geodesics and a discrete exponential map will be reviewed. The classical metamorphosis model considers images as square-integrable functions and thus is non-sensitive to image features such as sharp interfaces or fine texture patterns. To resolve this drawback, we treat images not as intensity maps. Instead, we consider two different approaches based on convolutional neural networks methodology. In an image analysis approach, we use deep CNN features to treat local structures and semantic information and morph images via a morphing in feature space. Alternatively, in an image synthesis approach, we take into account learned rotational invariant kernels for sparse image representation and morph images in the space of this representation. This is joint work with Alexander Effland, Thomas Pock, Erich Kobler.
+</p>
+
+<p>
+  Christoph Schnörr<br />
+  <b>Title:</b> <i>The Assignment Flow</i><br />
+  <b>Abstract:</b> The assignment flow is a dynamical system that evolves on an elementary statistical manifold and performs image labeling, i.e.~context-sensitive image classification. It provides a smooth and computationally efficient alternative to non-smooth discrete graphical models and enables to study basic problems related to the design of larger systems for image analysis: supervised labeling, unsupervised label learning and learning using optimal control. The talk reports the mathematical ingredients (information theory, discrete optimal transport, geometric integration), recent results and perspectives.
+</p>
+
+<p>
+  Carola Schoenlieb<br />
+  <b>Title:</b> <i>A geometric integration approach to non-smooth and non-convex optimisation</i><br />
+  <b>Abstract:</b> The optimisation of nonsmooth, nonconvex functions without access to gradients is a particularly challenging problem that is frequently encountered, for example in model parameter optimisation problems. Bilevel optimisation of parameters is a standard setting in areas such as variational regularisation problems and supervised machine learning. We present efficient and robust derivative-free methods called randomised Itoh--Abe methods. These are generalisations of the Itoh--Abe discrete gradient method, a well-known scheme from geometric integration, which has previously only been considered in the smooth setting. We demonstrate that the method and its favourable energy dissipation properties are well-defined in the nonsmooth setting. Furthermore, we prove that whenever the objective function is locally Lipschitz continuous, the iterates almost surely converge to a connected set of Clarke stationary points. We present an implementation of the methods, and apply it to various test problems. The numerical results indicate that the randomised Itoh--Abe methods are superior to state-of-the-art derivative-free optimisation methods in solving nonsmooth problems while remaining competitive in terms of efficiency. If time allows we will also give some results in the smooth setting where we could derive convergence rates. This is joint work with Erlend Riis, Matthias Ehrhardt, Torbjørn Ringholm and Reinout Quispel.
+</p>
+
+<p>
+  Gabriele Steidl<br />
+  <b>Title:</b> <i>Vector-valued optimal Lipschitz extensions on finite graphs</i><br />
+  <b>Abstract:</b> Let \( G := (V,E,w) \) be an undirected connected weighted graph with weight function \( w : E \to [0,1] \) and \( \emptyset \neq U \subseteq V \), where \( (u,v) \not \in E \) if \( u,v \in U \). We deal with minimizers of the functionals \[ E_{p} f:= \sum_{u \in V} \Big( \sum_{v \sim u} w(u,v)^p |f(u) - f(v)|^p \Big), \] \[E_{\infty} f:=\max_{u \in V} \left(\max_{v \sim u} w(u,v) |f(u) - f(v)| \right) \] subject to \( f|_U = g \) for vector-valued functions \( f \) and address their relation to midrange filters and \( p \)-Laplacians. Joint work with M. Bacak, J. Hertrich and S. Neumayer.
+</p>
+
+<p>
+  Hugues Talbot<br />
+  <b>Title:</b> <i>Discrete multigrid convergent estimators of curvature</i><br />
+  <b>Abstract:</b> Recent works have indicated the potential of using curvature as a regularizer in image segmentation, in particular for the class of thin and elongated objects. These are ubiquitous in bio-medical imaging (e.g. vascular networks), in which length regularization can sometime performs badly, as well as in texture identication. However, curvature is a second-order dierential measure, and so its estimators are sensitive to noise. The straightforward extentions to Total Variation are not convex, making it a challenge to optimize. State-of-art techniques make use of a coarse approximation of curvature that limit practical applications. We argue that curvature must instead be computed using a multigrid convergent estimator, and we propose in this paper a new digital curvature ow which mimicks continuous curvature flow. We illustrate its potential as a post-processing step to a variational segmentation framework.
+</p>
+
+<p>
+  Yves van Gennip<br />
+  <b>Title:</b> <i>Variational methods on graphs with applications in imaging and data classification</i><br />
+  <b>Abstract:</b> Applications that can be described by variational models profit from all the advantages those models bring along. Both on the functional level as on the level of the associated differential equations, powerful techniques have been developed over the years to study these models. Up until fairly recently, such models were typically formulated  in a continuum setting, i.e. as the minimization of a functional over an admissible class of functions whose domains are subsets of Euclidean space or Riemannian manifolds. The field of variational methods and partial differential equations (PDEs) on graphs aims to harness the power of variational methods and PDEs to tackle problems that inherently have a graph (network) structure. In this talk we will encounter the graph Ginzburg--Landau model, which is a paradigmatic example of a variational model on graphs. Just as its continuum forebear is used to model phase separation on a continuum domain ---it assigns to each point of the domain a value from an (approximately) discrete set of values--- the graph Ginzburg--Landau model describes phase separation on the nodes of a graph. This makes it extremely well suited for applications such as data clustering, data classification, community detection in networks, and image segmentation. Theoretically there are also interesting questions to ask, often driven by the properties that have already been established for the continuum Ginzburg--Landau model, such as Gamma-convergence properties of the functional and relationships between its associated differential equations. This presentation will give an overview of some recent developments.
+</p>
+
+<p>
+  Joachim Weickert<br />
+  <b>Title:</b> <i>Stable Models and Algorithms for Backward Diffusion Evolutions</i><br />
+  <b>Abstract:</b> Backward diffusion equations are potentially useful for image enhancement and deblurring. However, these processes are regarded as typical representatives for ill-posed problems that suffer from intrinsic instabilities. These difficulties have prevented many researchers from using such evolutions. The goal of this talk is to show that this fear is unsubstantiated, provided that one supplements the models with suitable stabilisation techniques and takes care that the numerical algorithms reproduce all qualitative properties of the continuous models in an adequate way. Prototypical models include forward-backward diffusion processes and repulsive particle systems with range constraints. Joint work with Martin Welk (UMIT), Leif Bergerhoff (Saarland University), Marcelo Càrdenas (Saarland University), and Guy Gilboa (Technion).
+</p>
+
+<p>
+  Rebecca Willett<br />
+  <b>Title:</b> <i>Learning to Solve Inverse Problems in Imaging</i><br />
+  <b>Abstract:</b> Many challenging image processing tasks can be described by an ill-posed linear inverse problem: deblurring, deconvolution, inpainting, compressed sensing, and superresolution all lie in this framework. Traditional inverse problem solvers minimize a cost function consisting of a data-fit term, which measures how well an image matches the observations, and a regularizer, which reflects prior knowledge and promotes images with desirable properties like smoothness. Recent advances in machine learning and image processing have illustrated that it is often possible to learn a regularizer from training data that can outperform more traditional regularizers. I will describe an end-to-end, data-driven method of solving inverse problems inspired by the Neumann series, called a Neumann network. Rather than unroll an iterative optimization algorithm, we truncate a Neumann series which directly solves the linear inverse problem with a data-driven nonlinear regularizer. The Neumann network architecture outperforms traditional inverse problem solution methods, model-free deep learning approaches, and state-of-the-art unrolled iterative methods on standard datasets. Finally, when the images belong to a union of subspaces and under appropriate assumptions on the forward model, we prove there exists a Neumann network configuration that well-approximates the optimal oracle estimator for the inverse problem and demonstrate empirically that the trained Neumann network has the form predicted by theory. This is joint work with Davis Gilton and Greg Ongie.
+</p>
+
+<p>
+  Luca Zanni<br />
+  <b>Title:</b> <i>Spectral properties of steplength selections in gradient methods: from unconstrained to constrained optimization</i><br />
+  <b>Abstract:</b> The steplength selection strategies have a remarkable effect on the efficiency of gradient-based methods for both unconstrained and constrained optimization. In the last years, many challenging optimization problems arising from different domains of applied sciences, such as imaging and machine learning, have been successfully faced with first-order approaches thanks to the design of new adaptive steplength rules. A crucial aspect at the basis of these new rules is the ability to capture low-cost second-order information by exploiting special relationship between the steplengths and the spectrum of the Hessian of the objective function. In this talk, starting from a spectral analysis of popular steplength rules in unconstrained optimization, we introduce some ideas for exploiting the steplength spectral properties in case of gradient projection approaches for box-constrained problems. This study suggests how state of the art steplength rules need to be modified for taking into account the presence of box-constraints. Furthermore, the combination of the new rules with variable metric strategies is also discussed. Numerical results on both randomly generated test problems and imaging applications are reported for evaluating the behaviour of the considered steplengths within gradient projection methods. This is a joint work with S. Crisci, F. Porta and V. Ruggiero.
+</p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<p align="center">
+
+<a href="http://www.ihp.fr">
+<img width="120" src="../../img/logo-ihp.jpg" />
+</a>&nbsp;&nbsp;
+
+<a href="http://www.cnrs.fr/">
+<img width="120" src="../../img/logo-cnrs.png" />
+</a>&nbsp;&nbsp;
+
+<a href="http://www.u-psud.fr/fr/index.html">
+<img width="150" src="../../img/logo-paris-sud.png" />
+</a>
+
+<br />
+
+<a href="https://www.sciencesmaths-paris.fr/">
+<img width="150" src="../../img/logo-fsmp.png" />
+</a>&nbsp;&nbsp;
+
+<a href="http://www.upmc.fr/">
+<img width="150" src="../../img/logo-upmc.png" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.cimpa.info/">
+<img width="150" src="../../img/logo-cimpa.png" />
+</a>
+
+<br />
+
+<a href="http://gdr-mia.math.cnrs.fr/">
+<img width="150" src="../../img/logo-mia.png" />
+</a>
+
+<a href="http://www.gpeyre.com/noria/">
+<img width="150" src="../../img/logo-erc.jpg" />
+</a>
+
+
+</p>
+
+		</div>
+	</div>
+</div>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    
+                    <li>
+                        <a href="https://github.com/imaging-in-paris">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <!--
+                  <p class="copyright text-muted">Copyright &copy; Séminaire Parisien des Mathématiques de l'Imagerie 2019</p>
+                -->
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery
+<script src="/js/jquery.min.js "></script>
+-->
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/clean-blog.min.js "></script>
+
+
+
+
+<!-- Google analytics -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-781488-2";
+urchinTracker();
+</script>
+
+
+</body>
+
+</html>
