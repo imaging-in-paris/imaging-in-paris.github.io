@@ -115,7 +115,7 @@
   abstract: "Changes in image quality or illumination may affect the pixel intensities, without affecting the relative intensities, i.e., the ranking of pixels in an image by decreasing intensity. In order to learn a model robust to such changes, it is therefore of interest to develop machine learning tools to learn from permutations. In this talk I will discuss several approaches to embed the set of permutations to vector spaces allowing computationally efficient learning of linear models, and relate these embeddings to the classical representations of the symmetric group."
 
 - speaker: Claire Vernade
-  title: "TBA"
+  title: "Contextual Bandit: from Theory to Applications"
   abstract: "TBA"
 
 - speaker: Christian Wolf
