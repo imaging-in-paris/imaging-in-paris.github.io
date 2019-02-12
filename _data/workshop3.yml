@@ -1,0 +1,139 @@
+- speaker: Stéphanie Allassonnière
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Chloé-Agathe Azencott
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Francis Bach
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Erik Bekkers
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Marta Betcke
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Christoph Brune
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Jianfeng Cai
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Matthieu Cord
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Romain Couillet
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Daniel Cremers
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Marco Cuturi
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Cédric Févotte
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Alexandre Gramfort
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Hervé Jegou
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Rodolphe Jenatton
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Julien Mairal
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Stéphane Mallat
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Naila Murray
+  title: "Predicting aesthetic appreciation of images"
+  abstract: "Image aesthetics has become an important criterion for visual content curation on social media sites and media content repositories. Previous
+work on aesthetic prediction models in the computer vision community has
+focused on aesthetic score prediction or binary image labeling. However,
+raw aesthetic annotations are in the form of score histograms and
+provide richer and more precise information than binary labels or mean
+scores. In this talk I will present recent work at Naver Labs Europe on
+the rarely-studied problem of predicting aesthetic score distributions.
+The talk will cover the large-scale dataset we collected for this
+problem, called AVA, and will describe the novel deep architecture and
+training procedure for our score distribution model. Our model achieves
+state-of-the-art results on AVA for three tasks: (i) aesthetic quality
+classification; (ii) aesthetic score regression; and (iii) aesthetic
+score distribution prediction, all while using one model trained only
+for the distribution prediction task. I will also discuss our proposed
+method for modifying an image such that its predicted aesthetics
+changes, and describe how this modification can be used to gain insight
+into our model."
+
+- speaker: Guillaume Obozinski
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Ozan Öktem
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Patrick Pérez
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Lorenzo Rosasco
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Guillermo Sapiro
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Mahdi Soltanolkotabi
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Jared Tanner
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Dorina Thanou
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Bertrand Thirion
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Silvia Villa
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Jean-Philippe Vert
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Claire Vernade
+  title: "TBA"
+  abstract: "TBA"
+
+- speaker: Christian Wolf
+  title: "TBA"
+  abstract: "TBA"
