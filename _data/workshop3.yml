@@ -35,7 +35,7 @@
   abstract: "Machine learning algorithms, starting from elementary yet popular ones, are difficult to theoretically analyze as (i) they are data-driven, and (ii) they rely on non-linear tools (kernels, activation functions). These theoretical limitations are exacerbated in large dimensional datasets where standard algorithms behave quite differently than predicted, if not completely fail. In this talk, we will show how random matrix theory (RMT) answers all these problems. We will precisely show that RMT provides a new understanding and various directions of improvements for kernel methods, semi-supervised learning, SVMs, community detection on graphs, spectral clustering, etc. Besides, we will show that RMT can explain observations made on real complex datasets in as advanced methods as deep neural networks."
 
 - speaker: Daniel Cremers
-  title: "TBA"
+  title: "Bayesian Inference in the Age of Deep Learning"
   abstract: "TBA"
 
 - speaker: Marco Cuturi
