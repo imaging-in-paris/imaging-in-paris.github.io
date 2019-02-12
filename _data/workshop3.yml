@@ -23,8 +23,8 @@
   abstract: "TBA"
 
 - speaker: Jianfeng Cai
-  title: "TBA"
-  abstract: "TBA"
+  title: "Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations"
+  abstract: "The problem of finding a vector x which obeys a set of quadratic equations \\( |<a_k,x>|^2=y_k,~k = 1, · · · , m\\), plays an important role in many applications. In this talk, we construct a new loss function for this problem, which combines the smooth quadratic loss function with an activation function. Under the Gaussian measurement model of a_k, we establish that the proposed loss function has a well-behaved landscape of critical points. In particalar, with high probability, the target solution x is the unique local minimizer (up to a global phase factor) of the new loss function provided m=O(n), and the loss function always has a negative directional curvature around its saddle points. Therefore, any algorithm finding a local minimum will solve the phase retrieval problem with theoretical guarantee in the optimal sampling complexity."
 
 - speaker: Matthieu Cord
   title: "Designing multimodal deep architectures for Visual Question Answering"
