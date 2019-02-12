@@ -25,7 +25,7 @@ Tuesday (March 12)
 - 10h45-11h30: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/)
 - 11h30-12h15: [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
+- 14h-14h45: [Michael Unser](http://bigwww.epfl.ch/unser/)
 - 14h45-15h30: [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/)
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Pierre Chainais](http://pierrechainais.ec-lille.fr)
@@ -51,7 +51,7 @@ Thursday (March 14)
 - 10h45-11h30: [Neus Sabater](https://www.technicolor.com/neus-sabater)
 - 11h30-12h15: [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Michael Unser](http://bigwww.epfl.ch/unser/)
+- 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
 - 14h45-15h30: [Marianne Clausel](https://sites.google.com/site/marianneclausel/)
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Pablo Arias](http://gpi.upf.edu/profile/211)
