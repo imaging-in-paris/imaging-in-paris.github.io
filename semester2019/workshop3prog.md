@@ -33,6 +33,23 @@ Tuesday (April 2)
 - 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Bayesian Inference in the Age of Deep Learning***)
 - 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***TBA***)
 
+- 18h-19h30 (TBC): [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) Outreach plenary conferences (in French) (conférence grand public en français)
+
+Wednesday (April 3)
+-------------
+- 9h30-10h15: [Chloé-Agathe Azencott](http://cazencott.info/) (***Using structure to select features in high dimension***)
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Ozan Öktem](https://www.kth.se/profile/ozan) (***Bayesian inversion for tomography through machine learning***)
+- 11h30-12h15: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***)
+- 12h15-14h: Lunch break
+- 14h-14h45: [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (***Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations***)
+- 14h45-15h30: [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) (***Learning high-level reasoning in and from images***)
+- 15h30-16h: Coffee break 
+- 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***TBA***)
+- 16h45 -17h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
+
+Thursday (April 4)
+-------------
 
 
 
