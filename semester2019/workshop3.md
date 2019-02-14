@@ -36,7 +36,7 @@ Confirmed Speakers
 - [Daniel Cremers](https://vision.in.tum.de/members/cremers) (TU Munich)
 - [Marco Cuturi](http://marcocuturi.net/) (ENSAE)
 - [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (CNRS, Toulouse)
-- [Alexandre Gramfort](http://alexandre.gramfort.net/) (Telecom ParisTech)
+- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA)
 - [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (Facebook)
 - [Rodolphe Jenatton](http://rodolphejenatton.com/) (Amazon)
 - [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (INRIA)
