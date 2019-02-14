@@ -50,6 +50,25 @@ Wednesday (April 3)
 
 Thursday (April 4)
 -------------
+- 9h30-10h15: [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (***Optimal machine learning with stochastic projections and regularization***)
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (***Learned image reconstruction for high-resolution tomographic imaging***)
+- 11h30-12h15: [Patrick Pérez](https://ptrckprz.github.io/) (***TBA***)
+- 12h15-14h: Lunch break
+- 14h-14h45: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***TBA***)
+- 14h45-15h30: [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (***Towards demystifying over-parameterization in deep learning***)
+- 15h30-16h: Coffee break 
+- 16h-16h45: [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (***TBA***)
+- 16h45 -17h30: [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (***Autoencoder Image Generation with Multiscale Sparse Deconvolutions***)
+
+Friday (April 5)
+-------------
+- 9h30-10h15: [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***)
+- 10h15-11h: [Erik Bekkers](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research/research-groups/medical-image-analysis/organization/former-group-members/ir-ej-erik-bekkers/) (***TBA***)
+- 11h-11h30: Coffee break 
+- 11h30-12h15: [Claire Vernade](https://www.cvernade.com/) (***Contextual Bandit: from Theory to Applications***)
+- 12h15-13h: [Francis Bach](https://www.di.ens.fr/~fbach/) (***On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport***)
+- Lunch break-End of the workshop
 
 
 
