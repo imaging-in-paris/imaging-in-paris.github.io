@@ -22,7 +22,7 @@ Monday (April 1)
 
 Tuesday (April 2)
 -------------
-- 9h30-10h15: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***)
+- 9h30-10h15: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***TBA***)
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (***Predicting aesthetic appreciation of images***)
 - 11h30-12h15: [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (***Learning Representations for Information Obfuscation and Inference***)
@@ -55,7 +55,7 @@ Thursday (April 4)
 - 10h45-11h30: [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (***Learned image reconstruction for high-resolution tomographic imaging***)
 - 11h30-12h15: [Patrick Pérez](https://ptrckprz.github.io/) (***TBA***)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***TBA***)
+- 14h-14h45: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***)
 - 14h45-15h30: [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (***Towards demystifying over-parameterization in deep learning***)
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (***TBA***)
