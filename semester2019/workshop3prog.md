@@ -20,6 +20,18 @@ Monday (April 1)
 - 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***TBA***)
 - 16h45-17h30 : [Rodolphe Jenatton](http://rodolphejenatton.com/) (***Scalable hyperparameter transfer learning***)
 
+Tuesday (April 2)
+-------------
+- 9h30-10h15: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***)
+- 10h15-10h45: Coffee break 
+- 10h45-11h30: [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (***Predicting aesthetic appreciation of images***)
+- 11h30-12h15: [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (***Learning Representations for Information Obfuscation and Inference***)
+- 12h15-14h: Lunch break
+- 14h-14h45: [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (***Convex unmixing and learning the effect of latent variables in Gaussian Graphical models with unobserved***)
+- 14h45-15h30: [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (***Learning graphs from data: A signal representation perspective***)
+- 15h30-16h: Coffee break 
+- 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Bayesian Inference in the Age of Deep Learning***)
+- 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***TBA***)
 
 
 
