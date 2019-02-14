@@ -15,7 +15,7 @@ Monday (April 1)
 - 11h45-12h30 : [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (***A Kernel Perspective for Regularizing Deep Neural Networks***)
 - 12h30-14h : Lunch break
 - 14h-14h45 : [Romain Couillet](http://romaincouillet.hebfree.org/) (***Random Matrix Advances in Machine Learning***)
-- 14h45-15h30 : [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (***Learning from permutations***)
+- 14h45-15h30 : [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***TBA***)
 - 16h45-17h30 : [Rodolphe Jenatton](http://rodolphejenatton.com/) (***Scalable hyperparameter transfer learning***)
@@ -63,7 +63,7 @@ Thursday (April 4)
 
 Friday (April 5)
 -------------
-- 9h30-10h15: [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***)
+- 9h30-10h15: [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (***Learning from permutations***)
 - 10h15-11h: [Erik Bekkers](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research/research-groups/medical-image-analysis/organization/former-group-members/ir-ej-erik-bekkers/) (***TBA***)
 - 11h-11h30: Coffee break 
 - 11h30-12h15: [Claire Vernade](https://www.cvernade.com/) (***Contextual Bandit: from Theory to Applications***)
