@@ -39,14 +39,41 @@ Numerical experiments on synthetic and real datasets are also provided to illust
   title: "TeraLasso for sparse time-varying image modeling"
   abstract: "We propose a new ultrasparse graphical model for representing time varying images, and other multiway data,  based on a Kronecker sum representation of the spatio-temporal inverse covariance matrix. This statistical model decomposes the inverse covariance into a linear Kronecker sum representation with sparse Kronecker factors. Under the assumption that the multiway observations are matrix-normal the l1 sparsity regularized log-likelihood function is convex and admits significantly faster statistical rates of convergence than other sparse matrix normal algorithms such as graphical lasso or Kronecker graphical lasso. We will illustrate the method on meteoroligical and MRI imagery to demonstrate the ability of the model to capture sparse structure  with few samples. This is joint work with Kristjan Greenewald and Shuheng Zhou."
 
+- speaker: Charles Kervrann
+  title: "A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy."
+  abstract: " The characterization of molecular interactions is a major challenge in quantitative microscopy. This
+problem is usually addressed in living cells by fluorescently labeling two types of molecules of interest with spectrally
+distinct fluorophores, and simultaneously imaging them. This process provides two images of the same cell, each
+depicting one different fluorescently tagged molecules, both corrupted with diffraction, noise and nuisance background.
+A crucial step in the analysis of interactions is to determine whether the molecule locations in the first image are
+correlated with the molecule locations in the second image. This so-called colocalization problem in bio-imaging
+remains an open issue in diffraction-limited microscopy and raises new challenges with the emergence of super-
+resolution imaging, a microscopic technique awarded by the 2014 Nobel prize in chemistry. We propose GcoPS, for
+Geo-coPositioning System, an original method that exploits the random sets structure of the tagged molecules to
+provide an explicit testing procedure. Our simulation study shows that GcoPS unequivocally outperforms the best
+competitive methods in adverse situations (noise, irregularly shaped molecules, different optical resolution). GcoPS is
+also much faster, a decisive advantage to face the huge amount of data in super-resolution imaging. We demonstrate
+the performances of GcoPS on two biological real datasets, obtained by conventional diffraction-limited microscopy
+technique and by super-resolution technique, respectively."
 
 - speaker: Ron Kimmel
   title: "Interaction between invariant structures for shape analysis."
   abstract: "A classical approach for surface classification is to find a compact algebraic representation for each surface that would be similar for objects within the same class and preserve dissimilarities between classes. Self functional maps was suggested by Halimi and the lecturer as a surface representation that satisfies these properties, translating the geometric problem of surface classification into an algebraic form of classifying matrices. The proposed map transforms a given surface into a universal isometry invariant form defined by a unique matrix. The suggested representation is realized by applying the functional maps framework to map the surface into itself. The idea is to use two different metric spaces of the same surface for which the functional map serves as a signature. As an example we suggested the regular and the scale invariant surface laplacian operators to construct two families of eigenfunctions. The result is a matrix that encodes the interaction between the eigenfunctions resulted from two different Riemannian manifolds of the same surface. Using this representation, geometric shape similarity is converted into algebraic distances between matrices. If time permits, I will also comment on some of our efforts to migrate geometry into the arena of deep learning, in a sense learning to understand." 
 
+
+- speaker: Sylvain Lefebvre
+  title: "Synthesizing stochastic microstructures for additive manufacturing"
+  abstract: "Additive manufacturing makes it possible to physically realize objects embedding complex, small scale structures, on a scale of a few tens of microns. These microstructures modify the large-scale behaviour of an object, making it flexible or porous, and allowing parts to be lightened while maintaining their structural integrity. Modeling these microstructures is difficult: it is necessary to represent a large quantity of details, to respect the angle and thickness constraints of additive manufacturing processes, while predicting the final behaviour induced by the microstructures, for example in terms of elasticity. For these reasons, most existing techniques are studying periodic structures. The periodicity, by repeating the same base structure in a regular grid simplifies analysis and processing.  Unfortunately, it also prevents free variation of structures in space, for example orienting them along directions of maximal stresses.
+In the past few years we have focused on synthesizing microstructures using stochastic processes, which are inspired from procedural texturing techniques in Computer Graphics. The microstructures we synthesize resemble foams. By controlling the statistics of the generation process, we show that it is possible to control the final average elastic behavior. These techniques can be used in two-scale topology optimization problems, where a shape is globally optimized at a coarse scale, while the random process quickly generates a fine scale foam having the desired homogeneous behavior."
+
 - speaker: Michael Lindenbaum
   title: "Using statistics to justify vision algorithms"
   abstract: "Many successful vision algorithms are based on clever heuristics. We study two algorithms and show that, under certain statistical models, they correspond to common statistical decisions. The first is the local variation (LV) algorithm (LV) (Efficient graph-based image segmentation, by Felzenszwalb and  Huttenlocher). We show that algorithms similar to LV can be devised by applying different statistical models and decisions, some of which are based on statistics of natural images and on a hypothesis testing decision. We we denote these algorithms probabilistic local variation (pLV). We then turn to the SIFT matching algorithm (Object recognition from local scale-invariant features, by Lowe). Here we study the ratio criterion and show that this criterion could be a result of using various statistical decisions and, in particular, could correspond to minimizing the conditional probability of a false match. In both cases, the analysis provides further theoretical justification and well-founded explanations for the unexpected high performance of these two algorithms. It also provides statistically based versions of these algorithms that are at least as good as, and sometimes better than, the originals. Joint work with Michael Baltaxe, Peter Meer, Avi Kaplan, and Tammy Avraham."
+
+
+- speaker: Pooran Memari
+  title: "Statistical representation for geometric modeling"
+  abstract: "This talk presents some new developments in theory and applications of statistical representation for geometric modeling. Through some concrete application scenarios in geometry processing and computer graphics, we will see how an appropriate statistical framework and related computational tools, can lead to efficient algorithms for geometrical analysis and synthesis of 2D or 3D shapes. In this context, the main challenge is the design of representation methods which capture both geometric and statistical features of data. Such a representation needs to be on one hand, simple and compact for an efficient learning step, and on the other hand, complete enough to ensure a coherent synthesis at the end. " 
 
 - speaker: Sylvain Paris
   title: "Photography Made Easy"
