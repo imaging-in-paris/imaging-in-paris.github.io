@@ -8,7 +8,12 @@ header-img: "../img/paris4.png"
 Tentative program
 -------------
 
-TBC
+Monday (April 1)
+-------------
+- 10h30 : Welcome/Coffee 
+- 11h-11h45 : [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner) (Oxford) (***TBA***)
+- 11h45-12h30 : [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (INRIA) (***A Kernel Perspective for Regularizing Deep Neural Networks***)
+
 
 
 Abstracts
