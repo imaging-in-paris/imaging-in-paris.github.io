@@ -54,6 +54,7 @@ Confirmed Speakers
 - [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (Poli Milano)
 - [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (Mines ParisTech, Google)
 - [Claire Vernade](https://www.cvernade.com/) (Google Deepmind)
+- [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (CNRS and Paris Dauphine)
 - [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) (Lyon)
 
 
