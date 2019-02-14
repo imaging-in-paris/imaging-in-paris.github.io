@@ -15,8 +15,8 @@
   abstract: "TBA"
 
 - speaker: Marta Betcke
-  title: "TBA"
-  abstract: "TBA"
+  title: "Learned image reconstruction for high-resolution tomographic imaging"
+  abstract: "Recent advances in deep learning for tomographic reconstructions have shown a great promise to create accurate and high quality images from subsampled measurements in a time considerably shorter than needed by the established nonlinear regularisation methods such as e.g. TV. This new paradigm also offers a new implicit way of expressing prior knowledge through training on a class of images with expected characteristics. In this talk we discuss two common approaches to combining deep learning - here  convolutional neural networks (CNN) -  with model-based reconstruction techniques on the example of photoacoustic tomography.  We also address particular challenges for learned reconstruction for such computationally intensive application."
 
 - speaker: Christoph Brune
   title: "TBA"
@@ -88,7 +88,7 @@
 
 - speaker: Guillermo Sapiro
   title: "Learning Representations for Information Obfuscation and Inference"
-  abstract: "Data collection and sharing are pervasive aspects of modern society. This process can either be voluntary, as in the case of a person taking a facial image to unlock his/her phone, or inciden-tal, such as trafﬁc cameras collecting videos on pedestrians. An undesirable side effect of these processes is that shared data can carry informa-tion about attributes that users might consider as sensitive, even when such information is of limited use for the task. It is therefore desirable for both data collectors and users to design procedures that minimize sensitive information leak-age. Balancing the competing objectives of providing meaningful individualized service levels and inference while obfuscating sensitive information is still an open problem. In this work, we take an information theoretic approach that is implemented as an unconstrained adversarial game between Deep Neural Networks in a principled, data-driven manner. This approach enables us to learn domain-preserving stochastic transformations that maintain performance on existing algorithms while minimizing sensitive information leakage. Joint work with M. Bertran, N. Martinez, Q. Qiu, A. Papadaki, G. Reeves, and M. Rodrigues."
+  abstract: "Data collection and sharing are pervasive aspects of modern society. This process can either be voluntary, as in the case of a person taking a facial image to unlock his/her phone, or incidental, such as trafﬁc cameras collecting videos on pedestrians. An undesirable side effect of these processes is that shared data can carry information about attributes that users might consider as sensitive, even when such information is of limited use for the task. It is therefore desirable for both data collectors and users to design procedures that minimize sensitive information leakage. Balancing the competing objectives of providing meaningful individualized service levels and inference while obfuscating sensitive information is still an open problem. In this work, we take an information theoretic approach that is implemented as an unconstrained adversarial game between Deep Neural Networks in a principled, data-driven manner. This approach enables us to learn domain-preserving stochastic transformations that maintain performance on existing algorithms while minimizing sensitive information leakage. Joint work with M. Bertran, N. Martinez, Q. Qiu, A. Papadaki, G. Reeves, and M. Rodrigues."
 
 - speaker: Mahdi Soltanolkotabi
   title: "Towards demystifying over-parameterization in deep learning"
