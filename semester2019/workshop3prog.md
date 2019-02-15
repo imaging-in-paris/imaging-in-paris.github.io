@@ -22,7 +22,7 @@ Monday (April 1)
 
 Tuesday (April 2)
 -------------
-- 9h30-10h15: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***TBA***)
+- 9h30-10h15: [Chloé-Agathe Azencott](http://cazencott.info/) (***Using structure to select features in high dimension***)
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (***Predicting aesthetic appreciation of images***)
 - 11h30-12h15: [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (***Learning Representations for Information Obfuscation and Inference***)
@@ -37,7 +37,7 @@ Tuesday (April 2)
 
 Wednesday (April 3)
 -------------
-- 9h30-10h15: [Chloé-Agathe Azencott](http://cazencott.info/) (***Using structure to select features in high dimension***)
+- 9h30-10h15: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***Rank optimality for the Burer-Monteiro factorization***)
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Ozan Öktem](https://www.kth.se/profile/ozan) (***Bayesian inversion for tomography through machine learning***)
 - 11h30-12h15: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***)
