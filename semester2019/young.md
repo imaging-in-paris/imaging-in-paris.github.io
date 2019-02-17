@@ -3,7 +3,7 @@ layout: page
 title: "Young Researchers in Imaging Seminars"
 header-img: "../img/paris2.png"
 ---
-The Young Researchers in Imaging Seminars aim at offering the opportunity to PhD students and Post Docs working on topics related to the thematic program to present their work.
+The Young Researchers in Imaging Seminars aims at offering the opportunity to PhD students and Post Docs working on topics related to the thematic program to present their work.
 
 Starting from Wednesday 20 February, we organise every Wednesday (except for March 13th) in Darboux amphiteater a two-hour session from 14:00 to 16:00 dedicated to young researchers, in order give them a chance to stimulate the scientific discussion.
 
