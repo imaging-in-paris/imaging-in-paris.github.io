@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Comming"
+title: "Coming"
 description: "to IHP"
 header-img: "img/paris6.png"
 ---
