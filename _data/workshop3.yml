@@ -43,8 +43,9 @@
   abstract: "TBA"
 
 - speaker: Cédric Févotte
-  title: "TBA"
-  abstract: "TBA"
+  title: "Nonnegative matrix factorisation with the beta-divergence for
+robust hyperspectral unmixing"
+  abstract: "Data is often available in matrix form, in which columns are samples, and processing of such data often entails finding an approximate factorisation of the matrix into two factors. The first factor (the “dictionary”) yields recurring patterns characteristic of the data. The second factor (“the activation matrix”) describes in which proportions each data sample is made of these patterns. Nonnegative matrix factorisation (NMF) is a popular technique for analysing data with nonnegative values, with applications in many areas such as in text information retrieval, user recommendation, audio signal processing, and hyperspectral imaging. In a first part, the presentation will present a general majorisation-minimisation framework for NMF with the beta-divergence, a continuous family of loss functions that takes the quadratic loss, KL divergence and Itakura-Saito divergence as special cases. Secondly, I will present robust variants of NMF for hyperspectral unmixing, that may account for outliers, model offsets or nonlinear causes. Joint work with Nicolas Dobigeon."
 
 - speaker: Alexandre Gramfort
   title: "Optimization meets machine learning for neuroimaging"
