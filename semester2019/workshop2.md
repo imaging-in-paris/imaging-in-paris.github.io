@@ -46,7 +46,7 @@ Confirmed Speakers
 - [Sylvain Paris](https://people.csail.mit.edu/sparis/) (adobe/MIT)  
 - [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (Heriot-Watt Univ.)   
 - [Julien Rabin](https://sites.google.com/site/rabinjulien/) (Univ. de Caen)
-- [Neus Sabater](https://www.technicolor.com/neus-sabater) (Technicolor)
+- [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/) (Univ. Bordeaux)
 - [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/) (Florida state Univ.) 
 - [Alain Trouvé](http://atrouve.perso.math.cnrs.fr) (ENS Paris-Saclay)
 - [Michael Unser](http://bigwww.epfl.ch/unser/) (EPFL) 

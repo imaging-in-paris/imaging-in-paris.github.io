@@ -48,7 +48,7 @@ Thursday (March 14)
 --------------
 - 9h30-10h15: [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
 - 10h15-10h45: Coffee break 
-- 10h45-11h30: [Neus Sabater](https://www.technicolor.com/neus-sabater)
+- 10h45-11h30: [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/)
 - 11h30-12h15: [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
