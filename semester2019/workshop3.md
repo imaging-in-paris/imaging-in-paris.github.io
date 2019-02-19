@@ -34,7 +34,7 @@ Confirmed Speakers
 - [Matthieu Cord](http://webia.lip6.fr/~cord/) (UPMC)
 - [Romain Couillet](http://romaincouillet.hebfree.org/) (Univ. Grenoble)
 - [Daniel Cremers](https://vision.in.tum.de/members/cremers) (TU Munich)
-- [Marco Cuturi](http://marcocuturi.net/) (ENSAE)
+- [Marco Cuturi](http://marcocuturi.net/) (ENSAE and Google)
 - [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (CNRS, Toulouse)
 - [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA)
 - [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (Facebook)
