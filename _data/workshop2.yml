@@ -3,6 +3,11 @@
   abstract: "In this talk, I propose to present a generic hierarchical spatiotemporal model for longitudinal manifold-valued data, which consists in repeated measurements over time for a group of individuals. This model allows us to estimate a group-average trajectory of evolution, considered as a piece-wise geodesic of a given Riemannian manifold. Individual trajectories of progression are obtained as random variations, which consist in parallel shifting and time reparametrization, of the average trajectory. These spatiotemporal transformations allow us to characterize changes in the direction and in the pace at which trajectories are followed. We propose to estimate the parameters of the model using a stochastic version of the expectation-maximization (EM) algorithm, the Monte Carlo Markov Chain Stochastic Approximation EM (MCMC SAEM) algorithm with tempering schemes. 
 This generic spatiotemporal model is used to analyze the temporal progression of a family of biomarkers. This progression model estimates a normative scenario of the progressive impairments of several cognitive functions, considered here as biomarkers, during the course of Alzheimer’s disease. We also used this model to understand the response to antiangiogenic treatment in metastatic cancers." 
 
+- speaker: Hermine Biermé
+  title: "Lipschitz-Killing curvatures of excursion sets for 2D random fields"
+  abstract: "We consider three geometrical characteristics for  excursion sets for 2D  stationary isotropic random fields, known as Lipschitz-Killing curvatures, and closely related to area, perimeter and Euler characteristic of those sets.We propose unbiased estimators for fields satisfying a kinematic formula and compute explicitly
+these characteristics for several random fields, adopting a weak functional framework.
+Joint work with Agnès Desolneux (CNRS, CMLA, ENS Paris-Saclay), Elena Di Bernardino (CNAM, Paris),  Céline Duval and Anne Estrade (MAP5, Paris)." 
 
 - speaker: Jérémie Bigot
   title: "Statistical aspects of stochastic algorithms for entropic optimal transportation between probability measures"
@@ -25,6 +30,12 @@ Numerical experiments on synthetic and real datasets are also provided to illust
 - speaker: Pierre Chainais
   title: "Efficient sampling through variable splitting-inspired bayesian hierarchical models"
   abstract: "Markov chain Monte Carlo (MCMC) methods are an important class of computation techniques to solve Bayesian inference problems. Much research has been dedicated to scale these algorithms in high-dimensional settings by relying on powerful optimization tools such as gradient information or proximity operators. In a similar vein, this paper proposes a new Bayesian hierarchical model to solve large scale inference problems by taking inspiration from variable splitting methods. Similarly to the latter, the derived Gibbs sampler enables to divide the initial sampling task into simpler ones. In addition, the proposed Bayesian framework can lead to a faster sampling scheme than state-of-the-art methods by embedding them. The interest of the proposed methodology is illustrated on often-studied image processing problems."
+
+
+- speaker: Marianne Clausel
+  title: "Gaussian random fields and anisotropy"
+  abstract: "Textures in images can often be well modeled using self-similar random fields while they may at the same time display anisotropy. The present contribution thus aims at studying jointly selfsimilarity and anisotropy by focusing on anisotropic selfsimilar Gaussian fields. We study a class of anisotropic and local self similar Gaussian random fields, and relate the orientation of the fields to the anisotropy properties of the texture. Notably, we use this preliminary study to define a new class of Gaussian fields with prescribed orientation. Thereafter, we propose a practical procedure to perform the synthesis of these textures.
+Joint work with K. Polisano, L. Condat and V. Perrier"
 
 - speaker: Xavier Descombes
   title: "Multiple objects detection in biological images using a Marked Point Process Framework"
