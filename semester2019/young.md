@@ -34,9 +34,21 @@ Priority will be given to young researchers attending the program, but all contr
 ### Wednesday, February 27th
 
 - 14:00 - 15:00 [Marie-Caroline Corbineau](https://hal.archives-ouvertes.fr/search/index/q/*/authIdHal_s/marie-caroline-corbineau)<br/>
-   **Title**: Joint geometry-texture decomposition and reconstruction of CT scans using a proximal interior point algorithm
+   **Title**: Joint geometry-texture decomposition and reconstruction of CT scans using a proximal interior point algorithm<br/>
+  <details>
+  <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
+  <p>
+  The geometry-texture decomposition of images produced by X-Ray Computed Tomography (CT) is a challenging inverse problem, which is usually performed in two steps: reconstruction and decomposition. Decomposition can be used for instance to produce an approximate segmentation of the image, but this one can be compromised by artifacts and noise arising from the acquisition and reconstruction processes. Hence, reconstruction and decomposition benefit from being performed in a joint manner. We propose a geometry-texture decomposition based on a TV-Laplacian model, well-suited for segmentation and edge detection. The problem of joint reconstruction and decomposition of CT data is then formulated as a convex constrained minimization problem, which is solved using a recently introduced proximal interior point method. Numerical experiments on realistic images of material samples illustrate the practical efficiency of the proposed approach.
+  </p>
+  </details>
 - 15:00 - 16:00 [Antoine Houdard](https://houdard.wp.imt.fr/)<br/>
-   **Title**: TBA
+   **Title**: On the use of Gaussian models on patches for image denoising<br/>
+  <details>
+  <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
+  <p>
+  Some recent denoising methods are based on a statistical modeling of the image patches. In the literature, Gaussian models or Gaussian mixture models are the most widely used priors. In this presentation, after introducing the statistical framework of patch-based image denoising, I will propose some clues to answer the following questions: Why are these Gaussian priors so widely used? What information do they encode? In the second part, I will present a mixture model for noisy patches adapted to the high dimension of the patch space. This results in a denoising algorithm only based on statistical tools, which achieves state-of-the-art performance. Finally, I will discuss the limitations and some developments of the proposed method.
+  </p>
+  </details>
 
 ### Wednesday, March 6th
 
