@@ -7,7 +7,6 @@ The [Young Researchers in Imaging Seminars](https://imaging-in-paris.github.io/s
 
 Starting from Wednesday 20 February, we organise every Wednesday (except for March 13th) in Darboux amphiteater a two-hour session from 14:00 to 16:00 dedicated to young researchers, in order give them a chance to stimulate the scientific discussion. The seminar is followed by a coffee time (with snacks) at the 2nd floor.
 
-Priority will be given to young researchers attending the program, but all contributions are encouraged to participate. If you are interested to present your work, send us an e-mail with your date preference, a brief description of your research topics and a tentative title of your talk.
 
 ## Program
 
