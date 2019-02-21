@@ -51,7 +51,7 @@ Starting from Wednesday 20 February, we organise every Wednesday (except for Mar
 
 ### Wednesday, March 6th
 
-- 14:00 - 15:00 [Alessandro Rudi](https://www.di.ens.fr/~rudi/) *(INRIA)*<br/>
+- 14:00 - 15:00 [Alessandro Rudi](https://www.di.ens.fr/~rudi/) *(INRIA)* To be confirmed<br/>
    **Title**: TBA<br/>
   <details>
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
