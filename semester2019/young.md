@@ -92,7 +92,7 @@ No seminar this week : it is the "[Statistical Modeling for Shapes and Imaging](
 
 ### Wednesday, March 27th
 
-- 14:00 - 14:40 [Federica Sciacchitano](http://www.dima.unige.it/~sciacchitano/) *(University of Genova, IT)*<br/>
+- 14:00 - 14:40 [Federica Sciacchitano](http://www.dima.unige.it/~sciacchitano/) *(University of Genova, Italy)*<br/>
   **Title** : TBA<br/>
   <details>
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
