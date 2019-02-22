@@ -10,9 +10,13 @@
   title: "On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport"
   abstract: "Many tasks in machine learning and signal processing can be solved by minimizing a convex function of a measure. This includes sparse spikes deconvolution or training a neural network with a single hidden layer. For these problems, we study a simple minimization method: the unknown measure is discretized into a mixture of particles and a continuous-time gradient descent is performed on their weights and positions. This is an idealization of the usual way to train neural networks with a large hidden layer. We show that, when initialized correctly and in the many-particle limit, this gradient flow, although non-convex, converges to global minimizers. The proof involves Wasserstein gradient flows, a by-product of optimal transport theory. Numerical experiments show that this asymptotic behavior is already at play for a reasonable number of particles, even in high dimension. (Joint work with Lénaïc Chizat)"
 
-- speaker: Erik Bekkers
-  title: "TBA"
-  abstract: "TBA"
+- speaker: Remco Duits
+  title: "Roto-Translation Covariant Convolutional Networks for Medical Image Analysis"
+  abstract: "We propose a framework for rotation and translation covariant deep learning using SE(2) group convolutions, cf.[1]. The group product of the special Euclidean motion group SE(2) describes how a concatenation of two roto-translations results in a net roto-translation. We encode this geometric structure into convolutional neural networks (CNNs) via SE(2) group convolutional layers, which fit into the standard 2D CNN framework, and which allow to generically deal with rotated input samples without the need for data augmentation.
+We introduce three layers: a lifting layer which lifts a 2D image to an SE(2)-image, i.e., 3D data whose domain is SE(2); a group convolution layer from and to an SE(2)-image; and a projection layer from an SE(2)-image to a 2D image. The lifting and group convolution layers are SE(2)-covariant (i.e. the output roto-translates with the input). The projection layer, a maximum intensity projection over rotations, makes the full CNN rotation invariant. A typical SE(2)-CNN consist of a rotationally-invariant feature encoding part (a sequence of a lifting layer, group convolution layers and a projection layer) followed by (fully connected) output layers in which the outputs are mapped to class probabilities via a sigmoid activation function, a scalar bias and weights. In this work we consider two class problems where we use cross-entropy as a loss function.
+We address three different medical imaging problems:
+(1) Mitosis detection in histopathology, (2) Vessel segmentation in retinal imaging, (3) Cell boundary detection in electron microscopy images.
+Each time we achieve state-of-the-art performance with our SE(2)-CNNs, without the need for data augmentation by rotation and with an increased performance compared to standard CNNs that do rely on augmentation. We show the advantage of including multiple orientation and group convolutions in a fair comparison where the total network capacity is kept constant, and where training and testing data is maintained. Reference: Erik J Bekkers, Maxime W Lafarge, Mitko Veta, Koen A J Eppenhof, Josien P W Pluim, and Remco Duits, [Roto-Translation Covariant Convolutional Networks for Medical Image Analysis](https://arxiv.org/abs/1804.03393), MICCAI 2018."
 
 - speaker: Marta Betcke
   title: "Learned image reconstruction for high-resolution tomographic imaging"
@@ -110,8 +114,8 @@ robust hyperspectral unmixing"
 - speaker: Silvia Villa
   title: "TBA"
   abstract: "TBA"
-  
-  
+
+
 - speaker: Irène Waldspurger
   title: "Rank optimality for the Burer-Monteiro factorization"
   abstract: "TBA"

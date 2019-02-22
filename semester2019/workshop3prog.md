@@ -63,7 +63,7 @@ Thursday (April 4)
 Friday (April 5)
 -------------
 - 9h30-10h15: [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (***Learning from permutations***)
-- 10h15-11h: [Erik Bekkers](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research/research-groups/medical-image-analysis/organization/former-group-members/ir-ej-erik-bekkers/) (***TBA***)
+- 10h15-11h: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (Eindhoven Univ. of Technology)  (***TBA***)
 - 11h-11h30: Coffee break
 - 11h30-12h15: [Claire Vernade](https://www.cvernade.com/) (***Contextual Bandit: from Theory to Applications***)
 - 12h15-13h: [Francis Bach](https://www.di.ens.fr/~fbach/) (***On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport***)

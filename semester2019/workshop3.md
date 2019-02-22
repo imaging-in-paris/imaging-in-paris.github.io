@@ -27,7 +27,6 @@ Confirmed Speakers
 
 - [Chloé-Agathe Azencott](http://cazencott.info/) (Mines-Paristech)
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA)
-- [Erik Bekkers](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research/research-groups/medical-image-analysis/organization/former-group-members/ir-ej-erik-bekkers/) (Eindhoven University of Technology)
 - [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (University College London)
 - [Christoph Brune](https://people.utwente.nl/c.brune)  (University of Twente)
 - [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (UST HK)
@@ -35,6 +34,7 @@ Confirmed Speakers
 - [Romain Couillet](http://romaincouillet.hebfree.org/) (Univ. Grenoble)
 - [Daniel Cremers](https://vision.in.tum.de/members/cremers) (TU Munich)
 - [Marco Cuturi](http://marcocuturi.net/) (ENSAE and Google)
+- [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (Eindhoven Univ. of Technology)
 - [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (CNRS, Toulouse)
 - [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA)
 - [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (Facebook)
