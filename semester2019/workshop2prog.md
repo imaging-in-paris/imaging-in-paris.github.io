@@ -56,6 +56,7 @@ Thursday (March 14)
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Pablo Arias](http://gpi.upf.edu/profile/211)
 - 16h45 -17h30: [François-Xavier Vialard](https://www.ceremade.dauphine.fr/%7Evialard/)
+- 18h30: **Wine & Cheese** @IHP
 
 Friday (March 15)
 --------------
