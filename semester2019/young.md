@@ -101,11 +101,11 @@ No seminar this week : it is the "[Statistical Modeling for Shapes and Imaging](
   </p>
   </details>
 - 14:40 - 15:20 [Adrian Martin](http://ip4ec.upf.edu/user/63) *(University Pompeu Fabra, Spain)*<br/>
-  **Title** : TBA<br/>
+  **Title** : Are CNN deceived by Visual Illusions?<br/>
   <details>
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p>
-  TBA
+  Visual illusions teach us that what we see is not always what it is represented in the physical world. Its special nature make them a fascinating tool to test and validate any new vision model proposed. In general, current vision models are based on the concatenation of linear convolutions and non-linear operations. In this work we get inspiration from the similarity of this structure with the operations present in Convolutional Neural Networks (CNNs). This motivated us to study if CNNs trained for typical image processing task (e.g. denoising) are deceived by visual illusions. The answer to this question opens a new bridge between human perception and CNNs: in order to obtain CNNs that better replicate human behavior, we may need to start aiming for them to better replicate visual illusions.
   </p>
   </details>
 - 15:20 - 16:00 [Kostas Papafitsoros](http://kostaspapafitsoros.weebly.com/) *(Weierstrass Institute
