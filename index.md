@@ -71,7 +71,7 @@ The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/vers
 
 - January 21 (Hermite amphitheater): [Clarice Poon (Cambridge)](http://www.damtp.cam.ac.uk/user/cmhsp2/), 9h-12h30 *An introduction to the recovery of sparse spikes via the BLASSO*, [Courste notes](http://www.damtp.cam.ac.uk/user/cmhsp2/cirm/blasso.pdf).
 - January 28 (Hermite amphitheater): [Marcelo Pereyra (Heriot-Watt)](http://www.macs.hw.ac.uk/~mp71/about.html), 9h-12h30 *Bayesian methods in imaging*.
-- February 18 (Hermite amphitheater):  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html), *From shallow to deep variational models*, 9h-12h30.
+- February 18 (Hermite amphitheater):  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html), *From shallow to deep variational models*, 9h-12h30 [Slides](https://www.dropbox.com/s/cxp7wrmxm1zjcqm/IHPImagingLearningLecturesFeb2019.pdf?dl=0).
 - February 25 (Hermite amphitheater): [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/), *Optimization on manifolds*, 9h-12h30.
 - March 4, 18 (Hermite amphitheater), 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
 
