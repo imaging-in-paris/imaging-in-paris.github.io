@@ -60,11 +60,11 @@ Starting from Wednesday 20 February, we organise every Wednesday (except for Mar
   </p>
   </details>
 - 15:00 - 16:00 [Monica Pragliola](https://dblp.org/pers/hd/p/Pragliola:Monica) *(University of Bologna, Italy)*<br/>
-   **Title**: TBA<br/>
+   **Title**: A flexible space-variant anisotropic regularization for image restoration<br/>
   <details>
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p>
-  TBA
+  When considering an image with different local properties, different local regularization terms may be needed to recover the original image, or something close to it, starting from a noisy and blurred observation. I will present a new space-variant anisotropic regularization term for variational image restoration, based on the statistical assumption that the gradients of the target image distribute locally according to a bivariate generalized Gaussian distribution. The free parameters encoded in the proposed regularizer, that are automatically estimated via a maximum likelihood approach, hold the potential for faithfully modelling the local geometry in the image and describing local orientation preferences.
   </p>
   </details>
 
