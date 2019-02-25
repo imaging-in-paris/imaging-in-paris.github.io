@@ -39,8 +39,8 @@ Each time we achieve state-of-the-art performance with our SE(2)-CNNs, without t
   abstract: "Machine learning algorithms, starting from elementary yet popular ones, are difficult to theoretically analyze as (i) they are data-driven, and (ii) they rely on non-linear tools (kernels, activation functions). These theoretical limitations are exacerbated in large dimensional datasets where standard algorithms behave quite differently than predicted, if not completely fail. In this talk, we will show how random matrix theory (RMT) answers all these problems. We will precisely show that RMT provides a new understanding and various directions of improvements for kernel methods, semi-supervised learning, SVMs, community detection on graphs, spectral clustering, etc. Besides, we will show that RMT can explain observations made on real complex datasets in as advanced methods as deep neural networks."
 
 - speaker: Daniel Cremers
-  title: "Bayesian Inference in the Age of Deep Learning"
-  abstract: "TBA"
+  title: "Combinatorial Solutions to Elastic Shape Matching"
+  abstract: " In my presentation, I will focus on four different shape matching problems, namely the matching between two planar shapes, the matching between two 3D shapes, the matching between a shape and an image and the matching between a planar and a 3D shape.  In all cases, I will discuss combinatorial formulations for elastic shape matching and show how optimal or near-optimal solutions can be computed using dynamic programming or integer linear programming. The formulation is highly related to optimal transport, yet different."
 
 - speaker: Marco Cuturi
   title: "TBA"
