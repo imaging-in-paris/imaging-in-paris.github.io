@@ -73,7 +73,9 @@ The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/vers
 - January 28 (Hermite amphitheater): [Marcelo Pereyra (Heriot-Watt)](http://www.macs.hw.ac.uk/~mp71/about.html), 9h-12h30 *Bayesian methods in imaging* Slides : [Part I](https://imaging-in-paris.github.io/courses/Presentation_MVA_I_Jan_2019.pdf), [Part II](https://imaging-in-paris.github.io/courses/Presentation_MVA_II_Jan_2019.pdf).
 - February 18 (Hermite amphitheater):  [Carola Schönlieb (Cambridge)](http://www.damtp.cam.ac.uk/user/cbs31/Home.html), *From shallow to deep variational models*, 9h-12h30 [Slides](https://www.dropbox.com/s/cxp7wrmxm1zjcqm/IHPImagingLearningLecturesFeb2019.pdf?dl=0).
 - February 25 (Hermite amphitheater): [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/), *Optimization on manifolds*, 9h-12h30 Slides : [Part I](https://www.dropbox.com/s/cdy1khrorjjnl1r/IHP-Master.pdf?dl=0), [Part II](https://www.dropbox.com/s/feads6sxww2wo7e/IHP_Master-II.pdf?dl=0).
-- March 4, 18 (Hermite amphitheater), 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
+- March 4 (Hermite amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
+- March 18 (Hermite amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
+- March 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
 
 
 
