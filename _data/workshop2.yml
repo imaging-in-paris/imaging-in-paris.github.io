@@ -44,7 +44,14 @@ Joint work with K. Polisano, L. Condat and V. Perrier"
 
 - speaker: Remco Duits
   title: "PDEs on the Homogeneous Space of Positions and Orientations"
-  abstract: "A link to the abstract is provided above in the program." 
+  abstract: "A link to the abstract is provided above in the program."
+
+
+- speaker: Joan Glaunès
+  title: "Kernel norms on normal cycles and the KeOps library for linear memory reductions over datasets"
+  abstract: "In the first part of this talk I will present a model for writing data fidelity terms for shape registration algorithms. This model is based on the notion of normal cycle in geometry, which generalizes curvatures of curves and surfaces, and the use of kernel dual norms, similarly to previous works using currents and varifolds representations. This normal cycle model improves matchings of geometrical data in the presence of high curvature landmarks such as branching points or boundaries. 
+In the second part I will present the KeOps library, which is designed to compute efficiently kernel reductions operations. This library combines a linear memory approach, GPU implementation and automatic differentiation, with a complete integration into the PyTorch library. This allows to perform reductions over datasets with millions of points without memory issue, and has many potential applications. I will present a few examples of its use for shape registration, optimal transport and k-means clustering. Joint works with Pierre Roussillon, Benjamin Charlier and Jean Feydy."
+
 
 - speaker: Alfred Hero
   title: "TeraLasso for sparse time-varying image modeling"
@@ -119,6 +126,10 @@ State of the art deep generative networks are capable of producing images with s
   abstract: "(Joint work with Sutanoy Dasgupta, Ian Jermyn, and Debdeep Pati).
 We consider a subarea of functional data analysis, where functions of interest are constrained to have pre-determined shape classes. The notion of shape is quite flexible. It can mean a fixed number of modes in the function, say a bimodal or a trimodal function, or the number of modes plus a vector of function heights at the modes. The locations of these modes are left as variables, in order to fit to the data. The basic idea is to define a set of valid functions (with the desired shape constraints) and to solve optimization problems (such as  maximum likelihood estimation) on this set. This set is established using the 'deformable template' theory -- choose a function from the correct class and use an appropriate action of the diffeomorphism group to form its orbits. Orbits define shape classes. The larger picture is to learn shape classes from the training data, and then to impose learnt shape constraints in estimating future functions from sparse, noisy data. We present some examples of this framework. First, we introduce the problem of density estimation under arbitrary multimodal shape constraints. While unimodal density estimation is often studied in the literature, there are no general estimators for the multimodal case. Second, we provide a study involving daily electricity consumption data at household level (in Tallahassee, FL) where certain shapes dominate the data."
 
+- speaker: Alain Trouvé
+  title: "Modular large deformation and shape aware metrics in shape analysis: 
+How to make things simple (and meaningful) ?"
+  abstract: "The statistical shape analysis remains a core challenging problem mainly because of three mathematical issues: the non functional nature of shapes, the importance of actions of group of transformations and the high dimensionality of shapes variations. The riemannian point of view on shape spaces integrates these three issues within a tractable numerical framework and more recently, modular sub-riemannian approaches on shape spaces have opened the possibility of a more decomposable, shape driven analysis of variations and evolutions. However, in this talk, we will advocate that paradoxically, quite sophisticated tools are still needed to allow a simple and user-friendly incorporation of meaningful prior knowledge into the mathematical shape analysis machinery."
 
 - speaker: Michael Unser
   title: "Hybrid sparse stochastic processes and the resolution of linear inverse problems"
