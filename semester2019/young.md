@@ -52,11 +52,11 @@ Starting from Wednesday 20 February, we organise every Wednesday (except for Mar
 ### Wednesday, March 6th
 
 - 14:00 - 15:00 [Alessandro Rudi](https://www.di.ens.fr/~rudi/) *(INRIA)*<br/>
-   **Title**: TBA<br/>
+   **Title**: Localized Structured Prediction<br/>
   <details>
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p>
-  TBA
+  Key to structured prediction is exploiting the problem structure to simplify the learning process. A major challenge arises when data exhibit a local structure (e.g., are made by "parts") that can be leveraged to better approximate the relation between (parts of) the input and (parts of) the output. Recent literature on signal processing, and in particular computer vision, has shown that capturing these aspects is indeed essential to achieve state-of-the-art performance. While such algorithms are typically derived on a case-by-case basis, in this talk we illustrate the first theoretical and algorithmic framework able (a) to deal with part-based data from a general perspective and (b) to provide generalization properties within the setting of statistical learning theory. Our analysis is novel in that it explicitly quantifies the benefits of leveraging the part-based structure of the problem with respect to the learning rates of the proposed estimator.
   </p>
   </details>
 - 15:00 - 16:00 [Monica Pragliola](https://dblp.org/pers/hd/p/Pragliola:Monica) *(University of Bologna, Italy)*<br/>
