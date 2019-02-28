@@ -51,7 +51,7 @@ Thursday (April 4)
 -------------
 - 9h30-10h15: [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (***Optimal machine learning with stochastic projections and regularization***)
 - 10h15-10h45: Coffee break
-- 10h45-11h30: [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (***Learned image reconstruction for high-resolution tomographic imaging***)
+- 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (Eindhoven Univ. of Technology)  (***Roto-Translation Covariant Convolutional Networks for Medical Image Analysis***)
 - 11h30-12h15: [Patrick Pérez](https://ptrckprz.github.io/) (***TBA***)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***)
@@ -63,7 +63,7 @@ Thursday (April 4)
 Friday (April 5)
 -------------
 - 9h30-10h15: [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (***Learning from permutations***)
-- 10h15-11h: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (Eindhoven Univ. of Technology)  (***Roto-Translation Covariant Convolutional Networks for Medical Image Analysis***)
+- 10h15-11h: [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (***Learned image reconstruction for high-resolution tomographic imaging***)
 - 11h-11h30: Coffee break
 - 11h30-12h15: [Claire Vernade](https://www.cvernade.com/) (***Contextual Bandit: from Theory to Applications***)
 - 12h15-13h: [Francis Bach](https://www.di.ens.fr/~fbach/) (***On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport***)
