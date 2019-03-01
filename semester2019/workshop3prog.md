@@ -30,7 +30,7 @@ Tuesday (April 2)
 - 14h-14h45: [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (***Convex unmixing and learning the effect of latent variables in Gaussian Graphical models with unobserved***)
 - 14h45-15h30: [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (***Learning graphs from data: A signal representation perspective***)
 - 15h30-16h: Coffee break
-- 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Bayesian Inference in the Age of Deep Learning***)
+- 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Combinatorial Solutions to Elastic Shape Matching***)
 - 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***TBA***)
 - 18h-19h30 (TBC): [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) Outreach plenary conferences (in French), conférence grand public en français (***L'intelligence Artificielle est elle  Logique ou Géométrique ?***)
 
