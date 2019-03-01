@@ -32,7 +32,7 @@ Tuesday (April 2)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Bayesian Inference in the Age of Deep Learning***)
 - 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***TBA***)
-- 18h-19h30 (TBC): [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) Outreach plenary conferences (in French) (conférence grand public en français)
+- 18h-19h30 (TBC): [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) Outreach plenary conferences (in French), conférence grand public en français (***L'intelligence Artificielle est elle  Logique ou Géométrique ?***)
 
 Wednesday (April 3)
 -------------
