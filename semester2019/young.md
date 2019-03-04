@@ -74,11 +74,11 @@ No seminar this week : it is the "[Statistical Modeling for Shapes and Imaging](
 ### Wednesday, March 20th
 
 - 14:00 - 15:00 [Jacinta Holloway](https://acems.org.au/our-people/jacinta-holloway) *(Queensland University, Australia)*<br/>
-  **Title** : TBA<br/>
+  **Title** : Spatial machine learning for interpolating missing satellite imagery data and measuring the environment<br/>
   <details>
   <summary><b>Abstract:</b> <i>(click to unroll)</i></summary>
   <p>
-  TBA
+  In this seminar I will discuss methods and some results from a paper I have recently submitted. My research is focused on machine learning methods for measuring the Sustainable Development Goals (SDGs) which are a set of priorities the United Nations and World Bank have set for countries to reach in order to improve quality of life and environment globally by 2030. Free satellite images have been identified as a key resource which can be used to produce official statistics and analysis to measure progress towards SDGs, especially those concerned with the physical environment such as forest, water and crops. An issue with using satellite images, particularly in tropical areas, are missing data due to cloud cover. There are existing effective methods for filling in image gaps, however these are computationally slow and not effective at pixel scale. To address this, I use spatial implementations of machine learning algorithms; gradient boosted machine and random forest, to accurately and quickly classify observed and simulated ‘missing’ pixels in satellite images as either grassland or woodland, and predict a continuous value of Foliage Projective Cover (FPC) using the method.
   </p>
   </details>
 - 15:00 - 16:00 [Haider Ali](http://www.uop.edu.pk/departments/Teaching-Faculty/?r=63&amp;q=Dr-Haider-Ali) *(University of Peshawar, Pakistan)*<br/>
