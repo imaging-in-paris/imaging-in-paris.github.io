@@ -51,9 +51,11 @@ Joint work with K. Polisano, L. Condat and V. Perrier"
   title: "PDEs on the Homogeneous Space of Positions and Orientations"
   abstract: "A link to the abstract is provided above in the program."
   
-  - speaker: Gersende Fort
+  
+- speaker: Gersende Fort
   title: "Stochastic Approximation-based algorithms, when the Monte Carlo bias does not vanish"
-  abstract: "Stochastic Approximation algorithms, whose stochastic gradient descent methods with decreasing stepsize are an example, are iterative methods to compute the root of a non explicit function. They rely on a Monte Carlo approximation of this objective function. Nevertheless, in many applications, this random approximation is biased with a bias which, mainly for computational cost, does not vanish along the iterations: the convergence of the algorithm towards the roots may fail. In this talk, we will motivate the use of such algorithms by computational issues in statistical learning, with an emphasis on the penalized inference in latent variable models. We will address the convergence of stochastic approximation-based algorithms for solving the optimization of a convex composite function : sufficient conditions for the convergence of perturbed proximal-gradient methods, possibly accelerated, will be given. We will also outline the parallel with Stochastic Expectation Maximization algorithms (MCEM, SAEM for example)."
+  abstract: "Stochastic Approximation algorithms, whose stochastic gradient descent methods with decreasing stepsize are an example, are iterative methods to compute the root of a non explicit function. They rely on a Monte Carlo approximation of this objective function. Nevertheless, in many applications, this random approximation is biased with a bias which, mainly for computational cost, does not vanish along the iterations: the convergence of the algorithm towards the roots may fail. 
+In this talk, we will motivate the use of such algorithms by computational issues in statistical learning, with an emphasis on the penalized inference in latent variable models. We will address the convergence of stochastic approximation-based algorithms for solving the optimization of a convex composite function : sufficient conditions for the convergence of perturbed proximal-gradient methods, possibly accelerated, will be given. We will also outline the parallel with Stochastic Expectation Maximization algorithms (MCEM, SAEM for example)."
 
 
 - speaker: Joan Glaunès
