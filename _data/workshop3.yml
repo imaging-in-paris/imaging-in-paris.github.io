@@ -84,8 +84,8 @@ robust hyperspectral unmixing"
   abstract: "The talk will outline recent approaches for using (deep) convolutional neural networks to solve a wide range of inverse problems, such as tomographic image reconstruction. Emphasis is on learned iterative schemes that use a neural network architecture for reconstruction that includes physics based models for how data is generated. The talk will also discuss recent developments in using generative adversarial networks for uncertainty quantification in inverse problems."
 
 - speaker: Patrick Pérez
-  title: "TBA"
-  abstract: "TBA"
+  title: "Unsupervised domain adaptation with application to urban scene analysis"
+  abstract: 'In numerous real world applications, no matter how much energy is devoted to build real and/or synthetic training datasets, there remains a large distribution gap between these data and those met at run-time. This gap results in severe, possibly catastrophic, performance loss. This problem is especially acute for automated and autonomous driving systems, where generalizing well to diverse testing environments remains a major challenge. One promising tool to mitigate this issue it unsupervised domain adaptation (UDA), which assumes that un-annotated data from the "test domain" are available at training time, along with the annotated data from the "source domain", We will discuss different ways to approach UDA, with application to semantic segmentation and object detection in urban scenes. We will introduce a new approach, called AdvEnt, that relies on combining adversarial training with minimization of decision entropy (seen as a proxy for uncertainty).'
 
 - speaker: Lorenzo Rosasco
   title: "Optimal machine learning with stochastic projections and regularization"
