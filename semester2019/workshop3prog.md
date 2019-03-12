@@ -18,7 +18,7 @@ Monday (April 1)
 - 14h45-15h30 : [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***)
 - 15h30-16h : Coffee break
 - 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***TBA***)
-- 16h45-17h30 : [Rodolphe Jenatton](http://rodolphejenatton.com/) (***Scalable hyperparameter transfer learning***)
+- 16h45-17h30 : [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (***Scalable hyperparameter transfer learning***)
 
 Tuesday (April 2)
 -------------

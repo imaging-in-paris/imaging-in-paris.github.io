@@ -38,7 +38,7 @@ Confirmed Speakers
 - [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (CNRS, Toulouse)
 - [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA)
 - [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (Facebook)
-- [Rodolphe Jenatton](http://rodolphejenatton.com/) (Amazon)
+- [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (Amazon)
 - [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (INRIA)
 - [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (Collège de France)
 - [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (Naver)
