@@ -48,7 +48,6 @@ Confirmed Speakers
 - [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT-IIT)
 - [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke Univ.)
 - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC)
-- [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner) (Oxford)
 - [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (Swiss Data Science Center)
 - [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (INRIA)
 - [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (Poli Milano)
