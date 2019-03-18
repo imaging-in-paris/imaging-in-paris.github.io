@@ -46,6 +46,7 @@ Confirmed Speakers
 - [Ozan Öktem](https://www.kth.se/profile/ozan) (KTH)
 - [Patrick Pérez](https://ptrckprz.github.io/) (Valeo)
 - [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (MIT-IIT)
+- [Alessandro Rudi](https://www.di.ens.fr/~rudi/) (INRIA)
 - [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke Univ.)
 - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC)
 - [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (Swiss Data Science Center)
