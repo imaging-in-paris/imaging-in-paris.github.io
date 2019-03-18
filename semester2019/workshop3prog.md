@@ -11,7 +11,7 @@ Tentative program
 Monday (April 1)
 -------------
 - 10h30 : Welcome/Coffee
-- 11h-11h45 : [Jared Tanner](https://www.maths.ox.ac.uk/people/jared.tanner) (***TBA***)
+- 11h-11h45 : [TBA]() (***TBA***)
 - 11h45-12h30 : [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (***A Kernel Perspective for Regularizing Deep Neural Networks***)
 - 12h30-14h : Lunch break
 - 14h-14h45 : [Romain Couillet](http://romaincouillet.hebfree.org/) (***Random Matrix Advances in Machine Learning***)
