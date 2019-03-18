@@ -1,6 +1,3 @@
-- speaker: Stéphanie Allassonnière
-  title: "TBA"
-  abstract: "TBA"
 
 - speaker: Chloé-Agathe Azencott
   title: "Using structure to select features in high dimension"
@@ -98,10 +95,6 @@ robust hyperspectral unmixing"
 - speaker: Mahdi Soltanolkotabi
   title: "Towards demystifying over-parameterization in deep learning"
   abstract: "Many modern learning models including deep neural networks are trained in an over-parameterized regime where the parameters of the model exceed the size of the training dataset. Training these models involve highly non-convex landscapes and it is not clear how methods such as (stochastic) gradient descent provably find globally optimal models. Furthermore, due to their over-parameterized nature these neural networks in principle have the capacity to (over)fit any set of labels including pure noise. Despite this high fitting capacity, somewhat paradoxically, neural networks models trained via first-order methods continue to predict well on yet unseen test data. In this talk I will discuss some results aimed at demystifying such phenomena in deep learning and other domains such as matrix factorization by demonstrating that gradient methods enjoy a few intriguing properties: (1) when initialized at random the iterates converge at a geometric rate to a global optima, (2) among all global optima of the loss the iterates converge to one with a near minimal distance to the initial estimate and do so by taking a nearly direct route, (3) are provably robust to noise/corruption/shuffling on a fraction of the labels with these algorithms only fitting to the correct labels and ignoring the corrupted labels. (This talk is based on joint work with Samet Oymak)"
-
-- speaker: Jared Tanner
-  title: "TBA"
-  abstract: "TBA"
 
 - speaker: Dorina Thanou
   title: "Learning graphs from data: A signal representation perspective"
