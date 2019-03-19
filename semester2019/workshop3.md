@@ -15,7 +15,7 @@ April 1st-5th 2019.
 Registration
 -------------
 
-[Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to this workshop and to the other one of the semester.
+Registration is now closed, the workshop is full. 
 
 
 Program ([click here](../workshop3prog/))
