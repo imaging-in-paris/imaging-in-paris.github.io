@@ -44,7 +44,7 @@ Wednesday (April 3)
 - 14h-14h45: [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (***Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations***)
 - 14h45-15h30: [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) (***Learning high-level reasoning in and from images***)
 - 15h30-16h: Coffee break
-- 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***TBA***)
+- 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***Deep Inversion, Autoencoders for Learned Regularization of Inverse Problems***)
 - 16h45 -17h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
 
 Thursday (April 4)
