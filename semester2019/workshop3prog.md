@@ -42,14 +42,14 @@ Wednesday (April 3)
 - 11h30-12h15: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (***Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations***)
-- 14h45-15h30: [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) (***Learning high-level reasoning in and from images***)
+- 14h45-15h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***Deep Inversion, Autoencoders for Learned Regularization of Inverse Problems***)
-- 16h45 -17h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
+- 16h45 -17h30: [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (***Optimal machine learning with stochastic projections and regularization***)
 
 Thursday (April 4)
 -------------
-- 9h30-10h15: [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (***Optimal machine learning with stochastic projections and regularization***)
+- 9h30-10h15: [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) (***Learning high-level reasoning in and from images***)
 - 10h15-10h45: Coffee break
 - 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (Eindhoven Univ. of Technology)  (***Roto-Translation Covariant Convolutional Networks for Medical Image Analysis***)
 - 11h30-12h15: [Patrick Pérez](https://ptrckprz.github.io/) (***Unsupervised domain adaptation with application to urban scene analysis***)
