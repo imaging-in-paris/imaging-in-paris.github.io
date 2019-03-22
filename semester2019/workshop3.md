@@ -29,7 +29,6 @@ Confirmed Speakers
 - [Francis Bach](https://www.di.ens.fr/~fbach/) (INRIA)
 - [Marta Betcke](https://www.sites.google.com/site/mbetcke/home) (University College London)
 - [Christoph Brune](https://people.utwente.nl/c.brune)  (University of Twente)
-- [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (UST HK)
 - [Matthieu Cord](http://webia.lip6.fr/~cord/) (UPMC)
 - [Romain Couillet](http://romaincouillet.hebfree.org/) (Univ. Grenoble)
 - [Daniel Cremers](https://vision.in.tum.de/members/cremers) (TU Munich)
