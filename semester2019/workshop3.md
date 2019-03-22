@@ -41,6 +41,7 @@ Confirmed Speakers
 - [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (INRIA)
 - [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (Collège de France)
 - [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (Naver)
+- [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (Télécom ParisTech)
 - [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (Swiss Data Science Center)
 - [Ozan Öktem](https://www.kth.se/profile/ozan) (KTH)
 - [Patrick Pérez](https://ptrckprz.github.io/) (Valeo)
