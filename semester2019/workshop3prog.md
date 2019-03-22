@@ -41,7 +41,7 @@ Wednesday (April 3)
 - 10h45-11h30: [Ozan Öktem](https://www.kth.se/profile/ozan) (***Bayesian inversion for tomography through machine learning***)
 - 11h30-12h15: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Jianfeng Cai](https://www.math.ust.hk/~jfcai/) (***Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations***)
+- 14h-14h45: TBA (***TBA***)
 - 14h45-15h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***Deep Inversion, Autoencoders for Learned Regularization of Inverse Problems***)
