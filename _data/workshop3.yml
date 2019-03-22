@@ -101,8 +101,8 @@ robust hyperspectral unmixing"
   abstract: "Medical imaging involves high-dimensional data, yet their acquisition is obtained for limited samples. Multivariate predictive models have become popular in the last decades to fit some external variables from imaging data, and standard algorithms yield point estimates of the model parameters. It is however challenging to attribute confidence to these parameter estimates, which makes solutions hardly trustworthy. In this talk, I will present a new algorithm that assesses parameters statistical significance and that can scale even when the number of predictors p ≥ 10^5 is much higher than the number of samples n ≤ 10^3 , by leveraging structure among features. Our algorithm combines three main ingredients: a powerful inference procedure for linear models –the so-called Desparsified Lasso– feature clustering and an ensembling step. We first establish that Desparsified Lasso alone cannot handle n << p regimes; then we demonstrate that the combination of clustering and ensembling provides an accurate solution, whose specificity is controlled. We also demonstrate stability improvements on two brain imaging datasets."
 
 - speaker: Silvia Villa
-  title: "TBA"
-  abstract: "TBA"
+  title: "Iterative regularization via dual diagonal descent"
+  abstract: "In this talk I wlll consider iterative regularization methods for solving linear inverse problems. An advantage of iterative regularization strategies with respect to Tikhonov regularization is that they are developed in conjunction with an optimization algorithm, adapted to the structure of the problem at hand,  and the number of iterations plays the role of a regularization parameter. I  will show that dual proximal gradient algorithms can be used as iterative regularization procedures, both in the standard and accelerated version.  Theoretical findings are complemented with numerical experiments showing state- of-the-art performances."
 
 
 - speaker: Irène Waldspurger
