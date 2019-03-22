@@ -39,7 +39,7 @@ Wednesday (April 3)
 - 9h30-10h15: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***Rank optimality for the Burer-Monteiro factorization***)
 - 10h15-10h45: Coffee break
 - 10h45-11h30: [Ozan Öktem](https://www.kth.se/profile/ozan) (***Bayesian inversion for tomography through machine learning***)
-- 11h30-12h15: Alasdair Newson (***TBA***)
+- 11h30-12h15: [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (***TBA***)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***)
 - 14h45-15h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
