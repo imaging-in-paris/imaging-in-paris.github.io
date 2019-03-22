@@ -50,7 +50,7 @@ Confirmed Speakers
 - [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (USC)
 - [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (Swiss Data Science Center)
 - [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (INRIA)
-- [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (Poli Milano)
+- [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (Università di Genova)
 - [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (Mines ParisTech, Google)
 - [Claire Vernade](https://www.cvernade.com/) (Google Deepmind)
 - [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (CNRS and Paris Dauphine)
