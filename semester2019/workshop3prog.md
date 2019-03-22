@@ -17,7 +17,7 @@ Monday (April 1)
 - 14h-14h45 : [Romain Couillet](http://romaincouillet.hebfree.org/) (***Random Matrix Advances in Machine Learning***)
 - 14h45-15h30 : [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***)
 - 15h30-16h : Coffee break
-- 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***TBA***)
+- 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***Iterative regularization via dual diagonal descent***)
 - 16h45-17h30 : [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (***Scalable hyperparameter transfer learning***)
 
 Tuesday (April 2)
