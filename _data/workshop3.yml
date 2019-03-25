@@ -111,7 +111,7 @@ robust hyperspectral unmixing"
 
 - speaker: Irène Waldspurger
   title: "Rank optimality for the Burer-Monteiro factorization"
-  abstract: "TBA"
+  abstract: "In the last decades, semidefinite programs have emerged as a a powerful way to solve difficult combinatorial optimization problems in polynomial time. Unfortunately, they are difficult to numerically solve in high dimensions. This talk will discuss a classical heuristic used to speed up the solving, namely the Burer-Monteiro formulation. We will review the main correctness guarantees that have been established for this heuristic, and study their optimality."
 
 - speaker: Jean-Philippe Vert
   title: "Learning from permutations"
