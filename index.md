@@ -41,8 +41,8 @@ Outreach plenary conferences (conférences grand public)
 -------------
 
 - [Jean-Michel Morel (ENS Paris-Saclay)](https://sites.google.com/site/jeanmichelmorelcmlaenscachan/), February 6th 2019 17h-18h30 (**[details](http://ihp.diatem.fr/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=245&key=rOYrdP0t&subid=13859-185ddb92ee1a1a5476c33f39bfd42bcb&tmpl=component)**).
-- [Marie-Paul Cani (Polytechnique)](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), March 13th 2019.
-- [Stéphane Mallat (Collège de France)](https://www.college-de-france.fr/site/stephane-mallat/index.htm), April 2nd 2019.
+- [Marie-Paul Cani (Polytechnique)](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), March 13th 2019, 17h-18h30, (**[details](http://ihp.diatem.fr/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=247&key=m4L7DUaF&subid=19440-Mjx6TEIdo8hzym&tmpl=component)**).
+- [Stéphane Mallat (Collège de France)](https://www.college-de-france.fr/site/stephane-mallat/index.htm), April 2nd 2019, 18h-19h30 (**[details](https://indico.math.cnrs.fr/event/4533/)**).
 
 [CIRM pre-school](semester2019/school)
 -------------
