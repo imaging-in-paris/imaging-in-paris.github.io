@@ -75,7 +75,7 @@ The following courses will validate a [MVA](http://math.ens-paris-saclay.fr/vers
 - February 25 (Hermite amphitheater): [Gabriele Steidl (Kaiserslautern)](http://www.mathematik.uni-kl.de/imagepro/members/steidl/), *Optimization on manifolds*, 9h-12h30 Slides : [Part I](https://www.dropbox.com/s/c7uauszhgq53ep7/Steidl_IHP-Master.pdf?dl=0), [Part II](https://www.dropbox.com/s/n2hl8tqkw0lrqqn/Steidl_IHP_Master-II.pdf?dl=0).
 - March 4 (Hermite amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30 Slides : [Part I](https://www.dropbox.com/s/jc1cq64rt7vx7f0/Unser_1_Splines%20and%20learning-Intro.pdf?dl=0), [Part II](https://www.dropbox.com/s/isw1vg0xvjfdbcs/Unser_2_Splines%20and%20learning-Foundations.pdf?dl=0).
 - March 18 (Hermite amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30 [Slides](https://www.dropbox.com/s/7ndatwzml59qt5f/Unser_3_Splines%20and%20imaging%203h.pdf?dl=0).
-- March 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30.
+- March 25 (Darboux amphitheater): [Michael Unser (EPFL)](http://bigwww.epfl.ch/unser/), *Splines and learning: from kernel methods to deep neural networks*, 9h-12h30 [Slides](https://www.dropbox.com/s/p1tf18s0b5d788i/Unser_4_DeepSplines.pdf?dl=0).
 
 
 
