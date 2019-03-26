@@ -31,7 +31,7 @@ Tuesday (April 2)
 - 14h45-15h30: [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (***Learning graphs from data: A signal representation perspective***)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Combinatorial Solutions to Elastic Shape Matching***)
-- 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***TBA***)
+- 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***On the several ways to regularize optimal transport***)
 - 18h-19h30 (TBC): [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) Outreach plenary conferences (in French), conférence grand public en français (***L'intelligence Artificielle est elle  Logique ou Géométrique ?***) (**[details et inscription](https://indico.math.cnrs.fr/event/4533/)**)
 
 Wednesday (April 3)
