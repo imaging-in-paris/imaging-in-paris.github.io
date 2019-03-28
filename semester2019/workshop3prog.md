@@ -11,7 +11,7 @@ Tentative program
 Monday (April 1)
 -------------
 - 10h30 : Welcome/Coffee
-- 11h-11h45 : [Alessandro Rudi](https://www.di.ens.fr/~rudi/) (***TBA***)
+- 11h-11h45 : [Alessandro Rudi](https://www.di.ens.fr/~rudi/) (***Structured prediction via implicit embeddings***)
 - 11h45-12h30 : [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (***A Kernel Perspective for Regularizing Deep Neural Networks***)
 - 12h30-14h : Lunch break
 - 14h-14h45 : [Romain Couillet](http://romaincouillet.hebfree.org/) (***Random Matrix Advances in Machine Learning***)
@@ -42,7 +42,7 @@ Wednesday (April 3)
 - 11h30-12h15: [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (***Understanding geometric attributes with autoencoders***)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***)
-- 14h45-15h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***TBA***)
+- 14h45-15h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***Multigrain: a unified image embedding for classes and instances***)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***Deep Inversion, Autoencoders for Learned Regularization of Inverse Problems***)
 - 16h45 -17h30: [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (***Optimal machine learning with stochastic projections and regularization***)

@@ -50,8 +50,8 @@ robust hyperspectral unmixing"
   abstract: "Electroencephalography (EEG), Magnetoencephalography (MEG) and functional MRI (fMRI) are noninvasive techniques that allow to image the active brain. Yet to do so, challenging computational and statistical machine learning problems need to be solved. As data are acquired everyday in both clinical and cognitive neuroscience contexts computations can become a bottleneck. In this talk I will present statistical inference problems relevant for neuroimaging (matrix factorization, sparse regression) and show how novel optimization strategies improve on the state-of-the-art."
 
 - speaker: Hervé Jegou
-  title: "TBA"
-  abstract: "TBA"
+  title: "Multigrain: a unified image embedding for classes and instances"
+  abstract: "This talk will tackle several problems related to image classification and large-scale image retrieval. While these tasks are both treated with convolutional neural networks, noticeable differences in the training and architectures exist. We propose a network architecture producing compact vector representations that are suited both for image classification and particular object retrieval. It is trained with a simple multi-task objective: we minimize a  cross-entropy loss for classification and a ranking loss that determines if two images are identical up to data augmentation, with no need for additional labels. I will then discuss the subsequent coding stage, for which we want to compress such an image representation such that it is suited for retrieval and classification. This is joint work with Maxim Berman, Matthijs Douze,  Iasonas Kokkinos, Andrea Vedaldi"
 
 - speaker: Julien Mairal
   title: "A Kernel Perspective for Regularizing Deep Neural Networks"
@@ -88,6 +88,11 @@ robust hyperspectral unmixing"
 - speaker: Lorenzo Rosasco
   title: "Optimal machine learning with stochastic projections and regularization"
   abstract: "Projecting data in low dimensions is often key to scale machine learning to large high-dimensional data-sets. In this talk we will take take a statistical learning tour of classic as well as recent projection methods: from classical principal component analysis, to sketching and random subsampling. We will show that, perhaps surprisingly, there are number of settings, where it is possible to substantially reduce data dimensions, hence computational costs, without losing statistical accuracy. As a byproduct we derive a massively scalable kernel/Gaussian process solver with optimal statistical guarantees, and excellent performance in a number of large scale problems."
+
+
+- speaker: Alessandro Rudi
+  title: "Structured prediction via implicit embeddings"
+  abstract: "In this talk we analyze a regularization approach for structured prediction problems. We characterize a large class of loss functions that allows to naturally embed structured outputs in a linear space. We exploit this fact to design learning algorithms using a surrogate loss approach and regularization techniques. We prove universal consistency and finite sample bounds characterizing the generalization properties of the proposed methods. Experimental results are provided to demonstrate the practical usefulness of the proposed approach."
 
 - speaker: Guillermo Sapiro
   title: "Learning Representations for Information Obfuscation and Inference"
