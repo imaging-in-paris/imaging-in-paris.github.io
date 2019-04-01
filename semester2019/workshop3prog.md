@@ -25,7 +25,7 @@ Tuesday (April 2)
 - 11h30-12h15: [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (***Learning Representations for Information Obfuscation and Inference***)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (***Convex unmixing and learning the effect of latent variables in Gaussian Graphical models with unobserved***)
-- 14h45-15h30: [Dorina Thanou](https://people.epfl.ch/dorina.thanou) (***Learning graphs from data: A signal representation perspective***)
+- 14h45-15h30: [José Lezama](https://iie.fing.edu.uy/~jlezama/) (***Revisiting non-linear PCA with progressively grown autoencoders***)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Combinatorial Solutions to Elastic Shape Matching***)
 - 16h45 -17h30: [Marco Cuturi](http://marcocuturi.net/) (***On the several ways to regularize optimal transport***)
