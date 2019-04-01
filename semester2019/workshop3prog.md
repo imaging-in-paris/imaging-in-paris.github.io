@@ -24,7 +24,7 @@ Tuesday (April 2)
 - 10h45-11h30: [Naila Murray](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Naila-Murray) (***Predicting aesthetic appreciation of images***)
 - 11h30-12h15: [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (***Learning Representations for Information Obfuscation and Inference***)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (***Convex unmixing and learning the effect of latent variables in Gaussian Graphical models with unobserved***)
+- 14h-14h45: [Guillaume Obozinski](http://imagine.enpc.fr/~obozinsg/) (***An SDCA-powered inexact dual augmented Lagrangian method for fast CRF learning***)
 - 14h45-15h30: [José Lezama](https://iie.fing.edu.uy/~jlezama/) (***Revisiting non-linear PCA with progressively grown autoencoders***)
 - 15h30-16h: Coffee break
 - 16h-16h45: [Daniel Cremers](https://vision.in.tum.de/members/cremers) (***Combinatorial Solutions to Elastic Shape Matching***)
