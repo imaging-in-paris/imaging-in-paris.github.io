@@ -29,7 +29,7 @@
 
 - speaker: Marco Cuturi
   title: "On the several ways to regularize optimal transport"
-  abstract: "TBA"
+  abstract: "After briefly introducing the optimal transport problem, I will show in this talk how regularization, either explicitly carried out as a statistical procedure or implicitly carried out and presented as a computational trick, is fundamental for optimal transport to work in applications to data sciences. I will present two such regularizations, either by regularizing the transport plan by entropy, or by projecting measures on maximally informative subspaces. (presentations based on joint works with G. Peyré, A. Genevay, F. Bach and F.P. Paty)"
 
 - speaker: Remco Duits
   title: "Roto-Translation Covariant Convolutional Networks for Medical Image Analysis"
