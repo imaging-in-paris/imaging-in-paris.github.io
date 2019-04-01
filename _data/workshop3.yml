@@ -28,7 +28,7 @@
   abstract: " In my presentation, I will focus on four different shape matching problems, namely the matching between two planar shapes, the matching between two 3D shapes, the matching between a shape and an image and the matching between a planar and a 3D shape.  In all cases, I will discuss combinatorial formulations for elastic shape matching and show how optimal or near-optimal solutions can be computed using dynamic programming or integer linear programming. The formulation is highly related to optimal transport, yet different."
 
 - speaker: Marco Cuturi
-  title: "TBA"
+  title: "On the several ways to regularize optimal transport"
   abstract: "TBA"
 
 - speaker: Remco Duits
@@ -52,7 +52,7 @@ robust hyperspectral unmixing"
 - speaker: Hervé Jegou
   title: "Multigrain: a unified image embedding for classes and instances"
   abstract: "This talk will tackle several problems related to image classification and large-scale image retrieval. While these tasks are both treated with convolutional neural networks, noticeable differences in the training and architectures exist. We propose a network architecture producing compact vector representations that are suited both for image classification and particular object retrieval. It is trained with a simple multi-task objective: we minimize a  cross-entropy loss for classification and a ranking loss that determines if two images are identical up to data augmentation, with no need for additional labels. I will then discuss the subsequent coding stage, for which we want to compress such an image representation such that it is suited for retrieval and classification. This is joint work with Maxim Berman, Matthijs Douze,  Iasonas Kokkinos, Andrea Vedaldi"
-  
+
 - speaker: José Lezama
   title: "Revisiting non-linear PCA with progressively grown autoencoders"
   abstract: "In this talk I will revisit the old problem of nonlinear dimensionality reduction with hierarchical representations. That is, representations where the first n components induce the n-dimensional manifold (with some degree of smoothness) that best approximates the data points, as in standard PCA. I will introduce a method that allows to progressively grow the latent dimension of an autoencoder, without losing the hierarchy condition. Experimental results using real data in both unsupervised and supervised scenarios will be shown."
