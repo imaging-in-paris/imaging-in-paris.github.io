@@ -53,7 +53,7 @@ Thursday (April 4)
 - 14h-14h45: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***)
 - 14h45-15h30: [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (***Towards demystifying over-parameterization in deep learning***)
 - 15h30-16h: Coffee break
-- 16h-16h45: [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (***Nonnegative matrix factorisation with the beta-divergence for robust hyperspectral unmixing***)
+- 16h-16h45: [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (***Robust nonnegative matrix factorisation with the beta-divergence and applications in imaging***)
 - 16h45 -17h30: [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (***Autoencoder Image Generation with Multiscale Sparse Deconvolutions***)
 
 Friday (April 5)
