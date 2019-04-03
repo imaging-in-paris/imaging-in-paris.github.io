@@ -45,7 +45,6 @@ Wednesday (April 3)
 
 Thursday (April 4)
 -------------
-- 9h30-10h15: [Christian Wolf](https://perso.liris.cnrs.fr/christian.wolf/) (***Learning high-level reasoning in and from images***)
 - 10h15-10h45: Coffee break
 - 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (***Roto-Translation Covariant Convolutional Networks for Medical Image Analysis***)
 - 11h30-12h15: [Patrick Pérez](https://ptrckprz.github.io/) (***Unsupervised domain adaptation with application to urban scene analysis***)
