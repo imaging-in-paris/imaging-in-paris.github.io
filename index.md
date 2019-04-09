@@ -5,7 +5,7 @@ description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
 
-####<span style="color:red">**Videos for all conferences are (or will be) available [Here](https://www.youtube.com/playlist?list=PL9kd4mpdvWcAzD5Aq-P1TrLLiYckrloxw)**</span> 
+###<span style="color:red">**Videos for all conferences are (or will be) available [Here](https://www.youtube.com/playlist?list=PL9kd4mpdvWcAzD5Aq-P1TrLLiYckrloxw)**</span> 
 
 
 
