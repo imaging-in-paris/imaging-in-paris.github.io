@@ -5,6 +5,11 @@ description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
 
+<span style="color:red">**Videos for all conferences are (or will be) available [Here](https://www.youtube.com/playlist?list=PL9kd4mpdvWcAzD5Aq-P1TrLLiYckrloxw)**</span> 
+
+
+
+
 This website is the home for the IHP semester "The Mathematics of Imaging" that will take place between January to April 2019.
 
 You can also access [the monthly seminar website from here](seminar/).
