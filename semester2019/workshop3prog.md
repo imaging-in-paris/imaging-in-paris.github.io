@@ -15,7 +15,7 @@ Monday (April 1)
 - 14h-14h45 : [Romain Couillet](http://romaincouillet.hebfree.org/) (***Random Matrix Advances in Machine Learning***) ([Slides](slides/w3/Couillet.pdf))
 - 14h45-15h30 : [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***) ([Slides](slides/w3/Gramfort.pdf))
 - 15h30-16h : Coffee break
-- 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***Iterative regularization via dual diagonal descent***)
+- 16h-16h45 : [Silvia Villa](http://lcsl.mit.edu/data/silviavilla/Home.html) (***Iterative regularization via dual diagonal descent***) ([Slides](slides/w3/Villa.pdf))
 - 16h45-17h30 : [Valerio Perrone](https://sites.google.com/view/valerioperrone/) (***Scalable hyperparameter transfer learning***) ([Slides](slides/w3/Perrone.pdf))
 
 Tuesday (April 2)
@@ -41,7 +41,7 @@ Wednesday (April 3)
 - 14h-14h45: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***) ([Slides](slides/w3/Thirion.pdf))
 - 14h45-15h30: [Hervé Jegou](http://people.rennes.inria.fr/Herve.Jegou/) (***Multigrain: a unified image embedding for classes and instances***)
 - 15h30-16h: Coffee break
-- 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***Deep Inversion, Autoencoders for Learned Regularization of Inverse Problems***)
+- 16h-16h45: [Christoph Brune](https://people.utwente.nl/c.brune) (***Deep Inversion, Autoencoders for Learned Regularization of Inverse Problems***) ([Slides](slides/w3/Brune.pdf))
 - 16h45 -17h30: [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) (***Optimal machine learning with stochastic projections and regularization***) ([Slides](slides/w3/Rosasco.pdf))
 
 Thursday (April 4)
@@ -50,11 +50,11 @@ Thursday (April 4)
 - 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) (***Roto-Translation Covariant Convolutional Networks for Medical Image Analysis***) ([Slides](slides/w3/Duits.pdf))
 - 11h30-12h15: [Patrick Pérez](https://ptrckprz.github.io/) (***Unsupervised domain adaptation with application to urban scene analysis***) ([Slides](slides/w3/Perez.pdf))
 - 12h15-14h: Lunch break
-- 14h-14h45: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***)
+- 14h-14h45: [Matthieu Cord](http://webia.lip6.fr/~cord/) (***Designing multimodal deep architectures for Visual Question Answering***) ([Slides](slides/w3/Coord.pdf))
 - 14h45-15h30: [Mahdi Soltanolkotabi](http://www-bcf.usc.edu/~soltanol/) (***Towards demystifying over-parameterization in deep learning***) ([Slides](slides/w3/Soltanolkotabi.pdf))
 - 15h30-16h: Coffee break
 - 16h-16h45: [Cédric Févotte](https://www.irit.fr/~Cedric.Fevotte/) (***Robust nonnegative matrix factorisation with the beta-divergence and applications in imaging***) ([Slides](slides/w3/Fevotte.pdf))
-- 16h45 -17h30: [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (***Autoencoder Image Generation with Multiscale Sparse Deconvolutions***)
+- 16h45 -17h30: [Stéphane Mallat](https://www.college-de-france.fr/site/stephane-mallat/index.htm) (***Autoencoder Image Generation with Multiscale Sparse Deconvolutions***) ([Slides](slides/w3/Mallat.pdf))
 
 Friday (April 5)
 -------------
