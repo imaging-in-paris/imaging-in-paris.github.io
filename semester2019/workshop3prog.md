@@ -6,11 +6,14 @@ header-img: "../img/paris4.png"
 ---
 
 
+
+
+
 Monday (April 1)
 -------------
 - 10h30 : Welcome/Coffee
 - 11h-11h45 : [Alessandro Rudi](https://www.di.ens.fr/~rudi/) (***Structured prediction via implicit embeddings***) ([Slides](slides/w3/Rudi.pdf))
-- 11h45-12h30 : [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (***A Kernel Perspective for Regularizing Deep Neural Networks***)
+- 11h45-12h30 : [Julien Mairal](https://lear.inrialpes.fr/people/mairal/) (***A Kernel Perspective for Regularizing Deep Neural Networks***) [Slides](slides/w3/Mairal.pdf)
 - 12h30-14h : Lunch break
 - 14h-14h45 : [Romain Couillet](http://romaincouillet.hebfree.org/) (***Random Matrix Advances in Machine Learning***) ([Slides](slides/w3/Couillet.pdf))
 - 14h45-15h30 : [Alexandre Gramfort](http://alexandre.gramfort.net/) (***Optimization meets machine learning for neuroimaging***) ([Slides](slides/w3/Gramfort.pdf))
@@ -35,7 +38,7 @@ Wednesday (April 3)
 -------------
 - 9h30-10h15: [Irène Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (***Rank optimality for the Burer-Monteiro factorization***)  ([Slides](slides/w3/Walspuger.pdf))
 - 10h15-10h45: Coffee break
-- 10h45-11h30: [Ozan Öktem](https://www.kth.se/profile/ozan) (***Bayesian inversion for tomography through machine learning***)
+- 10h45-11h30: [Ozan Öktem](https://www.kth.se/profile/ozan) (***Bayesian inversion for tomography through machine learning***) [Slides](slides/w3/Oktem.pdf)
 - 11h30-12h15: [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (***Understanding geometric attributes with autoencoders***) ([Slides](slides/w3/Newson.pdf))
 - 12h15-14h: Lunch break
 - 14h-14h45: [Bertrand Thirion](https://team.inria.fr/parietal/team-members/bertrand-thirions-page/) (***Statistical inference in high-dimension and application to medical imaging***) ([Slides](slides/w3/Thirion.pdf))
