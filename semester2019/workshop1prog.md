@@ -39,7 +39,7 @@ Wednesday 6 February
 - 9h30-10h15: [Anders Hansen](http://www.damtp.cam.ac.uk/research/afha/anders/) (***On computational barriers in mathematics of information and instabilities in deep learning for inverse problems***)
 - 10h15-10h45 : Coffee break 
 - 10h45-11h30 : [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (***An atomic norm perspective on total variation regularization in image processing***)
-- 11h30-12h15 : [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (***On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation***)
+- 11h30-12h15 : [Clarice Poon](http://www.damtp.cam.ac.uk/user/cmhsp2/) (***On support localisation, the Fisher metric and optimal sampling in off-the-grid sparse regularisation***) ([Slides](slides/w1/poon.pdf))
 - 12h15-14h30 : Lunch break
 - 14h30-15h15 : [Charles Dossal](https://www.math.u-bordeaux.fr/~cdossal/) (***Exact rate of Nesterov Scheme***)
 - 15h15-16h : [Rémy Abergel](http://helios.mi.parisdescartes.fr/~rabergel/index.html) (***The Shannon Total Variation***)
