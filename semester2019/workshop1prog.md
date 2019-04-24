@@ -28,7 +28,7 @@ Tuesday 5 February
 - 11h30-12h15 : [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (***Covariant LEAst-square Re-fitting for Image Restoration***) ([Slides](slides/w1/papadakis.pdf))
 - 12h15-14h : Lunch break
 - 14h-14h45 :  [Xavier Bresson](http://www.ntu.edu.sg/home/xbresson/) (***Convolutional Neural Networks on Graphs***)
-- 14h45-15h30 : [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (***Deep Unfolding of a Proximal Interior Point Method for Image Restoration***)
+- 14h45-15h30 : [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/) (***Deep Unfolding of a Proximal Interior Point Method for Image Restoration***) ([Slides](slides/w1/chouzenoux.pdf))
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Camille Couprie](https://research.fb.com/people/couprie-camille/) (***Image generative modeling for future prediction or inspirational purposes***) ([Slides](slides/w1/couprie.pdf))
 - 16h45 -17h30 : [Rebecca Willett](https://voices.uchicago.edu/willett/) (***Learning to Solve Inverse Problems in Imaging***) ([Slides](slides/w1/willett.pdf))
