@@ -22,7 +22,7 @@ Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
 
 Tuesday 5 February
 -------------
-- 9h30-10h15: [Christoph Schnörr](https://ipa.iwr.uni-heidelberg.de/cschnoerr/) (***The Assignment Flow***)
+- 9h30-10h15: [Christoph Schnörr](https://ipa.iwr.uni-heidelberg.de/cschnoerr/) (***The Assignment Flow***) ([Slides](slides/w1/schnorr.pdf))
 - 10h15-10h45 : Coffee break 
 - 10h45-11h30 : [Guy Gilboa](http://guygilboa.eew.technion.ac.il/) (***Characterizing functionals and flows by nonlinear eigenvalue analysis***)
 - 11h30-12h15 : [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/) (***Covariant LEAst-square Re-fitting for Image Restoration***) ([Slides](slides/w1/papadakis.pdf))
@@ -53,7 +53,7 @@ Thursday 7 February
 - 11h30-12h15 : [Caroline Chaux](https://www.i2m.univ-amu.fr/~caroline.chaux/) (***From the modelization of direct problems in image processing to the resolution of inverse problems***) ([Slides](slides/w1/chaux.pdf))
 - 12h15-14h : Lunch break
 - 14h-14h45 : [Yves van Gennip](https://www.nottingham.ac.uk/mathematics/people/y.vangennip) (***Variational methods on graphs with applications in imaging and data classification***)
-- 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/) (***Sliced Partial Optimal Transport***)
+- 14h45-15h30 : [Nicolas Bonneel](https://perso.liris.cnrs.fr/nicolas.bonneel/) (***Sliced Partial Optimal Transport***) ([Slides](slides/w1/bonneel.pdf))
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Martin Rumpf](http://www.hcm.uni-bonn.de/de/people/profile/martin-rumpf/) *(**Metamorphosis on generalized image manifolds***)
 - 16h45 -17h30 : [Dirk Lorenz](https://www.tu-braunschweig.de/iaa/personal/lorenz) (***Quadratically regularized optimal transport***) ([Slides](slides/w1/lorenz.pdf))
