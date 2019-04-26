@@ -12,7 +12,7 @@ Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
 -------------
 
 - 10h30 : Welcome/Coffee 
-- 11h-11h45 : [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) (***A geometric integration approach to non-smooth and non-convex optimisation***) 
+- 11h-11h45 : [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) (***A geometric integration approach to non-smooth and non-convex optimisation***)  ([Slides](slides/w1/schonlieb.pdf))
 - 11h45-12h30 : [Antonin Chambolle](http://www.cmap.polytechnique.fr/~antonin/) (***Finite element discretizations of the total variation***) ([Slides](slides/w1/chambolle.pdf))
 - 12h30-14h : Lunch break
 - 14h-14h45 : [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html) (***Coupling variational method with CNN for image colorization***) 
