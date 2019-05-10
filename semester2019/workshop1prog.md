@@ -15,7 +15,7 @@ Monday 4 February : To the memory of our dear friend and colleague Mila Nikolova
 - 11h-11h45 : [Carola Schoenlieb](http://www.damtp.cam.ac.uk/user/cbs31/Home.html) (***A geometric integration approach to non-smooth and non-convex optimisation***)  ([Slides](slides/w1/schonlieb.pdf))
 - 11h45-12h30 : [Antonin Chambolle](http://www.cmap.polytechnique.fr/~antonin/) (***Finite element discretizations of the total variation***) ([Slides](slides/w1/chambolle.pdf))
 - 12h30-14h : Lunch break
-- 14h-14h45 : [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html) (***Coupling variational method with CNN for image colorization***) 
+- 14h-14h45 : [Fabien Pierre](http://www.fabienpierre.fr/bienvenue.html) (***Coupling variational method with CNN for image colorization***) ([Slides](slides/w1/pierre.pdf))
 - 14h45-15h30 : [Joachim Weickert](https://www.mia.uni-saarland.de/weickert/index.shtml) (***Stable Models and Algorithms for Backward Diffusion Evolutions***) ([Slides](slides/w1/weickert.pdf))
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Gabriele Steidl](http://www.mathematik.uni-kl.de/imagepro/members/steidl/) (***Vector-valued optimal Lipschitz extensions on finite graphs***) 
@@ -63,8 +63,7 @@ Friday 8 February
 - 9h30-10h15: [Albert Fannjiang](https://www.math.ucdavis.edu/~fannjiang/) (***Blind Ptychography: Theory and Algorithm***) ([Slides](slides/w1/fannjiang.pdf))
 - 10h15-11h : [Luca Zanni](http://cdm.unimo.it/home/matematica/zanni.luca/) (***Spectral properties of steplength selections in gradient methods: from unconstrained to constrained optimization***) ([Slides](slides/w1/zanni.pdf))
 - 11h-11h30 : Coffee break
-- 11h30-12h15 : [Jérôme Bobin](http://jbobin.cosmostat.org/) (***Sparse matrix factorization, and its applications in astrophysics***)
-- 12h15-13h00 : [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html) (***Discrete multigrid convergent estimators of curvature***)
+- 11h30-12h15 : [Hugues Talbot](http://hugues.zahlt.info/bienvenue.html) (***Discrete multigrid convergent estimators of curvature***)
 - Lunch break - end of the workshop
 
 Abstracts
