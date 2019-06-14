@@ -38,7 +38,7 @@ Wednesday (March 13)
 - 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [[Talk abstract in pdf](./abstracts/abstractIHPworkshop2.pdf)] (***PDEs on the Homogeneous Space of Positions and Orientations***)
 - 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) (***Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data***)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/) (***Functional Data Analysis Under Shape Constraints***)
+- 14h-14h45: [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/) (***Functional Data Analysis Under Shape Constraints***) ([slides](slides/w2/srivastava.pdf))
 - 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html) (***A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy***) ([slides](slides/w2/kervrann.pdf))
 - 15h30-16h15: [Xavier Descombes](https://www-sop.inria.fr/members/Xavier.Descombes/) (***Multiple objects detection in biological images using a Marked Point Process Framework***) ([slides](slides/w2/descombes.pdf))
 - 16h15-17h: Coffee break 
