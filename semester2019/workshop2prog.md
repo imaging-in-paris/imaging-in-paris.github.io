@@ -15,7 +15,7 @@ Monday (March 11)
 - 14h45-15h30 : [Sylvain Lefebvre](http://www.antexel.com/sylefeb/research/)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Pooran Memari](http://www.lix.polytechnique.fr/~memari/)
-- 16h45-17h30 : [Julien Rabin](https://sites.google.com/site/rabinjulien/)
+- 16h45-17h30 : [Julien Rabin](https://sites.google.com/site/rabinjulien/) (*Detecting Overfitting of Deep Generative Networks via Latent Recovery*)([slides](slides/w2/rabin.pdf))
 
 
 Tuesday (March 12)
@@ -23,9 +23,9 @@ Tuesday (March 12)
 - 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) 
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/)
-- 11h30-12h15: [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/)
+- 11h30-12h15: [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/) (*Total variation denoising with iterated conditional expectation*)([slides](slides/w2/louchet.pdf))
 - 12h15-14h: Lunch break
-- 14h-14h45: [Michael Unser](http://bigwww.epfl.ch/unser/)
+- 14h-14h45: [Michael Unser](http://bigwww.epfl.ch/unser/) (*Hybrid sparse stochastic processes and the resolution of linear inverse problems*)([slides](slides/w2/unser.pdf))
 - 14h45-15h30: [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/)
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Pierre Chainais](http://pierrechainais.ec-lille.fr)
@@ -39,7 +39,7 @@ Wednesday (March 13)
 - 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/)
-- 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html)
+- 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html) (*A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy*)([slides](slides/w2/kervrann.pdf))
 - 15h30-16h15: [Xavier Descombes](https://www-sop.inria.fr/members/Xavier.Descombes/)
 - 16h15-17h: Coffee break 
 - 17h-18h: [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference 
@@ -48,7 +48,7 @@ Thursday (March 14)
 --------------
 - 9h30-10h15: [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/)
 - 10h15-10h45: Coffee break 
-- 10h45-11h30: [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/)
+- 10h45-11h30: [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/) (*From currents to oriented varifolds for data fidelity metrics ; growth models for computational anatomy*) ([slides](slides/w2/kaltenmark.pdf))
 - 11h30-12h15: [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/)
 - 12h15-14h: Lunch break
 - 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) 
