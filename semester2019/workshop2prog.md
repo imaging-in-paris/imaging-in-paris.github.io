@@ -22,21 +22,21 @@ Tuesday (March 12)
 -------------
 - 9h30-10h15: [Ron Kimmel](http://www.cs.technion.ac.il/~ron/) (***Interaction between invariant structures for shape analysis***)
 - 10h15-10h45: Coffee break 
-- 10h45-11h30: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) (***3D Point Cloud Classification, Segmentation and Normal estimation, using 3D Modified Fisher Vector Representation and Convolutional Neural Networks***)
+- 10h45-11h30: [Michael Lindenbaum](http://www.cs.technion.ac.il/~mic/) (***3D Point Cloud Classification, Segmentation and Normal estimation, using 3D Modified Fisher Vector Representation and Convolutional Neural Networks***) ([slides](slides/w2/lindenbaum.pdf))
 - 11h30-12h15: [Cécile Louchet](http://www.univ-orleans.fr/mapmo/membres/louchet/) (***Total variation denoising with iterated conditional expectation***)([slides](slides/w2/louchet.pdf))
 - 12h15-14h: Lunch break
 - 14h-14h45: [Michael Unser](http://bigwww.epfl.ch/unser/) (***Hybrid sparse stochastic processes and the resolution of linear inverse problems***)([slides](slides/w2/unser.pdf))
-- 14h45-15h30: [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/) (***Lipschitz-Killing curvatures of excursion sets for 2D random fields***) ([slides](slides/w2/chainais.pdf))
+- 14h45-15h30: [Hermine Biermé](http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/) (***Lipschitz-Killing curvatures of excursion sets for 2D random fields***) ([slides](slides/w2/bierme.pdf))
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Pierre Chainais](http://pierrechainais.ec-lille.fr) (***Efficient sampling through variable splitting-inspired bayesian hierarchical models***) ([slides](slides/w2/chainais.pdf))
 - 16h45 -17h30: [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/) (***Statistical aspects of stochastic algorithms for entropic optimal transportation between probability measures***) ([slides](slides/w2/bigot.pdf))
 
 Wednesday (March 13)
 -------------
-- 9h30-10h15: [Gersende Fort ](https://www.math.univ-toulouse.fr/~gfort/) (***Stochastic Approximation-based algorithms, when the Monte Carlo bias does not vanish***)
+- 9h30-10h15: [Gersende Fort ](https://www.math.univ-toulouse.fr/~gfort/) (***Stochastic Approximation-based algorithms, when the Monte Carlo bias does not vanish***) ([slides](slides/w2/fort.pdf))
 - 10h15-10h45: Coffee break 
-- 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [[Talk abstract in pdf](./abstracts/abstractIHPworkshop2.pdf)] (***PDEs on the Homogeneous Space of Positions and Orientations***)
-- 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) (***Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data***)
+- 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [[Talk abstract in pdf](./abstracts/abstractIHPworkshop2.pdf)] (***PDEs on the Homogeneous Space of Positions and Orientations***) ([slides](slides/w2/duits.pdf))
+- 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) (***Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data***) 
 - 12h15-14h: Lunch break
 - 14h-14h45: [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/) (***Functional Data Analysis Under Shape Constraints***) ([slides](slides/w2/srivastava.pdf))
 - 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html) (***A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy***) ([slides](slides/w2/kervrann.pdf))
