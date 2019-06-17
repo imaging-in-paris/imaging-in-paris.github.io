@@ -36,7 +36,7 @@ Wednesday (March 13)
 - 9h30-10h15: [Gersende Fort ](https://www.math.univ-toulouse.fr/~gfort/) (***Stochastic Approximation-based algorithms, when the Monte Carlo bias does not vanish***) ([slides](slides/w2/fort.pdf))
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Remco Duits](http://bmia.bmt.tue.nl/people/RDuits/) [[Talk abstract in pdf](./abstracts/abstractIHPworkshop2.pdf)] (***PDEs on the Homogeneous Space of Positions and Orientations***) ([slides](slides/w2/duits.pdf))
-- 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) (***Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data***) 
+- 11h30-12h15: [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) (***Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data***) ([slides](slides/w2/allassonniere.pdf))
 - 12h15-14h: Lunch break
 - 14h-14h45: [Anuj Srivastava](https://ani.stat.fsu.edu/~anuj/) (***Functional Data Analysis Under Shape Constraints***) ([slides](slides/w2/srivastava.pdf))
 - 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html) (***A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy***) ([slides](slides/w2/kervrann.pdf))
@@ -46,12 +46,12 @@ Wednesday (March 13)
 
 Thursday (March 14)
 --------------
-- 9h30-10h15: [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (***Maximum Entropy Models for Texture Synthesis***)
+- 9h30-10h15: [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (***Maximum Entropy Models for Texture Synthesis***) ([slides](slides/w2/leclaire.pdf))
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Irène Kaltenmark](https://sites.google.com/site/irenekaltenmark/) (***From currents to oriented varifolds for data fidelity metrics ; growth models for computational anatomy***) ([slides](slides/w2/kaltenmark.pdf))
 - 11h30-12h15: [Joan Glaunés](http://www.mi.parisdescartes.fr/~glaunes/) (***Kernel norms on normal cycles and the KeOps library for linear memory reductions over datasets***)
 - 12h15-14h: Lunch break
-- 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (***Bayesian inference and convex geometry: theory, methods, and algorithms***) 
+- 14h-14h45: [Marcelo Pereyra](http://www.macs.hw.ac.uk/~mp71/) (***Bayesian inference and convex geometry: theory, methods, and algorithms***)  ([slides](slides/w2/pereyra.pdf))
 - 14h45-15h30: [Marianne Clausel](https://sites.google.com/site/marianneclausel/) (***Gaussian random fields and anisotropy***)
 - 15h30-16h: Coffee break 
 - 16h-16h45: [Pablo Arias](http://gpi.upf.edu/profile/211) (***Video denoising via Bayesian modelling of patches***) ([slides](slides/w2/arias.pdf))
