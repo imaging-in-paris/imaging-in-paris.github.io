@@ -42,7 +42,7 @@ Wednesday (March 13)
 - 14h45-15h30: [Charles Kervrann](http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html) (***A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy***) ([slides](slides/w2/kervrann.pdf))
 - 15h30-16h15: [Xavier Descombes](https://www-sop.inria.fr/members/Xavier.Descombes/) (***Multiple objects detection in biological images using a Marked Point Process Framework***) ([slides](slides/w2/descombes.pdf))
 - 16h15-17h: Coffee break 
-- 17h-18h: [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference (***Création des mondes virtuels : Objets auto-similaires et distributions d'éléments***)
+- 17h-18h: [Marie-Paule Cani](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), Outreach plenary conference (***Création des mondes virtuels : Objets auto-similaires et distributions d'éléments***) ([slides](slides/w2/cani.pdf))
 
 Thursday (March 14)
 --------------
