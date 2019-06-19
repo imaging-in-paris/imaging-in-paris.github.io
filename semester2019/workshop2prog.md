@@ -11,7 +11,7 @@ Tentative program
 Monday (March 11)
 -------------
 
-- 14h-14h45 : [Sylvain Paris](https://people.csail.mit.edu/sparis/) (***Photography Made Easy***)
+- 14h-14h45 : [Sylvain Paris](https://people.csail.mit.edu/sparis/) (***Photography Made Easy***) ([slides](slides/w2/paris.pdf))
 - 14h45-15h30 : [Sylvain Lefebvre](http://www.antexel.com/sylefeb/research/) (***Synthesizing stochastic microstructures for additive manufacturing***)
 - 15h30-16h : Coffee break 
 - 16h-16h45 : [Pooran Memari](http://www.lix.polytechnique.fr/~memari/) (***Statistical representation for geometric modeling***)
@@ -60,7 +60,7 @@ Thursday (March 14)
 
 Friday (March 15)
 --------------
-- 9h30-10h15: [Jean-Francois Cardoso]() (***The inconvenience of a single Universe***)
+- 9h30-10h15: [Jean-Francois Cardoso]() (***The inconvenience of a single Universe***) ([slides](slides/w2/cardoso.pdf))
 - 10h15-10h45: Coffee break 
 - 10h45-11h30: [Alfred Hero](https://hero.engin.umich.edu) (***TeraLasso for sparse time-varying image modeling***)
 - 11h30-12h15: [Alain Trouvé](http://atrouve.perso.math.cnrs.fr) (***Modular large deformation and shape aware metrics in shape analysis: How to make things simple (and meaningful) ?***)
