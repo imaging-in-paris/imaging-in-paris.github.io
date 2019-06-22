@@ -5,7 +5,7 @@ description: "Parisian Seminar on the Mathematics of Imaging"
 header-img: "../img/paris1.png"
 ---
 
-Welcome on the website of the Paris Seminar on the Mathematics of Imaging.
+Welcome on the website of the Paris Seminar on the Mathematics of Imaging. The seminar will start again in october 2019 !  
 
 The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place the first Thursday of each month at [IHP](../coming/), from 14:00 to 16:00. Each seminar is composed of two presentations.
 
@@ -27,16 +27,16 @@ Upcoming seminars
 {% endfor %}
 
 
-Dates for 2018
+Dates for 2019
 ----
 
-- thursday oct 4th: Salle 314
-- thursday nov 8th: TBA
-- thursday dec 6th: Salle 314
+- thursday oct 3th: Salle 314
+- thursday nov 7th: Salle 314
+- thursday dec 5th: Salle 314
 
-The seminar will stop in its usual form during the IHP trimester "The Mathematics of Imaging".
-
-After that the seminar will start again in october 2019. 
+Dates for 2019
+----
+TBA
 
 
 Organizers
