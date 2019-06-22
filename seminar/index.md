@@ -36,7 +36,13 @@ Dates for 2019
 
 Dates for 2019
 ----
-TBA
+- thursday jan. 9th: 
+- thursday feb. 6th:
+- thursday march 5th:
+- thursday apr.. 2th: 
+- thursday may 7th:
+- thursday june 4th:
+
 
 
 Organizers
