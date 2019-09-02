@@ -34,7 +34,7 @@ Dates for 2019
 - thursday nov 7th: Salle 314
 - thursday dec 5th: Salle 314
 
-Dates for 2019
+Dates for 2020
 ----
 - thursday jan. 9th: 
 - thursday feb. 6th:
