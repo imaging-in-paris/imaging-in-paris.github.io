@@ -20,9 +20,9 @@ Liste des séminaires à venir :
 
 Pour 2019-2020, les dates sont les suivantes :
 
-- jeudi 3 octobre : Salle 314, Emmanuel Soubies / Yvain Queau
+- jeudi 3 octobre : Salle 314
 - jeudi 7 novembre : Salle 314
-- jeudi 5 décembre : Salle 201, Aurélie Bugeau / Marianne Clausel
+- jeudi 5 décembre : Salle 201
 - jeudi 9 janvier : Salle 314
 - jeudi 6 février : Salle 314
 - jeudi 5 mars : Salle 314
