@@ -26,6 +26,32 @@
   title: ""
   abstract: ""  
   
+  - speaker: Loïc Denis
+  date: 7 november 2019
+  time: 15h-16h
+  room: 314
+  affiliation: Laboratoire Hubert Curien UMR 5516 CNRS / Université de Saint-Etienne
+  url: https://perso.univ-st-etienne.fr/deniloic/
+  title: "Exoplanet detection by direct imaging: a data-processing method based on
+patch covariances"
+  abstract: "The search for exoplanets is a very active subject in astronomy. Direct
+observation of exoplanets requires the combination of a large telescope,
+an extreme adaptive-optics system, a coronagraph, and dedicated data
+processing methods. This presentation will discuss the importance of a
+good statistical model of the data and describe an approach to account
+for the non-stationary spatial correlations in the background signal.
+Compared to existing approaches, this model more closely describes the
+data and thus leads to improved sensitivity, more accurate photometric
+and astrometric characterizations and more reliable results (in
+particular, a controlled probability of false alarms). Results obtained
+with the SPHERE instrument operated by the ESO at the Very Large
+Telescope in Chile confirm the performance of the method. An extension
+of the model to microscopy will also be presented.
+
+This is a joint work with Olivier Flasseur (Laboratoire Hubert Curien,
+CNRS/Univ St Etienne/IOGS), Eric Thiébaut and Maud Langlois (Centre de
+Recherche en Astrophysique de Lyon, CNRS/Univ Lyon 1/ENS Lyon)."
+  
 - speaker: Aurélie Bugeau
   date: 5 december 2019
   time: 14h-15h
