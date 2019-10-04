@@ -1,3 +1,24 @@
+- speaker: Emmanuel Soubies
+  date: 3 october 2019
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, IRIT
+  url: https://www.irit.fr/~Emmanuel.Soubies/
+  slides: soubies
+  title: "Relationships between necessary optimality conditions for the l2-l0 minimization problem."
+  abstract: "In this talk, we will discuss the relationships between necessary optimality conditions for the l0-regularized least-squares minimization problem. Such conditions are the roots of the plethora of algorithms that have been designed to cope with this NP-hard problem. Indeed, as global optimality is in general intractable, these algorithms only ensure the convergence to suboptimal points that verify some necessary (not sufficient) optimality conditions. The degree of restrictiveness of these conditions is thus directly related to the performance of the algorithms. Within this context, we will first review the commonly used necessary optimality conditions as well as known relationships between them. Then, we will complete this hierarchy of conditions by proving new inclusion properties between the sets of candidate solutions associated to them. Moreover, we will provide a quantitative analysis of these sets. Finally, we will present numerical experiments that illustrates the fact that the performance of an algorithm is related to the restrictiveness of the optimality condition verified by the point it converges to.
+ Joint work with Laure Blanc-Féraud and Gilles Aubert."
+  
+- speaker: Yvain Queau
+  date: 3 october 2019
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS, GREYC
+  url: https://sites.google.com/view/yvainqueau
+  slides: queau
+  title: "Variational methods for photometric 3D-reconstruction"
+  abstract: "Shape-from-shading (SfS) is a classic inverse problem consisting in reconstructing a 3D-shape from a single photography. Yet, it is an ill-posed problem, and its numerical solving is challenging. This talk will discuss the benefits of variational methods for modeling SfS, and for solving its ambiguities through the introduction of natural Bayesian priors. Efficient splitting-based algorithms will be presented, which yield state-of-the-art results on various real-world applications such as depth super-resolution for RGBD sensors. Possible combinations with deep learning techniques will eventually be briefly discussed."
+
 - speaker: Hughes Talbot
   date: 6 december 2018
   time: 14h-15h
