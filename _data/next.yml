@@ -4,8 +4,8 @@
   room: 314
   affiliation: CNRS, Cristal
   url: https://rbardenet.github.io/
-  title: ""
-  abstract: ""  
+  title: "DPPs everywhere: repulsive point processes for Monte Carlo integration, signal processing and machine learning"
+  abstract: "Determinantal point processes (DPPs) are specific repulsive point processes, which were introduced in the 1970s by Macchi to model fermion beams in quantum optics. More recently, they have been studied as models and sampling tools by statisticians and machine learners. Important statistical quantities associated to DPPs have geometric and algebraic interpretations, which makes them a fun object to study and a powerful algorithmic building block. After a quick introduction to determinantal point processes, I will discuss some of our recent statistical applications of DPPs. First, we used DPPs to sample nodes in numerical integration, resulting in Monte Carlo integration with fast convergence with respect to the number of integrand evaluations. Second, we turned DPPs into low-error variable selection procedures in linear regression. If time allows it, I'll describe a third application where we used DPP machinery to characterize the distribution of the zeros of time-frequency transforms of white noise, a recent challenge in signal processing. Joint with Ayoub Belhadji, Pierre Chainais, Julien Flamant, Guillaume Gautier, Adrien Hardy, Michal Valko."  
   
 - speaker: Loïc Denis
   date: 7 november 2019
