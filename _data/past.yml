@@ -1,3 +1,22 @@
+- speaker: Rémi Bardenet
+  date: 7 november 2019
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, Cristal
+  url: https://rbardenet.github.io/
+  title: "DPPs everywhere: repulsive point processes for Monte Carlo integration, signal processing and machine learning"
+  abstract: "Determinantal point processes (DPPs) are specific repulsive point processes, which were introduced in the 1970s by Macchi to model fermion beams in quantum optics. More recently, they have been studied as models and sampling tools by statisticians and machine learners. Important statistical quantities associated to DPPs have geometric and algebraic interpretations, which makes them a fun object to study and a powerful algorithmic building block. After a quick introduction to determinantal point processes, I will discuss some of our recent statistical applications of DPPs. First, we used DPPs to sample nodes in numerical integration, resulting in Monte Carlo integration with fast convergence with respect to the number of integrand evaluations. Second, we turned DPPs into low-error variable selection procedures in linear regression. If time allows it, I'll describe a third application where we used DPP machinery to characterize the distribution of the zeros of time-frequency transforms of white noise, a recent challenge in signal processing. Joint with Ayoub Belhadji, Pierre Chainais, Julien Flamant, Guillaume Gautier, Adrien Hardy, Michal Valko."  
+- speaker: Loïc Denis
+  date: 7 november 2019
+  time: 15h-16h
+  room: 314
+  affiliation: Laboratoire Hubert Curien UMR 5516 CNRS / Université de Saint-Etienne
+  url: https://perso.univ-st-etienne.fr/deniloic/
+  title: "Exoplanet detection by direct imaging: a data-processing method based on
+  patch covariances"
+  abstract: "The search for exoplanets is a very active subject in astronomy. Direct observation of exoplanets requires the combination of a large telescope, an extreme adaptive-optics system, a coronagraph, and dedicated data processing methods. This presentation will discuss the importance of a good statistical model of the data and describe an approach to account for the non-stationary spatial correlations in the background signal. Compared to existing approaches, this model more closely describes the data and thus leads to improved sensitivity, more accurate photometric and astrometric characterizations and more reliable results (in particular, a controlled probability of false alarms). Results obtained with the SPHERE instrument operated by the ESO at the Very Large Telescope in Chile confirm the performance of the method. An extension of the model to microscopy will also be presented.
+  This is a joint work with Olivier Flasseur (Laboratoire Hubert Curien, CNRS/Univ St Etienne/IOGS), Eric Thiébaut and Maud Langlois (Centre de
+  Recherche en Astrophysique de Lyon, CNRS/Univ Lyon 1/ENS Lyon)."
 - speaker: Emmanuel Soubies
   date: 3 october 2019
   time: 14h-15h
@@ -8,7 +27,6 @@
   title: "Relationships between necessary optimality conditions for the l2-l0 minimization problem."
   abstract: "In this talk, we will discuss the relationships between necessary optimality conditions for the l0-regularized least-squares minimization problem. Such conditions are the roots of the plethora of algorithms that have been designed to cope with this NP-hard problem. Indeed, as global optimality is in general intractable, these algorithms only ensure the convergence to suboptimal points that verify some necessary (not sufficient) optimality conditions. The degree of restrictiveness of these conditions is thus directly related to the performance of the algorithms. Within this context, we will first review the commonly used necessary optimality conditions as well as known relationships between them. Then, we will complete this hierarchy of conditions by proving new inclusion properties between the sets of candidate solutions associated to them. Moreover, we will provide a quantitative analysis of these sets. Finally, we will present numerical experiments that illustrates the fact that the performance of an algorithm is related to the restrictiveness of the optimality condition verified by the point it converges to.
  Joint work with Laure Blanc-Féraud and Gilles Aubert."
-  
 - speaker: Yvain Queau
   date: 3 october 2019
   time: 15h-16h
@@ -18,7 +36,6 @@
   slides: queau
   title: "Variational methods for photometric 3D-reconstruction"
   abstract: "Shape-from-shading (SfS) is a classic inverse problem consisting in reconstructing a 3D-shape from a single photography. Yet, it is an ill-posed problem, and its numerical solving is challenging. This talk will discuss the benefits of variational methods for modeling SfS, and for solving its ambiguities through the introduction of natural Bayesian priors. Efficient splitting-based algorithms will be presented, which yield state-of-the-art results on various real-world applications such as depth super-resolution for RGBD sensors. Possible combinations with deep learning techniques will eventually be briefly discussed."
-
 - speaker: Hughes Talbot
   date: 6 december 2018
   time: 14h-15h
@@ -31,7 +48,6 @@ paths as structuring elements. These operators are designed to preserve thin obj
 etc, which are traditionally very difficult to filter using classical operators in many settings. By combining these filters, we show how we can
 propose a vesselness operator with significant better performance than the traditional linear operators based on the Hessian (Frangi, Sato, etc)
 or the structure tensor. We also show recent work on how to use these operators as regularizers in variational frameworks for image restoration, in the context of discrete calculus."
-
 - speaker: Denis Fortun
   date: 6 december 2018
   time: 15h-16h
@@ -40,7 +56,6 @@ or the structure tensor. We also show recent work on how to use these operators 
   url: http://bigwww.epfl.ch/fortun/index.html
   title: "Fast piecewise-affine motion estimation without segmentation"
   abstract: "In this talk, we will review existing strategies for regularizing motion fields, and present a new method dedicated to piecewise affine models. Current algorithmic approaches for piecewise affine motion estimation are based on alternating motion segmentation and estimation. In contrast, our method estimates piecewise affine motion directly without intermediate segmentation. To this end, we reformulate the problem by imposing piecewise constancy of the parameter field, and derive a specific proximal splitting optimization scheme. A key component of our framework is an efficient 1D piecewise-affine estimator for vector-valued signals. The first advantage of our approach over segmentation-based methods is its absence of initialization. The second advantage is its lower computational cost, which is independent of the complexity of the motion field. In addition to these features, we demonstrate competitive accuracy with other piecewise-parametric methods on standard evaluation benchmarks. Our new regularization scheme also outperforms the more standard use of total variation and total generalized variation."
-
 - speaker: Rémi Gribonval
   date: 8 november 2018
   time: 14h-15h

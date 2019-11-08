@@ -1,36 +1,17 @@
-- speaker: Rémi Bardenet
-  date: 7 november 2019
-  time: 14h-15h
-  room: 314
-  affiliation: CNRS, Cristal
-  url: https://rbardenet.github.io/
-  title: "DPPs everywhere: repulsive point processes for Monte Carlo integration, signal processing and machine learning"
-  abstract: "Determinantal point processes (DPPs) are specific repulsive point processes, which were introduced in the 1970s by Macchi to model fermion beams in quantum optics. More recently, they have been studied as models and sampling tools by statisticians and machine learners. Important statistical quantities associated to DPPs have geometric and algebraic interpretations, which makes them a fun object to study and a powerful algorithmic building block. After a quick introduction to determinantal point processes, I will discuss some of our recent statistical applications of DPPs. First, we used DPPs to sample nodes in numerical integration, resulting in Monte Carlo integration with fast convergence with respect to the number of integrand evaluations. Second, we turned DPPs into low-error variable selection procedures in linear regression. If time allows it, I'll describe a third application where we used DPP machinery to characterize the distribution of the zeros of time-frequency transforms of white noise, a recent challenge in signal processing. Joint with Ayoub Belhadji, Pierre Chainais, Julien Flamant, Guillaume Gautier, Adrien Hardy, Michal Valko."  
-- speaker: Loïc Denis
-  date: 7 november 2019
-  time: 15h-16h
-  room: 314
-  affiliation: Laboratoire Hubert Curien UMR 5516 CNRS / Université de Saint-Etienne
-  url: https://perso.univ-st-etienne.fr/deniloic/
-  title: "Exoplanet detection by direct imaging: a data-processing method based on
-patch covariances"
-  abstract: "The search for exoplanets is a very active subject in astronomy. Direct observation of exoplanets requires the combination of a large telescope, an extreme adaptive-optics system, a coronagraph, and dedicated data processing methods. This presentation will discuss the importance of a good statistical model of the data and describe an approach to account for the non-stationary spatial correlations in the background signal. Compared to existing approaches, this model more closely describes the data and thus leads to improved sensitivity, more accurate photometric and astrometric characterizations and more reliable results (in particular, a controlled probability of false alarms). Results obtained with the SPHERE instrument operated by the ESO at the Very Large Telescope in Chile confirm the performance of the method. An extension of the model to microscopy will also be presented.
-This is a joint work with Olivier Flasseur (Laboratoire Hubert Curien, CNRS/Univ St Etienne/IOGS), Eric Thiébaut and Maud Langlois (Centre de
-Recherche en Astrophysique de Lyon, CNRS/Univ Lyon 1/ENS Lyon)."
-- speaker: Aurélie Bugeau
-  date: 5 december 2019
-  time: 14h-15h
-  room: 314
-  affiliation: LABRI, Univ. Bordeaux
-  url: https://www.labri.fr/perso/bugeau/
-  title: ""
-  abstract: ""  
 - speaker: Marianne Clausel
   date: 5 december 2019
-  time: 15h-16h
+  time: 14h-15h
   room: 314
   affiliation: IECL, Univ. Lorraine
-  url: https://sites.google.com/site/marianneclausel/
+  url:  https://sites.google.com/site/marianneclausel/
+  title: ""
+  abstract: ""  
+- speaker: Alasdair Newson
+  date: 5 december 2019
+  time: 15h-16h
+  room: 314
+  affiliation: Télécom Paris
+  url: https://sites.google.com/site/alasdairnewson/
   title: ""
   abstract: ""  
 - speaker: Isabelle Bloch
