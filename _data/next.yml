@@ -1,5 +1,5 @@
 - speaker: Marianne Clausel
-  date: 5 december 2019
+  date: 2020
   time: 14h-15h
   room: 314
   affiliation: IECL, Univ. Lorraine
@@ -7,7 +7,7 @@
   title: ""
   abstract: ""  
 - speaker: Alasdair Newson
-  date: 5 december 2019
+  date:  2020
   time: 15h-16h
   room: 314
   affiliation: Télécom Paris
@@ -22,3 +22,11 @@
   url: https://perso.telecom-paristech.fr/bloch/
   title: ""
   abstract: ""  
+- speaker: Matthieu Cord
+date:  5 mars 2020
+time: 14h-15h
+room: 314
+affiliation: LIP6, Sorbonne Université
+url: http://webia.lip6.fr/~cord/
+title: ""
+abstract: ""

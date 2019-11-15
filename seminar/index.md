@@ -34,7 +34,7 @@ Dates for 2019
 
 - thursday oct 3th: Salle 314
 - thursday nov 7th: Salle 314
-- thursday dec 5th: Salle 314
+- ~~thursday dec 5th: Salle 314~~ (cancelled due to strikes)
 
 Dates for 2020
 ----
