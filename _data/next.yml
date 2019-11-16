@@ -1,11 +1,19 @@
-- speaker: Marianne Clausel
-  date: 2020
+- speaker: Isabelle Bloch
+  date:  9 january 2020
   time: 14h-15h
+  room: 314
+  affiliation: Télécom Paris
+  url: https://perso.telecom-paristech.fr/bloch/
+  title: ""
+  abstract: ""
+- speaker: Marianne Clausel
+  date: 9 january 2020
+  time: 15h-16h
   room: 314
   affiliation: IECL, Univ. Lorraine
   url:  https://sites.google.com/site/marianneclausel/
   title: ""
-  abstract: ""  
+  abstract: ""
 - speaker: Alasdair Newson
   date:  2020
   time: 15h-16h
@@ -14,14 +22,6 @@
   url: https://sites.google.com/site/alasdairnewson/
   title: ""
   abstract: ""  
-- speaker: Isabelle Bloch
-  date:  9 january 2020
-  time: 14h-15h
-  room: 314
-  affiliation: Télécom Paris 
-  url: https://perso.telecom-paristech.fr/bloch/
-  title: ""
-  abstract: ""
 - speaker: Matthieu Cord
   date:  5 mars 2020
   time: 14h-15h
