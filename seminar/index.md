@@ -38,12 +38,12 @@ Dates for 2019
 
 Dates for 2020
 ----
-- thursday jan. 9th: 
-- thursday feb. 6th:
-- thursday march 5th:
-- thursday apr.. 2th: 
-- thursday may 7th:
-- thursday june 4th:
+- ~~thursday jan. 9th: Salle 314~~ (cancelled due to strikes)
+- thursday feb. 6th: TBA
+- thursday march 5th: Salle 314
+- thursday apr.. 2th: Salle 314
+- thursday may 7th: Salle 314
+- thursday june 4th: Salle 314
 
 
 
