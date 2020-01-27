@@ -1,5 +1,6 @@
 ---
 layout: page
+mathjax: true
 title: "Imaging in Paris Seminar"
 description: "Parisian Seminar on the Mathematics of Imaging"
 header-img: "../img/paris1.png"
