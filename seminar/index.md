@@ -29,20 +29,12 @@ Upcoming seminars
   </p>
 {% endfor %}
 
-
-Dates for 2019
-----
-
-- thursday oct 3th: Salle 314
-- thursday nov 7th: Salle 314
-- ~~thursday dec 5th: Salle 314~~ (cancelled due to strikes)
-
 Dates for 2020
 ----
 - ~~thursday jan. 9th: Salle 314~~ (cancelled due to strikes)
-- thursday feb. 6th: TBA
-- thursday march 5th: Salle 314
-- thursday apr.. 2th: Salle 314
+- thursday feb. 6th: Salle R, ENS
+- ~~thursday march 5th: Salle 314~~ (cancelled due to strikes)
+- ~~thursday apr.. 2th: Salle 314~~
 - thursday may 7th: Salle 314
 - thursday june 4th: Salle 314
 

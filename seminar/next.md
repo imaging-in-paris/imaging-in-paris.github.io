@@ -24,7 +24,7 @@ Pour 2019-2020, les dates sont les suivantes :
 - jeudi 7 novembre : Salle 314
 - ~~jeudi 5 décembre : Salle 201~~
 - jeudi 9 janvier : Salle 314
-- jeudi 6 février : Salle ???
+- jeudi 6 février : Salle R, ENS
 - jeudi 5 mars : Salle 314
 - jeudi 2 avril : Salle 314
 - jeudi 7 mai : Salle 314
