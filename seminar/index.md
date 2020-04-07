@@ -34,9 +34,9 @@ Dates for 2020
 - ~~thursday jan. 9th: Salle 314~~ (cancelled due to strikes)
 - thursday feb. 6th: Salle R, ENS
 - ~~thursday march 5th: Salle 314~~ (cancelled due to strikes)
-- ~~thursday apr.. 2th: Salle 314~~
-- thursday may 7th: Salle 314
-- thursday june 4th: Salle 314
+- ~~thursday apr.. 2th: Salle 314~~ (cancelled due to covid-19)
+- ~~thursday may 7th: Salle 314~~ (cancelled due to covid-19)
+- thursday june 4th: Salle 314 ???
 
 
 
