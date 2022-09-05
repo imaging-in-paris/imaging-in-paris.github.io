@@ -46,9 +46,11 @@ Organizers
 - [Andrés Almansa](http://up5.fr/almansa/) (CNRS and Paris 5)
 - [Julie Delon](https://delon.wp.mines-telecom.fr/) (Paris 5)
 - [Agnès Desolneux](http://desolneux.perso.math.cnrs.fr/) (CNRS and ENS Cachan)
+- [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (Inria and Dauphine-PSL)
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICAEN)
 - [Bruno Galerne](https://www.idpoisson.fr/galerne/) (Orléans)
 - [Yann Gousseau](http://perso.telecom-paristech.fr/~gousseau/) (Telecom ParisTech)
+- [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (Telecom ParisTech)
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS)
 
 Thanks
