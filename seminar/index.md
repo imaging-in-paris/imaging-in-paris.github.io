@@ -29,14 +29,13 @@ Upcoming seminars
   </p>
 {% endfor %}
 
-Dates for 2020
+Dates for 2022-2023
 ----
-- ~~thursday jan. 9th: Salle 314~~ (cancelled due to strikes)
-- thursday feb. 6th: Salle R, ENS
-- ~~thursday march 5th: Salle 314~~ (cancelled due to strikes)
-- ~~thursday apr.. 2th: Salle 314~~ (cancelled due to covid-19)
-- ~~thursday may 7th: Salle 314~~ (cancelled due to covid-19)
-- thursday june 4th: Salle 314 ???
+- Thursday Oct. 13th: Grisvard Room (314) 
+- Thursday Dec. 15th: Darboux Amphitheater
+- Thursday Feb. 9th: Grisvard Room (314)
+- Thursday Apr. 13th: Room 201
+- Thursday Jun. 15th: Room 201
 
 
 

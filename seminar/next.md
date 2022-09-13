@@ -18,14 +18,10 @@ Liste des séminaires à venir :
 {% endfor %}
 
 
-Pour 2019-2020, les dates sont les suivantes :
+Pour 2022-2023, les dates sont les suivantes :
 
-- jeudi 3 octobre : Salle 314
-- jeudi 7 novembre : Salle 314
-- ~~jeudi 5 décembre : Salle 201~~
-- jeudi 9 janvier : Salle 314
-- jeudi 6 février : Salle R, ENS
-- jeudi 5 mars : Salle 314
-- jeudi 2 avril : Salle 314
-- jeudi 7 mai : Salle 314
-- jeudi 4 juin : Salle 314
+- jeudi 13 octobre : Salle Grisvard (314)
+- jeudi 15 décembre : Amphithéaâtre Darboux
+- jeudi 9 février : Salle Grisvard (314)
+- jeudi 13 avril : Salle 201
+- jeudi 15 juin : Salle 201

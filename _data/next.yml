@@ -1,25 +1,17 @@
 
-- speaker: Matthieu Cord
-  date:  TBA, 2020
+- speaker: Jonathan Vacher
+  date: 13 Octobre 2022
   time: 14h-15h
-  room: 314
-  affiliation: Télécom Paris
-  url: http://webia.lip6.fr/~cord/
+  room: salle Grisvard (314)
+  affiliation: LSP, Ecole Normale Supérieure PSL Research University
+  url:  https://jonathanvacher.github.io/
   title: ""
   abstract: ""
 - speaker: Isabelle Bloch
-  date:  TBA, 2020
+  date:  13 Octobre 2022
   time: 15h-16h
-  room: 314
-  affiliation: Télécom Paris
-  url: https://perso.telecom-paristech.fr/bloch/
-  title: ""
-  abstract: ""
-- speaker: Marianne Clausel
-  date: TBA, 2020
-  time: 15h-16h
-  room: 314
-  affiliation: IECL, Univ. Lorraine
-  url:  https://sites.google.com/site/marianneclausel/
-  title: ""
-  abstract: ""
+  room: salle Grisvard (314)
+  affiliation: LIP6 - Sorbonne Université
+  url: https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1486
+  title: "Hybrid AI for knowledge representation and model-based medical image understanding - Towards explainability"
+  abstract: "This presentation will focus on hybrid AI, as a step towards explainability, more specifically in the domain of spatial reasoning and image understanding. Image understanding benefits from the modeling of knowledge about both the scene observed and the objects it contains as well as their relationships. We show in this context the contribution of hybrid artificial intelligence, combining different types of formalisms and methods, and combining knowledge with data. Knowledge representation may rely on symbolic and qualitative approaches, as well as semi-qualitative ones to account for their imprecision or vagueness. Structural information can be modeled in several formalisms, such as graphs, ontologies, logical knowledge bases, or neural networks, on which reasoning will be based. Image understanding is then expressed as a problem of spatial reasoning. These approaches will be illustrated with examples in medical imaging, illustrating the usefulness of combining several approaches."
