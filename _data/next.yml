@@ -3,10 +3,10 @@
   date: 13 Octobre 2022
   time: 14h-15h
   room: salle Grisvard (314)
-  affiliation: LSP, Ecole Normale Supérieure PSL Research University
+  affiliation: MAP5, Université Paris-Cité
   url:  https://jonathanvacher.github.io/
-  title: ""
-  abstract: ""
+  title: "Measuring uncertainty in human visual segmentation"
+  abstract: "Segmenting visual inputs into distinct groups of features and visual objects is central to visual function. Traditional psychophysics uncovered many rules of human perceptual segmentation, and progress in machine learning produced successful algorithms. Yet, the computational logic of human segmentation remains unclear, because we lack well-controlled paradigms to measure perceptual segmentation maps and compare models quantitatively. Here we propose a new, integrated approach: given an image, we measure multiple same--different judgments and perform model--based reconstruction of the underlying segmentation map. The reconstruction is robust to several experimental manipulations and captures the variability of individual participants. We demonstrate the approach on human segmentation of natural images and composite textures, and we show that image uncertainty affects measured human variability as well as how participants weigh different visual features. Because any segmentation algorithm can be plugged in to perform the reconstruction, our paradigm affords quantitative tests of theories of perception as well as new benchmarks for segmentation algorithms."
 - speaker: Isabelle Bloch
   date:  13 Octobre 2022
   time: 15h-16h
