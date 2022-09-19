@@ -6,9 +6,9 @@ description: "Parisian Seminar on the Mathematics of Imaging"
 header-img: "../img/paris1.png"
 ---
 
-Welcome on the website of the Paris Seminar on the Mathematics of Imaging. The seminar will start again the 13 october 2022 !  
+Welcome to the website of the Paris Seminar on the Mathematics of Imaging. The seminar will start again the 13 october 2022 !  
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place one Thursdays at [IHP](../coming/), from 14:00 to 16:00. Each seminar is composed of two presentations.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place on Thursdays at [IHP](../coming/) every two months, from 14:00 to 16:00. Each seminar is composed of two presentations.
 
 You can access the list of [past seminars](past/). The list of seminars prior to sept. 2016 is available on the website  [SMATI](https://smati.wp.imt.fr/).
 
@@ -77,9 +77,9 @@ The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA
 En français
 -----
 
-Bienvenu sur le site du Séminaire Parisien des Mathématiques Appliquées à l'Imagerie.
+Bienvenue sur le site du Séminaire Parisien des Mathématiques Appliquées à l'Imagerie.
 
-Le but de ce séminaire est de couvrir le domaine des mathématiques de l'imagerie. Il est ouvert à tous. Le séminaire a lieu le premier jeudi de chaque mois à [l'IHP](venir/), de 14h à 16h. Chaque séance est composée de deux exposés.
+Le but de ce séminaire est de couvrir le domaine des mathématiques de l'imagerie. Il est ouvert à tous. Cette année, le séminaire a lieu tous les deux mois, le jeudi, à [l'IHP](venir/), de 14h à 16h. Chaque séance est composée de deux exposés.
 
 Vous pouvez consulter la [liste des séminaires à venir](next/) ainsi que celle [des séminaire passés](past/). La liste de séminaires antérieurs à septembre 2016 sont disponibles dans le site [SMATI](https://smati.wp.imt.fr/).
 
