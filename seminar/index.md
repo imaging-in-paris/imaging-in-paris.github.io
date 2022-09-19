@@ -6,7 +6,7 @@ description: "Parisian Seminar on the Mathematics of Imaging"
 header-img: "../img/paris1.png"
 ---
 
-Welcome on the website of the Paris Seminar on the Mathematics of Imaging. The seminar will start again the 13 october 2022 !  
+Welcome to the website of the Paris Seminar on the Mathematics of Imaging. The seminar will start again the 13 october 2022 !  
 
 The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place one Thursdays at [IHP](../coming/), from 14:00 to 16:00. Each seminar is composed of two presentations.
 
