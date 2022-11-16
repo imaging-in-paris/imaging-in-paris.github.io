@@ -21,7 +21,7 @@ Upcoming seminars
 -----
 The next seminar will take place on Thusday 15 December, 2022, in the Darboux Amphitheater of the IHP. We will have the pleasure to have speaking:
 
-- [Emre Baskinar](https://sites.google.com/site/emrebaspinarhomepage/home?pli=1) (CNRS-NeuroPSI, Laboratory of Computational Neuroscience)
+- [Emre Baspinar](https://sites.google.com/site/emrebaspinarhomepage/home?pli=1) (CNRS-NeuroPSI, Laboratory of Computational Neuroscience)
 - [Dario Prandi](https://dprn.github.io/) (Université Paris Saclay, Centrale-Supélec)
 
 Titles and abstracts coming soon.
