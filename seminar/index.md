@@ -19,6 +19,13 @@ You can also subscribe to the [mailing list of the seminar](https://listes.telec
 
 Upcoming seminars
 -----
+The next seminar will take place on Thusday 15 December, 2022, in the Darboux Amphitheater of the IHP. We will have the pleasure to have speaking:
+
+- Emre Baskinar(https://sites.google.com/site/emrebaspinarhomepage/home?pli=1) (CNRS-NeuroPSI, Laboratory of Computational Neuroscience)
+- Dario Prandi(https://dprn.github.io/) (Université Paris Saclay, Centrale-Supélec)
+
+Previous seminars
+-----
 
 {% for oneitem in site.data.next %}
 <p>
@@ -42,7 +49,7 @@ Dates for 2022-2023
 Organizers
 -----
 
-- [Samy Blusseau](https://samyblusseau.jimdofree.com/) Mines Paris
+- [Samy Blusseau](https://samyblusseau.jimdofree.com/) (Mines Paris)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
 - [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (Telecom Paris)
 - [Lara Raad](http://dev.ipol.im/~lraad/) (ESIEE)
