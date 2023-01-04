@@ -10,7 +10,7 @@ Welcome to the website of the Paris Seminar on the Mathematics of Imaging !
 
 The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is open to everyone. It takes place on Thursdays at [IHP](../coming/) every two months, from 14:00 to 16:00. Each seminar is composed of two presentations.
 
-You can access the list of [past seminars](past/). The list of seminars prior to sept. 2016 is available on the website  [SMATI](https://smati.wp.imt.fr/).
+You can access the list of [seminars prior to 2022](past/). The list of seminars prior to sept. 2016 is available on the website  [SMATI](https://smati.wp.imt.fr/).
 
 You can also subscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
 
@@ -19,19 +19,11 @@ You can also subscribe to the [mailing list of the seminar](https://listes.telec
 
 Upcoming seminars
 -----
-The next seminar will take place on Thusday 15 December, 2022, in the Darboux Amphitheater of the IHP. We will have the pleasure to have speaking:
-
-- [Emre Baspinar](https://sites.google.com/site/emrebaspinarhomepage/home?pli=1) (CNRS-NeuroPSI, Laboratory of Computational Neuroscience)
-Title: A sub-Riemannian cortical model with frequency-phase and its application to image processing
-Abstract: In this talk, we will see a new geometrical model of the primary visual cortex together with its application to image enhancement and completion. Our departure point is the visual cortex model of the orientation selective cortical neurons, which was presented in [1]. We spatially extend this model to a five dimensional sub-Riemannian geometry and provide a novel geometric framework of the mammalian visual cortex which models orientation-frequency selective, phase shifted cortical cell behavior and the associated neural connectivity. The model extracts orientation, spatial frequency and phase information of the objects in any given two dimensional input image. Such information provides a characterization of the object boundaries and textures in the input image. We provide an image enhancement algorithm based on multi-frequency Laplace-Beltrami flow in the sub-Riemannian framework of the model. This algorithm can be modified so as to be used for image completion as well.
-
-- [Dario Prandi](https://dprn.github.io/) (Université Paris Saclay, Centrale-Supélec)
-Title: Reproducing sensory induced visual hallucinations via neural fields
-Abstract: Understanding the interaction between retinal stimulation and the cortical response in the primary visual cortex (V1 for short) is a significant challenge in improving our insight into human perception and visual organisation. In this talk we will present recent work on the reproduction of various visual illusions via continuous neural field models. In particular, we will present recent results in collaboration with Y. Chitour and C. Tamekue on the modelling via Wilson-Cowan equations of MacKay-type effects (i.e., phantom images induced by geometric patterns), showing that while the classical MacKay effect (Nature, 1957) can be recovered via a linear model, the experiences of Billock and Tsou (PNAS, 2007) are fundamentally due to the presence of a non-linearity
+The next seminar will take place on Thusday 09 February, 2023, in the Grisvard Room (314) of the IHP. Speakers to be announced shortly.
 
 
 
-Previous seminars
+Previous seminars of 2022-2023
 -----
 
 {% for oneitem in site.data.next %}
