@@ -21,8 +21,8 @@ Upcoming seminars
 -----
 The next seminar will take place on Thusday 09 February, 2023, in the Grisvard Room (314) of the IHP. We will have the pleasure to hear:
 
-- [Bruno Galerne](https://www.idpoisson.fr/galerne/) (Institut Denis Poisson, Université D'Orléans)
 - [Nicolas Cherel](https://perso.telecom-paristech.fr/nicherel/) (Télécom Paris)
+- [Bruno Galerne](https://www.idpoisson.fr/galerne/) (Institut Denis Poisson, Université D'Orléans)
 
 Titles and abstracts to be announced shortly.
 
