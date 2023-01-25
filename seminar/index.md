@@ -22,10 +22,15 @@ Upcoming seminars
 The next seminar will take place on Thusday 09 February, 2023, in the Grisvard Room (314) of the IHP. We will have the pleasure to hear:
 
 - [Nicolas Cherel](https://perso.telecom-paristech.fr/nicherel/) (Télécom Paris)
+
 Title: Patch and attention for image editing
+
 Abstract: We show through two different examples that patch-based methods remain relevant despite the widespread use of neural networks for many image editing tasks. We first present a patch-based algorithm for single image generation that performs as well as a neural network without requiring a costly training phase. We ensure visual fidelity and diversity of the results by carefully choosing the initialization of the algorithm. In the second part, we show that patch-based algorithms can benefit to modern techniques such as attention mechanisms. The use of attention has helped deep learning introduce long range dependencies but computing the full attention matrix is an expensive step with heavy memory and computational loads. We propose an efficient attention layer based on the stochastic algorithm PatchMatch, which is used for determining approximate nearest neighbors. Our layer has a greatly reduced memory complexity compared to other attention layers, scaling to high resolution images.
+
 - [Bruno Galerne](https://www.idpoisson.fr/galerne/) (Institut Denis Poisson, Université D'Orléans)
+
 Title: Scaling Painting Style Transfer
+
 Abstract: Neural style transfer is a deep learning technique that produces an unprecedentedly rich style transfer from a style image to a content image and is particularly impressive when it comes to transferring style from a painting to an image. It was originally achieved by solving an optimization problem to match the global style statistics of the style image while preserving the local geometric features of the content image. The two main drawbacks of this original approach is that it is computationally expensive and that the resolution of the output images is limited by high GPU memory requirements. Many solutions have been proposed to both accelerate neural style transfer and increase its resolution, but they all compromise the quality of the produced images. Indeed, transferring the style of a painting is a complex task involving features at different scales, from the colour palette and compositional style to the fine brushstrokes and texture of the canvas. This paper provides a solution to solve the original global optimization for ultra-high resolution images, enabling multiscale style transfer at unprecedented image sizes. This is achieved by spatially localizing the computation of each forward and backward passes through the VGG network. Extensive qualitative and quantitative comparisons show that our method produces a style transfer of unmatched quality for such high resolution painting styles.
 
 
