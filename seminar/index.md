@@ -19,7 +19,7 @@ You can also subscribe to the [mailing list of the seminar](https://listes.telec
 
 Upcoming seminars
 -----
-The next seminar will take place on Thusday 15 April, 2023, in Room 201 of the IHP. We will have the pleasure to hear Marianne Clausel and Arthur Leclaire. Titles and abstracts coming soon.
+The next seminar will take place on Thusday 13 April, 2023, in Room 201 of the IHP. We will have the pleasure to hear Marianne Clausel and Arthur Leclaire. Titles and abstracts coming soon.
 
 
 Previous seminars of 2022-2023
