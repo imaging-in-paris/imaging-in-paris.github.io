@@ -59,7 +59,7 @@ Organizers
 -----
 
 - [Samy Blusseau](https://samyblusseau.jimdofree.com/) (Mines Paris)
-- [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA)
+- [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA & CEREMADE, U. Paris Dauphine-PSL)
 - [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (Telecom Paris)
 - [Lara Raad](http://dev.ipol.im/~lraad/) (ESIEE)
 - [Jonathan Vacher](https://jonathanvacher.github.io/) (Université Paris Decartes)
@@ -68,7 +68,7 @@ Organizers
 Thanks
 -----
 
-The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA](http://smai.emath.fr/spip.php?article406) group of the SMAI and the [GdR MIA](gdr-mia.math.cnrs.fr).
+The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA](http://smai.emath.fr/spip.php?article406) group of the SMAI and the [GdR MIA](gdr-mia.math.cnrs.fr). We gratefully acknowledge support from the Agence Nationale de la Recherche (CIPRESSI, ANR-19-CE48-0017-01).
 
 <p align="center">
 
