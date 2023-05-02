@@ -1,6 +1,7 @@
 
 - speaker: Marianne Clausel
   date: 13 April 2023
+  time: 14h-15h
   affiliation: Université de Lorraine
   url: https://sites.google.com/site/marianneclausel
   title: Polarimetric Fourier Phase Retrieval
@@ -8,6 +9,7 @@
   room: salle 201
 - speaker: Arthur Leclaire
   date: 13 April 2023
+  time: 15h-16h
   affiliation: Institut de Mathématiques de Bordeaux, Université de Bordeaux
   url: https://www.math.u-bordeaux.fr/~aleclaire/
   title: Mathematical analysis of Plug and Play methods for inverse problems in imaging
