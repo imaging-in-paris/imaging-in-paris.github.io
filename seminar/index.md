@@ -19,9 +19,9 @@ You can also subscribe to the [mailing list of the seminar](https://listes.telec
 
 Upcoming seminars
 -----
-The next seminar will take place on Thusday 13 April, 2023, in Room 201 of the IHP. We will have the pleasure to hear Marianne Clausel and Arthur Leclaire.
+The next seminar will take place on Thusday 15 June, 2023, in Room 201 of the IHP. We will have the pleasure to hear Tobias Liaudat and Mateus Sangalli.
 
-- [Marianne Clausel](https://sites.google.com/site/marianneclausel) (Université de Lorraine)\
+<!-- - [Marianne Clausel](https://sites.google.com/site/marianneclausel) (Université de Lorraine)\
 **Title**: Polarimetric Fourier Phase Retrieval\
 **Abstract**: This work introduces polarimetric Fourier phase retrieval (PPR), a physically-inspired model to leverage polarization of light information in Fourier phase retrieval problems. We provide a complete characterization of its uniqueness properties by unraveling equivalencies with two related problems, namely bivariate phase retrieval and a polynomial autocorrelation factorization problem. In particular, we show that the problem admits a unique solution, which can be formulated as a greatest common divisor (GCD) of measurements polynomials. As a result, we propose algebraic solutions for PPR based on approximate GCD computations using the null-space properties Sylvester matrices. Alternatively, existing iterative algorithms for phase retrieval, semidefinite positive relaxation and Wirtinger-Flow, are carefully adapted to solve the PPR problem. Finally, a set of numerical experiments permits a detailed assessment of the numerical behavior and relative performances of each proposed reconstruction strategy. They further demonstrate the fruitful combination of algebraic and iterative approaches towards a scalable, computationally efficient and robust to noise reconstruction strategy for PPR.
 
@@ -30,7 +30,7 @@ The next seminar will take place on Thusday 13 April, 2023, in Room 201 of the I
 imaging\
 **Abstract**: Plug-and-Play (PnP) methods constitute a class of iterative algorithms for imaging problems where regularization is performed by a off-the-shelf denoiser. Specifically, given an image dataset, optimizing a function (e.g. a neural network) to remove Gaussian noise is equivalent to approximating the gradient or the proximal operator of the
 log prior of the training dataset. Therefore, any off-the-shelf denoiser can be used as an implicit prior and inserted into an optimization scheme to restore images. But the resulting PnP scheme may not directly correspond to the minimization of an explicit functional, and its convergence is thus not straightforward. In this talk, we will present several approaches that were proposed to study the convergence of such a PnP algorithm, relying on tools from non-convex optimization and fixed point theory. In particular, we will see that it is possible to learn a denoiser that writes as a gradient-step on an explicit functional, which leads to a PnP algorithm with precise numerical control in addition to state-of-the-art image restoration performance.
-
+ -->
 
 
 Previous seminars of 2022-2023
