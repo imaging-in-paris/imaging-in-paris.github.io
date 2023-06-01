@@ -32,7 +32,7 @@ I continue the presentation by introducing a novel framework for PSF modelling t
 The presentation concludes with a new optimisation procedure for the previous PSF model, where we tackle the phase retrieval problem with a model-based automatic differentiation approach. Preliminary results show that we can recover the wavefront at every position in the field of view from a set of in-focus observations. 
 
 
-- [Mateus Sangalli] (Mines Paris PSL)\
+[Mateus Sangalli] (Mines Paris PSL)\
 **Title**: Equivariant neural networks based on moving frames\
 **Abstract**: Moving frames are a classical method of obtaining invariants to the action of a Lie group on a Manifold.
 We apply the method of moving frames to obtain equivariant or invariant neural network layers. We show
