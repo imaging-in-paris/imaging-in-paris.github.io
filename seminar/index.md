@@ -19,7 +19,7 @@ You can also subscribe to the [mailing list of the seminar](https://listes.telec
 
 Upcoming seminars
 -----
-The next seminar will take place on Thusday 15 June, 2023, in Room 201 of the IHP. We will have the pleasure to hear Tobias Liaudat and Mateus Sangalli.
+The next seminar will take place on Thusday 15 June, 2023, in Room 01 (rectification!) of the IHP. We will have the pleasure to hear Tobias Liaudat and Mateus Sangalli.
 
 [Tobias Liadat](https://tobias-liaudat.github.io/) (University College London)\
 **Title**: Recent advances in the data-driven point spread function modelling for optical telescopes\
