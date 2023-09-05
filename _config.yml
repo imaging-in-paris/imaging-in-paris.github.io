@@ -5,17 +5,16 @@ author: imaging-in-paris
 email: gabriel.peyre@ceremade.dauphine.fr
 description: Séminaire Parisien des Mathématiques de l'Imagerie
 baseurl: ""
-url: "http://imaging-in-paris.github.io/seminar/"
+url: "http://imaging-in-paris.github.io"
 github_username:  imaging-in-paris
 
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
 exclude: ["node_modules"]
 
 name: Imaging in Paris
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+

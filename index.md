@@ -10,7 +10,7 @@ Welcome to the website of the Parisian Seminar on the Mathematics of Imaging !
 
 The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is **open to everyone**. It takes place in **Room 314** (Pierre Grisvard) at **[IHP](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** on the **first Tuesday** of **each months** (the **second Tuesday** in **November** and **January**), from **14:00 to 16:00**. Each seminar is composed of two presentations.
 
-You can subscribe/unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
+You can subscribe or unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&showNav=1&showTitle=1&showDate=0&showPrint=0&showTabs=1&showCalendars=0&src=NXJrajFkZXUycmo3NDZocm5pOTgxOWNiM3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border:solid 1px #777" width="370" height="300" frameborder="0" scrolling="no"></iframe>
@@ -23,7 +23,7 @@ You can subscribe/unsubscribe to the [mailing list of the seminar](https://liste
 Upcoming seminars
 -----
 
-You can click on the title to read the abstract.
+Click on the title to read the abstract.
 
 {% for oneitem in site.data.next %}
 <p>
@@ -44,9 +44,9 @@ You can click on the title to read the abstract.
 Previous seminars of 2023-2024
 -----
 
-The list of seminars prior to summer 2023 is available [here](past/). The list of seminars prior to sept. 2016 is available at [this address](https://smati.wp.imt.fr/).
+The list of seminars prior to summer 2023 is available [here](previous_seminars/).
 
-You can click on the title to read the abstract.
+Click on the title to read the abstract.
 
 {% for oneitem in site.data.current_past %}
 <p>
@@ -62,7 +62,7 @@ You can click on the title to read the abstract.
 	<br/>
 	<b>Title:</b> <i>{{ oneitem.title }}</i>
 	{% for oneslide in oneitem.slides %}
-		<b>[<a href="../slides/{{ oneslide }}.pdf">Slides</a>]</b>
+		<b>[<a href="previous_seminars/slides/{{ oneslide }}.pdf">Slides</a>]</b>
 	{% endfor %}
 	<br/>
 	</summary>
@@ -81,7 +81,7 @@ Organizers
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA & CEREMADE, U. Paris Dauphine-PSL)
 - [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (Telecom Paris)
 - [Lara Raad](http://dev.ipol.im/~lraad/) (ESIEE)
-- [Jonathan Vacher](https://jonathanvacher.github.io/) (Université Paris Decartes)
+- [Jonathan Vacher](https://jonathanvacher.github.io/) (Université Paris Cité)
 
 
 Thanks
@@ -113,6 +113,6 @@ Bienvenue sur le site du Séminaire Parisien des Mathématiques Appliquées à l
 
 Le but de ce séminaire est de couvrir le domaine des mathématiques de l'imagerie. Il est **ouvert à tous**. Cette année, le séminaire a lieu en **Salle 314** (Pierre Grisvard) à l'**[IHP](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** le **premier mardi** de **chaque mois** (le **deuxième mardi** de **novembre** et **janvier**), de **14h00 à 16h00**. Chaque séance est composée de deux exposés.
 
-La liste des séminaires antérieurs à l'été 2023 est disponible [ici](past/). La liste des séminaires antérieurs à septembre 2016 est disponible à [cette adresse](https://smati.wp.imt.fr/).
+La liste des séminaires antérieurs à l'été 2023 est disponible [ici](previous_seminars/).
 
 Vous pouvez vous abonner ou désabonner à la [liste de diffusion du séminaire](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris).

@@ -5,14 +5,11 @@ description: "January-April 2019"
 header-img: "img/paris1.png"
 ---
 
-<span style="color:red">**Videos for all conferences are (or will be) available [Here](https://www.youtube.com/playlist?list=PL9kd4mpdvWcAzD5Aq-P1TrLLiYckrloxw)**</span> 
-
-
+<span style="color:red">**Videos for all conferences are available [Here](https://www.youtube.com/playlist?list=PL9kd4mpdvWcAzD5Aq-P1TrLLiYckrloxw)**</span> 
 
 
 This website is the home for the IHP semester "The Mathematics of Imaging" that will take place between January to April 2019.
 
-You can also access [the monthly seminar website from here](seminar/).
 
 Registration
 -------------
@@ -54,7 +51,7 @@ Outreach plenary conferences (conférences grand public)
 
 January 7-11th 2019, [CIRM  pre-school for PhD students and postdocs](semester2019/school).
 
-Special events organized by AMIES  
+Special events organized by AMIES
 ------------
 
 - January 29th 2019 "[Artificial intelligence for imaging](https://sites.google.com/site/marianneclausel/journees-ihp-amies)"
