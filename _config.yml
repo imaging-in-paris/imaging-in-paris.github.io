@@ -5,8 +5,9 @@ author: imaging-in-paris
 email: gabriel.peyre@ceremade.dauphine.fr
 description: Séminaire Parisien des Mathématiques de l'Imagerie
 baseurl: ""
-url: "http://imaging-in-paris.github.io/"
+url: "http://imaging-in-paris.github.io/seminar/"
 github_username:  imaging-in-paris
+
 
 # Build settings
 markdown: kramdown

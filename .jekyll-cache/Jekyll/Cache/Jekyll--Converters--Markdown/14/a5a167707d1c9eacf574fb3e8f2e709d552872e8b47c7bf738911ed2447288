@@ -1,0 +1,277 @@
+I"]�<h2 id="tentative-program">Tentative program</h2>
+
+<h2 id="monday-march-11">Monday (March 11)</h2>
+
+<ul>
+  <li>14h-14h45 : <a href="https://people.csail.mit.edu/sparis/">Sylvain Paris</a> (<strong><em>Photography Made Easy</em></strong>) (<a href="slides/w2/paris.pdf">slides</a>)</li>
+  <li>14h45-15h30 : <a href="http://www.antexel.com/sylefeb/research/">Sylvain Lefebvre</a> (<strong><em>Synthesizing stochastic microstructures for additive manufacturing</em></strong>)</li>
+  <li>15h30-16h : Coffee break</li>
+  <li>16h-16h45 : <a href="http://www.lix.polytechnique.fr/~memari/">Pooran Memari</a> (<strong><em>Statistical representation for geometric modeling</em></strong>)</li>
+  <li>16h45-17h30 : <a href="https://sites.google.com/site/rabinjulien/">Julien Rabin</a> (<strong><em>Detecting Overfitting of Deep Generative Networks via Latent Recovery</em></strong>)(<a href="slides/w2/rabin.pdf">slides</a>)</li>
+</ul>
+
+<h2 id="tuesday-march-12">Tuesday (March 12)</h2>
+<ul>
+  <li>9h30-10h15: <a href="http://www.cs.technion.ac.il/~ron/">Ron Kimmel</a> (<strong><em>Interaction between invariant structures for shape analysis</em></strong>)</li>
+  <li>10h15-10h45: Coffee break</li>
+  <li>10h45-11h30: <a href="http://www.cs.technion.ac.il/~mic/">Michael Lindenbaum</a> (<strong><em>3D Point Cloud Classification, Segmentation and Normal estimation, using 3D Modified Fisher Vector Representation and Convolutional Neural Networks</em></strong>) (<a href="slides/w2/lindenbaum.pdf">slides</a>)</li>
+  <li>11h30-12h15: <a href="http://www.univ-orleans.fr/mapmo/membres/louchet/">Cécile Louchet</a> (<strong><em>Total variation denoising with iterated conditional expectation</em></strong>)(<a href="slides/w2/louchet.pdf">slides</a>)</li>
+  <li>12h15-14h: Lunch break</li>
+  <li>14h-14h45: <a href="http://bigwww.epfl.ch/unser/">Michael Unser</a> (<strong><em>Hybrid sparse stochastic processes and the resolution of linear inverse problems</em></strong>)(<a href="slides/w2/unser.pdf">slides</a>)</li>
+  <li>14h45-15h30: <a href="http://www-math.sp2mi.univ-poitiers.fr/%7Ehbierme/">Hermine Biermé</a> (<strong><em>Lipschitz-Killing curvatures of excursion sets for 2D random fields</em></strong>) (<a href="slides/w2/bierme.pdf">slides</a>)</li>
+  <li>15h30-16h: Coffee break</li>
+  <li>16h-16h45: <a href="http://pierrechainais.ec-lille.fr">Pierre Chainais</a> (<strong><em>Efficient sampling through variable splitting-inspired bayesian hierarchical models</em></strong>) (<a href="slides/w2/chainais.pdf">slides</a>)</li>
+  <li>16h45 -17h30: <a href="https://sites.google.com/site/webpagejbigot/">Jérémie Bigot</a> (<strong><em>Statistical aspects of stochastic algorithms for entropic optimal transportation between probability measures</em></strong>) (<a href="slides/w2/bigot.pdf">slides</a>)</li>
+</ul>
+
+<h2 id="wednesday-march-13">Wednesday (March 13)</h2>
+<ul>
+  <li>9h30-10h15: <a href="https://www.math.univ-toulouse.fr/~gfort/">Gersende Fort </a> (<strong><em>Stochastic Approximation-based algorithms, when the Monte Carlo bias does not vanish</em></strong>) (<a href="slides/w2/fort.pdf">slides</a>)</li>
+  <li>10h15-10h45: Coffee break</li>
+  <li>10h45-11h30: <a href="http://bmia.bmt.tue.nl/people/RDuits/">Remco Duits</a> [<a href="./abstracts/abstractIHPworkshop2.pdf">Talk abstract in pdf</a>] (<strong><em>PDEs on the Homogeneous Space of Positions and Orientations</em></strong>) (<a href="slides/w2/duits.pdf">slides</a>)</li>
+  <li>11h30-12h15: <a href="https://sites.google.com/site/stephanieallassonniere/">Stéphanie Allassonnière</a> (<strong><em>Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data</em></strong>) (<a href="slides/w2/allassonniere.pdf">slides</a>)</li>
+  <li>12h15-14h: Lunch break</li>
+  <li>14h-14h45: <a href="https://ani.stat.fsu.edu/~anuj/">Anuj Srivastava</a> (<strong><em>Functional Data Analysis Under Shape Constraints</em></strong>) (<a href="slides/w2/srivastava.pdf">slides</a>)</li>
+  <li>14h45-15h30: <a href="http://www.irisa.fr/vista/Equipe/People/Charles.Kervrann.english.html">Charles Kervrann</a> (<strong><em>A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy</em></strong>) (<a href="slides/w2/kervrann.pdf">slides</a>)</li>
+  <li>15h30-16h15: <a href="https://www-sop.inria.fr/members/Xavier.Descombes/">Xavier Descombes</a> (<strong><em>Multiple objects detection in biological images using a Marked Point Process Framework</em></strong>) (<a href="slides/w2/descombes.pdf">slides</a>)</li>
+  <li>16h15-17h: Coffee break</li>
+  <li>17h-18h: <a href="https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/">Marie-Paule Cani</a>, Outreach plenary conference (<strong><em>Création des mondes virtuels : Objets auto-similaires et distributions d’éléments</em></strong>) (<a href="slides/w2/cani.pdf">slides</a>)</li>
+</ul>
+
+<h2 id="thursday-march-14">Thursday (March 14)</h2>
+<ul>
+  <li>9h30-10h15: <a href="https://www.math.u-bordeaux.fr/~aleclaire/">Arthur Leclaire</a> (<strong><em>Maximum Entropy Models for Texture Synthesis</em></strong>) (<a href="slides/w2/leclaire.pdf">slides</a>)</li>
+  <li>10h15-10h45: Coffee break</li>
+  <li>10h45-11h30: <a href="https://sites.google.com/site/irenekaltenmark/">Irène Kaltenmark</a> (<strong><em>From currents to oriented varifolds for data fidelity metrics ; growth models for computational anatomy</em></strong>) (<a href="slides/w2/kaltenmark.pdf">slides</a>)</li>
+  <li>11h30-12h15: <a href="http://www.mi.parisdescartes.fr/~glaunes/">Joan Glaunés</a> (<strong><em>Kernel norms on normal cycles and the KeOps library for linear memory reductions over datasets</em></strong>)</li>
+  <li>12h15-14h: Lunch break</li>
+  <li>14h-14h45: <a href="http://www.macs.hw.ac.uk/~mp71/">Marcelo Pereyra</a> (<strong><em>Bayesian inference and convex geometry: theory, methods, and algorithms</em></strong>)  (<a href="slides/w2/pereyra.pdf">slides</a>)</li>
+  <li>14h45-15h30: <a href="https://sites.google.com/site/marianneclausel/">Marianne Clausel</a> (<strong><em>Gaussian random fields and anisotropy</em></strong>)</li>
+  <li>15h30-16h: Coffee break</li>
+  <li>16h-16h45: <a href="http://gpi.upf.edu/profile/211">Pablo Arias</a> (<strong><em>Video denoising via Bayesian modelling of patches</em></strong>) (<a href="slides/w2/arias.pdf">slides</a>)</li>
+  <li>16h45 -17h30: <a href="https://www.ceremade.dauphine.fr/%7Evialard/">François-Xavier Vialard</a> (<strong><em>Metric estimation for diffeomorphic image registration</em></strong>) (<a href="slides/w2/vialard.pdf">slides</a>)</li>
+  <li>18h30: <strong>Wine &amp; Cheese</strong> @IHP</li>
+</ul>
+
+<h2 id="friday-march-15">Friday (March 15)</h2>
+<ul>
+  <li>9h30-10h15: <a href="">Jean-Francois Cardoso</a> (<strong><em>The inconvenience of a single Universe</em></strong>) (<a href="slides/w2/cardoso.pdf">slides</a>)</li>
+  <li>10h15-10h45: Coffee break</li>
+  <li>10h45-11h30: <a href="https://hero.engin.umich.edu">Alfred Hero</a> (<strong><em>TeraLasso for sparse time-varying image modeling</em></strong>)</li>
+  <li>11h30-12h15: <a href="http://atrouve.perso.math.cnrs.fr">Alain Trouvé</a> (<strong><em>Modular large deformation and shape aware metrics in shape analysis: How to make things simple (and meaningful) ?</em></strong>)</li>
+  <li>12h15: end of the workshop</li>
+</ul>
+
+<h2 id="abstracts">Abstracts</h2>
+
+<p>
+  Stéphanie Allassonnière<br />
+  <b>Title:</b> <i>Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data</i><br />
+  <b>Abstract:</b> In this talk, I propose to present a generic hierarchical spatiotemporal model for longitudinal manifold-valued data, which consists in repeated measurements over time for a group of individuals. This model allows us to estimate a group-average trajectory of evolution, considered as a piece-wise geodesic of a given Riemannian manifold. Individual trajectories of progression are obtained as random variations, which consist in parallel shifting and time reparametrization, of the average trajectory. These spatiotemporal transformations allow us to characterize changes in the direction and in the pace at which trajectories are followed. We propose to estimate the parameters of the model using a stochastic version of the expectation-maximization (EM) algorithm, the Monte Carlo Markov Chain Stochastic Approximation EM (MCMC SAEM) algorithm with tempering schemes. This generic spatiotemporal model is used to analyze the temporal progression of a family of biomarkers. This progression model estimates a normative scenario of the progressive impairments of several cognitive functions, considered here as biomarkers, during the course of Alzheimer’s disease. We also used this model to understand the response to antiangiogenic treatment in metastatic cancers.
+</p>
+
+<p>
+  Pablo Arias<br />
+  <b>Title:</b> <i>Video denoising via Bayesian modelling of patches</i><br />
+  <b>Abstract:</b> For the last decade the state-of-the-art in video denoising has been dominated by methods based on statistical modelling of groups of similar spatio-temporal patches. Most of these approaches use static models which are learnt from patches collected from the preceding and succeeding frames in the noisy video. Some recent methods use dynamic models which account for the temporal evolution of patches, and allow for frame recursive algorithms were each frame is denoised using only the corresponding noisy frame and the preceding denoised frame. In this talk we will give an unified view of both static and dynamic models for video patches and discuss their benefits and current limitations.
+</p>
+
+<p>
+  Hermine Biermé<br />
+  <b>Title:</b> <i>Lipschitz-Killing curvatures of excursion sets for 2D random fields</i><br />
+  <b>Abstract:</b> We consider three geometrical characteristics for  excursion sets for 2D  stationary isotropic random fields, known as Lipschitz-Killing curvatures, and closely related to area, perimeter and Euler characteristic of those sets.We propose unbiased estimators for fields satisfying a kinematic formula and compute explicitly these characteristics for several random fields, adopting a weak functional framework. Joint work with Agnès Desolneux (CNRS, CMLA, ENS Paris-Saclay), Elena Di Bernardino (CNAM, Paris),  Céline Duval and Anne Estrade (MAP5, Paris).
+</p>
+
+<p>
+  Jérémie Bigot<br />
+  <b>Title:</b> <i>Statistical aspects of stochastic algorithms for entropic optimal transportation between probability measures</i><br />
+  <b>Abstract:</b> This talk is devoted to the stochastic approximation of entropically regularized Wasserstein distances between two probability measures, also known as Sinkhorn divergences. The semi-dual formulation of such regularized optimal transportation problems can be rewritten as a non-strongly concave optimisation problem. It allows to implement a Robbins-Monro stochastic algorithm to estimate the Sinkhorn divergence using a sequence of data sampled from one of the two distributions. The main results discussed in this talk are the asymptotic normality of a new recursive estimator of the Sinkhorn divergence between two probability measures in the discrete and semi-discrete settings, and the rate of convergence of the expected excess risk of this estimator in the absence of strong concavity of the objective function. We also discuss the choice of the regularization parameter in the definition of Sinkhorn divergences from the point of view of data smoothing in nonparametric statistics. Numerical experiments on synthetic and real datasets are also provided to illustrate the usefulness of our approach for the estimation of Laguerre Cells.
+</p>
+
+<p>
+  Marie-Paule Cani<br />
+  <b>Title:</b> <i>Création des mondes virtuels : Objets auto-similaires et distributions d'éléments</i><br />
+  <b>Abstract:</b> Les objets naturels, d'un arbre isolé à une montagne rocheuse partiellement couverte de végétation, se caractérisent par leur multitude de détails, souvent similaires mais chacun différent. Reproduire cette complexité est un véritable défi pour les créateurs des mondes virtuels - comme par exemple les mondes que vous découvrez dans les jeux vidéo ou les films et effets spéciaux 3D. Ils  s'agit en effet de permettre un bon contrôle du résultat au créateur tout en automatisant au maximum les tâches répétitives (comme celle consistant à placer successivement chaque touffe d'herbe). Dans l'idéal, un bon système de création offre également une aide au réalisme, par le maintien de certaines contraintes (par exemple, un arbre poussera difficilement au milieu d'une falaise). Cet exposé met l'accent sur les avancées récentes en informatique graphique, qui s'appuient sur des outils statistiques  pour résoudre ces problèmes. Nous verrons comment la création des mondes virtuels peut être rendue plus expressive en combinant un contrôle utilisateur simple, via des croquis 2D ou des mini-exemples de groupes d''éléments, avec l'apprentissage statistique et la synthèse de distributions aléatoires, respectant des lois précises.
+</p>
+
+<p>
+  Jean-François Cardoso<br />
+  <b>Title:</b> <i>The inconvenience of a single Universe</i><br />
+  <b>Abstract:</b> This talk is about image processing for observational cosmology.  The Planck satellite from the European Spatial Agency has recently released full-sky images of the Universe seen at 9 different wavelengths.  Planck targets the Cosmic Microwave Background (hereafter CMB), the relic radiation which permeates the Universe since its early infancy, but can only see it contaminated by all the other sources of radiation in the (microwave) sky, leading to a mission-critical image processing challenge: extracting the CMB map from multichannel observations.  This can only be achieved at high accuracy with good statistical modelling but statistics hit a snag: there is only one observable Universe.  Hence, one has to do statistics based on a single realization. I will discuss how ideas taken from ICA (Independent Component Analysis) helped in addressing the Single Universe problem and in producing the oldest image in (of) the world.
+</p>
+
+<p>
+  Pierre Chainais<br />
+  <b>Title:</b> <i>Efficient sampling through variable splitting-inspired bayesian hierarchical models</i><br />
+  <b>Abstract:</b> Markov chain Monte Carlo (MCMC) methods are an important class of computation techniques to solve Bayesian inference problems. Much research has been dedicated to scale these algorithms in high-dimensional settings by relying on powerful optimization tools such as gradient information or proximity operators. In a similar vein, this paper proposes a new Bayesian hierarchical model to solve large scale inference problems by taking inspiration from variable splitting methods. Similarly to the latter, the derived Gibbs sampler enables to divide the initial sampling task into simpler ones. In addition, the proposed Bayesian framework can lead to a faster sampling scheme than state-of-the-art methods by embedding them. The interest of the proposed methodology is illustrated on often-studied image processing problems.
+</p>
+
+<p>
+  Marianne Clausel<br />
+  <b>Title:</b> <i>Gaussian random fields and anisotropy</i><br />
+  <b>Abstract:</b> Textures in images can often be well modeled using self-similar random fields while they may at the same time display anisotropy. The present contribution thus aims at studying jointly selfsimilarity and anisotropy by focusing on anisotropic selfsimilar Gaussian fields. We study a class of anisotropic and local self similar Gaussian random fields, and relate the orientation of the fields to the anisotropy properties of the texture. Notably, we use this preliminary study to define a new class of Gaussian fields with prescribed orientation. Thereafter, we propose a practical procedure to perform the synthesis of these textures. Joint work with K. Polisano, L. Condat and V. Perrier
+</p>
+
+<p>
+  Xavier Descombes<br />
+  <b>Title:</b> <i>Multiple objects detection in biological images using a Marked Point Process Framework</i><br />
+  <b>Abstract:</b> The marked point process framework has been successfully developed in the field of image analysis to detect a configuration of predefined objects. In this talk I will show how it can be particularly applied to biological imagery. We present a simple model that shows how some of the challenges specific to biological data are well addressed by the methodology. I will describe an extension to this first model to address other challenges due, for example, to the shape variability in biological material. The results  illustrate the MPP framework using the 'simcep' algorithm for simulating populations of cells.
+</p>
+
+<p>
+  Remco Duits<br />
+  <b>Title:</b> <i>PDEs on the Homogeneous Space of Positions and Orientations</i><br />
+  <b>Abstract:</b> A link to the abstract is provided above in the program.
+</p>
+
+<p>
+  Gersende Fort<br />
+  <b>Title:</b> <i>Stochastic Approximation-based algorithms, when the Monte Carlo bias does not vanish</i><br />
+  <b>Abstract:</b> Stochastic Approximation algorithms, whose stochastic gradient descent methods with decreasing stepsize are an example, are iterative methods to compute the root of a non explicit function. They rely on a Monte Carlo approximation of this objective function. Nevertheless, in many applications, this random approximation is biased with a bias which, mainly for computational cost, does not vanish along the iterations: the convergence of the algorithm towards the roots may fail. In this talk, we will motivate the use of such algorithms by computational issues in statistical learning, with an emphasis on the penalized inference in latent variable models. We will address the convergence of stochastic approximation-based algorithms for solving the optimization of a convex composite function : sufficient conditions for the convergence of perturbed proximal-gradient methods, possibly accelerated, will be given. We will also outline the parallel with Stochastic Expectation Maximization algorithms (MCEM, SAEM for example).
+</p>
+
+<p>
+  Joan Glaunès<br />
+  <b>Title:</b> <i>Kernel norms on normal cycles and the KeOps library for linear memory reductions over datasets</i><br />
+  <b>Abstract:</b> In the first part of this talk I will present a model for writing data fidelity terms for shape registration algorithms. This model is based on the notion of normal cycle in geometry, which generalizes curvatures of curves and surfaces, and the use of kernel dual norms, similarly to previous works using currents and varifolds representations. This normal cycle model improves matchings of geometrical data in the presence of high curvature landmarks such as branching points or boundaries. In the second part I will present the KeOps library, which is designed to compute efficiently kernel reductions operations. This library combines a linear memory approach, GPU implementation and automatic differentiation, with a complete integration into the PyTorch library. This allows to perform reductions over datasets with millions of points without memory issue, and has many potential applications. I will present a few examples of its use for shape registration, optimal transport and k-means clustering. Joint works with Pierre Roussillon, Benjamin Charlier and Jean Feydy.
+</p>
+
+<p>
+  Alfred Hero<br />
+  <b>Title:</b> <i>TeraLasso for sparse time-varying image modeling</i><br />
+  <b>Abstract:</b> We propose a new ultrasparse graphical model for representing time varying images, and other multiway data,  based on a Kronecker sum representation of the spatio-temporal inverse covariance matrix. This statistical model decomposes the inverse covariance into a linear Kronecker sum representation with sparse Kronecker factors. Under the assumption that the multiway observations are matrix-normal the l1 sparsity regularized log-likelihood function is convex and admits significantly faster statistical rates of convergence than other sparse matrix normal algorithms such as graphical lasso or Kronecker graphical lasso. We will illustrate the method on meteoroligical and MRI imagery to demonstrate the ability of the model to capture sparse structure  with few samples. This is joint work with Kristjan Greenewald and Shuheng Zhou.
+</p>
+
+<p>
+  Irène Kaltenmark<br />
+  <b>Title:</b> <i>From currents to oriented varifolds for data fidelity metrics ; growth models for computational anatomy.</i><br />
+  <b>Abstract:</b> In this talk, I present a general setting that extends the previous frameworks of currents and varifolds  for the construction of data fidelity metrics between oriented or nonoriented geometric shapes like curves, curve sets or surfaces. The choice of the metric reduces to scalar functions with only one or two scale parameters that parametrize families of kernels which can be easily computed without requiring any kind of parametrization of shapes. In the second part of this talk, I present a growth model based on large diffeomorphic partial mappings. The evolution of the shape is described by the joint action of a deformation process and a creation process. The necessity for partial mappings leads to a time-varying dynamic that modifies the action of the group of deformations. Ultimately, growth priors are integrated into a new optimal control problem for assimilation of time-varying surface data represented by currents or varifolds.
+</p>
+
+<p>
+  Charles Kervrann<br />
+  <b>Title:</b> <i>A fast statistical colocalization method for 3D live cell imaging and super-resolution microscopy.</i><br />
+  <b>Abstract:</b>  The characterization of molecular interactions is a major challenge in quantitative microscopy. This problem is usually addressed in living cells by fluorescently labeling two types of molecules of interest with spectrally distinct fluorophores, and simultaneously imaging them. This process provides two images of the same cell, each depicting one different fluorescently tagged molecules, both corrupted with diffraction, noise and nuisance background. A crucial step in the analysis of interactions is to determine whether the molecule locations in the first image are correlated with the molecule locations in the second image. This so-called colocalization problem in bio-imaging remains an open issue in diffraction-limited microscopy and raises new challenges with the emergence of super- resolution imaging, a microscopic technique awarded by the 2014 Nobel prize in chemistry. We propose GcoPS, for Geo-coPositioning System, an original method that exploits the random sets structure of the tagged molecules to provide an explicit testing procedure. Our simulation study shows that GcoPS unequivocally outperforms the best competitive methods in adverse situations (noise, irregularly shaped molecules, different optical resolution). GcoPS is also much faster, a decisive advantage to face the huge amount of data in super-resolution imaging. We demonstrate the performances of GcoPS on two biological real datasets, obtained by conventional diffraction-limited microscopy technique and by super-resolution technique, respectively.
+</p>
+
+<p>
+  Ron Kimmel<br />
+  <b>Title:</b> <i>Interaction between invariant structures for shape analysis.</i><br />
+  <b>Abstract:</b> A classical approach for surface classification is to find a compact algebraic representation for each surface that would be similar for objects within the same class and preserve dissimilarities between classes. Self functional maps was suggested by Halimi and the lecturer as a surface representation that satisfies these properties, translating the geometric problem of surface classification into an algebraic form of classifying matrices. The proposed map transforms a given surface into a universal isometry invariant form defined by a unique matrix. The suggested representation is realized by applying the functional maps framework to map the surface into itself. The idea is to use two different metric spaces of the same surface for which the functional map serves as a signature. As an example we suggested the regular and the scale invariant surface laplacian operators to construct two families of eigenfunctions. The result is a matrix that encodes the interaction between the eigenfunctions resulted from two different Riemannian manifolds of the same surface. Using this representation, geometric shape similarity is converted into algebraic distances between matrices. If time permits, I will also comment on some of our efforts to migrate geometry into the arena of deep learning, in a sense learning to understand.
+</p>
+
+<p>
+  Arthur Leclaire<br />
+  <b>Title:</b> <i>Maximum Entropy Models for Texture Synthesis</i><br />
+  <b>Abstract:</b> The problem of examplar-based texture synthesis consists in producing an image that has the same perceptual aspect as a given texture sample. It can be formulated as sampling an image which is 'as random as possible' while satisfying some constraints that are linked to the textural aspect. Many solutions have been proposed, often lying between stochastic models and variational methods. In this talk, we will present a solution that relies on the sampling of a maximum entropy distribution. The parameters of the model are fixed in order to preserve (in expectation) the values of a feature transform (which encodes the textural aspect). The estimation of these parameters from a single original texture relies on a stochastic optimization procedure. Sampling the model relies on a MCMC procedure and we will detail several examples of features for which we can use a provably-convergent Langevin sampling algorithm. In particular, we will show that sampling a maximum entropy model based on a smooth convolutional neural network allows to produce plausible texture samples with a relatively small set of parameters. We will also give some insights on the link with the simpler method based on gradient descent starting from a random initialization. This is a joint work with Valentin de Bortoli, Agnès Desolneux, Alain Durmus and Bruno Galerne.
+</p>
+
+<p>
+  Sylvain Lefebvre<br />
+  <b>Title:</b> <i>Synthesizing stochastic microstructures for additive manufacturing</i><br />
+  <b>Abstract:</b> Additive manufacturing makes it possible to physically realize objects embedding complex, small scale structures, on a scale of a few tens of microns. These microstructures modify the large-scale behaviour of an object, making it flexible or porous, and allowing parts to be lightened while maintaining their structural integrity. Modeling these microstructures is difficult: it is necessary to represent a large quantity of details, to respect the angle and thickness constraints of additive manufacturing processes, while predicting the final behaviour induced by the microstructures, for example in terms of elasticity. For these reasons, most existing techniques are studying periodic structures. The periodicity, by repeating the same base structure in a regular grid simplifies analysis and processing.  Unfortunately, it also prevents free variation of structures in space, for example orienting them along directions of maximal stresses. In the past few years we have focused on synthesizing microstructures using stochastic processes, which are inspired from procedural texturing techniques in Computer Graphics. The microstructures we synthesize resemble foams. By controlling the statistics of the generation process, we show that it is possible to control the final average elastic behavior. These techniques can be used in two-scale topology optimization problems, where a shape is globally optimized at a coarse scale, while the random process quickly generates a fine scale foam having the desired homogeneous behavior.
+</p>
+
+<p>
+  Michael Lindenbaum<br />
+  <b>Title:</b> <i>3D Point Cloud Classification, Segmentation and Normal estimation, using 3D Modified Fisher Vector Representation and Convolutional Neural Networks</i><br />
+  <b>Abstract:</b> The point cloud is gaining prominence as a method for representing 3D shapes, but its irregular format poses a challenge for deep learning methods. The common solution of transforming the data into a 3D voxel grid introduces its own challenges, mainly large memory size. We propose a novel 3D point cloud representation called 3D Modified Fisher Vectors (3DmFV). Our representation is hybrid and combines the discrete structure of a grid with continuous generalization of Fisher vectors, in a  compact and computationally efficient way.  Using the grid enables us to design a new CNN architecture for point cloud classification and part segmentation. In a series of experiments we demonstrate excellent performance in the tasks of classification, part segmentation, and normal estimation. Joint work with Yizhak Ben-Shabat and Anath Fischer.
+</p>
+
+<p>
+  Cécile Louchet<br />
+  <b>Title:</b> <i>Total variation denoising with iterated conditional expectation</i><br />
+  <b>Abstract:</b> Imaging tasks most often require an energy minimization interpretable in a probabilistic approach as a maximum a posteriori. Taking instead the expectation a posteriori gives an interesting alternative but confronts the question of numerical integration in high dimension. We propose a variable-at-a-time integration, called after by iterated conditional expectation (ICE), that approximates the expectation a posteriori. We try it on total variation denoising for which it gives good visual properties and linear convergence. We give several clues concerning extensions of the method. Joint work with Lionel Moisan.
+</p>
+
+<p>
+  Pooran Memari<br />
+  <b>Title:</b> <i>Statistical representation for geometric modeling</i><br />
+  <b>Abstract:</b> This talk presents some new developments in theory and applications of statistical representation for geometric modeling. Through some concrete application scenarios in geometry processing and computer graphics, we will see how an appropriate statistical framework and related computational tools, can lead to efficient algorithms for geometrical analysis and synthesis of 2D or 3D shapes. In this context, the main challenge is the design of representation methods which capture both geometric and statistical features of data. Such a representation needs to be on one hand, simple and compact for an efficient learning step, and on the other hand, complete enough to ensure a coherent synthesis at the end. 
+</p>
+
+<p>
+  Sylvain Paris<br />
+  <b>Title:</b> <i>Photography Made Easy</i><br />
+  <b>Abstract:</b> With digital cameras and smartphones, taking a picture has become effortless and easy. Autofocus and autoexposure ensure that all photos are sharp and properly exposed. However, this is not sufficient to get great photos. Most pictures need to be retouched to become aesthetically pleasing. This step still requires a great deal of expertise and a lot of time when done with existing tools. Over the years, I have dedicated a large part of my research to improving this situation. In this talk, I will present a few recent results where we use existing photos by artists as models to make ordinary pictures look better. I will also discuss the algorithmic and statistical underpinnings of these results.
+</p>
+
+<p>
+  Marcelo Pereyra<br />
+  <b>Title:</b> <i>Bayesian inference and convex geometry: theory, methods, and algorithms</i><br />
+  <b>Abstract:</b> This talk summarises some new developments in theory, methods, and algorithms for performing Bayesian inference in high-dimensional models that are log-concave, with application to mathematical and computational imaging in convex settings. These include new efficient stochastic simulation and optimisation Bayesian computation methods that tightly combine proximal convex optimisation with Markov chain Monte Carlo techniques; strategies for estimating unknown model parameters and performing model selection; and methods for calculating Bayesian confidence intervals for images and performing uncertainty quantification analyses; all illustrated with a range of mathematical imaging experiments.
+</p>
+
+<p>
+  Julien Rabin<br />
+  <b>Title:</b> <i>Detecting Overfitting of Deep Generative Networks via Latent Recovery</i><br />
+  <b>Abstract:</b> (Joint work with Ryan Webster,  Loic Simon, Frederic Jurie). State of the art deep generative networks are capable of producing images with such incredible realism that they can be suspected of memorizing training images. It is why it is not uncommon to include visualizations of training set nearest neighbors, to suggest generated images are not simply memorized. We demonstrate this is not sufficient and motivates the need to study memorization/overfitting of deep generators with more scrutiny. This work addresses this question by i) showing how simple losses are highly effective at reconstructing images for deep generators ii) analyzing the statistics of reconstruction errors when reconstructing training and validation images, which is the standard way to analyze overfitting in machine learning. Using this methodology, we show that overfitting is not detectable in the pure GAN models proposed in the literature, in contrast with those using hybrid adversarial losses, which are amongst the most widely applied generative methods. We also show that standard GAN evaluation metrics fail to capture memorization for some deep generators. Finally, experiment shows how off-the-shelf GAN generators can be successfully applied to face inpainting and face super-resolution using the proposed reconstruction method, without hybrid adversarial losses.
+</p>
+
+<p>
+  Anuj Srivastava<br />
+  <b>Title:</b> <i>Functional Data Analysis Under Shape Constraints</i><br />
+  <b>Abstract:</b> (Joint work with Sutanoy Dasgupta, Ian Jermyn, and Debdeep Pati). We consider a subarea of functional data analysis, where functions of interest are constrained to have pre-determined shape classes. The notion of shape is quite flexible. It can mean a fixed number of modes in the function, say a bimodal or a trimodal function, or the number of modes plus a vector of function heights at the modes. The locations of these modes are left as variables, in order to fit to the data. The basic idea is to define a set of valid functions (with the desired shape constraints) and to solve optimization problems (such as  maximum likelihood estimation) on this set. This set is established using the 'deformable template' theory -- choose a function from the correct class and use an appropriate action of the diffeomorphism group to form its orbits. Orbits define shape classes. The larger picture is to learn shape classes from the training data, and then to impose learnt shape constraints in estimating future functions from sparse, noisy data. We present some examples of this framework. First, we introduce the problem of density estimation under arbitrary multimodal shape constraints. While unimodal density estimation is often studied in the literature, there are no general estimators for the multimodal case. Second, we provide a study involving daily electricity consumption data at household level (in Tallahassee, FL) where certain shapes dominate the data.
+</p>
+
+<p>
+  Alain Trouvé<br />
+  <b>Title:</b> <i>Modular large deformation and shape aware metrics in shape analysis: How to make things simple (and meaningful) ?</i><br />
+  <b>Abstract:</b> The statistical shape analysis remains a core challenging problem mainly because of three mathematical issues: the non functional nature of shapes, the importance of actions of group of transformations and the high dimensionality of shapes variations. The riemannian point of view on shape spaces integrates these three issues within a tractable numerical framework and more recently, modular sub-riemannian approaches on shape spaces have opened the possibility of a more decomposable, shape driven analysis of variations and evolutions. However, in this talk, we will advocate that paradoxically, quite sophisticated tools are still needed to allow a simple and user-friendly incorporation of meaningful prior knowledge into the mathematical shape analysis machinery.
+</p>
+
+<p>
+  Michael Unser<br />
+  <b>Title:</b> <i>Hybrid sparse stochastic processes and the resolution of linear inverse problems</i><br />
+  <b>Abstract:</b> Sparse stochastic processes are continuous-domain processes that are specified as solutions of linear stochastic differential equations driven by white Lévy noise. These processes admit a parsimonious representation in some matched wavelet-like basis. Such models are relevant for image compression, compressed sensing, and, more generally, for the derivation of statistical algorithms for solving ill-posed inverse problems. The hybrid processes of this talk are formed by taking a sum of such elementary processes plus an optional Gaussian component. We apply this hybrid model to the derivation of image reconstruction algorithms from noisy linear measurements. In particular, we derive a hybrid MAP estimator, which is able to successfully reconstruct signals, while identifying the underlying signal components. Our scheme is compatible with classical Tikhonov and total-variation regularization, which are both recovered as limit cases. We present an efficient ADMM implementation and illustrate the advantages of the hybrid model with concrete examples.
+</p>
+
+<p>
+  François-Xavier Vialard<br />
+  <b>Title:</b> <i>Metric estimation for diffeomorphic image registration.</i><br />
+  <b>Abstract:</b> In the past fifteen years, the problem of registration of biomedical images through a diffeomorphism, i.e. a smooth and invertible transformation, has attracted a lot of attention. Recently, methods based on convolutional neural networks (CNN) have been proposed and lead to faster algorithm but do not improve on state of the art methods based on optimization. In this talk, we propose a hybrid method that estimate from data the regularization parameters of a given optimization based method, namely stationary velocity fields. We show state of the art results with an estimation of the regularizing metric. By construction, the method guarantees diffeomorphic matching on the test set, in contrast to CNN based methods.
+</p>
+
+<h2 id="sponsors">Sponsors</h2>
+
+<p align="center">
+
+<a href="http://www.ihp.fr">
+<img width="120" src="../../img/logo-ihp.jpg" />
+</a>&nbsp;&nbsp;
+
+<a href="http://www.cnrs.fr/">
+<img width="120" src="../../img/logo-cnrs.png" />
+</a>&nbsp;&nbsp;
+
+<a href="http://www.u-psud.fr/fr/index.html">
+<img width="150" src="../../img/logo-paris-sud.png" />
+</a>
+
+<br />
+
+<a href="https://www.sciencesmaths-paris.fr/">
+<img width="150" src="../../img/logo-fsmp.png" />
+</a>&nbsp;&nbsp;
+
+<a href="http://www.upmc.fr/">
+<img width="150" src="../../img/logo-upmc.png" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.cimpa.info/">
+<img width="150" src="../../img/logo-cimpa.png" />
+</a>
+
+<br />
+
+<a href="http://gdr-mia.math.cnrs.fr/">
+<img width="150" src="../../img/logo-mia.png" />
+</a>
+
+<a href="http://www.gpeyre.com/noria/">
+<img width="150" src="../../img/logo-erc.jpg" />
+</a>
+
+
+</p>
+:ET

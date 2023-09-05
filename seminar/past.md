@@ -5,7 +5,7 @@ description: "Past seminars"
 header-img: "../img/paris3.png"
 ---
 
-List of past seminars:
+List of past seminars: 
 
 
 {% for oneitem in site.data.past %}
@@ -16,6 +16,6 @@ List of past seminars:
     <b>[<a href="../slides/{{ oneslide }}.pdf">Slides</a>]</b>
   {% endfor %}
   <br/>
-  <b>Abstract:</b> {{ oneitem.abstract }}
+  <b>Abstract:</b> {{ oneitem.abstract }} 
   </p>
 {% endfor %}
