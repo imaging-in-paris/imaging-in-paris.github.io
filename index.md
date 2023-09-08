@@ -13,7 +13,7 @@ The goal of this seminar is to cover the fields of the mathematics of imaging in
 You can subscribe or unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FParis&showNav=1&showTitle=1&showDate=0&showPrint=0&showTabs=1&showCalendars=0&src=NXJrajFkZXUycmo3NDZocm5pOTgxOWNiM3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border:solid 1px #777" width="370" height="300" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showTabs=1&showCalendars=0&mode=AGENDA&showNav=0&showTitle=0&hl=en&showTz=0&src=NXJrajFkZXUycmo3NDZocm5pOTgxOWNiM3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border-width:0" width="370" height="300" frameborder="0" scrolling="no"></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10502.476939522125!2d2.3324169492123916!3d48.846401182574276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671e82eaa7aff%3A0xf280319d9e3a86e1!2sInstitut%20Henri%20Poincar%C3%A9%20-%20Sorbonne%20Universit%C3%A9%20%2F%20CNRS!5e0!3m2!1sfr!2sfr!4v1693906778746!5m2!1sfr!2sfr" width="370" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
