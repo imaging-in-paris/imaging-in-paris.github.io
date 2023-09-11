@@ -77,11 +77,12 @@ Organizers
 -----
 <p></p>
 
-- [Samy Blusseau](https://samyblusseau.jimdofree.com/) (Mines Paris)
-- [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA & CEREMADE, U. Paris Dauphine-PSL)
-- [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (Telecom Paris)
-- [Lara Raad](http://dev.ipol.im/~lraad/) (ESIEE)
-- [Jonathan Vacher](https://jonathanvacher.github.io/) (Université Paris Cité)
+- [Samy Blusseau](https://samyblusseau.jimdofree.com/) (CMM @ Mines Paris - PSL)
+- [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA & CEREMADE @ Université Paris Dauphine - PSL)
+- [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (LTCI @ Telecom Paris)
+- [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (ISIR @ Sorbonne Université)
+- [Lara Raad](http://dev.ipol.im/~lraad/) (LIGM @ ESIEE - Université Gustave Eiffel) 
+- [Jonathan Vacher](https://jonathanvacher.github.io/) (MAP5 @ Université Paris Cité)
 
 
 Thanks
