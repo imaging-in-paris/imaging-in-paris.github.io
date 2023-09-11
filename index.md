@@ -4,11 +4,13 @@ mathjax: true
 title: "Imaging in Paris Seminar"
 description: "Parisian Seminar on the Mathematics of Imaging"
 header-img: "../img/paris1.png"
+redirect_from:
+ - /seminar/
 ---
 
 Welcome to the website of the Parisian Seminar on the Mathematics of Imaging !  
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is **open to everyone**. It takes place in **Room 314** (Pierre Grisvard) at **[IHP](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** on the **first Tuesday** of **each months** (the **second Tuesday** in **November** and **January**), from **14:00 to 16:00**. Each seminar is composed of two presentations.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is **open to everyone**. It takes place in **Room 314** (Pierre Grisvard) at **[IHP](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** on the **first Tuesday** of **each month** (the **second Tuesday** in **November** and **January**), from **14:00 to 16:00**. Each seminar is composed of two presentations.
 
 You can subscribe or unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
 

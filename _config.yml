@@ -17,4 +17,4 @@ exclude: ["node_modules"]
 name: Imaging in Paris
 plugins:
   - jekyll-feed
-
+  - jekyll-redirect-from

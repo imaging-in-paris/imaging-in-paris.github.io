@@ -137,7 +137,7 @@
   slides: queau
   title: "Variational methods for photometric 3D-reconstruction"
   abstract: "Shape-from-shading (SfS) is a classic inverse problem consisting in reconstructing a 3D-shape from a single photography. Yet, it is an ill-posed problem, and its numerical solving is challenging. This talk will discuss the benefits of variational methods for modeling SfS, and for solving its ambiguities through the introduction of natural Bayesian priors. Efficient splitting-based algorithms will be presented, which yield state-of-the-art results on various real-world applications such as depth super-resolution for RGBD sensors. Possible combinations with deep learning techniques will eventually be briefly discussed."
-- speaker: Hughes Talbot
+- speaker: Hugues Talbot
   date: 6 december 2018
   time: 14h-15h
   room: 314
