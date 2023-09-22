@@ -32,7 +32,7 @@ Click on the title to read the abstract.
 	<details>
 	<summary>
 	
-	<a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>  {{ oneitem.affiliation }}<br/>
+	<a href="{{ oneitem.url }}"><b>{{ oneitem.speaker }}</b></a>  ({{ oneitem.affiliation }})<br/>
 	{{ oneitem.date }}, {{ oneitem.time }}, room {{ oneitem.room }}.<br/>
 	<b>Title:</b> <i>{{ oneitem.title }}</i><br/>
 	</summary>
