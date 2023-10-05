@@ -62,7 +62,7 @@ Click on the title to read the abstract.
 	
 	{{ oneitem.date }}, {{ oneitem.time }}, room {{ oneitem.room }}.
 	<br/>
-	<b>Title:</b> <i>{{ oneitem.title }}</i>
+	<b>Title:</b> <i>{{ oneitem.title }}</i> <b>&#x2B07;</b>
 	{% for oneslide in oneitem.slides %}
 		<b>[<a href="previous_seminars/slides/{{ oneslide }}.pdf">Slides</a>]</b>
 	{% endfor %}
