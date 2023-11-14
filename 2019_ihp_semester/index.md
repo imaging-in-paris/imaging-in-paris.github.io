@@ -16,28 +16,28 @@ Registration
 
 [Registration is free but mandatory](http://www.ihp.fr/en/CEB/T1-2019) to be able to participate to one (or to all!) of these conferences and to the pre-school.
 
-[Conferences #1: Variational methods and optimization in imaging](semester2019/workshop1)
+[Conferences #1: Variational methods and optimization in imaging](workshop1)
 -------------
 
 February 4th-8th  2019, IHP.
 
-[Conferences #2: Statistical Modeling for Shapes and Imaging](semester2019/workshop2)
+[Conferences #2: Statistical Modeling for Shapes and Imaging](workshop2)
 -------------
 
 March 11th-15th 2019, IHP.
 
- [Conferences #3: Imaging and machine learning](semester2019/workshop3)
+ [Conferences #3: Imaging and machine learning](workshop3)
 -------------
 
 April 1st-5th 2019, IHP.
 
 
-[Young researchers Imaging Seminars](semester2019/young)
+[Young researchers Imaging Seminars](young)
 -------------
 
 Every Wednesday in Darboux amphitheater, starting from February 20  (except for March 13), a two-hour session from 14:00 to 16:00 is dedicated to young researchers. 
 
-If you are interested to present your work, see the announcement [HERE](semester2019/young).
+If you are interested to present your work, see the announcement [HERE](young).
 
 Outreach plenary conferences (conférences grand public)
 -------------
@@ -46,10 +46,10 @@ Outreach plenary conferences (conférences grand public)
 - [Marie-Paul Cani (Polytechnique)](https://www.lix.polytechnique.fr/stream/members/marie-paule-cani/), March 13th 2019, 17h-18h30, (**[details](http://ihp.diatem.fr/index.php?option=com_acymailing&ctrl=archive&task=view&mailid=247&key=m4L7DUaF&subid=19440-Mjx6TEIdo8hzym&tmpl=component)**).
 - [Stéphane Mallat (Collège de France)](https://www.college-de-france.fr/site/stephane-mallat/index.htm), April 2nd 2019, 18h-19h30 (**[details](https://indico.math.cnrs.fr/event/4533/)**).
 
-[CIRM pre-school](semester2019/school)
+[CIRM pre-school](school)
 -------------
 
-January 7-11th 2019, [CIRM  pre-school for PhD students and postdocs](semester2019/school).
+January 7-11th 2019, [CIRM  pre-school for PhD students and postdocs](school).
 
 Special events organized by AMIES
 ------------
