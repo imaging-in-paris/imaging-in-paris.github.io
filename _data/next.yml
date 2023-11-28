@@ -1,29 +1,21 @@
-- speaker: Carole Le Guyader
-  date: Nov 14th 2023
-  time: 14h-15h
-  affiliation: LMI, INSA Rouen
-  url: http://lmi.insa-rouen.fr/membres/9-membres/professeurs/28-le-guyader-carole.html
-  title: A Multiscale Deformation Representation
-  abstract: 'Motivated by Tadmor et al.’s work dedicated to multiscale image representation using hierarchical ($BV$, $L^2$) decompositions, we propose transposing their approach to the case of registration, task which consists in determining a smooth deformation aligning the salient constituents visible in an image into their counterpart in another. The underlying goal is to obtain a hierarchical decomposition of the deformation in the form of a composition of intermediate deformations: the coarser one, computed from versions of the two images capturing the essential features, encodes the main structural/geometrical deformation, while iterating the procedure and refining the versions of the two images yields more accurate deformations that map faithfully small-scale features. The proposed model falls within the framework of variational methods and hyperelasticity by viewing the shapes to be matched as Ogden materials. The material behaviour is described by means of a specifically tailored strain energy density function, complemented by $L^\infty$-penalisations ensuring that the computed deformation is a bi-Lipschitz homeomorphism. Theoretical results emphasising the mathematical soundness of the model are provided, among which the existence of minimisers/asymptotic results, and a suitable numerical algorithm is supplied, along with numerical simulations demonstrating the ability of the model to produce accurate hierarchical representations of deformations.'
-  room: 314 (Pierre Grisvard)
-  
-- speaker: Romain Petit
-  date: Nov 14th 2023
-  time: 15h-16h
-  affiliation: MaLGa, University of Genoa
-  url: https://rpetit.github.io/
-  title: Reconstruction of piecewise constant images via total (gradient) variation regularization
-  abstract: 'In this talk, I will consider the reconstruction of some unknown image from noisy linear measurements using total (gradient) variation regularization. Empirical evidence and theoretical results suggest that this method is particularly well suited to recover piecewise constant images. It is therefore natural to study the case where the unknown image has precisely this structure. I will present two works on this topic, which are collaborations with Yohann De Castro and Vincent Duval. The first concerns a noise robustness result, stating that, in a low noise regime, the reconstruction is also piecewise constant, and one exactly recovers the number of shapes in the unknown image. The second is about introducing a new numerical method for solving the variational regularization problem. Its main feature is that it does not rely on the introduction of a fixed spatial discretization (e.g. a pixel grid), and builds a sequence of iterates that are linear combinations of indicator functions.'
-  room: 314 (Pierre Grisvard)
-  
 - speaker: Claire Launay 
   date: Dec 5th 2023
-  time: 14h-15h or 15h-16h
+  time: 14h-15h
   affiliation: LMBA, Université Bretagne Sud
   url: https://claunay.github.io/
-  title: TBA
+  title: "Modélisation de textures : champs gaussiens autosimilaires et signal monogène"
+  abstract: "Nos travaux s'intéressent à la représentation de champs gaussiens autosimilaires anisotropes à l’aide du signal monogène. Le signal monogène utilise la transformée de Riesz et permet d’extraire des informations locales d’orientation et de structure d’une image. Une analyse multi-échelle, développée en collaboration avec Hermine Biermé, Céline Lacaux et Philippe Carré, permet d’obtenir des estimateurs non biaisés et fortement consistants des paramètres d’anisotropie et d’autosimilarité de textures gaussiennes particulières, modélisées par des champs élémentaires."
+  room: 314 (Pierre Grisvard)
+
+- speaker: Remy Abergel 
+  date: Dec 5th 2023
+  time: 15h-16h
+  affiliation: MAP5, Université Paris Cité
+  url: https://helios2.mi.parisdescartes.fr/~rabergel/
+  title: Méthodes variationnelles pour l'imagerie par résonance paramagnétique électronique Variational methods for Electron Paramagnetic Resonance Imaging
   abstract: TBA
   room: 314 (Pierre Grisvard)
+
 
 - speaker: Antoine Salmona
   date: Jan 9th 2024
