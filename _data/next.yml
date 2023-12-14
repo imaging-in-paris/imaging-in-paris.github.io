@@ -1,31 +1,21 @@
-- speaker: Claire Launay 
-  date: Dec 5th 2023
-  time: 14h-15h
-  affiliation: LMBA, Université Bretagne Sud
-  url: https://claunay.github.io/
-  title: "Modélisation de textures : champs gaussiens autosimilaires et signal monogène"
-  abstract: "Nos travaux s'intéressent à la représentation de champs gaussiens autosimilaires anisotropes à l’aide du signal monogène. Le signal monogène utilise la transformée de Riesz et permet d’extraire des informations locales d’orientation et de structure d’une image. Une analyse multi-échelle, développée en collaboration avec Hermine Biermé, Céline Lacaux et Philippe Carré, permet d’obtenir des estimateurs non biaisés et fortement consistants des paramètres d’anisotropie et d’autosimilarité de textures gaussiennes particulières, modélisées par des champs élémentaires."
-  room: 314 (Pierre Grisvard)
-
-- speaker: Remy Abergel 
-  date: Dec 5th 2023
-  time: 15h-16h
-  affiliation: MAP5, Université Paris Cité
-  url: https://helios2.mi.parisdescartes.fr/~rabergel/
-  title: Méthodes variationnelles pour l'imagerie par résonance paramagnétique électronique Variational methods for Electron Paramagnetic Resonance Imaging
-  abstract: "L'imagerie par résonance paramagnétique électronique (RPE) est une méthode d'imagerie des molécules paramagnétiques. Celle-ci est basée sur la capacité des électrons libres à absorber puis réémettre l'énergie électromagnétique en présence d'un champ magnétique. Cet exposé sera consacré à la modélisation du problème direct reliant les mesures RPE à la cartographie des espèces paramagnétiques en présence dans l'échantillon étudié, ainsi qu'aux méthodes variationnelles proposées récemment pour effectuer son inversion. Travaux en collaboration avec Mehdi Boussâa (MAP5 & LCBPT), Sylvain Durand (MAP5) et Yves-Michel Frapart (LCBPT)."
-  room: 314 (Pierre Grisvard)
-
-
 - speaker: Antoine Salmona
   date: Jan 9th 2024
   time: TBA
   affiliation: Centre Borelli, ENS Paris Saclay
   url: https://scholar.google.com/citations?user=K8YRnO4AAAAJ&hl=en
+  title: "Expressivité des modèles génératifs push-forward"
+  abstract: "Les modèles génératifs sont aujourd'hui l'un des sujets de recherche les plus populaires en apprentissage automatique, notamment grâce à leur impressionnante capacité à générer des images synthétiques photo-réalistes. Cependant, il reste souvent difficile de savoir si ces modèles approchent correctement la distribution sous-jacente des données ou s'ils se contentent de générer des échantillons qui semblent similaires aux données. Dans cet exposé, nous nous concentrons sur la classe particulière des modèles génératifs push-forward, qui inclut notamment les Variational Autoencoders (VAEs) et les Generative Adversarial Networks (GANs), et nous mettons en évidence qu'il existe un compromis fondamental pour ces modèles entre leur capacité à approcher des distributions multimodales et la stabilité de leur entraînement. Nous montrons par ailleurs que les modèles à diffusion ne semblent pas souffrir de cette limitation."
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Yann Traonmilin 
+  date: Ma 5th 2024
+  time: TBA
+  affiliation: IOP Team, Institut de Mathématiques de Bordeaux
+  url: https://theophilec.github.io/
   title: TBA
   abstract: TBA
   room: 314 (Pierre Grisvard)
-
+  
 - speaker: Théophile Cantelobre 
   date: TBA
   time: TBA
