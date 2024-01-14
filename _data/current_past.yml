@@ -1,3 +1,12 @@
+- speaker: Antoine Salmona
+  date: Jan 9th 2024
+  time: TBA
+  affiliation: Centre Borelli, ENS Paris Saclay
+  url: https://scholar.google.com/citations?user=K8YRnO4AAAAJ&hl=en
+  title: "Expressivité des modèles génératifs push-forward"
+  abstract: "Les modèles génératifs sont aujourd'hui l'un des sujets de recherche les plus populaires en apprentissage automatique, notamment grâce à leur impressionnante capacité à générer des images synthétiques photo-réalistes. Cependant, il reste souvent difficile de savoir si ces modèles approchent correctement la distribution sous-jacente des données ou s'ils se contentent de générer des échantillons qui semblent similaires aux données. Dans cet exposé, nous nous concentrons sur la classe particulière des modèles génératifs push-forward, qui inclut notamment les Variational Autoencoders (VAEs) et les Generative Adversarial Networks (GANs), et nous mettons en évidence qu'il existe un compromis fondamental pour ces modèles entre leur capacité à approcher des distributions multimodales et la stabilité de leur entraînement. Nous montrons par ailleurs que les modèles à diffusion ne semblent pas souffrir de cette limitation."
+  room: 314 (Pierre Grisvard)
+  
 - speaker: Claire Launay 
   date: Dec 5th 2023
   time: 14h-15h

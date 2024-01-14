@@ -1,12 +1,21 @@
-- speaker: Antoine Salmona
-  date: Jan 9th 2024
+- speaker: Nicolas Chahine 
+  date: Feb 6th 2024
   time: TBA
-  affiliation: Centre Borelli, ENS Paris Saclay
-  url: https://scholar.google.com/citations?user=K8YRnO4AAAAJ&hl=en
-  title: "Expressivité des modèles génératifs push-forward"
+  affiliation: DXOMark
+  url: https://www.linkedin.com/in/nicolas-chahine/?originalSubdomain=fr
+  title: "Assessing Portrait Quality in Digital Photography: Methods, Challenges, and Innovations"
   abstract: "Les modèles génératifs sont aujourd'hui l'un des sujets de recherche les plus populaires en apprentissage automatique, notamment grâce à leur impressionnante capacité à générer des images synthétiques photo-réalistes. Cependant, il reste souvent difficile de savoir si ces modèles approchent correctement la distribution sous-jacente des données ou s'ils se contentent de générer des échantillons qui semblent similaires aux données. Dans cet exposé, nous nous concentrons sur la classe particulière des modèles génératifs push-forward, qui inclut notamment les Variational Autoencoders (VAEs) et les Generative Adversarial Networks (GANs), et nous mettons en évidence qu'il existe un compromis fondamental pour ces modèles entre leur capacité à approcher des distributions multimodales et la stabilité de leur entraînement. Nous montrons par ailleurs que les modèles à diffusion ne semblent pas souffrir de cette limitation."
   room: 314 (Pierre Grisvard)
   
+- speaker: Jean Prost
+  date: Feb 6th 2024
+  time: TBA
+  affiliation: IMB, Université de Bordeaux 
+  url: https://jprost76.github.io/
+  title: "Inverse Problem Regularization with a Variational Autoencoder Prior"
+  abstract: "In this presentation, I will introduce various strategies to use pretrained variational autoencoders (VAE) as a prior model to regularize ill-posed image inverse problems, such as deblurring or super-resolution. VAE can model complex data such as images, by defining a latent variable model paramaterized by a deep neural network. However, it is difficult to use the probabilistic model learned by a VAE as a prior for an inverse problem, because it is defined as an intractable integral. In order to circumvent the intractability of the VAE model, I will first present PnP-HVAE, an iterative optimization algorithm which maximizes a joint posterior distribution on an augmented (image-latent) space. PnP-HVAE is adapted to expressive hierarchical VAE models, and enables us to control the strength of the regularization. Additionally, we draw connection with Plug-and-play methods based on deep image denoisers, and we demonstrate the convergence of our algorithm. Next, I will introduce a strategy to sample from the posterior distribution of a super-resolution problem by using a hierarchical VAE (HVAE) as a prior model. To this end, we propose to train an additional encoder on degraded observation in order to condition the HVAE generative process on the degraded observation. We demonstrate that our approach provides sample quality on par with recent diffusion models while being significantly more computationally efficient."
+  room: 314 (Pierre Grisvard)
+ 
 - speaker: Yann Traonmilin 
   date: Ma 5th 2024
   time: TBA
@@ -33,6 +42,4 @@
   title: TBA
   abstract: TBA
   room: 314 (Pierre Grisvard)
-  
-  
   
