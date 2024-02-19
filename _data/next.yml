@@ -17,12 +17,21 @@
   room: 314 (Pierre Grisvard)
 
 - speaker: Théophile Cantelobre 
-  date: TBA
+  date: Apr 2nd 2024
   time: TBA
   affiliation: SIERRA, INRIA Paris
   url: https://theophilec.github.io/
-  title: TBA
+  title: "Measuring dissimilarity with diffeomorphism invariance"
   abstract: TBA
+  room: 314 (Pierre Grisvard)
+
+- speaker: Éloi Tanguy 
+  date: May 7th 2024
+  time: TBA
+  affiliation: MAP5, Université Paris Cité
+  url: https://eloitanguy.github.io/
+  title: "TBA"
+  abstract: "TBA"
   room: 314 (Pierre Grisvard)
   
 - speaker: Tristan Lazard
