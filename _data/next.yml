@@ -1,6 +1,6 @@
 - speaker: Yann Traonmilin 
   date: Ma 5th 2024
-  time: TBA
+  time: 14h
   affiliation: IOP Team, Institut de Mathématiques de Bordeaux
   url: https://yanntraonmilin.wordpress.com/
   title: "A few years of non-convex off-the-grid estimation"
@@ -9,11 +9,13 @@
 
 - speaker: Arnaud Quillent 
   date: Ma 5th 2024
-  time: TBA
+  time: 15h
   affiliation: Télécom Paris
   url: https://scholar.google.com/citations?user=Fft8auYAAAAJ&hl=fr
-  title: ""
-  abstract: ""
+  title: "Reconstruction par apprentissage profond en tomosynthèse du sein et estimation d'incertitude"
+  abstract: "La tomosynthèse numérique du sein (Digital Breast Tomosynthesis – DBT) est une modalité d'imagerie médicale à rayons X qui permet la reconstruction de volumes 3D utilisés dans le cadre du dépistage du cancer du sein. Toutefois, à cause de diverses contraintes géométriques du système d'acquisition (anglé limité et vue éparse), des artéfacts apparaissent dans les reconstructions, ce qui dégrade grandement leur qualité et réduit leur résolution suivant l'axe vertical (détecteur-source). De ce fait, seuls les plans axiaux (parallèles au détecteur) sont actuellement exploitables par les radiologues pour poser leur diagnostic.
+Nous proposons donc une méthode de reconstruction par apprentissage profond pour la DBT, composé de deux étapes. Tout d'abord, une reconstruction itérative conventionnelle est obtenue à partir des projections acquises par le système, puis un réseau de neurones convolutifs est appliqué de façon à réduire les artéfacts présents dans l'image. Du fait de l'inexistence de données cliniques qui ne seraient pas impactées par les contraintes géométriques présentées plus haut et qui pourraient être utilisées comme vérité, nous employons une base de données composée de fantômes synthétiques pour entraîner notre modèle. Nous obtenons ainsi des résultats visuellement intéressants et améliorant grandement la qualité des volumes reconstruits.
+Le problème inverse de la reconstruction DBT étant très mal-posé du fait de l'angle limité et du peu de projections acquises, la quantité d'informations à extrapoler est importante et le réseau de neurones pourrait halluciner certaines structures. Ainsi, les volumes reconstruits ne sont pas totalement fiables. Nous donnons donc à notre modèle la capacité d'évaluer sa propre incertitude de reconstruction, et démontrons que cette dernière peut être utilisée comme une estimation fidèle de l'erreur à la vérité."
   room: 314 (Pierre Grisvard)
 
 - speaker: Théophile Cantelobre 

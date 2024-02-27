@@ -63,23 +63,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-
-
-
-                <!--<li>
-                    <a href="/next">Prochains</a>
-                </li>
-                <li>
-                    <a href="/past">Passés</a>
-                </li>  -->
-
-                  <li>
-                        <a href="/previous_seminars/">Previous Seminars</a>
-                  </li>
-                  <li>
-                        <a href="/2019_ihp_semester">2019 IHP Semester</a>
-                  </li>
-
+				<li>
+					<a href="/previous_seminars/">Previous Seminars</a>
+				</li>
                 <!--
 
                 
@@ -88,43 +74,7 @@
                 </li>
                 
                 <li>
-                    <a href="/2019_ihp_semester/">The Mathematics of Imaging</a>
-                </li>
-                
-                <li>
                     <a href="/">Imaging in Paris Seminar</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/school/">The mathematics of imaging: the CIRM pre-school</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/workshop1/">Variational methods and optimization in imaging</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/workshop1prog/">Variational methods and optimization in imaging</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/workshop2/">Statistical modeling for shapes and imaging</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/workshop2prog/">Statistical modeling for shapes and imaging</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/workshop3/">Imaging and machine learning</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/workshop3prog/">Imaging and machine learning</a>
-                </li>
-                
-                <li>
-                    <a href="/2019_ihp_semester/young/">Young Researchers in Imaging Seminars</a>
                 </li>
                 
                 <li>
@@ -211,11 +161,11 @@
 	<details>
 	<summary>
 	
-	<a href="https://www.linkedin.com/in/nicolas-chahine/?originalSubdomain=fr"><b>Nicolas Chahine</b></a>  (DXOMark)<br />
-	Feb 6th 2024, 15h, room 314 (Pierre Grisvard).<br />
-	<b>Title:</b> <i>Assessing Portrait Quality in Digital Photography: Methods, Challenges, and Innovations</i> <b>&#x2B07;</b> <br />
+	<a href="https://yanntraonmilin.wordpress.com/"><b>Yann Traonmilin</b></a>  (IOP Team, Institut de Mathématiques de Bordeaux)<br />
+	Ma 5th 2024, 14h, room 314 (Pierre Grisvard).<br />
+	<b>Title:</b> <i>A few years of non-convex off-the-grid estimation</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> This talk focuses on the development of deep learning-based image quality assessment methods tailored for digital portrait photography. Emphasizing the estimation of portrait-specific quality attributes, it addresses the challenges in predicting various global and local aspects such as color balance, detail rendering, and facial features across a variety of scenarios. Additionally, the seminar introduces PIQ23, a comprehensive portrait-specific IQA dataset. This dataset includes images from a wide range of smartphone models, annotated for key quality attributes by expert evaluators. The discussion will highlight the dataset's role in understanding the consistency of quality assessments and the potential of integrating semantic information to improve IQA predictions in portrait photography.
+	<b>Abstract:</b> In this talk, we focus on non-convex approaches for off-the-grid spike estimation. Centered around the study of basins of attraction of a non-convex functional, we explain how the study of recovery guarantees can be generally linked with the number of available measurements. With a general result on non-convex estimation of low-dimensional models, we show that the size of basins of attraction explicitly increases with respect to the number of measurements, with tight bounds for spikes recovery. These results lead to the conception of a fast algorithm for the recovery of many off-the-grid spikes: over-parametrized projected gradient descent (OP-PGD), showing promising results on realistic datasets. We also are able to give a theoretical partial control of the quality of continuous orthogonal matching pursuit without sliding which is the  initialization procedure of OP-PGD.
 	</details>
 </p>
 
@@ -223,23 +173,11 @@
 	<details>
 	<summary>
 	
-	<a href="https://jprost76.github.io/"><b>Jean Prost</b></a>  (IMB, Université de Bordeaux)<br />
-	Feb 6th 2024, 14h, room 314 (Pierre Grisvard).<br />
-	<b>Title:</b> <i>Inverse Problem Regularization with a Variational Autoencoder Prior</i> <b>&#x2B07;</b> <br />
+	<a href="https://scholar.google.com/citations?user=Fft8auYAAAAJ&amp;hl=fr"><b>Arnaud Quillent</b></a>  (Télécom Paris)<br />
+	Ma 5th 2024, 15h, room 314 (Pierre Grisvard).<br />
+	<b>Title:</b> <i>Reconstruction par apprentissage profond en tomosynthèse du sein et estimation d'incertitude</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> In this presentation, I will introduce various strategies to use pretrained variational autoencoders (VAE) as a prior model to regularize ill-posed image inverse problems, such as deblurring or super-resolution. VAE can model complex data such as images, by defining a latent variable model paramaterized by a deep neural network. However, it is difficult to use the probabilistic model learned by a VAE as a prior for an inverse problem, because it is defined as an intractable integral. In order to circumvent the intractability of the VAE model, I will first present PnP-HVAE, an iterative optimization algorithm which maximizes a joint posterior distribution on an augmented (image-latent) space. PnP-HVAE is adapted to expressive hierarchical VAE models, and enables us to control the strength of the regularization. Additionally, we draw connection with Plug-and-play methods based on deep image denoisers, and we demonstrate the convergence of our algorithm. Next, I will introduce a strategy to sample from the posterior distribution of a super-resolution problem by using a hierarchical VAE (HVAE) as a prior model. To this end, we propose to train an additional encoder on degraded observation in order to condition the HVAE generative process on the degraded observation. We demonstrate that our approach provides sample quality on par with recent diffusion models while being significantly more computationally efficient.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	
-	<a href="https://theophilec.github.io/"><b>Yann Traonmilin</b></a>  (IOP Team, Institut de Mathématiques de Bordeaux)<br />
-	Ma 5th 2024, TBA, room 314 (Pierre Grisvard).<br />
-	<b>Title:</b> <i>TBA</i> <b>&#x2B07;</b> <br />
-	</summary>
-	<b>Abstract:</b> TBA
+	<b>Abstract:</b> La tomosynthèse numérique du sein (Digital Breast Tomosynthesis – DBT) est une modalité d'imagerie médicale à rayons X qui permet la reconstruction de volumes 3D utilisés dans le cadre du dépistage du cancer du sein. Toutefois, à cause de diverses contraintes géométriques du système d'acquisition (anglé limité et vue éparse), des artéfacts apparaissent dans les reconstructions, ce qui dégrade grandement leur qualité et réduit leur résolution suivant l'axe vertical (détecteur-source). De ce fait, seuls les plans axiaux (parallèles au détecteur) sont actuellement exploitables par les radiologues pour poser leur diagnostic. Nous proposons donc une méthode de reconstruction par apprentissage profond pour la DBT, composé de deux étapes. Tout d'abord, une reconstruction itérative conventionnelle est obtenue à partir des projections acquises par le système, puis un réseau de neurones convolutifs est appliqué de façon à réduire les artéfacts présents dans l'image. Du fait de l'inexistence de données cliniques qui ne seraient pas impactées par les contraintes géométriques présentées plus haut et qui pourraient être utilisées comme vérité, nous employons une base de données composée de fantômes synthétiques pour entraîner notre modèle. Nous obtenons ainsi des résultats visuellement intéressants et améliorant grandement la qualité des volumes reconstruits. Le problème inverse de la reconstruction DBT étant très mal-posé du fait de l'angle limité et du peu de projections acquises, la quantité d'informations à extrapoler est importante et le réseau de neurones pourrait halluciner certaines structures. Ainsi, les volumes reconstruits ne sont pas totalement fiables. Nous donnons donc à notre modèle la capacité d'évaluer sa propre incertitude de reconstruction, et démontrons que cette dernière peut être utilisée comme une estimation fidèle de l'erreur à la vérité.
 	</details>
 </p>
 
@@ -248,7 +186,19 @@
 	<summary>
 	
 	<a href="https://theophilec.github.io/"><b>Théophile Cantelobre</b></a>  (SIERRA, INRIA Paris)<br />
-	TBA, TBA, room 314 (Pierre Grisvard).<br />
+	Apr 2nd 2024, TBA, room 314 (Pierre Grisvard).<br />
+	<b>Title:</b> <i>Measuring dissimilarity with diffeomorphism invariance</i> <b>&#x2B07;</b> <br />
+	</summary>
+	<b>Abstract:</b> Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data's internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nyström sampling. Empirical experiments support the merits of DID. Article : https://arxiv.org/abs/2202.05614 Code : https://github.com/theophilec/diffy
+	</details>
+</p>
+
+<p>
+	<details>
+	<summary>
+	
+	<a href="https://eloitanguy.github.io/"><b>Éloi Tanguy</b></a>  (MAP5, Université Paris Cité)<br />
+	May 7th 2024, TBA, room 314 (Pierre Grisvard).<br />
 	<b>Title:</b> <i>TBA</i> <b>&#x2B07;</b> <br />
 	</summary>
 	<b>Abstract:</b> TBA
@@ -272,6 +222,44 @@
 <p>The list of seminars prior to summer 2023 is available <a href="previous_seminars/">here</a>.</p>
 
 <p>Click on the title to read the abstract.</p>
+
+<p>
+	<details>
+	<summary>
+	<a href="https://www.linkedin.com/in/nicolas-chahine/?originalSubdomain=fr">Nicolas Chahine</a>
+	
+		(DXOMark)
+	
+	<br />
+	
+	Feb 6th 2024, 15h, room 314 (Pierre Grisvard).
+	<br />
+	<b>Title:</b> <i>Assessing Portrait Quality in Digital Photography: Methods, Challenges, and Innovations</i> <b>&#x2B07;</b>
+	
+	<br />
+	</summary>
+	<b>Abstract:</b> This talk focuses on the development of deep learning-based image quality assessment methods tailored for digital portrait photography. Emphasizing the estimation of portrait-specific quality attributes, it addresses the challenges in predicting various global and local aspects such as color balance, detail rendering, and facial features across a variety of scenarios. Additionally, the seminar introduces PIQ23, a comprehensive portrait-specific IQA dataset. This dataset includes images from a wide range of smartphone models, annotated for key quality attributes by expert evaluators. The discussion will highlight the dataset's role in understanding the consistency of quality assessments and the potential of integrating semantic information to improve IQA predictions in portrait photography.
+	</details>
+</p>
+
+<p>
+	<details>
+	<summary>
+	<a href="https://jprost76.github.io/">Jean Prost</a>
+	
+		(IMB, Université de Bordeaux)
+	
+	<br />
+	
+	Feb 6th 2024, 14h, room 314 (Pierre Grisvard).
+	<br />
+	<b>Title:</b> <i>Inverse Problem Regularization with a Variational Autoencoder Prior</i> <b>&#x2B07;</b>
+	
+	<br />
+	</summary>
+	<b>Abstract:</b> In this presentation, I will introduce various strategies to use pretrained variational autoencoders (VAE) as a prior model to regularize ill-posed image inverse problems, such as deblurring or super-resolution. VAE can model complex data such as images, by defining a latent variable model paramaterized by a deep neural network. However, it is difficult to use the probabilistic model learned by a VAE as a prior for an inverse problem, because it is defined as an intractable integral. In order to circumvent the intractability of the VAE model, I will first present PnP-HVAE, an iterative optimization algorithm which maximizes a joint posterior distribution on an augmented (image-latent) space. PnP-HVAE is adapted to expressive hierarchical VAE models, and enables us to control the strength of the regularization. Additionally, we draw connection with Plug-and-play methods based on deep image denoisers, and we demonstrate the convergence of our algorithm. Next, I will introduce a strategy to sample from the posterior distribution of a super-resolution problem by using a hierarchical VAE (HVAE) as a prior model. To this end, we propose to train an additional encoder on degraded observation in order to condition the HVAE generative process on the degraded observation. We demonstrate that our approach provides sample quality on par with recent diffusion models while being significantly more computationally efficient.
+	</details>
+</p>
 
 <p>
 	<details>
