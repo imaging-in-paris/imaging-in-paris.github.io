@@ -1,20 +1,3 @@
-- speaker: Théophile Cantelobre 
-  date: Apr 2nd 2024
-  time: 14h
-  affiliation: SIERRA, INRIA Paris
-  url: https://theophilec.github.io/
-  title: "Measuring dissimilarity with diffeomorphism invariance"
-  abstract: "Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data's internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nyström sampling. Empirical experiments support the merits of DID. Article : https://arxiv.org/abs/2202.05614 Code : https://github.com/theophilec/diffy"
-  room: 314 (Pierre Grisvard)
-
-- speaker: Nicolas Chérel 
-  date: Apr 2nd 2024
-  time: 15h
-  affiliation: Télécom Paris
-  url: https://perso.telecom-paristech.fr/nicherel/
-  title: "Diffusion-based image and video inpainting with internal learning"
-  abstract: "Diffusion models are now the undisputed state-of-the-art for image generation and image restoration. However, they require large amounts of computational power for training and inference. We propose lightweight diffusion models for image inpainting that can be trained on a single image, or a few images. We develop a special training and inference strategy which significantly improves the results over our baseline. On images, we show that our approach competes with large state-of-the-art models in specific cases. Training a model on a single image is particularly relevant for image acquisition modality that differ from the RGB images of standard learning databases; for which no trained model is available. We have results in three different contexts: texture images, line drawing images, and materials BRDF, for which we achieve state-of-the-art results in terms of realism, with a computational load that is greatly reduced compared to concurrent methods. On videos, we present the first diffusion-based video inpainting approach. We show that our method is superior to other existing techniques for difficult situations such as dynamic textures and complex motion; other methods require supporting elements such as optical flow estimation, which limits their performance in the case of dynamic textures for example."
-  room: 314 (Pierre Grisvard)
 
 - speaker: Éloi Tanguy 
   date: May 7th 2024

@@ -97,17 +97,20 @@ The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA
 <a href="http://www.ihp.fr">
 <img width="150" src="../img/logo-ihp.jpg"/>
 </a>
+&nbsp;
 
 <a href="http://smai.emath.fr/spip.php?article406">
 <img width="150" src="../img/logo-sigma.jpg"/>
 </a>
+&nbsp;
 
 <a href="https://rt-maiages.math.cnrs.fr/">
 <img width="150" src="../img/logo-maiages.png"/>
 </a>
+&nbsp;
 
 <a href="https://www.telecom-paris.fr/">
-<img width="150" src="../img/logo-telecom.png"/>
+<img width="110" src="../img/logo-telecom-ipp.png"/>
 </a>
 
 </p>
