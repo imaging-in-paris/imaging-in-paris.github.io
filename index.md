@@ -81,16 +81,16 @@ Organizers
 
 - [Samy Blusseau](https://samyblusseau.jimdofree.com/) (CMM @ Mines Paris - PSL)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA & CEREMADE @ Université Paris Dauphine - PSL)
-- [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (LTCI @ Telecom Paris)
+- [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (LTCI @ Télécom Paris)
 - [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (ISIR @ Sorbonne Université)
-- [Lara Raad](http://dev.ipol.im/~lraad/) (LIGM @ ESIEE - Université Gustave Eiffel) 
+- [Pauline Tan](https://sites.google.com/view/paulinetan) (LJLL @ Sorbonne Université) 
 - [Jonathan Vacher](https://jonathanvacher.github.io/) (MAP5 @ Université Paris Cité)
 
 
 Thanks
 -----
 
-The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA](http://smai.emath.fr/spip.php?article406) group of the SMAI and the [RT MIA](gdr-mia.math.cnrs.fr). We gratefully acknowledge support from the Agence Nationale de la Recherche (CIPRESSI, ANR-19-CE48-0017-01).
+The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA](http://smai.emath.fr/spip.php?article406) group of the SMAI and the [RT MIA](https://rt-maiages.math.cnrs.fr/). We gratefully acknowledge support from <a href="https://www.telecom-paris.fr/">Télécom Paris</a>.
 
 <p align="center">
 
@@ -102,8 +102,12 @@ The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA
 <img width="150" src="../img/logo-sigma.jpg"/>
 </a>
 
-<a href="https://fadili.users.greyc.fr/mia/">
-<img width="150" src="../img/logo-mia.png"/>
+<a href="https://rt-maiages.math.cnrs.fr/">
+<img width="150" src="../img/logo-maiages.png"/>
+</a>
+
+<a href="https://www.telecom-paris.fr/">
+<img width="150" src="../img/logo-telecom.png"/>
 </a>
 
 </p>
