@@ -11,7 +11,7 @@
 - speaker: Anton François
   date: June 4th 2024
   time: TBA
-  affiliation: MAP5, Université Paris Cité
+  affiliation: Centre Borelli, ENS Paris-Saclay
   url: https://antonfrancois.github.io/
   title: "TBA"
   abstract: "TBA"
@@ -19,10 +19,10 @@
   
 - speaker: Shizhe Chen
   date: June 4th 2024
-  time: TBA
+  time: 14h
   affiliation: WILLOW, INRIA Paris
   url: https://cshizhe.github.io/
-  title: "TBA"
-  abstract: "TBA"
+  title: "Vision and language pre-training for robot navigation and manipulation"
+  abstract: "Pre-training on large-scale datasets has significantly accelerated progress in various domains. However, collecting real robot data for pre-training remains expensive and lacks scalability. In this talk, I will demonstrate how we can leverage large-scale Internet data to enhance robot learning. Specifically, I will first present pre-training for vision-and-language navigation, where we take advantage of in-domain web image-captions and unlabeled 3D houses to improve models’ generalization capabilities in unseen environments. Next, I will delve into pre-training approaches for more complex robot manipulation which requires fine-grained visual perception and precise control. I will introduce a versatile pre-training framework based on web 3D objects to improve visual perception for robots."
   room: 314 (Pierre Grisvard)
 
