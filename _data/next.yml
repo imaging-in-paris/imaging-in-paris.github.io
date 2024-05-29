@@ -1,10 +1,10 @@
 - speaker: Anton François
   date: June 4th 2024
-  time: TBA
+  time: 15h
   affiliation: Centre Borelli, ENS Paris-Saclay
   url: https://antonfrancois.github.io/
-  title: "TBA"
-  abstract: "TBA"
+  title: "Medical Image Registration for Glioblastoma MRI Using Constrained Metamorphosis"
+  abstract: "Registering three-dimensional medical images presents inherent challenges, exacerbated by topological variations between the images. Even the latest state-of-the-art methods often struggle to achieve realistic matching under these conditions. My research addresses these challenges by focusing on the registration of glioblastoma brain MRI, encompassing configurations such as healthy to cancerous states and post-operative scenarios.To tackle this task, we implemented Metamorphosis and LDDMM for 2D and 3D images using an object-oriented approach in PyTorch, with GPU acceleration and a semi-Lagrangian scheme. However, the classical Metamorphosis framework did not yield satisfactory results. To address this, we extended the framework to incorporate prior knowledge, which we term Constrained Metamorphosis. This extension allows for the addition of constraints to the registration problem by matching given priors, specifically a growing mask from a given segmentation and a field guiding deformation in a desired direction. We demonstrate the effectiveness of our approach through experiments on glioblastomas using BraTS datasets, comparing our results with state-of-the-art methods. In conclusion, I will discuss ongoing projects."
   room: 314 (Pierre Grisvard)
   
 - speaker: Shizhe Chen
@@ -15,4 +15,10 @@
   title: "Vision and language pre-training for robot navigation and manipulation"
   abstract: "Pre-training on large-scale datasets has significantly accelerated progress in various domains. However, collecting real robot data for pre-training remains expensive and lacks scalability. In this talk, I will demonstrate how we can leverage large-scale Internet data to enhance robot learning. Specifically, I will first present pre-training for vision-and-language navigation, where we take advantage of in-domain web image-captions and unlabeled 3D houses to improve models’ generalization capabilities in unseen environments. Next, I will delve into pre-training approaches for more complex robot manipulation which requires fine-grained visual perception and precise control. I will introduce a versatile pre-training framework based on web 3D objects to improve visual perception for robots."
   room: 314 (Pierre Grisvard)
+
+
+
+
+
+
 
