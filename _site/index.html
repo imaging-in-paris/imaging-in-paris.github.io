@@ -145,7 +145,7 @@
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			<p>Welcome to the website of the Parisian Seminar on the Mathematics of Imaging !</p>
 
-<p>The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is <strong>open to everyone</strong>. It takes place in <strong>Room 314</strong> (Pierre Grisvard) at <strong><a href="https://goo.gl/maps/TQJt1hNnzgsAJEsp6">IHP</a></strong> on the <strong>first Tuesday</strong> of <strong>each month</strong> (the <strong>second Tuesday</strong> in <strong>November</strong> and <strong>January</strong>), from <strong>14:00 to 16:00</strong>. Each seminar is composed of two presentations.</p>
+<p>The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connections with statistics and machine learning).  It is <strong>open to everyone</strong>. It takes place at <strong><a href="https://goo.gl/maps/TQJt1hNnzgsAJEsp6">Institut Henri Poincaré</a></strong> on the <strong>first Tuesday</strong> of <strong>each month</strong> from <strong>2pm to 4pm</strong>. Each seminar is composed of two presentations.</p>
 
 <p>You can subscribe or unsubscribe to the <a href="https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris">mailing list of the seminar</a> and to the <a href="https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&amp;ctz=Europe%2FParis">agenda of the seminar</a>.</p>
 
@@ -161,11 +161,11 @@
 	<details>
 	<summary>
 	
-	<a href="https://eloitanguy.github.io/"><b>Éloi Tanguy</b></a>  (MAP5, Université Paris Cité)<br />
-	May 21st 2024, TBA, room 201 (Maryam Mirzakhani).<br />
-	<b>Title:</b> <i>Properties of Discrete Sliced Wasserstein Losses</i> <b>&#x2B07;</b> <br />
+	<a href="https://perso.telecom-paristech.fr/pgori/"><b>Pietro Gori</b></a>  (Télécom Paris)<br />
+	October 1st 2024, 14h, room Maryam Mirzakhani (Bat Borel, 2nd floor).<br />
+	<b>Title:</b> <i>Contrastive Learning in Computer Vision and Medical Imaging - A metric learning approach</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> The Sliced Wasserstein (SW) distance has become a common alternative to the Wasserstein distance for the comparison of probability measures. Widespread applications include image processing, domain adaptation and generative modelling, where it is typical to optimise some parameters in order to minimise SW, which in practice serves as a loss function between discrete probability measures. These optimisation problems all bear the same sub-problem, which is minimising the SW distance between two uniform discrete measures with the same amount of points as a function of the support (i.e. a matrix of data points) of one of the measures. We study the regularity and optimisation properties of this energy, as well as its Monte-Carlo approximation (estimating the expectation in SW using projection samples), as well as asymptotical and non-asymptotical statistical properties of the Monte-Carlo approximation. Finally, we show that in a certain sense, Stochastic Gradient Descent methods minimising these energies converge towards (Clarke) critical points, with an extension to Generative Neural Network training.
+	<b>Abstract:</b> Contrastive Learning (CL) is a paradigm designed for self-supervised representation learning which has been applied to unsupervised, weakly supervised and supervised problems. The objective in CL is to estimate a parametric mapping function that maps positive samples (semantically similar) close together in the representation space and negative samples (semantically dissimilar) far away from each other. In general, positive samples can be defined in different ways depending on the problem: transformations (i.e., augmentations) of the same image (unsupervised setting), samples belonging to the same class (supervised) or with similar image attributes (weakly-supervised). The definition of negative samples varies accordingly. In this talk, we will show how a metric learning approach for CL allows us to: 1- better formalize recent contrastive losses, such as InfoNCE and SupCon, 2- derive new losses for unsupervised, supervised, and weakly supervised problems, and 3- propose new regularization terms for debiasing. Furthermore, leveraging the proposed metric learning approach and kernel theory, we will describe a novel loss, called decoupled uniformity, that allows the integration of prior knowledge, given either by generative models or weak attributes, and removes the positive-negative coupling problem, as in the InfoNCE loss. We validate the usefulness of the proposed losses on standard vision datasets and medical imaging data. 
 	</details>
 </p>
 
@@ -173,11 +173,11 @@
 	<details>
 	<summary>
 	
-	<a href="https://antonfrancois.github.io/"><b>Anton François</b></a>  (MAP5, Université Paris Cité)<br />
-	June 4th 2024, TBA, room 314 (Pierre Grisvard).<br />
-	<b>Title:</b> <i>TBA</i> <b>&#x2B07;</b> <br />
+	<a href=""><b>Marien Renaud</b></a>  (Institut de Mathématiques de Bordeaux)<br />
+	October 1st 2024, 15h, room Maryam Mirzakhani (Bat Borel, 2nd floor).<br />
+	<b>Title:</b> <i>Plug-and-Play image restoration with Stochastic deNOising REgularization</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> TBA
+	<b>Abstract:</b> Plug-and-Play (PnP) algorithms are a class of iterative algorithms that address image inverse problems by combining a physical model and a deep neural network for regularization. Even if they produce impressive image restoration results, these algorithms rely on a non-standard use of a denoiser on images that are less and less noisy along the iterations, which contrasts with recent algorithms based on Diffusion Models, where the denoiser is applied only on re-noised images. We will introduce a new PnP framework, called Stochastic deNOising REgularization (SNORE), which applies the denoiser only on images with noise of the adequate level. It is based on an explicit stochastic regularization, which leads to a stochastic gradient descent algorithm to solve ill-posed inverse problems. A convergence analysis of this algorithm and its annealing extension will be presented. Experimental results, competitive with respect to state-of-the-art methods, will be shown on deblurring and inpainting tasks. 
 	</details>
 </p>
 
@@ -185,268 +185,29 @@
 	<details>
 	<summary>
 	
-	<a href="https://cshizhe.github.io/"><b>Shizhe Chen</b></a>  (WILLOW, INRIA Paris)<br />
-	June 4th 2024, TBA, room 314 (Pierre Grisvard).<br />
-	<b>Title:</b> <i>TBA</i> <b>&#x2B07;</b> <br />
+	<a href=""><b>Samuel Vaiter</b></a>  (CNRS, LJAD Université Côte d'Azur)<br />
+	November 5th 2024, 14h, room Maryam Mirzakhani (Bat Borel, 2nd floor).<br />
+	<b>Title:</b> <i>Successes and pitfalls of bilevel optimization in machine learning</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> TBA
-	</details>
-</p>
-
-<h2 id="previous-seminars-of-2023-2024">Previous seminars of 2023-2024</h2>
-
-<p>The list of seminars prior to summer 2023 is available <a href="previous_seminars/">here</a>.</p>
-
-<p>Click on the title to read the abstract.</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://theophilec.github.io/">Théophile Cantelobre</a>
-	
-		(SIERRA, INRIA Paris)
-	
-	<br />
-	
-	Apr 2nd 2024, 14h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Measuring dissimilarity with diffeomorphism invariance</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data's internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nyström sampling. Empirical experiments support the merits of DID. Article : https://arxiv.org/abs/2202.05614 Code : https://github.com/theophilec/diffy
+	<b>Abstract:</b> In this talk, I will introduce bilevel optimization (BO) as a powerful framework to address several machine learning-related problems, including hyperparameter tuning, meta-learning, and data cleaning. Based on this formulation, I will describe some successes of BO, particularly in a strongly convex setting, where strong guarantees can be provided along with efficient stochastic algorithms. I will also discuss the outstanding issues of this framework, presenting geometrical and computational complexity results that show the potential difficulties in going beyond convexity, at least from a theoretical perspective.
 	</details>
 </p>
 
 <p>
 	<details>
 	<summary>
-	<a href="https://perso.telecom-paristech.fr/nicherel/">Nicolas Chérel</a>
 	
-		(Télécom Paris)
-	
-	<br />
-	
-	Apr 2nd 2024, 15h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Diffusion-based image and video inpainting with internal learning</i> <b>&#x2B07;</b>
-	
-	<br />
+	<a href=""><b>Anna Starynska</b></a>  (Rochester Institute of Technology)<br />
+	October 1st 2024, 15h, room Maryam Mirzakhani (Bat Borel, 2nd floor).<br />
+	<b>Title:</b> <i>Supervised erased ink detection in damaged palimpsested manuscripts</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> Diffusion models are now the undisputed state-of-the-art for image generation and image restoration. However, they require large amounts of computational power for training and inference. We propose lightweight diffusion models for image inpainting that can be trained on a single image, or a few images. We develop a special training and inference strategy which significantly improves the results over our baseline. On images, we show that our approach competes with large state-of-the-art models in specific cases. Training a model on a single image is particularly relevant for image acquisition modality that differ from the RGB images of standard learning databases; for which no trained model is available. We have results in three different contexts: texture images, line drawing images, and materials BRDF, for which we achieve state-of-the-art results in terms of realism, with a computational load that is greatly reduced compared to concurrent methods. On videos, we present the first diffusion-based video inpainting approach. We show that our method is superior to other existing techniques for difficult situations such as dynamic textures and complex motion; other methods require supporting elements such as optical flow estimation, which limits their performance in the case of dynamic textures for example.
+	<b>Abstract:</b> Transcribing a historical manuscript is a tedious task, especially in the case of palimpsests, where the sought text was erased and overwritten with another text. Recently, advancements in deep learning text recognition models, especially in multimodal large language models, have raised hopes for future automatization of this process. However, the two issues have prevented this progress so far. First, the absence of sufficient ground-truth data. Historical texts transcription platform Transkribus, estimates that approximately 20-30 pages of transcribed pages are required for training a model, which is already a very difficult task for historians. We assume that was meant for an undamaged manuscript, since remarks are made about enlarging the dataset in case of more variations. Second is the extreme damage to the text, which pushes us to image text in more complex modalities than a simple image scan. Thus, instead of capturing the text image, the push was made to capture the chemical composition of materials. One of the most popular systems for this became multispectral imaging systems. While it will not capture the chemical composition, it reveals the difference in the spectrum of materials.  However, until recently, msi palimpsest imaging systems lacked the data standardization procedures that created perturbation unrelated to the data composition, enabling the usage of the text transcription model on raw data. However, more and more attempts are being made to apply the standardization of multispectral imaging. This will allow us not only to create substantial data collection but also to unleash the potential presented by multispectral imaging. Our goal in this work is to test the capacity of neural network to detect the traces of undertext.
 	</details>
 </p>
 
-<p>
-	<details>
-	<summary>
-	<a href="https://yanntraonmilin.wordpress.com/">Yann Traonmilin</a>
-	
-		(IOP Team, Institut de Mathématiques de Bordeaux)
-	
-	<br />
-	
-	Ma 5th 2024, 14h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>A few years of non-convex off-the-grid estimation</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> In this talk, we focus on non-convex approaches for off-the-grid spike estimation. Centered around the study of basins of attraction of a non-convex functional, we explain how the study of recovery guarantees can be generally linked with the number of available measurements. With a general result on non-convex estimation of low-dimensional models, we show that the size of basins of attraction explicitly increases with respect to the number of measurements, with tight bounds for spikes recovery. These results lead to the conception of a fast algorithm for the recovery of many off-the-grid spikes: over-parametrized projected gradient descent (OP-PGD), showing promising results on realistic datasets. We also are able to give a theoretical partial control of the quality of continuous orthogonal matching pursuit without sliding which is the  initialization procedure of OP-PGD.
-	</details>
-</p>
+<h2 id="previous-seminars-of-2024-2025">Previous seminars of 2024-2025</h2>
 
-<p>
-	<details>
-	<summary>
-	<a href="https://scholar.google.com/citations?user=Fft8auYAAAAJ&amp;hl=fr">Arnaud Quillent</a>
-	
-		(Télécom Paris)
-	
-	<br />
-	
-	Ma 5th 2024, 15h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Reconstruction par apprentissage profond en tomosynthèse du sein et estimation d'incertitude</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> La tomosynthèse numérique du sein (Digital Breast Tomosynthesis – DBT) est une modalité d'imagerie médicale à rayons X qui permet la reconstruction de volumes 3D utilisés dans le cadre du dépistage du cancer du sein. Toutefois, à cause de diverses contraintes géométriques du système d'acquisition (anglé limité et vue éparse), des artéfacts apparaissent dans les reconstructions, ce qui dégrade grandement leur qualité et réduit leur résolution suivant l'axe vertical (détecteur-source). De ce fait, seuls les plans axiaux (parallèles au détecteur) sont actuellement exploitables par les radiologues pour poser leur diagnostic. Nous proposons donc une méthode de reconstruction par apprentissage profond pour la DBT, composé de deux étapes. Tout d'abord, une reconstruction itérative conventionnelle est obtenue à partir des projections acquises par le système, puis un réseau de neurones convolutifs est appliqué de façon à réduire les artéfacts présents dans l'image. Du fait de l'inexistence de données cliniques qui ne seraient pas impactées par les contraintes géométriques présentées plus haut et qui pourraient être utilisées comme vérité, nous employons une base de données composée de fantômes synthétiques pour entraîner notre modèle. Nous obtenons ainsi des résultats visuellement intéressants et améliorant grandement la qualité des volumes reconstruits. Le problème inverse de la reconstruction DBT étant très mal-posé du fait de l'angle limité et du peu de projections acquises, la quantité d'informations à extrapoler est importante et le réseau de neurones pourrait halluciner certaines structures. Ainsi, les volumes reconstruits ne sont pas totalement fiables. Nous donnons donc à notre modèle la capacité d'évaluer sa propre incertitude de reconstruction, et démontrons que cette dernière peut être utilisée comme une estimation fidèle de l'erreur à la vérité.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://www.linkedin.com/in/nicolas-chahine/?originalSubdomain=fr">Nicolas Chahine</a>
-	
-		(DXOMark)
-	
-	<br />
-	
-	Feb 6th 2024, 15h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Assessing Portrait Quality in Digital Photography: Methods, Challenges, and Innovations</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> This talk focuses on the development of deep learning-based image quality assessment methods tailored for digital portrait photography. Emphasizing the estimation of portrait-specific quality attributes, it addresses the challenges in predicting various global and local aspects such as color balance, detail rendering, and facial features across a variety of scenarios. Additionally, the seminar introduces PIQ23, a comprehensive portrait-specific IQA dataset. This dataset includes images from a wide range of smartphone models, annotated for key quality attributes by expert evaluators. The discussion will highlight the dataset's role in understanding the consistency of quality assessments and the potential of integrating semantic information to improve IQA predictions in portrait photography.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://jprost76.github.io/">Jean Prost</a>
-	
-		(IMB, Université de Bordeaux)
-	
-	<br />
-	
-	Feb 6th 2024, 14h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Inverse Problem Regularization with a Variational Autoencoder Prior</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> In this presentation, I will introduce various strategies to use pretrained variational autoencoders (VAE) as a prior model to regularize ill-posed image inverse problems, such as deblurring or super-resolution. VAE can model complex data such as images, by defining a latent variable model paramaterized by a deep neural network. However, it is difficult to use the probabilistic model learned by a VAE as a prior for an inverse problem, because it is defined as an intractable integral. In order to circumvent the intractability of the VAE model, I will first present PnP-HVAE, an iterative optimization algorithm which maximizes a joint posterior distribution on an augmented (image-latent) space. PnP-HVAE is adapted to expressive hierarchical VAE models, and enables us to control the strength of the regularization. Additionally, we draw connection with Plug-and-play methods based on deep image denoisers, and we demonstrate the convergence of our algorithm. Next, I will introduce a strategy to sample from the posterior distribution of a super-resolution problem by using a hierarchical VAE (HVAE) as a prior model. To this end, we propose to train an additional encoder on degraded observation in order to condition the HVAE generative process on the degraded observation. We demonstrate that our approach provides sample quality on par with recent diffusion models while being significantly more computationally efficient.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://scholar.google.com/citations?user=K8YRnO4AAAAJ&amp;hl=en">Antoine Salmona</a>
-	
-		(Centre Borelli, ENS Paris Saclay)
-	
-	<br />
-	
-	Jan 9th 2024, TBA, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Expressivité des modèles génératifs push-forward</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> Les modèles génératifs sont aujourd'hui l'un des sujets de recherche les plus populaires en apprentissage automatique, notamment grâce à leur impressionnante capacité à générer des images synthétiques photo-réalistes. Cependant, il reste souvent difficile de savoir si ces modèles approchent correctement la distribution sous-jacente des données ou s'ils se contentent de générer des échantillons qui semblent similaires aux données. Dans cet exposé, nous nous concentrons sur la classe particulière des modèles génératifs push-forward, qui inclut notamment les Variational Autoencoders (VAEs) et les Generative Adversarial Networks (GANs), et nous mettons en évidence qu'il existe un compromis fondamental pour ces modèles entre leur capacité à approcher des distributions multimodales et la stabilité de leur entraînement. Nous montrons par ailleurs que les modèles à diffusion ne semblent pas souffrir de cette limitation.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://claunay.github.io/">Claire Launay</a>
-	
-		(LMBA, Université Bretagne Sud)
-	
-	<br />
-	
-	Dec 5th 2023, 14h-15h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Modélisation de textures : champs gaussiens autosimilaires et signal monogène</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> Nos travaux s'intéressent à la représentation de champs gaussiens autosimilaires anisotropes à l’aide du signal monogène. Le signal monogène utilise la transformée de Riesz et permet d’extraire des informations locales d’orientation et de structure d’une image. Une analyse multi-échelle, développée en collaboration avec Hermine Biermé, Céline Lacaux et Philippe Carré, permet d’obtenir des estimateurs non biaisés et fortement consistants des paramètres d’anisotropie et d’autosimilarité de textures gaussiennes particulières, modélisées par des champs élémentaires.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://helios2.mi.parisdescartes.fr/~rabergel/">Remy Abergel</a>
-	
-		(MAP5, Université Paris Cité)
-	
-	<br />
-	
-	Dec 5th 2023, 15h-16h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Méthodes variationnelles pour l'imagerie par résonance paramagnétique électronique Variational methods for Electron Paramagnetic Resonance Imaging</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> L'imagerie par résonance paramagnétique électronique (RPE) est une méthode d'imagerie des molécules paramagnétiques. Celle-ci est basée sur la capacité des électrons libres à absorber puis réémettre l'énergie électromagnétique en présence d'un champ magnétique. Cet exposé sera consacré à la modélisation du problème direct reliant les mesures RPE à la cartographie des espèces paramagnétiques en présence dans l'échantillon étudié, ainsi qu'aux méthodes variationnelles proposées récemment pour effectuer son inversion. Travaux en collaboration avec Mehdi Boussâa (MAP5 &amp; LCBPT), Sylvain Durand (MAP5) et Yves-Michel Frapart (LCBPT).
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="http://lmi.insa-rouen.fr/membres/9-membres/professeurs/28-le-guyader-carole.html">Carole Le Guyader</a>
-	
-		(LMI, INSA Rouen)
-	
-	<br />
-	
-	Nov 14th 2023, 14h-15h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>A Multiscale Deformation Representation</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> Motivated by Tadmor et al.’s work dedicated to multiscale image representation using hierarchical ($BV$, $L^2$) decompositions, we propose transposing their approach to the case of registration, task which consists in determining a smooth deformation aligning the salient constituents visible in an image into their counterpart in another. The underlying goal is to obtain a hierarchical decomposition of the deformation in the form of a composition of intermediate deformations: the coarser one, computed from versions of the two images capturing the essential features, encodes the main structural/geometrical deformation, while iterating the procedure and refining the versions of the two images yields more accurate deformations that map faithfully small-scale features. The proposed model falls within the framework of variational methods and hyperelasticity by viewing the shapes to be matched as Ogden materials. The material behaviour is described by means of a specifically tailored strain energy density function, complemented by $L^\infty$-penalisations ensuring that the computed deformation is a bi-Lipschitz homeomorphism. Theoretical results emphasising the mathematical soundness of the model are provided, among which the existence of minimisers/asymptotic results, and a suitable numerical algorithm is supplied, along with numerical simulations demonstrating the ability of the model to produce accurate hierarchical representations of deformations.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://rpetit.github.io/">Romain Petit</a>
-	
-		(MaLGa, University of Genoa)
-	
-	<br />
-	
-	Nov 14th 2023, 15h-16h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Reconstruction of piecewise constant images via total (gradient) variation regularization</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> In this talk, I will consider the reconstruction of some unknown image from noisy linear measurements using total (gradient) variation regularization. Empirical evidence and theoretical results suggest that this method is particularly well suited to recover piecewise constant images. It is therefore natural to study the case where the unknown image has precisely this structure. I will present two works on this topic, which are collaborations with Yohann De Castro and Vincent Duval. The first concerns a noise robustness result, stating that, in a low noise regime, the reconstruction is also piecewise constant, and one exactly recovers the number of shapes in the unknown image. The second is about introducing a new numerical method for solving the variational regularization problem. Its main feature is that it does not rely on the introduction of a fixed spatial discretization (e.g. a pixel grid), and builds a sequence of iterates that are linear combinations of indicator functions.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://scholar.google.com/citations?user=E53_9hEAAAAJ&amp;hl=fr">Valentin Penaud-Polge</a>
-	
-		(CMM, Mines Paris, PSL)
-	
-	<br />
-	
-	Oct 3rd 2023, 14h-15h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials</i> <b>&#x2B07;</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> We propose a rotation invariant neural network based on Gaussian derivatives. The proposed network covers the main steps of the Harris corner detector in a generalized manner. More precisely, the Harris corner response function is a combination of the elementary symmetric polynomials of the integrated dyadic (outer) product of the gradient with itself. In the same way, we define matrices to be the self dyadic product of vectors composed with higher order partial derivatives and combine the elementary symmetric polynomials. A specific global pooling layer is used to mimic the local pooling used by Harris in his method. The proposed network is evaluated through three experiments. It first shows a quasi perfect invariance to rotations on Fashion-MNIST, it obtains competitive results compared to other rotation invariant networks on MNIST-Rot, and it obtains better performances classifying galaxies (EFIGI Dataset) than networks using up to a thousand times more trainable parameters.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	<a href="https://jonathanvacher.github.io/">Jonathan Vacher</a>
-	
-		(MAP5, Université Paris Cité)
-	
-	<br />
-	
-	Oct 3rd 2023, 15h-16h, room 314 (Pierre Grisvard).
-	<br />
-	<b>Title:</b> <i>Perceptual Measurements, Distances and Metrics</i> <b>&#x2B07;</b>
-	
-		<b>[<a href="previous_seminars/slides/vacher2023.pdf">Slides</a>]</b>
-	
-	<br />
-	</summary>
-	<b>Abstract:</b> Perception is often viewed as a process that transforms physical variables, external to an observer, into internal psychological variables. Such a process can be modeled by a function coined perceptual scale. The perceptual scale can be deduced from psychophysical measurements that consist in comparing the relative differences between stimuli (i.e. difference scaling experiments). However, this approach is often overlooked by the modeling and experimentation communities. Here, we demonstrate the value of measuring the perceptual scale of classical (spatial frequency, orientation) and less classical physical variables (interpolation between textures) by embedding it in recent probabilistic modeling of perception. First, we show that the assumption that an observer has an internal representation of univariate parameters such as spatial frequency or orientation while stimuli are high-dimensional does not lead to contradictory predictions when following the theoretical framework. Second, we show that the measured perceptual scale corresponds to the transduction function hypothesized in this framework. In particular, we demonstrate that it is related to the Fisher information of the generative model that underlies perception and we test the predictions given by the generative model of different stimuli in a set a of difference scaling experiments. Our main conclusion is that the perceptual scale is mostly driven by the stimulus power spectrum. Finally, we propose that these measure of perceptual scales is a way to push further the notion of perceptual distances by estimating the perceptual geometry of images i.e. the path between images instead of simply the distance between those.
-	</details>
-</p>
+<p>The list of seminars prior to summer 2024 is available <a href="previous_seminars/">here</a>.</p>
 
 <h2 id="organizers">Organizers</h2>
 <p></p>
@@ -462,7 +223,7 @@
 
 <h2 id="thanks">Thanks</h2>
 
-<p>The seminar is hosted by <a href="http://www.ihp.fr">IHP</a>, and is labelled by the <a href="http://smai.emath.fr/spip.php?article406">SIGMA</a> group of the SMAI and the <a href="https://rt-maiages.math.cnrs.fr/">RT MIA</a>. We gratefully acknowledge support from <a href="https://www.telecom-paris.fr/">Télécom Paris</a>.</p>
+<p>The seminar is hosted by <a href="http://www.ihp.fr">IHP</a>, and supported by the <a href="https://rt-maiages.math.cnrs.fr/">RT-MAIAGES</a> and <a href="https://www.telecom-paris.fr/">Télécom Paris</a>.</p>
 
 <p align="center">
 
@@ -487,15 +248,6 @@
 
 </p>
 
-<h2 id="en-français">En français</h2>
-
-<p>Bienvenue sur le site du Séminaire Parisien des Mathématiques Appliquées à l’Imagerie.</p>
-
-<p>Le but de ce séminaire est de couvrir le domaine des mathématiques de l’imagerie. Il est <strong>ouvert à tous</strong>. Cette année, le séminaire a lieu en <strong>Salle 314</strong> (Pierre Grisvard) à l’<strong><a href="https://goo.gl/maps/TQJt1hNnzgsAJEsp6">IHP</a></strong> le <strong>premier mardi</strong> de <strong>chaque mois</strong> (le <strong>deuxième mardi</strong> de <strong>novembre</strong> et <strong>janvier</strong>), de <strong>14h00 à 16h00</strong>. Chaque séance est composée de deux exposés.</p>
-
-<p>La liste des séminaires antérieurs à l’été 2023 est disponible <a href="previous_seminars/">ici</a>.</p>
-
-<p>Vous pouvez vous abonner ou désabonner à la <a href="https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris">liste de diffusion du séminaire</a>.</p>
 
 		</div>
 	</div>

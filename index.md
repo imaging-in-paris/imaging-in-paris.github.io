@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the website of the Parisian Seminar on the Mathematics of Imaging !  
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connexion with statistics and machine learning).  It is **open to everyone**. It takes place in **Room 314** (Pierre Grisvard) at **[IHP](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** on the **first Tuesday** of **each month** (the **second Tuesday** in **November** and **January**), from **14:00 to 16:00**. Each seminar is composed of two presentations.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connections with statistics and machine learning).  It is **open to everyone**. It takes place at **[Institut Henri Poincaré](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** on the **first Tuesday** of **each month** from **2pm to 4pm**. Each seminar is composed of two presentations.
 
 You can subscribe or unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
 
@@ -43,12 +43,10 @@ Click on the title to read the abstract.
 
 
 
-Previous seminars of 2023-2024
+Previous seminars of 2024-2025
 -----
 
-The list of seminars prior to summer 2023 is available [here](previous_seminars/).
-
-Click on the title to read the abstract.
+The list of seminars prior to summer 2024 is available [here](previous_seminars/).
 
 {% for oneitem in site.data.current_past %}
 <p>
@@ -90,7 +88,7 @@ Organizers
 Thanks
 -----
 
-The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA](http://smai.emath.fr/spip.php?article406) group of the SMAI and the [RT MIA](https://rt-maiages.math.cnrs.fr/). We gratefully acknowledge support from <a href="https://www.telecom-paris.fr/">Télécom Paris</a>.
+The seminar is hosted by [IHP](http://www.ihp.fr), and supported by the [RT-MAIAGES](https://rt-maiages.math.cnrs.fr/) and [Télécom Paris](https://www.telecom-paris.fr/).
 
 <p align="center">
 
@@ -115,14 +113,3 @@ The seminar is hosted by [IHP](http://www.ihp.fr), and is labelled by the [SIGMA
 
 </p>
 
-
-En français
------
-
-Bienvenue sur le site du Séminaire Parisien des Mathématiques Appliquées à l'Imagerie.
-
-Le but de ce séminaire est de couvrir le domaine des mathématiques de l'imagerie. Il est **ouvert à tous**. Cette année, le séminaire a lieu en **Salle 314** (Pierre Grisvard) à l'**[IHP](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** le **premier mardi** de **chaque mois** (le **deuxième mardi** de **novembre** et **janvier**), de **14h00 à 16h00**. Chaque séance est composée de deux exposés.
-
-La liste des séminaires antérieurs à l'été 2023 est disponible [ici](previous_seminars/).
-
-Vous pouvez vous abonner ou désabonner à la [liste de diffusion du séminaire](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris).
