@@ -1,0 +1,8 @@
+- speaker: Pietro Gori
+  date: October 1st 2024
+  time: 14h
+  affiliation: Télécom Paris
+  url: https://perso.telecom-paristech.fr/pgori/
+  title: "Contrastive Learning in Computer Vision and Medical Imaging - A metric learning approach"
+  abstract: "Contrastive Learning (CL) is a paradigm designed for self-supervised representation learning which has been applied to unsupervised, weakly supervised and supervised problems. The objective in CL is to estimate a parametric mapping function that maps positive samples (semantically similar) close together in the representation space and negative samples (semantically dissimilar) far away from each other. In general, positive samples can be defined in different ways depending on the problem: transformations (i.e., augmentations) of the same image (unsupervised setting), samples belonging to the same class (supervised) or with similar image attributes (weakly-supervised). The definition of negative samples varies accordingly. In this talk, we will show how a metric learning approach for CL allows us to: 1- better formalize recent contrastive losses, such as InfoNCE and SupCon, 2- derive new losses for unsupervised, supervised, and weakly supervised problems, and 3- propose new regularization terms for debiasing. Furthermore, leveraging the proposed metric learning approach and kernel theory, we will describe a novel loss, called decoupled uniformity, that allows the integration of prior knowledge, given either by generative models or weak attributes, and removes the positive-negative coupling problem, as in the InfoNCE loss. We validate the usefulness of the proposed losses on standard vision datasets and medical imaging data. "
+  room: Maryam Mirzakhani (Bat Borel, 2nd floor)

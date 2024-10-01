@@ -1,15 +1,7 @@
-- speaker: Pietro Gori
-  date: October 1st 2024
-  time: 14h
-  affiliation: Télécom Paris
-  url: https://perso.telecom-paristech.fr/pgori/
-  title: "Contrastive Learning in Computer Vision and Medical Imaging - A metric learning approach"
-  abstract: "Contrastive Learning (CL) is a paradigm designed for self-supervised representation learning which has been applied to unsupervised, weakly supervised and supervised problems. The objective in CL is to estimate a parametric mapping function that maps positive samples (semantically similar) close together in the representation space and negative samples (semantically dissimilar) far away from each other. In general, positive samples can be defined in different ways depending on the problem: transformations (i.e., augmentations) of the same image (unsupervised setting), samples belonging to the same class (supervised) or with similar image attributes (weakly-supervised). The definition of negative samples varies accordingly. In this talk, we will show how a metric learning approach for CL allows us to: 1- better formalize recent contrastive losses, such as InfoNCE and SupCon, 2- derive new losses for unsupervised, supervised, and weakly supervised problems, and 3- propose new regularization terms for debiasing. Furthermore, leveraging the proposed metric learning approach and kernel theory, we will describe a novel loss, called decoupled uniformity, that allows the integration of prior knowledge, given either by generative models or weak attributes, and removes the positive-negative coupling problem, as in the InfoNCE loss. We validate the usefulness of the proposed losses on standard vision datasets and medical imaging data. "
-  room: Maryam Mirzakhani (Bat Borel, 2nd floor)
-  
+
 - speaker: Marien Renaud
   date: October 1st 2024
-  time: 15h
+  time: 14h
   affiliation: Institut de Mathématiques de Bordeaux
   title: "Plug-and-Play image restoration with Stochastic deNOising REgularization"
   abstract: "Plug-and-Play (PnP) algorithms are a class of iterative algorithms that address image inverse problems by combining a physical model and a deep neural network for regularization. Even if they produce impressive image restoration results, these algorithms rely on a non-standard use of a denoiser on images that are less and less noisy along the iterations, which contrasts with recent algorithms based on Diffusion Models, where the denoiser is applied only on re-noised images. We will introduce a new PnP framework, called Stochastic deNOising REgularization (SNORE), which applies the denoiser only on images with noise of the adequate level. It is based on an explicit stochastic regularization, which leads to a stochastic gradient descent algorithm to solve ill-posed inverse problems. A convergence analysis of this algorithm and its annealing extension will be presented. Experimental results, competitive with respect to state-of-the-art methods, will be shown on deblurring and inpainting tasks. "
@@ -33,7 +25,56 @@
   abstract: "Transcribing a historical manuscript is a tedious task, especially in the case of palimpsests, where the sought text was erased and overwritten with another text. Recently, advancements in deep learning text recognition models, especially in multimodal large language models, have raised hopes for future automatization of this process. However, the two issues have prevented this progress so far. First, the absence of sufficient ground-truth data. Historical texts transcription platform Transkribus, estimates that approximately 20-30 pages of transcribed pages are required for training a model, which is already a very difficult task for historians. We assume that was meant for an undamaged manuscript, since remarks are made about enlarging the dataset in case of more variations. Second is the extreme damage to the text, which pushes us to image text in more complex modalities than a simple image scan. Thus, instead of capturing the text image, the push was made to capture the chemical composition of materials. One of the most popular systems for this became multispectral imaging systems. While it will not capture the chemical composition, it reveals the difference in the spectrum of materials.  However, until recently, msi palimpsest imaging systems lacked the data standardization procedures that created perturbation unrelated to the data composition, enabling the usage of the text transcription model on raw data. However, more and more attempts are being made to apply the standardization of multispectral imaging. This will allow us not only to create substantial data collection but also to unleash the potential presented by multispectral imaging. Our goal in this work is to test the capacity of neural network to detect the traces of undertext."
   room: Maryam Mirzakhani (Bat Borel, 2nd floor)
   
+  
+- speaker: Andrés Almansa
+  date: December 3rd
+  time: 2pm
+  affiliation: MAP5, Université Paris Cité 
+  url: https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
 
 
+- speaker: Stanislas Strasman 
+  date: December 3rd
+  time: 3pm
+  affiliation: LPSM, Sorbonne Université
+  url: 
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)  
+
+
+- speaker: Thomas Moreau
+  date: January 7th
+  time: 2pm
+  affiliation: INRIA Saclay
+  url: https://tommoral.github.io/about.html
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+  
+
+
+- speaker: Émile Pierret
+  date: January 7th
+  time: 3pm
+  affiliation: IDP, Université d'Orléans
+  url: https://www.idpoisson.fr/pierret/
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Gabriel Peyré
+  date: June 3rd
+  time: 2pm
+  affiliation: DMA, École Normale Supérieure 
+  url: https://www.gpeyre.com/
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+  
 
 
