@@ -46,8 +46,6 @@
   abstract: ""
   room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
   
-
-
 - speaker: Émile Pierret
   date: January 7th
   time: 3pm
@@ -57,6 +55,64 @@
   abstract: ""
   room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
 
+- speaker: Pascal Monasse
+  date: February 4th
+  time: 2pm
+  affiliation: IMAGINE, École Nationale des Ponts et Chaussées
+  url: https://imagine.enpc.fr/~monasse/
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Flavier Léger
+  date: February 4th
+  time: 3pm
+  affiliation: INRIA, Cérémade, Université Paris Dauphine
+  url: https://flavienleger.github.io/
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Matthieu Serfaty
+  date: March 4th
+  time: 2pm
+  affiliation: Centre Borelli, ENS Paris-Saclay
+  url: 
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Yanhao Li
+  date: March 4th
+  time: 3pm
+  affiliation: Centre Borelli, ENS Paris-Saclay
+  url: 
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Clément Rambour
+  date: April 1st
+  time: 2pm
+  affiliation: ISIR, Sorbonne Université
+  url: https://clementrambour.github.io/
+  title: ""
+  abstract: ""
+  room: Amphi Yvette Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: TBA
+  date: May 6th
+  time: 2pm
+  affiliation: TBA
+  url: 
+  title: ""
+  abstract: ""
+  room: Amphi Hermite (Bat Borel)
 
 - speaker: Gabriel Peyré
   date: June 3rd
