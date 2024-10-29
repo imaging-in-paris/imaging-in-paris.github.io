@@ -1,12 +1,3 @@
-
-- speaker: Marien Renaud
-  date: October 1st 2024
-  time: 14h
-  affiliation: Institut de Mathématiques de Bordeaux
-  title: "Plug-and-Play image restoration with Stochastic deNOising REgularization"
-  abstract: "Plug-and-Play (PnP) algorithms are a class of iterative algorithms that address image inverse problems by combining a physical model and a deep neural network for regularization. Even if they produce impressive image restoration results, these algorithms rely on a non-standard use of a denoiser on images that are less and less noisy along the iterations, which contrasts with recent algorithms based on Diffusion Models, where the denoiser is applied only on re-noised images. We will introduce a new PnP framework, called Stochastic deNOising REgularization (SNORE), which applies the denoiser only on images with noise of the adequate level. It is based on an explicit stochastic regularization, which leads to a stochastic gradient descent algorithm to solve ill-posed inverse problems. A convergence analysis of this algorithm and its annealing extension will be presented. Experimental results, competitive with respect to state-of-the-art methods, will be shown on deblurring and inpainting tasks. "
-  room: Maryam Mirzakhani (Bat Borel, 2nd floor)
-  
 - speaker: Samuel Vaiter
   date: November 5th 2024
   time: 14h
