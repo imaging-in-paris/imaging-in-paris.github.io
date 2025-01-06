@@ -88,17 +88,12 @@ Organizers
 Thanks
 -----
 
-The seminar is hosted by [IHP](http://www.ihp.fr), and supported by the [RT-MAIAGES](https://rt-maiages.math.cnrs.fr/) and [Télécom Paris](https://www.telecom-paris.fr/).
+The seminar is hosted by [IHP](http://www.ihp.fr), and supported by [RT-MAIAGES](https://rt-maiages.math.cnrs.fr/), [Télécom Paris](https://www.telecom-paris.fr/) and [CMM Mines Paris - PSL](https://www.cmm.minesparis.psl.eu/).
 
 <p align="center">
 
 <a href="http://www.ihp.fr">
 <img width="150" src="../img/logo-ihp.jpg"/>
-</a>
-&nbsp;
-
-<a href="http://smai.emath.fr/spip.php?article406">
-<img width="150" src="../img/logo-sigma.jpg"/>
 </a>
 &nbsp;
 
@@ -109,6 +104,12 @@ The seminar is hosted by [IHP](http://www.ihp.fr), and supported by the [RT-MAIA
 
 <a href="https://www.telecom-paris.fr/">
 <img width="110" src="../img/logo-telecom-ipp.png"/>
+</a>
+
+<br/>
+
+<a href="https://www.telecom-paris.fr/">
+<img width="330" src="../img/logo-mines.png"/>
 </a>
 
 </p>

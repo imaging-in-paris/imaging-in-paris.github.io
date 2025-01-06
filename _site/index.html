@@ -161,35 +161,12 @@
 	<details>
 	<summary>
 	
-	<a href="https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/"><b>Andrés Almansa</b></a>  (MAP5, Université Paris Cité)<br />
-	December 3rd, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i>Posterior sampling in imaging with learnt priors: from Langevin to diffusion models</i> <b>&#x2B07;</b> <br />
-	</summary>
-	<b>Abstract:</b> In this talk we explore some recent techniques to perform posterior sampling for ill-posed inverse problems in imaging when the likelihood is known explicitly, and the prior is only known implicitly via a denoising neural network that has been pretrained on a large collection of images. We show how to extend the Unadjusted Langevin Algorithm (ULA) to this particular setting leading to Plug &amp; Play ULA. We explore the convergence properties of PnP-ULA, the crucial role of the stepsize and its relationship with the smoothness of the prior and the likelihood. In order to relax stringent constraints on the stepsize, annealed Langevin algorithms have been proposed, which are tightly related to generative denoising diffusion probabilistic models (DDPM). The image prior that is implicit in these generative models can be adapted to perform posterior sampling, by a clever use of gaussian approximations, with varying degrees of accuracy, like in Diffusion Posterior Sampling (DPS) and Pseudo-Inverse Guided Diffusion Models (PiGDM). We conclude with an application to blind deblurring, where DPS and PiGDM are used in combination with an Expectation Maximization algorithm to jointly estimate the unknown blur kernel, and sample sharp images from the posterior. <br /> Collaborators (in alphabetical order) Guillermo Carbajal, Eva Coupeté, Valentin De Bortoli, Julie Delon, Alain Durmus, Ulugbek Kamilov, Charles Laroche, Rémy Laumont, Jiaming Liu, Pablo Musé, Marcelo Pereyra, Marien Renaud, Matias Tassano.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	
-	<a href=""><b>Stanislas Strasman</b></a>  (LPSM, Sorbonne Université)<br />
-	December 3rd, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i>An analysis of the noise schedule for score-based generative models.</i> <b>&#x2B07;</b> <br />
-	</summary>
-	<b>Abstract:</b> Score-based generative models (SGMs) aim at estimating a target data distribution by learning score functions using only noise-perturbed samples from the target. Recent literature has focused extensively on assessing the error between the target and estimated distributions, gauging the generative quality through the Kullback-Leibler (KL) divergence and Wasserstein distances. Under mild assumptions on the data distribution, we establish an upper bound for the KL divergence between the target and the estimated distributions, explicitly depending on any time-dependent noise schedule. Under additional regularity assumptions, taking advantage of favorable underlying contraction mechanisms, we provide a tighter error bound in Wasserstein distance compared to state-of-the-art results. In addition to being tractable, this upper bound jointly incorporates properties of the target distribution and SGM hyperparameters that need to be tuned during training.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	
 	<a href="https://tommoral.github.io/about.html"><b>Thomas Moreau</b></a>  (INRIA Saclay)<br />
 	January 7th, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i></i> <b>&#x2B07;</b> <br />
+	<b>Title:</b> <i>Unrolling algorithms for inverse problems: the critical role of warm starts in bilevel optimization</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> 
+	<b>Abstract:</b> Algorithm unrolling, a method that parameterizes classical optimization algorithms as differentiable procedures, has emerged as a powerful tool for solving inverse problems. These unrolled methods allow for the learning of problem-specific parameters, often leading to improved performance in the early iterations of optimization.
+In this talk, I explore the links between algorithm unrolling and bilevel optimization. First, I will discuss results that highlight the asymptotic limitations of unrolled algorithms. These findings emphasize the advantages of using unrolling with a limited number of iterations. I will then discuss some of my recent works on combining unrolled algorithms with dictionary learning to capture data-driven structures in inverse problem solutions. These results highlight the non robustness of the gradient estimation obtained with unrolling. A possible way to limit this drawback is to rely on warm starting, which has been known to be critical to derive converging bilevel optimization algorithms. This offers new insights into designing efficient and robust plug-and-play algorithms based on unrolled denoisers for solving challenging inverse problems.
 	</details>
 </p>
 
@@ -199,9 +176,9 @@
 	
 	<a href="https://www.idpoisson.fr/pierret/"><b>Émile Pierret</b></a>  (IDP, Université d'Orléans)<br />
 	January 7th, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i></i> <b>&#x2B07;</b> <br />
+	<b>Title:</b> <i>Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> 
+	<b>Abstract:</b> Diffusion or score-based models recently showed high performance in image generation. They rely on a forward and a backward stochastic differential equations (SDE). The sampling of a data distribution is achieved by solving numerically the backward SDE or its associated flow ODE. Studying the convergence of these models necessitates to control four different types of error: the initialization error, the truncation error, the discretization and the score approximation. In this paper, we study theoretically the behavior of diffusion models and their numerical implementation when the data distribution is Gaussian. In this restricted framework where the score function is a linear operator, we can derive the analytical solutions of the forward and backward SDEs as well as the associated flow ODE. This provides exact expressions for various Wasserstein errors which enable us to compare the influence of each error type for any sampling scheme, thus allowing to monitor convergence directly in the data space instead of relying on Inception features. Our experiments show that the recommended numerical schemes from the diffusion models literature are also the best sampling schemes for Gaussian distributions.
 	</details>
 </p>
 
@@ -296,6 +273,44 @@
 <p>
 	<details>
 	<summary>
+	<a href="https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/">Andrés Almansa</a>
+	
+		(MAP5, Université Paris Cité)
+	
+	<br />
+	
+	December 3rd, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
+	<br />
+	<b>Title:</b> <i>Posterior sampling in imaging with learnt priors: from Langevin to diffusion models</i> <b>&#x2B07;</b>
+	
+	<br />
+	</summary>
+	<b>Abstract:</b> In this talk we explore some recent techniques to perform posterior sampling for ill-posed inverse problems in imaging when the likelihood is known explicitly, and the prior is only known implicitly via a denoising neural network that has been pretrained on a large collection of images. We show how to extend the Unadjusted Langevin Algorithm (ULA) to this particular setting leading to Plug &amp; Play ULA. We explore the convergence properties of PnP-ULA, the crucial role of the stepsize and its relationship with the smoothness of the prior and the likelihood. In order to relax stringent constraints on the stepsize, annealed Langevin algorithms have been proposed, which are tightly related to generative denoising diffusion probabilistic models (DDPM). The image prior that is implicit in these generative models can be adapted to perform posterior sampling, by a clever use of Gaussian approximations, with varying degrees of accuracy, like in Diffusion Posterior Sampling (DPS) and Pseudo-Inverse Guided Diffusion Models (PiGDM). We conclude with an application to blind deblurring, where DPS and PiGDM are used in combination with an Expectation Maximization algorithm to jointly estimate the unknown blur kernel, and sample sharp images from the posterior. <br /> Collaborators (in alphabetical order) Guillermo Carbajal, Eva Coupeté, Valentin De Bortoli, Julie Delon, Alain Durmus, Ulugbek Kamilov, Charles Laroche, Rémy Laumont, Jiaming Liu, Pablo Musé, Marcelo Pereyra, Marien Renaud, Matias Tassano.
+	</details>
+</p>
+
+<p>
+	<details>
+	<summary>
+	<a href="">Stanislas Strasman</a>
+	
+		(LPSM, Sorbonne Université)
+	
+	<br />
+	
+	December 3rd, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
+	<br />
+	<b>Title:</b> <i>An analysis of the noise schedule for score-based generative models.</i> <b>&#x2B07;</b>
+	
+	<br />
+	</summary>
+	<b>Abstract:</b> Score-based generative models (SGMs) aim at estimating a target data distribution by learning score functions using only noise-perturbed samples from the target. Recent literature has focused extensively on assessing the error between the target and estimated distributions, gauging the generative quality through the Kullback-Leibler (KL) divergence and Wasserstein distances. Under mild assumptions on the data distribution, we establish an upper bound for the KL divergence between the target and the estimated distributions, explicitly depending on any time-dependent noise schedule. Under additional regularity assumptions, taking advantage of favorable underlying contraction mechanisms, we provide a tighter error bound in Wasserstein distance compared to state-of-the-art results. In addition to being tractable, this upper bound jointly incorporates properties of the target distribution and SGM hyperparameters that need to be tuned during training.
+	</details>
+</p>
+
+<p>
+	<details>
+	<summary>
 	<a href="">Samuel Vaiter</a>
 	
 		(CNRS, LJAD Université Côte d'Azur)
@@ -364,17 +379,12 @@
 
 <h2 id="thanks">Thanks</h2>
 
-<p>The seminar is hosted by <a href="http://www.ihp.fr">IHP</a>, and supported by the <a href="https://rt-maiages.math.cnrs.fr/">RT-MAIAGES</a> and <a href="https://www.telecom-paris.fr/">Télécom Paris</a>.</p>
+<p>The seminar is hosted by <a href="http://www.ihp.fr">IHP</a>, and supported by <a href="https://rt-maiages.math.cnrs.fr/">RT-MAIAGES</a>, <a href="https://www.telecom-paris.fr/">Télécom Paris</a> and <a href="https://www.cmm.minesparis.psl.eu/">CMM Mines Paris - PSL</a>.</p>
 
 <p align="center">
 
 <a href="http://www.ihp.fr">
 <img width="150" src="../img/logo-ihp.jpg" />
-</a>
-&nbsp;
-
-<a href="http://smai.emath.fr/spip.php?article406">
-<img width="150" src="../img/logo-sigma.jpg" />
 </a>
 &nbsp;
 
@@ -385,6 +395,12 @@
 
 <a href="https://www.telecom-paris.fr/">
 <img width="110" src="../img/logo-telecom-ipp.png" />
+</a>
+
+<br />
+
+<a href="https://www.telecom-paris.fr/">
+<img width="330" src="../img/logo-mines.png" />
 </a>
 
 </p>
@@ -426,7 +442,7 @@
                     
                 </ul>
                 <!--
-                  <p class="copyright text-muted">Copyright &copy; Séminaire Parisien des Mathématiques de l'Imagerie 2024</p>
+                  <p class="copyright text-muted">Copyright &copy; Séminaire Parisien des Mathématiques de l'Imagerie 2025</p>
                 -->
             </div>
         </div>
