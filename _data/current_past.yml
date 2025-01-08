@@ -1,6 +1,26 @@
+
+- speaker: Thomas Moreau
+  date: January 7th
+  time: 2pm
+  affiliation: INRIA Saclay
+  url: https://tommoral.github.io/about.html
+  title: "Unrolling algorithms for inverse problems: the critical role of warm starts in bilevel optimization"
+  abstract: "Algorithm unrolling, a method that parameterizes classical optimization algorithms as differentiable procedures, has emerged as a powerful tool for solving inverse problems. These unrolled methods allow for the learning of problem-specific parameters, often leading to improved performance in the early iterations of optimization.
+
+In this talk, I explore the links between algorithm unrolling and bilevel optimization. First, I will discuss results that highlight the asymptotic limitations of unrolled algorithms. These findings emphasize the advantages of using unrolling with a limited number of iterations. I will then discuss some of my recent works on combining unrolled algorithms with dictionary learning to capture data-driven structures in inverse problem solutions. These results highlight the non robustness of the gradient estimation obtained with unrolling. A possible way to limit this drawback is to rely on warm starting, which has been known to be critical to derive converging bilevel optimization algorithms. This offers new insights into designing efficient and robust plug-and-play algorithms based on unrolled denoisers for solving challenging inverse problems."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
   
+- speaker: Émile Pierret
+  date: January 7th
+  time: 3pm
+  affiliation: IDP, Université d'Orléans
+  url: https://www.idpoisson.fr/pierret/
+  title: "Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors"
+  abstract: "Diffusion or score-based models recently showed high performance in image generation. They rely on a forward and a backward stochastic differential equations (SDE). The sampling of a data distribution is achieved by solving numerically the backward SDE or its associated flow ODE. Studying the convergence of these models necessitates to control four different types of error: the initialization error, the truncation error, the discretization and the score approximation. In this paper, we study theoretically the behavior of diffusion models and their numerical implementation when the data distribution is Gaussian. In this restricted framework where the score function is a linear operator, we can derive the analytical solutions of the forward and backward SDEs as well as the associated flow ODE. This provides exact expressions for various Wasserstein errors which enable us to compare the influence of each error type for any sampling scheme, thus allowing to monitor convergence directly in the data space instead of relying on Inception features. Our experiments show that the recommended numerical schemes from the diffusion models literature are also the best sampling schemes for Gaussian distributions."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
 - speaker: Andrés Almansa
-  date: December 3rd
+  date: December 3rd 2024
   time: 2pm
   affiliation: MAP5, Université Paris Cité 
   url: https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/
@@ -11,7 +31,7 @@ Collaborators (in alphabetical order) Guillermo Carbajal, Eva Coupeté, Valentin
 
 
 - speaker: Stanislas Strasman 
-  date: December 3rd
+  date: December 3rd 2024
   time: 3pm
   affiliation: LPSM, Sorbonne Université
   url: 

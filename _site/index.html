@@ -161,31 +161,6 @@
 	<details>
 	<summary>
 	
-	<a href="https://tommoral.github.io/about.html"><b>Thomas Moreau</b></a>  (INRIA Saclay)<br />
-	January 7th, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i>Unrolling algorithms for inverse problems: the critical role of warm starts in bilevel optimization</i> <b>&#x2B07;</b> <br />
-	</summary>
-	<b>Abstract:</b> Algorithm unrolling, a method that parameterizes classical optimization algorithms as differentiable procedures, has emerged as a powerful tool for solving inverse problems. These unrolled methods allow for the learning of problem-specific parameters, often leading to improved performance in the early iterations of optimization.
-In this talk, I explore the links between algorithm unrolling and bilevel optimization. First, I will discuss results that highlight the asymptotic limitations of unrolled algorithms. These findings emphasize the advantages of using unrolling with a limited number of iterations. I will then discuss some of my recent works on combining unrolled algorithms with dictionary learning to capture data-driven structures in inverse problem solutions. These results highlight the non robustness of the gradient estimation obtained with unrolling. A possible way to limit this drawback is to rely on warm starting, which has been known to be critical to derive converging bilevel optimization algorithms. This offers new insights into designing efficient and robust plug-and-play algorithms based on unrolled denoisers for solving challenging inverse problems.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	
-	<a href="https://www.idpoisson.fr/pierret/"><b>Émile Pierret</b></a>  (IDP, Université d'Orléans)<br />
-	January 7th, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i>Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors</i> <b>&#x2B07;</b> <br />
-	</summary>
-	<b>Abstract:</b> Diffusion or score-based models recently showed high performance in image generation. They rely on a forward and a backward stochastic differential equations (SDE). The sampling of a data distribution is achieved by solving numerically the backward SDE or its associated flow ODE. Studying the convergence of these models necessitates to control four different types of error: the initialization error, the truncation error, the discretization and the score approximation. In this paper, we study theoretically the behavior of diffusion models and their numerical implementation when the data distribution is Gaussian. In this restricted framework where the score function is a linear operator, we can derive the analytical solutions of the forward and backward SDEs as well as the associated flow ODE. This provides exact expressions for various Wasserstein errors which enable us to compare the influence of each error type for any sampling scheme, thus allowing to monitor convergence directly in the data space instead of relying on Inception features. Our experiments show that the recommended numerical schemes from the diffusion models literature are also the best sampling schemes for Gaussian distributions.
-	</details>
-</p>
-
-<p>
-	<details>
-	<summary>
-	
 	<a href="https://imagine.enpc.fr/~monasse/"><b>Pascal Monasse</b></a>  (IMAGINE, École Nationale des Ponts et Chaussées)<br />
 	February 4th, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
 	<b>Title:</b> <i></i> <b>&#x2B07;</b> <br />
@@ -200,9 +175,9 @@ In this talk, I explore the links between algorithm unrolling and bilevel optimi
 	
 	<a href="https://flavienleger.github.io/"><b>Flavier Léger</b></a>  (INRIA, Cérémade, Université Paris Dauphine)<br />
 	February 4th, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).<br />
-	<b>Title:</b> <i></i> <b>&#x2B07;</b> <br />
+	<b>Title:</b> <i>Gradient descent with a general cost</i> <b>&#x2B07;</b> <br />
 	</summary>
-	<b>Abstract:</b> 
+	<b>Abstract:</b> In this talk I will present an approach to iteratively minimize a given objective function using minimizing movement schemes built on general cost functions. I will introduce an explicit method, gradient descent with a general cost (GDGC), as well as an implicit, proximal-like scheme and an explicit-implicit (forward-backward) method. <br /> GDGC unifies several standard gradient descent-type methods: gradient descent, mirror descent, Newton’s method, and Riemannian gradient descent. I will explain how the so-called nonnegative cross-curvature condition provides tractable conditions to prove convergence rates for GDGC. <br /> Byproducts of this framework include: (1) a new nonsmooth mirror descent, (2) global convergence rates for Newton’s method, and (3) a clear picture of the type of convexity needed for converging schemes in the Riemannian setting. 
 	</details>
 </p>
 
@@ -273,13 +248,52 @@ In this talk, I explore the links between algorithm unrolling and bilevel optimi
 <p>
 	<details>
 	<summary>
+	<a href="https://tommoral.github.io/about.html">Thomas Moreau</a>
+	
+		(INRIA Saclay)
+	
+	<br />
+	
+	January 7th, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
+	<br />
+	<b>Title:</b> <i>Unrolling algorithms for inverse problems: the critical role of warm starts in bilevel optimization</i> <b>&#x2B07;</b>
+	
+	<br />
+	</summary>
+	<b>Abstract:</b> Algorithm unrolling, a method that parameterizes classical optimization algorithms as differentiable procedures, has emerged as a powerful tool for solving inverse problems. These unrolled methods allow for the learning of problem-specific parameters, often leading to improved performance in the early iterations of optimization.
+In this talk, I explore the links between algorithm unrolling and bilevel optimization. First, I will discuss results that highlight the asymptotic limitations of unrolled algorithms. These findings emphasize the advantages of using unrolling with a limited number of iterations. I will then discuss some of my recent works on combining unrolled algorithms with dictionary learning to capture data-driven structures in inverse problem solutions. These results highlight the non robustness of the gradient estimation obtained with unrolling. A possible way to limit this drawback is to rely on warm starting, which has been known to be critical to derive converging bilevel optimization algorithms. This offers new insights into designing efficient and robust plug-and-play algorithms based on unrolled denoisers for solving challenging inverse problems.
+	</details>
+</p>
+
+<p>
+	<details>
+	<summary>
+	<a href="https://www.idpoisson.fr/pierret/">Émile Pierret</a>
+	
+		(IDP, Université d'Orléans)
+	
+	<br />
+	
+	January 7th, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
+	<br />
+	<b>Title:</b> <i>Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors</i> <b>&#x2B07;</b>
+	
+	<br />
+	</summary>
+	<b>Abstract:</b> Diffusion or score-based models recently showed high performance in image generation. They rely on a forward and a backward stochastic differential equations (SDE). The sampling of a data distribution is achieved by solving numerically the backward SDE or its associated flow ODE. Studying the convergence of these models necessitates to control four different types of error: the initialization error, the truncation error, the discretization and the score approximation. In this paper, we study theoretically the behavior of diffusion models and their numerical implementation when the data distribution is Gaussian. In this restricted framework where the score function is a linear operator, we can derive the analytical solutions of the forward and backward SDEs as well as the associated flow ODE. This provides exact expressions for various Wasserstein errors which enable us to compare the influence of each error type for any sampling scheme, thus allowing to monitor convergence directly in the data space instead of relying on Inception features. Our experiments show that the recommended numerical schemes from the diffusion models literature are also the best sampling schemes for Gaussian distributions.
+	</details>
+</p>
+
+<p>
+	<details>
+	<summary>
 	<a href="https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/">Andrés Almansa</a>
 	
 		(MAP5, Université Paris Cité)
 	
 	<br />
 	
-	December 3rd, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
+	December 3rd 2024, 2pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
 	<br />
 	<b>Title:</b> <i>Posterior sampling in imaging with learnt priors: from Langevin to diffusion models</i> <b>&#x2B07;</b>
 	
@@ -298,7 +312,7 @@ In this talk, I explore the links between algorithm unrolling and bilevel optimi
 	
 	<br />
 	
-	December 3rd, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
+	December 3rd 2024, 3pm, room Amphi Yvonne Choquet-Bruhat (Bat Perrin).
 	<br />
 	<b>Title:</b> <i>An analysis of the noise schedule for score-based generative models.</i> <b>&#x2B07;</b>
 	
