@@ -4,8 +4,8 @@
   time: 2pm
   affiliation: IMAGINE, École Nationale des Ponts et Chaussées
   url: https://imagine.enpc.fr/~monasse/
-  title: ""
-  abstract: ""
+  title: "Tree representations of images and applications"
+  abstract: "Starting from the Reeb tree to component trees and variants, various proposals have been made for abstracting the level sets of images and their relationship. The simplest one is obtained by representing an image as a continuous function through interpolation. The easiest way to achieve it is through bilinear interpolation of the samples. Its tree of level lines can be efficiently recovered and the defects of bilinear interpolation on the regularity of level lines can be fixed through affine shortening. Several applications from mean curvature estimation to vectorization are presented. Curiously, the discrete representation of the image by a simplicial complex imposes more restrictions on what can be done. Provided they are fulfilled, several fast algorithms compete to compute the tree in this case."
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
 
 - speaker: Flavier Léger
