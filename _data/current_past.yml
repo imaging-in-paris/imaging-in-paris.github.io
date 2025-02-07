@@ -1,3 +1,22 @@
+- speaker: Pascal Monasse
+  date: February 4th
+  time: 2pm
+  affiliation: IMAGINE, École Nationale des Ponts et Chaussées
+  url: https://imagine.enpc.fr/~monasse/
+  title: "Tree representations of images and applications"
+  abstract: "Starting from the Reeb tree to component trees and variants, various proposals have been made for abstracting the level sets of images and their relationship. The simplest one is obtained by representing an image as a continuous function through interpolation. The easiest way to achieve it is through bilinear interpolation of the samples. Its tree of level lines can be efficiently recovered and the defects of bilinear interpolation on the regularity of level lines can be fixed through affine shortening. Several applications from mean curvature estimation to vectorization are presented. Curiously, the discrete representation of the image by a simplicial complex imposes more restrictions on what can be done. Provided they are fulfilled, several fast algorithms compete to compute the tree in this case."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Flavier Léger
+  date: February 4th
+  time: 3pm
+  affiliation: INRIA, Cérémade, Université Paris Dauphine
+  url: https://flavienleger.github.io/
+  title: "Gradient descent with a general cost"
+  abstract: "In this talk I will present an approach to iteratively minimize a given objective function using minimizing movement schemes built on general cost functions. I will introduce an explicit method, gradient descent with a general cost (GDGC), as well as an implicit, proximal-like scheme and an explicit-implicit (forward-backward) method. <br/>
+GDGC unifies several standard gradient descent-type methods: gradient descent, mirror descent, Newton’s method, and Riemannian gradient descent. I will explain how the so-called nonnegative cross-curvature condition provides tractable conditions to prove convergence rates for GDGC. <br/>
+Byproducts of this framework include: (1) a new nonsmooth mirror descent, (2) global convergence rates for Newton’s method, and (3) a clear picture of the type of convexity needed for converging schemes in the Riemannian setting. "
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
 
 - speaker: Thomas Moreau
   date: January 7th
@@ -5,9 +24,7 @@
   affiliation: INRIA Saclay
   url: https://tommoral.github.io/about.html
   title: "Unrolling algorithms for inverse problems: the critical role of warm starts in bilevel optimization"
-  abstract: "Algorithm unrolling, a method that parameterizes classical optimization algorithms as differentiable procedures, has emerged as a powerful tool for solving inverse problems. These unrolled methods allow for the learning of problem-specific parameters, often leading to improved performance in the early iterations of optimization.
-
-In this talk, I explore the links between algorithm unrolling and bilevel optimization. First, I will discuss results that highlight the asymptotic limitations of unrolled algorithms. These findings emphasize the advantages of using unrolling with a limited number of iterations. I will then discuss some of my recent works on combining unrolled algorithms with dictionary learning to capture data-driven structures in inverse problem solutions. These results highlight the non robustness of the gradient estimation obtained with unrolling. A possible way to limit this drawback is to rely on warm starting, which has been known to be critical to derive converging bilevel optimization algorithms. This offers new insights into designing efficient and robust plug-and-play algorithms based on unrolled denoisers for solving challenging inverse problems."
+  abstract: "Algorithm unrolling, a method that parameterizes classical optimization algorithms as differentiable procedures, has emerged as a powerful tool for solving inverse problems. These unrolled methods allow for the learning of problem-specific parameters, often leading to improved performance in the early iterations of optimization. In this talk, I explore the links between algorithm unrolling and bilevel optimization. First, I will discuss results that highlight the asymptotic limitations of unrolled algorithms. These findings emphasize the advantages of using unrolling with a limited number of iterations. I will then discuss some of my recent works on combining unrolled algorithms with dictionary learning to capture data-driven structures in inverse problem solutions. These results highlight the non robustness of the gradient estimation obtained with unrolling. A possible way to limit this drawback is to rely on warm starting, which has been known to be critical to derive converging bilevel optimization algorithms. This offers new insights into designing efficient and robust plug-and-play algorithms based on unrolled denoisers for solving challenging inverse problems."
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
   
 - speaker: Émile Pierret

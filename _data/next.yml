@@ -1,25 +1,3 @@
-
-- speaker: Pascal Monasse
-  date: February 4th
-  time: 2pm
-  affiliation: IMAGINE, École Nationale des Ponts et Chaussées
-  url: https://imagine.enpc.fr/~monasse/
-  title: "Tree representations of images and applications"
-  abstract: "Starting from the Reeb tree to component trees and variants, various proposals have been made for abstracting the level sets of images and their relationship. The simplest one is obtained by representing an image as a continuous function through interpolation. The easiest way to achieve it is through bilinear interpolation of the samples. Its tree of level lines can be efficiently recovered and the defects of bilinear interpolation on the regularity of level lines can be fixed through affine shortening. Several applications from mean curvature estimation to vectorization are presented. Curiously, the discrete representation of the image by a simplicial complex imposes more restrictions on what can be done. Provided they are fulfilled, several fast algorithms compete to compute the tree in this case."
-  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
-
-- speaker: Flavier Léger
-  date: February 4th
-  time: 3pm
-  affiliation: INRIA, Cérémade, Université Paris Dauphine
-  url: https://flavienleger.github.io/
-  title: "Gradient descent with a general cost"
-  abstract: "In this talk I will present an approach to iteratively minimize a given objective function using minimizing movement schemes built on general cost functions. I will introduce an explicit method, gradient descent with a general cost (GDGC), as well as an implicit, proximal-like scheme and an explicit-implicit (forward-backward) method. <br/>
-GDGC unifies several standard gradient descent-type methods: gradient descent, mirror descent, Newton’s method, and Riemannian gradient descent. I will explain how the so-called nonnegative cross-curvature condition provides tractable conditions to prove convergence rates for GDGC. <br/>
-Byproducts of this framework include: (1) a new nonsmooth mirror descent, (2) global convergence rates for Newton’s method, and (3) a clear picture of the type of convexity needed for converging schemes in the Riemannian setting. "
-  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
-
-
 - speaker: Matthieu Serfaty
   date: March 4th
   time: 2pm
@@ -59,14 +37,24 @@ Byproducts of this framework include: (1) a new nonsmooth mirror descent, (2) gl
   room: Amphi Hermite (Bat Borel)
 
 
-- speaker: TBA
+- speaker: Anna Niemiec
   date: May 6th
   time: 2pm
-  affiliation: TBA
-  url: 
-  title: ""
+  affiliation: LPSC, Université Grenoble-Alpes 
+  url: https://annaniemiec.github.io/
+  title: "TBA (Inverse Problem in Astrophysics)"
   abstract: ""
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Anne Gagneux
+  date: May 6th
+  time: 3pm
+  affiliation: LIP, ENS de Lyon
+  url: https://annegnx.github.io/
+  title: "TBA (Flow Matching)"
+  abstract: ""
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
 
 - speaker: Gabriel Peyré
   date: June 3rd
