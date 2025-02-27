@@ -1,4 +1,3 @@
-
 - speaker: Matthieu Serfaty
   date: March 4th
   time: 2pm
@@ -38,14 +37,24 @@
   room: Amphi Hermite (Bat Borel)
 
 
-- speaker: TBA
+- speaker: Anna Niemiec
   date: May 6th
   time: 2pm
-  affiliation: TBA
-  url: 
-  title: ""
+  affiliation: LPSC, Université Grenoble-Alpes 
+  url: https://annaniemiec.github.io/
+  title: "TBA (Inverse Problem in Astrophysics)"
   abstract: ""
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Anne Gagneux
+  date: May 6th
+  time: 3pm
+  affiliation: LIP, ENS de Lyon
+  url: https://annegnx.github.io/
+  title: "TBA (Flow Matching)"
+  abstract: ""
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
 
 - speaker: Gabriel Peyré
   date: June 3rd
