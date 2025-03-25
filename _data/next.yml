@@ -1,30 +1,10 @@
-- speaker: Matthieu Serfaty
-  date: March 4th
-  time: 2pm
-  affiliation: Centre Borelli, ENS Paris-Saclay
-  url: 
-  title: "Fighting misinformation in satellite imagery"
-  abstract: "Satellite imagery is quickly gaining in importance; it is a critical component in many areas, among which external security. It is thus necessary to question the reliability of such data. Is it possible to guarantee that a satellite image is authentic? How can one be protected against an organization which would try to hide illegal military gear, or reversely try to push others into action by falsely pretending that it possesses such equipments? Although forensic analysis has received a lot of academic attention these past few years, it is mostly limited to photographies; there is little research done on satellite image forensics. We propose to explore how an attacker might create satellite image forgeries, and most importantly how to defend oneself against such content. Unsupervised or self-supervised methods will be developed to analyse traces left by the processing pipeline of satellite images, so as to authentify images and detect forged ones."
-  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
-
-
-- speaker: Yanhao Li
-  date: March 4th
-  time: 3pm
-  affiliation: Centre Borelli, ENS Paris-Saclay
-  url: 
-  title: "Towards explainable image forensics with resampling trace analysis in the Fourier domain"
-  abstract: "Synthetic image generation methods have recently revolutionized the way in which visual content is created. However, these methods leave traces in the Fourier spectrum, which are invisible to humans but can be effectively detected by specialized tools. More specifically, some of the spectral artifacts are related to the upsampling operations employed in generative models. In this talk, I will first present a semi-white-box method dedicated to detecting synthetic images by revealing the artifacts in the Fourier domain. Then I will present a theoretical study on the artifacts left by general resampling operations, and introduce an unsupervised method that detects the traces of resampling operations in the large sense using an a contrario framework for false alarm control."
-  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
-
-
-- speaker: Clément Rambour
+	- speaker: Clément Rambour
   date: April 1st
   time: 2pm
   affiliation: ISIR, Sorbonne Université
   url: https://clementrambour.github.io/
-  title: ""
-  abstract: ""
+  title: "Robust Contrastive Vision-Language Test-Time Adaptation"
+  abstract: "Test-Time Adaptation (TTA) involves updating the model on-the-fly to handle covariate shifts in the data. Common strategies restrict updates to batch normalization parameters. Most methods minimize entropy as an objective, promoting confident predictions and leveraging batch-level optimization to emulate the "wisdom of the crowd." However, entropy-based methods are suboptimal for vision-language models pre-trained with a contrastive loss. In this paper, we propose ClipTTA a novel test-time adaptation method specifically tailored for CLIP. ClipTTA employs a soft contrastive image-text adaptation loss that better aligns with CLIP’s pre-training objective. Gradient of the ClipTTA loss and its training dynamics shows its robustness to pseudo-labels drift and class collapse. This ClipTTA loss can be furthermore extended it with an Outlier Contrastive Exposure loss to effectively adapt the model to better detect out-of-distribution samples while adapting only on in-distribution samples. "
   room: Amphi Hermite (Bat Borel)
 
 - speaker: Pietro Gori
