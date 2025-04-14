@@ -1,22 +1,3 @@
-- speaker: Pietro Gori
-  date: April 1st
-  time: 2pm
-  affiliation: Télécom Paris
-  url: https://perso.telecom-paristech.fr/pgori/index.html
-  title: "Contrastive Learning in Computer Vision and Medical Imaging - A metric learning approach"
-  abstract: "Contrastive Learning (CL) is a paradigm designed for self-supervised representation learning which has been applied to unsupervised, weakly supervised and supervised problems. The objective in CL is to estimate a parametric mapping function that maps positive samples (semantically similar) close together in the representation space and negative samples (semantically dissimilar) far away from each other. In general, positive samples can be defined in different ways depending on the problem: transformations (i.e., augmentations) of the same image (unsupervised setting), samples belonging to the same class (supervised) or with similar image attributes (weakly-supervised). The definition of negative samples varies accordingly. In this talk, we will show how a metric learning approach for CL allows us to: 1- better formalize recent contrastive losses, such as InfoNCE and SupCon, 2- derive new losses for unsupervised, supervised, and weakly supervised problems, and 3- propose new regularization terms for debiasing. Furthermore, leveraging the proposed metric learning approach and kernel theory, we will describe a novel loss, called decoupled uniformity, that allows the integration of prior knowledge, given either by generative models or weak attributes, and removes the positive-negative coupling problem, as in the InfoNCE loss. We validate the usefulness of the proposed losses on standard vision datasets and medical imaging data."
-  room: Amphi Hermite (Bat Borel)
-
-- speaker: Clément Rambour
-  date: April 1st
-  time: 3pm
-  affiliation: ISIR, Sorbonne Université
-  url: https://clementrambour.github.io/
-  title: "Robust Contrastive Vision-Language Test-Time Adaptation"
-  abstract: "Test-Time Adaptation (TTA) involves updating the model on-the-fly to handle covariate shifts in the data. Common strategies restrict updates to batch normalization parameters. Most methods minimize entropy as an objective, promoting confident predictions and leveraging batch-level optimization to emulate the 'wisdom of the crowd.' However, entropy-based methods are suboptimal for vision-language models pre-trained with a contrastive loss. In this paper, we propose ClipTTA a novel test-time adaptation method specifically tailored for CLIP. ClipTTA employs a soft contrastive image-text adaptation loss that better aligns with CLIP’s pre-training objective. Gradient of the ClipTTA loss and its training dynamics shows its robustness to pseudo-labels drift and class collapse. This ClipTTA loss can be furthermore extended it with an Outlier Contrastive Exposure loss to effectively adapt the model to better detect out-of-distribution samples while adapting only on in-distribution samples. "
-  room: Amphi Hermite (Bat Borel)
-
-
 - speaker: Anna Niemiec
   date: May 6th
   time: 2pm
@@ -31,8 +12,9 @@
   time: 3pm
   affiliation: LIP, ENS de Lyon
   url: https://annegnx.github.io/
-  title: "TBA (Flow Matching)"
-  abstract: ""
+  title: "Plug-and-Play methods: theory and practice"
+  abstract: "In image restoration, PnP methods leverage the strength of trainable denoisers by integrating them in existing optimization schemes. First, we will show how to leverage generative models to create new denoisers. Specifically, we introduce the PnPFlow algorithm, a PnP method based on Flow Matching.
+In the second part of the talk, we will study desirable properties of PnP denoisers that ensure convergence of the associated iterative schemes. In particular, we provide an in-depth study of necessary and sufficient conditions for a neural network to be convex, beyond the traditional Input Convex Neural Network (ICNN) architecture"
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
 
 
