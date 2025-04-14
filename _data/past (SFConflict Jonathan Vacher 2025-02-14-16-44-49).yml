@@ -1,0 +1,715 @@
+- speaker: Anton François
+  date: June 4th 2024
+  time: 15h
+  affiliation: Centre Borelli, ENS Paris-Saclay
+  url: https://antonfrancois.github.io/
+  title: "Medical Image Registration for Glioblastoma MRI Using Constrained Metamorphosis"
+  abstract: "Registering three-dimensional medical images presents inherent challenges, exacerbated by topological variations between the images. Even the latest state-of-the-art methods often struggle to achieve realistic matching under these conditions. My research addresses these challenges by focusing on the registration of glioblastoma brain MRI, encompassing configurations such as healthy to cancerous states and post-operative scenarios.To tackle this task, we implemented Metamorphosis and LDDMM for 2D and 3D images using an object-oriented approach in PyTorch, with GPU acceleration and a semi-Lagrangian scheme. However, the classical Metamorphosis framework did not yield satisfactory results. To address this, we extended the framework to incorporate prior knowledge, which we term Constrained Metamorphosis. This extension allows for the addition of constraints to the registration problem by matching given priors, specifically a growing mask from a given segmentation and a field guiding deformation in a desired direction. We demonstrate the effectiveness of our approach through experiments on glioblastomas using BraTS datasets, comparing our results with state-of-the-art methods. In conclusion, I will discuss ongoing projects."
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Shizhe Chen
+  date: June 4th 2024
+  time: 14h
+  affiliation: WILLOW, INRIA Paris
+  url: https://cshizhe.github.io/
+  title: "Vision and language pre-training for robot navigation and manipulation"
+  abstract: "Pre-training on large-scale datasets has significantly accelerated progress in various domains. However, collecting real robot data for pre-training remains expensive and lacks scalability. In this talk, I will demonstrate how we can leverage large-scale Internet data to enhance robot learning. Specifically, I will first present pre-training for vision-and-language navigation, where we take advantage of in-domain web image-captions and unlabeled 3D houses to improve models’ generalization capabilities in unseen environments. Next, I will delve into pre-training approaches for more complex robot manipulation which requires fine-grained visual perception and precise control. I will introduce a versatile pre-training framework based on web 3D objects to improve visual perception for robots."
+  room: 314 (Pierre Grisvard)
+
+- speaker: Éloi Tanguy 
+  date: May 21st 2024
+  time: 14h
+  affiliation: MAP5, Université Paris Cité
+  url: https://eloitanguy.github.io/
+  title: "Properties of Discrete Sliced Wasserstein Losses"
+  abstract: "The Sliced Wasserstein (SW) distance has become a common alternative to the Wasserstein distance for the comparison of probability measures. Widespread applications include image processing, domain adaptation and generative modelling, where it is typical to optimise some parameters in order to minimise SW, which in practice serves as a loss function between discrete probability measures. These optimisation problems all bear the same sub-problem, which is minimising the SW distance between two uniform discrete measures with the same amount of points as a function of the support (i.e. a matrix of data points) of one of the measures. We study the regularity and optimisation properties of this energy, as well as its Monte-Carlo approximation (estimating the expectation in SW using projection samples), as well as asymptotical and non-asymptotical statistical properties of the Monte-Carlo approximation. Finally, we show that in a certain sense, Stochastic Gradient Descent methods minimising these energies converge towards (Clarke) critical points, with an extension to Generative Neural Network training."
+  room: 201 (Maryam Mirzakhani)
+  
+- speaker: Théophile Cantelobre 
+  date: Apr 2nd 2024
+  time: 14h
+  affiliation: SIERRA, INRIA Paris
+  url: https://theophilec.github.io/
+  title: "Measuring dissimilarity with diffeomorphism invariance"
+  abstract: "Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data's internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nyström sampling. Empirical experiments support the merits of DID. Article : https://arxiv.org/abs/2202.05614 Code : https://github.com/theophilec/diffy"
+  room: 314 (Pierre Grisvard)
+
+- speaker: Nicolas Chérel 
+  date: Apr 2nd 2024
+  time: 15h
+  affiliation: Télécom Paris
+  url: https://perso.telecom-paristech.fr/nicherel/
+  title: "Diffusion-based image and video inpainting with internal learning"
+  abstract: "Diffusion models are now the undisputed state-of-the-art for image generation and image restoration. However, they require large amounts of computational power for training and inference. We propose lightweight diffusion models for image inpainting that can be trained on a single image, or a few images. We develop a special training and inference strategy which significantly improves the results over our baseline. On images, we show that our approach competes with large state-of-the-art models in specific cases. Training a model on a single image is particularly relevant for image acquisition modality that differ from the RGB images of standard learning databases; for which no trained model is available. We have results in three different contexts: texture images, line drawing images, and materials BRDF, for which we achieve state-of-the-art results in terms of realism, with a computational load that is greatly reduced compared to concurrent methods. On videos, we present the first diffusion-based video inpainting approach. We show that our method is superior to other existing techniques for difficult situations such as dynamic textures and complex motion; other methods require supporting elements such as optical flow estimation, which limits their performance in the case of dynamic textures for example."
+  room: 314 (Pierre Grisvard)
+
+- speaker: Yann Traonmilin 
+  date: Ma 5th 2024
+  time: 14h
+  affiliation: IOP Team, Institut de Mathématiques de Bordeaux
+  url: https://yanntraonmilin.wordpress.com/
+  title: "A few years of non-convex off-the-grid estimation"
+  abstract: "In this talk, we focus on non-convex approaches for off-the-grid spike estimation. Centered around the study of basins of attraction of a non-convex functional, we explain how the study of recovery guarantees can be generally linked with the number of available measurements. With a general result on non-convex estimation of low-dimensional models, we show that the size of basins of attraction explicitly increases with respect to the number of measurements, with tight bounds for spikes recovery. These results lead to the conception of a fast algorithm for the recovery of many off-the-grid spikes: over-parametrized projected gradient descent (OP-PGD), showing promising results on realistic datasets. We also are able to give a theoretical partial control of the quality of continuous orthogonal matching pursuit without sliding which is the  initialization procedure of OP-PGD."
+  room: 314 (Pierre Grisvard)
+
+- speaker: Arnaud Quillent 
+  date: Ma 5th 2024
+  time: 15h
+  affiliation: Télécom Paris
+  url: https://scholar.google.com/citations?user=Fft8auYAAAAJ&hl=fr
+  title: "Reconstruction par apprentissage profond en tomosynthèse du sein et estimation d'incertitude"
+  abstract: "La tomosynthèse numérique du sein (Digital Breast Tomosynthesis – DBT) est une modalité d'imagerie médicale à rayons X qui permet la reconstruction de volumes 3D utilisés dans le cadre du dépistage du cancer du sein. Toutefois, à cause de diverses contraintes géométriques du système d'acquisition (anglé limité et vue éparse), des artéfacts apparaissent dans les reconstructions, ce qui dégrade grandement leur qualité et réduit leur résolution suivant l'axe vertical (détecteur-source). De ce fait, seuls les plans axiaux (parallèles au détecteur) sont actuellement exploitables par les radiologues pour poser leur diagnostic.
+Nous proposons donc une méthode de reconstruction par apprentissage profond pour la DBT, composé de deux étapes. Tout d'abord, une reconstruction itérative conventionnelle est obtenue à partir des projections acquises par le système, puis un réseau de neurones convolutifs est appliqué de façon à réduire les artéfacts présents dans l'image. Du fait de l'inexistence de données cliniques qui ne seraient pas impactées par les contraintes géométriques présentées plus haut et qui pourraient être utilisées comme vérité, nous employons une base de données composée de fantômes synthétiques pour entraîner notre modèle. Nous obtenons ainsi des résultats visuellement intéressants et améliorant grandement la qualité des volumes reconstruits.
+Le problème inverse de la reconstruction DBT étant très mal-posé du fait de l'angle limité et du peu de projections acquises, la quantité d'informations à extrapoler est importante et le réseau de neurones pourrait halluciner certaines structures. Ainsi, les volumes reconstruits ne sont pas totalement fiables. Nous donnons donc à notre modèle la capacité d'évaluer sa propre incertitude de reconstruction, et démontrons que cette dernière peut être utilisée comme une estimation fidèle de l'erreur à la vérité."
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Nicolas Chahine 
+  date: Feb 6th 2024
+  time: 15h
+  affiliation: DXOMark
+  url: https://www.linkedin.com/in/nicolas-chahine/?originalSubdomain=fr
+  title: "Assessing Portrait Quality in Digital Photography: Methods, Challenges, and Innovations"
+  abstract: "This talk focuses on the development of deep learning-based image quality assessment methods tailored for digital portrait photography. Emphasizing the estimation of portrait-specific quality attributes, it addresses the challenges in predicting various global and local aspects such as color balance, detail rendering, and facial features across a variety of scenarios. Additionally, the seminar introduces PIQ23, a comprehensive portrait-specific IQA dataset. This dataset includes images from a wide range of smartphone models, annotated for key quality attributes by expert evaluators. The discussion will highlight the dataset's role in understanding the consistency of quality assessments and the potential of integrating semantic information to improve IQA predictions in portrait photography."
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Jean Prost
+  date: Feb 6th 2024
+  time: 14h
+  affiliation: IMB, Université de Bordeaux 
+  url: https://jprost76.github.io/
+  title: "Inverse Problem Regularization with a Variational Autoencoder Prior"
+  abstract: "In this presentation, I will introduce various strategies to use pretrained variational autoencoders (VAE) as a prior model to regularize ill-posed image inverse problems, such as deblurring or super-resolution. VAE can model complex data such as images, by defining a latent variable model paramaterized by a deep neural network. However, it is difficult to use the probabilistic model learned by a VAE as a prior for an inverse problem, because it is defined as an intractable integral. In order to circumvent the intractability of the VAE model, I will first present PnP-HVAE, an iterative optimization algorithm which maximizes a joint posterior distribution on an augmented (image-latent) space. PnP-HVAE is adapted to expressive hierarchical VAE models, and enables us to control the strength of the regularization. Additionally, we draw connection with Plug-and-play methods based on deep image denoisers, and we demonstrate the convergence of our algorithm. Next, I will introduce a strategy to sample from the posterior distribution of a super-resolution problem by using a hierarchical VAE (HVAE) as a prior model. To this end, we propose to train an additional encoder on degraded observation in order to condition the HVAE generative process on the degraded observation. We demonstrate that our approach provides sample quality on par with recent diffusion models while being significantly more computationally efficient."
+  room: 314 (Pierre Grisvard)
+ 
+- speaker: Antoine Salmona
+  date: Jan 9th 2024
+  time: TBA
+  affiliation: Centre Borelli, ENS Paris Saclay
+  url: https://scholar.google.com/citations?user=K8YRnO4AAAAJ&hl=en
+  title: "Expressivité des modèles génératifs push-forward"
+  abstract: "Les modèles génératifs sont aujourd'hui l'un des sujets de recherche les plus populaires en apprentissage automatique, notamment grâce à leur impressionnante capacité à générer des images synthétiques photo-réalistes. Cependant, il reste souvent difficile de savoir si ces modèles approchent correctement la distribution sous-jacente des données ou s'ils se contentent de générer des échantillons qui semblent similaires aux données. Dans cet exposé, nous nous concentrons sur la classe particulière des modèles génératifs push-forward, qui inclut notamment les Variational Autoencoders (VAEs) et les Generative Adversarial Networks (GANs), et nous mettons en évidence qu'il existe un compromis fondamental pour ces modèles entre leur capacité à approcher des distributions multimodales et la stabilité de leur entraînement. Nous montrons par ailleurs que les modèles à diffusion ne semblent pas souffrir de cette limitation."
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Claire Launay 
+  date: Dec 5th 2023
+  time: 14h-15h
+  affiliation: LMBA, Université Bretagne Sud
+  url: https://claunay.github.io/
+  title: "Modélisation de textures : champs gaussiens autosimilaires et signal monogène"
+  abstract: "Nos travaux s'intéressent à la représentation de champs gaussiens autosimilaires anisotropes à l’aide du signal monogène. Le signal monogène utilise la transformée de Riesz et permet d’extraire des informations locales d’orientation et de structure d’une image. Une analyse multi-échelle, développée en collaboration avec Hermine Biermé, Céline Lacaux et Philippe Carré, permet d’obtenir des estimateurs non biaisés et fortement consistants des paramètres d’anisotropie et d’autosimilarité de textures gaussiennes particulières, modélisées par des champs élémentaires."
+  room: 314 (Pierre Grisvard)
+
+- speaker: Remy Abergel 
+  date: Dec 5th 2023
+  time: 15h-16h
+  affiliation: MAP5, Université Paris Cité
+  url: https://helios2.mi.parisdescartes.fr/~rabergel/
+  title: Méthodes variationnelles pour l'imagerie par résonance paramagnétique électronique Variational methods for Electron Paramagnetic Resonance Imaging
+  abstract: "L'imagerie par résonance paramagnétique électronique (RPE) est une méthode d'imagerie des molécules paramagnétiques. Celle-ci est basée sur la capacité des électrons libres à absorber puis réémettre l'énergie électromagnétique en présence d'un champ magnétique. Cet exposé sera consacré à la modélisation du problème direct reliant les mesures RPE à la cartographie des espèces paramagnétiques en présence dans l'échantillon étudié, ainsi qu'aux méthodes variationnelles proposées récemment pour effectuer son inversion. Travaux en collaboration avec Mehdi Boussâa (MAP5 & LCBPT), Sylvain Durand (MAP5) et Yves-Michel Frapart (LCBPT)."
+  room: 314 (Pierre Grisvard)
+
+- speaker: Carole Le Guyader
+  date: Nov 14th 2023
+  time: 14h-15h
+  affiliation: LMI, INSA Rouen
+  url: http://lmi.insa-rouen.fr/membres/9-membres/professeurs/28-le-guyader-carole.html
+  title: A Multiscale Deformation Representation
+  abstract: 'Motivated by Tadmor et al.’s work dedicated to multiscale image representation using hierarchical ($BV$, $L^2$) decompositions, we propose transposing their approach to the case of registration, task which consists in determining a smooth deformation aligning the salient constituents visible in an image into their counterpart in another. The underlying goal is to obtain a hierarchical decomposition of the deformation in the form of a composition of intermediate deformations: the coarser one, computed from versions of the two images capturing the essential features, encodes the main structural/geometrical deformation, while iterating the procedure and refining the versions of the two images yields more accurate deformations that map faithfully small-scale features. The proposed model falls within the framework of variational methods and hyperelasticity by viewing the shapes to be matched as Ogden materials. The material behaviour is described by means of a specifically tailored strain energy density function, complemented by $L^\infty$-penalisations ensuring that the computed deformation is a bi-Lipschitz homeomorphism. Theoretical results emphasising the mathematical soundness of the model are provided, among which the existence of minimisers/asymptotic results, and a suitable numerical algorithm is supplied, along with numerical simulations demonstrating the ability of the model to produce accurate hierarchical representations of deformations.'
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Romain Petit
+  date: Nov 14th 2023
+  time: 15h-16h
+  affiliation: MaLGa, University of Genoa
+  url: https://rpetit.github.io/
+  title: Reconstruction of piecewise constant images via total (gradient) variation regularization
+  abstract: 'In this talk, I will consider the reconstruction of some unknown image from noisy linear measurements using total (gradient) variation regularization. Empirical evidence and theoretical results suggest that this method is particularly well suited to recover piecewise constant images. It is therefore natural to study the case where the unknown image has precisely this structure. I will present two works on this topic, which are collaborations with Yohann De Castro and Vincent Duval. The first concerns a noise robustness result, stating that, in a low noise regime, the reconstruction is also piecewise constant, and one exactly recovers the number of shapes in the unknown image. The second is about introducing a new numerical method for solving the variational regularization problem. Its main feature is that it does not rely on the introduction of a fixed spatial discretization (e.g. a pixel grid), and builds a sequence of iterates that are linear combinations of indicator functions.'
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Valentin Penaud-Polge
+  date: Oct 3rd 2023
+  time: 14h-15h
+  affiliation: CMM, Mines Paris, PSL
+  url: https://scholar.google.com/citations?user=E53_9hEAAAAJ&hl=fr
+  title: "GenHarris-ResNet: A Rotation Invariant Neural Network Based on Elementary Symmetric Polynomials"
+  abstract: "We propose a rotation invariant neural network based on Gaussian derivatives. The proposed network covers the main steps of the Harris corner detector in a generalized manner. More precisely, the Harris corner response function is a combination of the elementary symmetric polynomials of the integrated dyadic (outer) product of the gradient with itself. In the same way, we define matrices to be the self dyadic product of vectors composed with higher order partial derivatives and combine the elementary symmetric polynomials. A specific global pooling layer is used to mimic the local pooling used by Harris in his method. The proposed network is evaluated through three experiments. It first shows a quasi perfect invariance to rotations on Fashion-MNIST, it obtains competitive results compared to other rotation invariant networks on MNIST-Rot, and it obtains better performances classifying galaxies (EFIGI Dataset) than networks using up to a thousand times more trainable parameters."
+  room: 314 (Pierre Grisvard)
+  
+- speaker: Jonathan Vacher
+  date: Oct 3rd 2023
+  time: 15h-16h
+  affiliation: MAP5, Université Paris Cité
+  url: https://jonathanvacher.github.io/
+  title: "Perceptual Measurements, Distances and Metrics"
+  abstract: "Perception is often viewed as a process that transforms physical variables, external to an observer, into internal psychological variables. Such a process can be modeled by a function coined perceptual scale. The perceptual scale can be deduced from psychophysical measurements that consist in comparing the relative differences between stimuli (i.e. difference scaling experiments). However, this approach is often overlooked by the modeling and experimentation communities. Here, we demonstrate the value of measuring the perceptual scale of classical (spatial frequency, orientation) and less classical physical variables (interpolation between textures) by embedding it in recent probabilistic modeling of perception. First, we show that the assumption that an observer has an internal representation of univariate parameters such as spatial frequency or orientation while stimuli are high-dimensional does not lead to contradictory predictions when following the theoretical framework. Second, we show that the measured perceptual scale corresponds to the transduction function hypothesized in this framework. In particular, we demonstrate that it is related to the Fisher information of the generative model that underlies perception and we test the predictions given by the generative model of different stimuli in a set a of difference scaling experiments. Our main conclusion is that the perceptual scale is mostly driven by the stimulus power spectrum. Finally, we propose that these measure of perceptual scales is a way to push further the notion of perceptual distances by estimating the perceptual geometry of images i.e. the path between images instead of simply the distance between those."
+  room: 314 (Pierre Grisvard)
+  slides: vacher2023
+
+
+- speaker: Tobias Liadat
+  date: Jun 15th 2023
+  time: 15h-16h
+  room: 1
+  affiliation: University College London
+  url: https://tobias-liaudat.github.io/
+  title: Recent advances in the data-driven point spread function modelling for optical telescopes
+  abstract: In astronomy, telescopes with wide-field optical instruments have a spatially varying point spread function (PSF). Certain scientific studies, like weak gravitational lensing, require a high-fidelity estimation of the PSF at target positions where no direct measurement of the PSF is provided. Even though observations of the PSF are available at some positions of the field of view, they are noisy, integrated into wavelength in the instrument's passband, and can be undersampled. PSF modelling represents a challenging ill-posed problem, as it requires building a model from these degraded observations. In this presentation, I will start by addressing recent advances for ground-based telescopes that include building the PSF model at the entire field of view at once. This problem accounts for handling discontinuities in the PSF field spatial variations, which arise from CCD-specific variations. The proposed PSF model is based on a constrained matrix factorisation framework which relies on an alternate optimisation scheme. I continue the presentation by introducing a novel framework for PSF modelling that targets space-based telescopes and, more specifically, the Euclid space mission. I propose a paradigm shift in the data-driven modelling of the instrumental response fields of telescopes. We change the data-driven modelling space from the pixels to the wavefront by adding a differentiable optical forward model into the modelling framework. This change allows transferring a great deal of complexity from the instrumental response into the forward model while adapting to the observations and remaining data-driven. Our framework allows us to build powerful physically motivated models that do not require special calibration data. We successfully model chromatic variations of the instrument's response only using noisy wide-band in-focus observations. The presentation concludes with a new optimisation procedure for the previous PSF model, where we tackle the phase retrieval problem with a model-based automatic differentiation approach. Preliminary results show that we can recover the wavefront at every position in the field of view from a set of in-focus observations. 
+  slides: 
+  
+- speaker: Mateus Sangalli
+  date: Jun 15th 2023
+  time: 14h-15h
+  room: 1
+  affiliation: Mines Paris PSL
+  url: 
+  title: Equivariant neural networks based on moving frames
+  abstract: Moving frames are a classical method of obtaining invariants to the action of a Lie group on a Manifold. We apply the method of moving frames to obtain equivariant or invariant neural network layers. We show two methods to obtain equivariant networks using moving frames; one uses differential invariants as their main layer and; the other method uses a moving frame computed from the input image. We implement networks invariant to rotations in 2 and 3 dimensions and the methods are shown to have a better performance than a CNN on tasks where rotational invariance is important. The 3D rotation invariant networks are shown to increase performance on low-resolution datasets and to be more data efficient in a protein structure classification task.
+  room:
+  
+- speaker: Marianne Clausel
+  date: 13 April 2023
+  time: 14h-15h
+  affiliation: Université de Lorraine
+  url: https://sites.google.com/site/marianneclausel
+  title: Polarimetric Fourier Phase Retrieval
+  abstract: This work introduces polarimetric Fourier phase retrieval (PPR), a physically-inspired model to leverage polarization of light information in Fourier phase retrieval problems. We provide a complete characterization of its uniqueness properties by unraveling equivalencies with two related problems, namely bivariate phase retrieval and a polynomial autocorrelation factorization problem. In particular, we show that the problem admits a unique solution, which can be formulated as a greatest common divisor (GCD) of measurements polynomials. As a result, we propose algebraic solutions for PPR based on approximate GCD computations using the null-space properties Sylvester matrices. Alternatively, existing iterative algorithms for phase retrieval, semidefinite positive relaxation and Wirtinger-Flow, are carefully adapted to solve the PPR problem. Finally, a set of numerical experiments permits a detailed assessment of the numerical behavior and relative performances of each proposed reconstruction strategy. They further demonstrate the fruitful combination of algebraic and iterative approaches towards a scalable, computationally efficient and robust to noise reconstruction strategy for PPR.
+  room: salle 201
+- speaker: Arthur Leclaire
+  date: 13 April 2023
+  time: 15h-16h
+  affiliation: Institut de Mathématiques de Bordeaux, Université de Bordeaux
+  url: https://www.math.u-bordeaux.fr/~aleclaire/
+  title: Mathematical analysis of Plug and Play methods for inverse problems in imaging
+  abstract: Plug-and-Play (PnP) methods constitute a class of iterative algorithms for imaging problems where regularization is performed by a off-the-shelf denoiser. Specifically, given an image dataset, optimizing a function (e.g. a neural network) to remove Gaussian noise is equivalent to approximating the gradient or the proximal operator of the log prior of the training dataset. Therefore, any off-the-shelf denoiser can be used as an implicit prior and inserted into an optimization scheme to restore images. But the resulting PnP scheme may not directly correspond to the minimization of an explicit functional, and its convergence is thus not straightforward. In this talk, we will present several approaches that were proposed to study the convergence of such a PnP algorithm, relying on tools from non-convex optimization and fixed point theory. In particular, we will see that it is possible to learn a denoiser that writes as a gradient-step on an explicit functional, which leads to a PnP algorithm with precise numerical control in addition to state-of-the-art image restoration performance.
+  room: salle 201
+- speaker: Nicolas Cherel
+  date: 09 February 2022
+  time: 14h-15h
+  affiliation: Télécom Paris
+  url: https://perso.telecom-paristech.fr/nicherel/
+  title: Patch and attention for image editing
+  abstract: We show through two different examples that patch-based methods remain relevant despite the widespread use of neural networks for many image editing tasks. We first present a patch-based algorithm for single image generation that performs as well as a neural network without requiring a costly training phase. We ensure visual fidelity and diversity of the results by carefully choosing the initialization of the algorithm. In the second part, we show that patch-based algorithms can benefit to modern techniques such as attention mechanisms. The use of attention has helped deep learning introduce long range dependencies but computing the full attention matrix is an expensive step with heavy memory and computational loads. We propose an efficient attention layer based on the stochastic algorithm PatchMatch, which is used for determining approximate nearest neighbors. Our layer has a greatly reduced memory complexity compared to other attention layers, scaling to high resolution images.
+  room: salle Grisvard (314)
+- speaker: Bruno Galerne
+  date: 09 February 2022
+  time: 15h-16h
+  affiliation: Institut Denis Poisson
+  url: https://www.idpoisson.fr/galerne/
+  title: Scaling Painting Style Transfer
+  abstract: Neural style transfer is a deep learning technique that produces an unprecedentedly rich style transfer from a style image to a content image and is particularly impressive when it comes to transferring style from a painting to an image. It was originally achieved by solving an optimization problem to match the global style statistics of the style image while preserving the local geometric features of the content image. The two main drawbacks of this original approach is that it is computationally expensive and that the resolution of the output images is limited by high GPU memory requirements. Many solutions have been proposed to both accelerate neural style transfer and increase its resolution, but they all compromise the quality of the produced images. Indeed, transferring the style of a painting is a complex task involving features at different scales, from the colour palette and compositional style to the fine brushstrokes and texture of the canvas. This paper provides a solution to solve the original global optimization for ultra-high resolution images, enabling multiscale style transfer at unprecedented image sizes. This is achieved by spatially localizing the computation of each forward and backward passes through the VGG network. Extensive qualitative and quantitative comparisons show that our method produces a style transfer of unmatched quality for such high resolution painting styles.
+  room: salle Grisvard (314)
+- speaker: Emre Baspinar
+  date: 15 December 2022
+  time: 14h-15h
+  affiliation: CNRS-NeuroPSI, Laboratory of Computational Neuroscience
+  url: https://sites.google.com/site/emrebaspinarhomepage/home?pli=1
+  title: A sub-Riemannian cortical model with frequency-phase and its application to image processing
+  abstract: In this talk, we will see a new geometrical model of the primary visual cortex together with its application to image enhancement and completion. Our departure point is the visual cortex model of the orientation selective cortical neurons, which was presented in [1]. We spatially extend this model to a five dimensional sub-Riemannian geometry and provide a novel geometric framework of the mammalian visual cortex which models orientation-frequency selective, phase shifted cortical cell behavior and the associated neural connectivity. The model extracts orientation, spatial frequency and phase information of the objects in any given two dimensional input image. Such information provides a characterization of the object boundaries and textures in the input image. We provide an image enhancement algorithm based on multi-frequency Laplace-Beltrami flow in the sub-Riemannian framework of the model. This algorithm can be modified so as to be used for image completion as well.
+  room: Darboux Amphitheatre
+- speaker: Dario Prandi
+  date: 15 December 2022
+  time: 15h-16h
+  affiliation: Université Paris Saclay, Centrale-Supélec
+  url: https://dprn.github.io/
+  title: Reproducing sensory induced visual hallucinations via neural fields
+  abstract: Understanding the interaction between retinal stimulation and the cortical response in the primary visual cortex (V1 for short) is a significant challenge in improving our insight into human perception and visual organisation. In this talk we will present recent work on the reproduction of various visual illusions via continuous neural field models. In particular, we will present recent results in collaboration with Y. Chitour and C. Tamekue on the modelling via Wilson-Cowan equations of MacKay-type effects (i.e., phantom images induced by geometric patterns), showing that while the classical MacKay effect (Nature, 1957) can be recovered via a linear model, the experiences of Billock and Tsou (PNAS, 2007) are fundamentally due to the presence of a non-linearity
+  room: Darboux Amphitheatre
+- speaker: Jonathan Vacher
+  date: 13 Octobre 2022
+  time: 14h-15h
+  room: salle Grisvard (314)
+  affiliation: MAP5, Université Paris-Cité
+  url:  https://jonathanvacher.github.io/
+  title: "Measuring uncertainty in human visual segmentation"
+  abstract: "Segmenting visual inputs into distinct groups of features and visual objects is central to visual function. Traditional psychophysics uncovered many rules of human perceptual segmentation, and progress in machine learning produced successful algorithms. Yet, the computational logic of human segmentation remains unclear, because we lack well-controlled paradigms to measure perceptual segmentation maps and compare models quantitatively. Here we propose a new, integrated approach: given an image, we measure multiple same--different judgments and perform model--based reconstruction of the underlying segmentation map. The reconstruction is robust to several experimental manipulations and captures the variability of individual participants. We demonstrate the approach on human segmentation of natural images and composite textures, and we show that image uncertainty affects measured human variability as well as how participants weigh different visual features. Because any segmentation algorithm can be plugged in to perform the reconstruction, our paradigm affords quantitative tests of theories of perception as well as new benchmarks for segmentation algorithms."
+- speaker: Isabelle Bloch
+  date:  13 Octobre 2022
+  time: 15h-16h
+  room: salle Grisvard (314)
+  affiliation: LIP6 - Sorbonne Université
+  url: https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1486
+  title: "Hybrid AI for knowledge representation and model-based medical image understanding - Towards explainability"
+  abstract: "This presentation will focus on hybrid AI, as a step towards explainability, more specifically in the domain of spatial reasoning and image understanding. Image understanding benefits from the modeling of knowledge about both the scene observed and the objects it contains as well as their relationships. We show in this context the contribution of hybrid artificial intelligence, combining different types of formalisms and methods, and combining knowledge with data. Knowledge representation may rely on symbolic and qualitative approaches, as well as semi-qualitative ones to account for their imprecision or vagueness. Structural information can be modeled in several formalisms, such as graphs, ontologies, logical knowledge bases, or neural networks, on which reasoning will be based. Image understanding is then expressed as a problem of spatial reasoning. These approaches will be illustrated with examples in medical imaging, illustrating the usefulness of combining several approaches."
+- speaker: Alasdair Newson
+  date:  Feb 6th, 2020
+  time: 14h-15h
+  room: R at ENS, 45 rue d'Ulm, 75005 Paris
+  affiliation: Télécom Paris
+  url: https://sites.google.com/site/alasdairnewson/
+  title: "Understanding and organising the latent space of autoencoders"
+  abstract: "Autoencoders are neural networks which project data to and from a lower dimensional latent space, the projection being learned via training on the data. While these networks produce impressive results, there is as yet little understanding of the internal mechanisms which allow autoencoders to produce such results. The work presented here has two goals. First of all, we aim to understand how the autoencoder encodes and decodes simple geometric attributes (size and position) in a very simple setting (images of disks, or simple impulses). Secondly, we present an algorithm whose goal is to organise the latent space of an autoencoder in a manner similar to Principal Component Analysis (PCA), such that each component of the latent space be statistically independent and organised in an decreasing order of importance, with respect to the $\\ell^2$ norm of the reconstruction error. We refer to this autoencoder as a PCA-autoencoder. We discuss an extension of this approach to Generative Adversarial Networks. Finally we show experimental results both in controlled settings with geometrical shapes, as well as on more complex data such as the faces of Celeb-a, where our algorithm is able to discover high-level characteristics such as hair colour, smile etc. without any access to the labels of these characteristics."
+  slides: newson
+- speaker: Antonin Chambolle
+  date:  Feb 6th, 2020
+  time: 15h-16h
+  room: R at ENS, 45 rue d'Ulm, 75005 Paris
+  affiliation: CMAP, Ecole Polytechnique
+  url: http://www.cmap.polytechnique.fr/~antonin/
+  title: "Some remarks on the discretization of the total variation"
+  abstract: ""
+- speaker: Rémi Bardenet
+  date: 7 november 2019
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, Cristal
+  url: https://rbardenet.github.io/
+  title: "DPPs everywhere: repulsive point processes for Monte Carlo integration, signal processing and machine learning"
+  abstract: "Determinantal point processes (DPPs) are specific repulsive point processes, which were introduced in the 1970s by Macchi to model fermion beams in quantum optics. More recently, they have been studied as models and sampling tools by statisticians and machine learners. Important statistical quantities associated to DPPs have geometric and algebraic interpretations, which makes them a fun object to study and a powerful algorithmic building block. After a quick introduction to determinantal point processes, I will discuss some of our recent statistical applications of DPPs. First, we used DPPs to sample nodes in numerical integration, resulting in Monte Carlo integration with fast convergence with respect to the number of integrand evaluations. Second, we turned DPPs into low-error variable selection procedures in linear regression. If time allows it, I'll describe a third application where we used DPP machinery to characterize the distribution of the zeros of time-frequency transforms of white noise, a recent challenge in signal processing. Joint with Ayoub Belhadji, Pierre Chainais, Julien Flamant, Guillaume Gautier, Adrien Hardy, Michal Valko."
+- speaker: Loïc Denis
+  date: 7 november 2019
+  time: 15h-16h
+  room: 314
+  affiliation: Laboratoire Hubert Curien UMR 5516 CNRS / Université de Saint-Etienne
+  url: https://perso.univ-st-etienne.fr/deniloic/
+  title: "Exoplanet detection by direct imaging: a data-processing method based on
+  patch covariances"
+  abstract: "The search for exoplanets is a very active subject in astronomy. Direct observation of exoplanets requires the combination of a large telescope, an extreme adaptive-optics system, a coronagraph, and dedicated data processing methods. This presentation will discuss the importance of a good statistical model of the data and describe an approach to account for the non-stationary spatial correlations in the background signal. Compared to existing approaches, this model more closely describes the data and thus leads to improved sensitivity, more accurate photometric and astrometric characterizations and more reliable results (in particular, a controlled probability of false alarms). Results obtained with the SPHERE instrument operated by the ESO at the Very Large Telescope in Chile confirm the performance of the method. An extension of the model to microscopy will also be presented.
+  This is a joint work with Olivier Flasseur (Laboratoire Hubert Curien, CNRS/Univ St Etienne/IOGS), Eric Thiébaut and Maud Langlois (Centre de
+  Recherche en Astrophysique de Lyon, CNRS/Univ Lyon 1/ENS Lyon)."
+- speaker: Emmanuel Soubies
+  date: 3 october 2019
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, IRIT
+  url: https://www.irit.fr/~Emmanuel.Soubies/
+  slides: soubies
+  title: "Relationships between necessary optimality conditions for the l2-l0 minimization problem."
+  abstract: "In this talk, we will discuss the relationships between necessary optimality conditions for the l0-regularized least-squares minimization problem. Such conditions are the roots of the plethora of algorithms that have been designed to cope with this NP-hard problem. Indeed, as global optimality is in general intractable, these algorithms only ensure the convergence to suboptimal points that verify some necessary (not sufficient) optimality conditions. The degree of restrictiveness of these conditions is thus directly related to the performance of the algorithms. Within this context, we will first review the commonly used necessary optimality conditions as well as known relationships between them. Then, we will complete this hierarchy of conditions by proving new inclusion properties between the sets of candidate solutions associated to them. Moreover, we will provide a quantitative analysis of these sets. Finally, we will present numerical experiments that illustrates the fact that the performance of an algorithm is related to the restrictiveness of the optimality condition verified by the point it converges to.
+ Joint work with Laure Blanc-Féraud and Gilles Aubert."
+- speaker: Yvain Queau
+  date: 3 october 2019
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS, GREYC
+  url: https://sites.google.com/view/yvainqueau
+  slides: queau
+  title: "Variational methods for photometric 3D-reconstruction"
+  abstract: "Shape-from-shading (SfS) is a classic inverse problem consisting in reconstructing a 3D-shape from a single photography. Yet, it is an ill-posed problem, and its numerical solving is challenging. This talk will discuss the benefits of variational methods for modeling SfS, and for solving its ambiguities through the introduction of natural Bayesian priors. Efficient splitting-based algorithms will be presented, which yield state-of-the-art results on various real-world applications such as depth super-resolution for RGBD sensors. Possible combinations with deep learning techniques will eventually be briefly discussed."
+- speaker: Hugues Talbot
+  date: 6 december 2018
+  time: 14h-15h
+  room: 314
+  affiliation: CentraleSupelec
+  url: https://hugues-talbot.github.io/
+  title: "Path operators for thin objects restoration"
+  abstract: "In this talk we will present path operators, which are efficient recursive mathematical morphology connected operators that use
+paths as structuring elements. These operators are designed to preserve thin objects in images, such as hair, cilia, vessels, oriented textures,
+etc, which are traditionally very difficult to filter using classical operators in many settings. By combining these filters, we show how we can
+propose a vesselness operator with significant better performance than the traditional linear operators based on the Hessian (Frangi, Sato, etc)
+or the structure tensor. We also show recent work on how to use these operators as regularizers in variational frameworks for image restoration, in the context of discrete calculus."
+- speaker: Denis Fortun
+  date: 6 december 2018
+  time: 15h-16h
+  room: 314
+  affiliation: iCUBE, CNRS, Université de Strasbourg
+  url: http://bigwww.epfl.ch/fortun/index.html
+  title: "Fast piecewise-affine motion estimation without segmentation"
+  abstract: "In this talk, we will review existing strategies for regularizing motion fields, and present a new method dedicated to piecewise affine models. Current algorithmic approaches for piecewise affine motion estimation are based on alternating motion segmentation and estimation. In contrast, our method estimates piecewise affine motion directly without intermediate segmentation. To this end, we reformulate the problem by imposing piecewise constancy of the parameter field, and derive a specific proximal splitting optimization scheme. A key component of our framework is an efficient 1D piecewise-affine estimator for vector-valued signals. The first advantage of our approach over segmentation-based methods is its absence of initialization. The second advantage is its lower computational cost, which is independent of the complexity of the motion field. In addition to these features, we demonstrate competitive accuracy with other piecewise-parametric methods on standard evaluation benchmarks. Our new regularization scheme also outperforms the more standard use of total variation and total generalized variation."
+- speaker: Rémi Gribonval
+  date: 8 november 2018
+  time: 14h-15h
+  room: "235A, 29 rue de l'Ulm"
+  affiliation: INRIA, Panama project-team
+  url: http://people.irisa.fr/Remi.Gribonval/
+  title: "Approximation with sparsely connected deep networks"
+  abstract: "Many of the data analysis and processing pipelines that have been carefully engineered by generations of mathematicians and practitioners can in fact be implemented as deep networks. Allowing the parameters of these networks to be automatically trained (or even randomized) allows to revisit certain classical constructions.
+
+The talk first describes an empirical approach to approximate a given matrix by a fast linear transform through numerical optimization. The main idea is to write fast linear transforms as products of few sparse factors, and to iteratively optimize over the factors. This corresponds to training a sparsely connected, linear, deep neural network. Learning algorithms exploiting iterative hard-thresholding  have been shown to perform well in practice, a striking example being their ability to somehow “reverse engineer” the fast Hadamard transform. Yet, developing a solid understanding of their conditions of success remains an open challenge.
+
+In a second part, we study the expressivity of sparsely connected deep networks. Measuring a network's complexity by its number of connections, we consider the class of functions which error of best approximation with networks of a given complexity decays at a certain rate. Using classical approximation theory, we show that this class can be endowed with a norm that makes it a nice function space, called approximation space. We establish that the presence of certain “skip connections” has no impact of the approximation space, and discuss the role of the network's nonlinearity (also known as activation function) on the resulting spaces, as well as the benefits of depth.
+For the popular ReLU nonlinearity (as well as its powers), we relate the newly identified spaces to classical Besov spaces, which have a long history as image models associated to sparse wavelet decompositions. The sharp embeddings that we establish highlight how depth enables sparsely connected networks to approximate functions of increased “roughness” (decreased Besov smoothness) compared to shallow networks and wavelets.
+
+Joint work with Luc Le Magoarou (Inria), Gitta Kutyniok (TU Berlin), Morten Nielsen (Aalborg University) and Felix Voigtlaender (KU Eichstätt). "
+
+- speaker: Antoine Houdard
+  date: 8 november 2018
+  time: 15h-16h
+  room: "235A, 29 rue de l'Ulm"
+  affiliation: "Telecom ParisTech & Universite Paris Descartes"
+  url: https://houdard.wp.imt.fr
+  title: "Some advances in patch-based image denoising"
+  abstract: "In this talk I will present my PhD thesis work on non-local methods for image denoising. Natural images contain redundant structures, and this property can be used for restoration purposes. A common way to consider this self-similarity is to separate the image into patches. These patches can then be grouped, compared and filtered together. The main part of this talk will be dedicated to the study of Gaussian priors for patch-based image denoising. Such priors are widely used for image restoration. We propose some ideas to answer the following questions: Why are Gaussian priors so widely used? What information do they encode about the image? Next I shall propose a probabilistic high-dimensional mixture model on the noisy patches. This model adopts a sparse modeling which assumes that the data lie on group-specific subspaces of low dimensionalities. This yields a denoising algorithm that demonstrates state-of-the-art performance."
+
+- speaker: Charles Hessel
+  date: 4 october 2018
+  time: 14h-15h
+  room: 314
+  affiliation: DxO and CMLA, ENS Paris Saclay
+  url: https://www.linkedin.com/in/charles-hessel-2aa70284/?originalSubdomain=fr
+  title: "Base and detail decomposition filters and the measure of their artifacts"
+  abstract: "In this CIFRE thesis, a collaboration between the CMLA, ENS Paris-Saclay and the company DxO, we tackle the problem of the additive decomposition of an image into base and detail. Such a decomposition is a fundamental tool in image processing. For applications to professional photo editing in DxO Photolab, a core requirement is the absence of artifacts. For instance, in the context of contrast enhancement, in which the base is reduced and the detail increased, minor artifacts becomes highly visible. The distortions thus introduced are unacceptable from the point of view of a photographer. The objective of this thesis is to single out and study the most suitable filters to perform this task, to improve the best ones and to define new ones. This requires a rigorous measure of the quality of the base plus detail decomposition. We examine two classic artifacts (halo and staircasing) and discover three more sorts that are equally crucial: contrast halo, compartmentalization, and the dark halo. This leads us to construct five adapted patterns to measure these artifacts. We end up ranking the optimal filters based on these measurements, and arrive at a clear decision about the best filters. Two filters stand out, including one we propose."
+
+- speaker: Paul Catala
+  date: 4 october 2018
+  time: 15h-16h
+  room: 314
+  affiliation: ENS
+  url: https://www.math.ens.fr/fiche-membre/fiche-membre.php?id_membre=361
+  title: "A Low-Rank Approach to Off-The-Grid Sparse Deconvolution"
+  abstract: "In this talk, I will present a new solver for the sparse spikes deconvolution problem over the space of
+  Radon measures. A common approach to off-the-grid deconvolution considers semidefinite
+  (SDP) relaxations of the total variation (the total mass of the absolute value of the measure)
+  minimization problem. The direct resolution of this SDP is however intractable for large scale
+  settings, since the problem size grows as n^2d where n is the cutoff frequency of the filter and d the ambient dimension. I will first introduce a penalized formulation of this semidefinite lifting, which has low-rank solutions. This formulation is then solved using a conditional gradient optimization scheme with non-convex updates. This algorithm leverages both the low-rank and the convolutive structure of the problem, resulting in an O(n^d log n) complexity per iteration. Numerical simulations are promising and show that the algorithm converges in exactly r steps, r being the number of Diracs composing the solution."
+
+- speaker: Pablo Musé
+  date: 14 juin 2018
+  time: 14h-15h
+  room: 314
+  affiliation: Facultad de Ingeniería, Universidad de la República, Montevideo, Uruguay
+  url: https://iie.fing.edu.uy/~pmuse/
+  title: "OLÉ, Orthogonal Low-rank Embedding, A Novel Approach for Deep Metric Learning"
+  abstract: "Deep neural networks trained using a softmax layer at the top and the cross-entropy loss are common tools for image classification. Yet, this does not naturally enforce intra-class similarity nor inter-class margin of the learned deep representations. To simultaneously achieve these two goals, different solutions have been proposed in the literature, such as the pairwise or triplet losses. However, such solutions carry the extra task of selecting pairs or triplets, and the extra computational burden of computing and learning for many combinations of them.
+In this talk we present a plug-and-play loss term for deep networks that explicitly reduces intra-class variance and enforces inter-class margin simultaneously, in a simple geometric manner. For each class, the deep features are collapsed into a learned linear subspace, or union of them, and inter-class subspaces are pushed to be as orthogonal as possible. Our proposed Orthogonal Low-rank Embedding does not require carefully crafting pairs or triplets of samples for training, and works standalone as a classification loss. Because of the improved margin between features of different classes, the resulting deep networks generalize better, are more discriminative and more robust. This is a joint work with José Lezama, Qiang Qiu and Guillermo Sapiro"
+
+- speaker: Paul Escande
+  date: 14 juin 2018
+  time: 15h-16h
+  room: 314
+  affiliation: Johns Hopkins University
+  url: https://www.math.univ-toulouse.fr/~pescande/index.html
+  title: "Multi-scale Decomposition of Transformations (MUSCADET)"
+  abstract: "In many applications, transformations between two domains are defined through point-wise mappings. These functions can be costly to store and compute, but also hard to interpret in a geometric fashion. In this work, we propose a way to overcome these difficulties. The main idea is a novel multi-scale decomposition of complex transformations into a cascade of elementary, user-specified, transformations.
+This methods allows to (i) Construct efficient approximations for elements of large spaces of complex transformations using simple understandable blocks, (ii) Use transformations to measure similarities between complex objects, (iii) Deal with invariance under certain transformations, (iv) Perform statistical inference tasks on sets of transformations.
+We will describe the method as well as provide theoretical guarantees on the quality of the multi-scale approximations. Then we will present some numerical experiments that show its computational efficiency."
+
+- speaker: Guillaume Charpiat
+  date: 03 mai 2018
+  time: 14h-15h
+  room: 314
+  affiliation: Équipe TAO - INRIA Saclay
+  url: https://www.lri.fr/~gcharpia/
+  title: "Introduction to Neural Networks"
+  abstract: "Neural networks have become extremely popular these last years, notably due to their recent impressive successes in computer vision, under the name of deep learning. This tutorial will describe the main principles and properties of neural networks, with a focus on convolutional neural networks (CNN), particularly suited for image-based machine learning tasks. Depending on the audience, and if time permits, we may also cover topics such as auto-encoders, generative adversarial networks, or style transfer."
+
+- speaker: Martin Holler
+  date: 03 mai 2018
+  time: 15h-16h
+  room: 314
+  affiliation: CMAP, Ecole Polytechnique
+  url: https://imsc.uni-graz.at/hollerm/
+  title: "Analysis and applications of coupled regularization with multiple data discrepancies"
+  abstract: "In many applications of inverse problem in imaging, the measured data does not correspond to a single measurement but rather to multiple simultaneous or sequential measurements, featuring different forward models and/or noise characteristics. Examples of such a setting are the joint acquisition of magnetic resonance (MR) and positron emission tomography (PET) images or the sequential acquisition of multiple time frames in dynamic imaging.
+Assuming that the images one aims to reconstruct from such measurements have different but related content, coupled regularization techniques aim at exploiting such correlations for improved reconstruction. A corresponding variational formulation comprises multiple potentially different data discrepancies and raises the question of how standard stability and convergence results in inverse problems transfer to such a situation.
+In this talk, we address this question. Motivated by concrete applications with different noise characteristics, we first consider a rather general setting and in particular show how the adaption of parameter choices strategies to different discrepancy terms yields improved convergence results. We then further elaborate on practically relevant special cases and show numerical results for joint MR-PET reconstruction and multi-spectral electron microscopy."
+
+- speaker: Nicolas Keriven
+  date: 05 avril 2018
+  time: 14h-15h
+  room: 314
+  affiliation: ENS
+  url: https://nkeriven.github.io/
+  slides: keriven
+  title: "Sketched Learning from Random Features Moments"
+  abstract: "Learning parameters from voluminous data can be prohibitive in terms of memory and computational requirements. Furthermore, modern architectures often ask for learning methods to be amenable to streaming or distributed computing. In this context, a popular approach is to first compress the database into a representation called a linear sketch, then learn the desired information using only this sketch. In this talk, we introduce a methodology to fit a mixture of probability distributions on the data, using only a sketch of the database. The sketch is defined by combining two notions from the reproducing kernel literature, kernel mean embedding and random features. It is seen to correspond to linear measurements of the probability distribution of the data, and the problem is thus analyzed under the lens of Compressive Sensing (CS), in which a signal is randomly measured and recovered. We analyze the problem using two classical approaches in CS: first a Restricted Isometry Property in the Banach space of finite signed measures, from which we obtain strong recovery guarantees however with an intractable non-convex minimization problem, and second with a dual certificate analysis, from which we show that total-variation regularization yields a convex minimization problem that in some cases recovers exactly the number of components of a gaussian mixture model. We also briefly describe a flexible heuristic greedy algorithm to estimate mixture models from a sketch, and apply it on synthetic and real data."
+
+
+- speaker: Luca Calatroni
+  date: 05 avril 2018
+  time: 15h-16h
+  room: 314
+  affiliation: CMAP, Ecole Polytechnique
+  url: http://lucacalatroni.weebly.com/
+  title: "A variational model for mixed noise removal: analysis, optimisation and structure of solutions"
+  abstract: "In several real-word imaging applications such as microscopy, astronomy and medical imaging, a combination of transmission and acquisition faults result in multiple noise statistics in the observed image, such as impulsive/Gaussian or Gaussian/Possion mixtures.  By means of a joint MAP estimation, we derive a statistically consistent variational model where single data fidelities are combined in a handy infimal convoution fashion to model the noise mixture and separated from each other via a Total Variation smoothing. By means of a fine analysis in suitable function spaces, we then study the structure of the solutions of the corresponding variational model and propose a bilevel optimisation strategy for the estimation of the optimal regularisation weights.
+This is joint work with C.B. Schönlieb (University of Cambridge, UK), J.C. De Los Reyes (ModeMat, Quito, Ecuador)  and K. Papafitsoros (WIAS Institue, Berlin, Germany)."
+
+
+- speaker: Nelly Pustelnik
+  date: 08 mars 2018
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS, Laboratoire de Physique - CNRS UMR 5672 -- ENS Lyon
+  url: http://perso.ens-lyon.fr/nelly.pustelnik/
+  title: "Analyse multirésolution et optimisation non lisse pour la segmentation de texture"
+  abstract: "La segmentation d'images texturées continue de présenter un challenge majeur en traitement d'images quand les textures rencontrées sont de type stochastiques. Dans cet exposé, nous aborderons cette question par le couplage entre analyse multirésolution et outils d’optimisation non lisse. Nous présenterons d'une part les approches usuelles en deux temps estimation/segmentation puis nous expliciterons les modèles développés permettant d'effectuer les deux étapes de façon jointe. D'autre part, nous nous intéresserons à affiner ces procédures de segmentation de textures d'un point de vue algorithmique pour obtenir des méthodes à faible coût calculatoire de façon à évaluer les performances des outils développés sur les grands volumes de données tels que ceux rencontrés dans l’étude de la dynamique des écoulements multiphasiques dans des milieux poreux."
+
+- speaker: Barbara Gris
+  date: 08 mars 2018
+  time: 15h-16h
+  room: 314
+  affiliation: KTH Royal Institute of Technology in Stockholm
+  url: http://gris.perso.math.cnrs.fr/fr/
+  title: "Reconstruction d'image à l'aide d'un a priori de déformation"
+  abstract: "La tomographie est une technique d'imagerie médicale qui consiste à reconstruire le volume d’un objet à partir de ses projections. Lorsque l'acquisition des données est longue, le sujet peut effectuer des mouvements (par exemple respiratoires) qui provoquent des artefacts dans l'image reconstruite. Le modèle que je propose a pour but de tenir compte des mouvements possibles afin d'aider à la reconstruction de l'image. Une première étape est de reconstruire  cette image comme déformation d'une image template supposée connue, tout en incorporant un a priori dans les déformations possibles. Je présenterai la notion de module de déformation et montrerai comment elle permet de contraindre les déformations à respecter une certaine structure (donnée par exemple des contraintes physiques) tout en laissant certains paramètres libres afin qu'elles puissent s'adapter aux données."
+
+- speaker: Lénaïc Chizat
+  date: 08 février 2018
+  time: 14h-15h
+  room: 314
+  affiliation: Lénaïc Chizat (SIERRA team, INRIA)
+  url: https://lchizat.github.io
+  slides: chizat
+  title: "A tutorial on optimal transport, part I: theory, model, properties"
+  abstract: "The optimal transport (OT) problem is often described as that of finding the most efficient way of moving a pile of dirt from one configuration to another. Once stated formally, OT provides extremely useful tools for comparing, interpolating and processing objects such as distributions of mass, probability measures, histograms or densities.
+This talk is an up-to-date tutorial on a selection of topics in OT. In the first part, we will present an intuitive description on OT, its behaviour and main properties. In the second part, we will introduce state-of-the-art numerical methods for solving OT (based on entropic regularization) and present how this tool can be used for both imaging and machine learning problems."
+
+- speaker: Aude Genevay
+  date: 08 février 2018
+  time: 15h-16h
+  room: 314
+  affiliation: Aude Genevay (Ecole Normale Supérieure et Université Paris Dauphine)
+  url: https://audeg.github.io
+  slides: genevay
+  title: "A tutorial on optimal transport, part II: Optimal transport for machine learning"
+  abstract: "The optimal transport (OT) problem is often described as that of finding the most efficient way of moving a pile of dirt from one configuration to another. Once stated formally, OT provides extremely useful tools for comparing, interpolating and processing objects such as distributions of mass, probability measures, histograms or densities.
+This talk is an up-to-date tutorial on a selection of topics in OT. In the first part, we will present an intuitive description on OT, its behaviour and main properties. In the second part, we will introduce state-of-the-art numerical methods for solving OT (based on entropic regularization) and present how this tool can be used for both imaging and machine learning problems."
+
+
+- speaker: Edouard Oyallon
+  date: 11 janvier 2018
+  time: 14h-15h
+  room: 314
+  affiliation: CentraleSupelec
+  url: https://edouardoyallon.github.io/
+  title: "Deep CNNs: the end of prior features?"
+  abstract: "Since 2012, Deep Convolutional Neural Networks provide generic and robust methods, that replaced predefined representations like SIFTs or HoGs in many state-of-the-art applications. In this talk, we show that supervised CNNs can be improved by incorporating geometric priors like a Scattering Transform: for instance, they learn with less samples, and are more interpretable."
+
+- speaker: Arthur Leclaire
+  date: 11 janvier 2018
+  time: 15h-16h
+  room: 314
+  affiliation: CMLA, ENS Paris-Saclay
+  url: http://www.math-info.univ-paris5.fr/~aleclair/
+  title: "Semi-discrete optimal transport in patch space for structured texture synthesis"
+  abstract: "In this talk we address exemplar-based texture synthesis using a model obtained as a local transform of a Gaussian random field. The local transformation is designed to solve a semi-discrete optimal transport problem in the patch space in order to reimpose the patch distribution of the exemplar texture. Since the patch space is high-dimensional, the optimal transport problem is solved with a stochastic optimization procedure. The resulting model inherits several benefits of the Gaussian model (stationarity, mid-range correlations) with an additional statistical guarantee on the patch distribution. We will also propose a multiscale extension of this model, which allows to synthesize structured textures with low requirements in terms of time and memory storage."
+
+- speaker: Irene Kaltenmark
+  date: 7 décembre 2017
+  time: 14h-15h
+  room: 201
+  affiliation: Institut de Neurosciences de La Timone - Université d'Aix-Marseille
+  url: https://sites.google.com/site/irenekaltenmark/
+  title: Modèles géométriques de croissance en anatomie computationnelle
+  abstract: L’utilisation de groupes de difféomorphismes agissant sur des ensembles de formes, équipant ces derniers d’une structure riemannienne, s’est avérée extrêmement efficace pour modéliser et analyser la variabilité de populations de formes issues de données d’imagerie médicale. Néanmoins, à l'intégration de l'analyse longitudinale des données, ont émergé des phénomènes biologiques de croissance ou de dégénérescence se manifestant par des déformations de nature non difféomorphique. La croissance d'un organisme par adjonction progressive et localisée de nouvelles molécules, à l’instar d’un processus de cristallisation, ne s'apparente pas à un simple étirement du tissu initial. Face à cette observation, nous proposons de garder l'esprit géométrique qui fait la puissance des approches difféomorphiques dans les espaces de formes mais en introduisant un concept assez général de déploiement où l'on modélise les phénomènes de croissance comme le déploiement optimal progressif d’une forme préalablement repliée dans une région de l'espace. À la question délicate de la caractérisation des appariements partiels modélisant le déploiement de la forme, nous répondons par un système de coordonnées biologiques évolutif et nous aboutissons finalement à un nouveau problème de contrôle optimal pour l'assimilation de données de surfaces évoluant dans le temps et représentées par des courants ou des varifolds.
+
+- speaker: Chloé-Agathe Azencott
+  date: 7 décembre 2017
+  time: 15h-16h
+  room: 201
+  affiliation: CBIO -- Institut Mines-ParisTech, Institut Curie \& INSERM
+  url: http://cazencott.info/
+  title: "Structured feature selection in high dimension for precision medicine"
+  abstract: "Differences in disease predisposition or response to treatment can be
+explained in great part by genomic differences between individuals. This
+realization has given birth to precision medicine, where treatment is
+tailored to the genome of patients. This field depends on collecting considerable amounts of molecular data for large numbers of individuals, which is being enabled by thriving developments in genome sequencing and other high-throughput experimental technologies.
+Unfortunately, we still lack effective methods to reliably detect, from
+this data, which of the genomic features determine a phenotype such as disease predisposition or response to treatment. One of the major issues is that the number of features that can be measured is large (easily reaching tens of millions) with respect to the number of samples for which they can be collected (more usually of the order of hundreds or thousands), posing both computational and statistical difficulties.
+In my talk I will discuss several ways to use constraints on the feature selection procedure to address this problem."
+
+- speaker: Pauline Tan
+  date: 9 Novembre 2017
+  time: 14h-15h
+  room: 314
+  affiliation: ONERA \& CMLA - ENS Paris Saclay
+  url: https://sites.google.com/view/paulinetan
+  title: Alternating proximal gradient descent for nonconvex regularised problems with biconvex and multiconvex coupling terms
+  abstract: "
+  There has been an increasing interest in constrained nonconvex  regularized block biconvex / multiconvex optimization problems. We introduce an  approach that effectively exploits the biconvex / multiconvex structure of the coupling term and enables complex application-dependent regularization terms to be used.The proposed ASAP algorithm enjoys simple well defined updates. Global convergence of the algorithm to a critical point is proved using the so-called Kurdyka-Lojasiewicz  property for subanalytic functions. Moreover, we prove that a large class of useful objective functions obeying our assumptions are subanalytic and thus satisfy the Kurdyka-Lojasiewicz property. I will also present two particular applications of the algorithm to big-data air-born sequences of images, which are already used by our industrial partner ONERA.
+
+This is a joint work with Mila Nikolova (CMLA, CNRS, ENS Paris-Saclay). "
+
+
+- speaker: Emilie Kaufmann
+  date: 9 Novembre 2017
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS, INRIA Lille, Université de Lille
+  url: http://chercheurs.lille.inria.fr/ekaufman
+  title: A tutorial on Multi-Armed Bandit problems, Theory and Practice
+  abstract: A Multi-Armed Bandit (MAB) model is a simple framework in which an agent sequentially sample arms, that are unknown probability distributions, in order to learn something about these underlying distributions, possibly under the constraint of maximizing some notion of reward. Stochastic MABs have been introduced in the 1930s as a simple model for clinical trials, and are widely studied nowadays for several applications, that range from sequential content optimization, cognitive radios or the design of AI for games. In this introduction to MAB, we will review existing (efficient) algorithms to either achieve an exploration/exploitation trade-off or to optimally explore a simple, i.i.d., stochastic environment. We will then see how these algorithms can be extended to deal with more realistic applications.
+
+
+- speaker: François Malgouyres
+  date: 5 Octobre 2017
+  time: 14h-15h
+  room: 314
+  affiliation: MIP - Université Paul Sabatier, Toulouse
+  url: https://www.math.univ-toulouse.fr/~fmalgouy/
+  title: Stable recovery of the factors from a deep matrix product and application to convolutional network
+  abstract: We study a deep matrix factorization problem. It takes as input a matrix \(X\) obtained by multiplying \(K\) matrices (called factors). Each factor is obtained by applying a fixed linear operator to a short vector of parameters satisfying a model (for instance sparsity, grouped sparsity, non-negativity, constraints defining a convolution network...  ). We call the problem deep or multi-layer because the number of factors is not limited. In the practical situations we have in mind, we can typically have \(K=10\) or \(100\). This work aims at identifying  conditions on the structure of the model that guarantees the stable recovery of the factors from the knowledge of \(X\) and the model for the factors.  We provide necessary and sufficient conditions for the identifiability of the factors (up to a scale rearrangement). We also provide a necessary and sufficient condition called Deep Null-Space-Property (because of the analogy with the usual Null Space Property in the compressed sensing framework) which guarantees that even an inaccurate optimization algorithm for  the factorization stably recovers the factors. We illustrate the theory with a practical example where the deep factorization is a linear convolutional network.
+
+- speaker: Fabien Pierre
+  date: 5 Octobre 2017
+  time: 15h-16h
+  room: 314
+  affiliation: LORIA - Université de Lorraine
+  url: http://www.fabienpierre.fr/
+  title: Colorisation de vidéos, de l'état-de-l'art aux débouchés industriels
+  abstract: La colorisation d'image est un problème extrêmement mal posé mais qui intéresse l'industrie du divertissement. Ce double point de vue en fait un sujet très attractif. Dans cet exposé, on présentera l'état de l'art et les méthodes qui ont été développées par l'orateur pendant sa thèse. Celles-ci reposent sur des approches non-locales et variationnelles. Les fonctionnelles utilisées sont non-lisses et non-convexes et ont fait l'objet de techniques de minimisation originales. Cela a permis d'implémenter un logiciel expérimental qui associe l'utilisateur à une approche basée-exemple ce qui donne une méthode efficace, flexible et rapide. Une extension à la vidéo est proposée, dont l'implémentation en GPU permet une interactivité de l'approche variationnelle avec l'utilisateur. Néanmoins, celle-ci n'est pas opérationnelle aux yeux d'experts du milieu de la colorisation. En vue de se conformer à ces besoins, quelques pistes seront proposées.
+
+- speaker: Charles Bouveyron
+  date: 1er Juin 2017
+  time: 14h-15h
+  room: 314
+  affiliation: MAP5 - Université Paris Descartes
+  url: http://w3.mi.parisdescartes.fr/~cbouveyr/
+  title: High-Dimensional Mixture Models for Unsupervised Image Denoising
+  abstract: This work addresses the problem of patch-based single image denoising through the unsupervised learning of a probabilistic high-dimensional mixture models on the noisy patches. The model, named hereafter HDMI, proposes a full modeling of the process that is supposed to have generated the noisy patches. To overcome the potential estimation problems due to the high dimension of the patches, the HDMI model adopts a parsimonious modeling which assumes that the data live in group-specific subspaces of low dimensionalities. This parsimonious modeling allows in turn to get a numerically stable computation of the conditional expectation of the image which is applied for denoising. The use of such a model also permits to rely on model selection tools, such as BIC, to automatically determine the intrinsic dimensions of the subspaces and the variance of the noise. This yields a blind denoising algorithm that demonstrates state-of-the-art performance, both when the noise level is known and unknown. Joint work with A. Houdard (Télécom ParisTech) and J. Delon (MAP5 - Paris Descartes).
+
+- speaker: Julien Tierny
+  date: 1er Juin 2017
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS et LIP6
+  url: http://www-pequan.lip6.fr/~tierny/
+  title: Topological Data Analysis for Scientific Visualization.
+  abstract: Scientific visualization aims at helping users (i) represent, (ii) explore, and (iii) analyze acquired or simulated geometrical data, for interpretation, validation or communication purposes. Among the existing techniques, algorithms inspired by Morse theory have demonstrated their utility in this context for the efficient and robust extraction of geometrical features, at multiple scales of importance. In this talk, I will give a brief tutorial on the topological methods used in scientific visualization for the analysis of scalar data. I will present algorithms with practical efficiency for the computation of topological abstractions (Reeb graphs, Morse-Smale complexes, persistence diagrams, etc.) in low dimensions (typically 2 or 3). I will also illustrate these notions with concrete use cases in astrophysics, fluid dynamics, molecular chemistry or combustion. I will also present the "Topology ToolKit" (topology-tool-kit.github.io), a recently released open-source library for topological data analysis, which implements most of the algorithms described above. I will give a brief usage tutorial, both for end-users and developers. I will also describe how easily it can be extended to disseminate research code. Finally,I will discuss perspectives, both from a research and implementation point of view.
+
+- speaker: Stéphane Jaffard
+  date: 04 Mai 2017
+  time: 14h-15h
+  room: 314
+  affiliation: Paris Est
+  url: http://perso-math.univ-mlv.fr/users/jaffard.stephane/
+  title: Analyse multifractale pour la classification d'images.
+  abstract: L'analyse multifractale a été introduite à la fin des années 1980 par des physiciens dont le but était de relier les indices de régularité globale d'un signal (la vitesse d'un fluide turbulent), avec la distribution des singularités ponctuelles présentes dans les données. Différentes variantes de la méthode existent, basées sur les sup locaux d'une transformée continue en ondelettes, ou sur la DFA (Detrented Fluctuation Analysis). Nous considérerons d'autres versions, construites à partir des coefficients sur une base orthonormée d'ondelettes.  Nous verrons comment les outils fournis par l'analyse multifractale  peuvent être adaptés à différents types de données; utilisation des ``p-leaders'' (normes \(\ell^p\) locales de coefficients d'odelettes) à la place des 'leaders' (sup locaux de coefficients d'ondelettes) pour des données peu régulières, ou encore ondelettes anisotropes pour l'analyse de textures anisotropes. Nous verrons aussi comment adapter l'analyse quand  les données ne présentent pas d'autosimilarité.  Les exemples illustrant ces méthode seront tirés (en 1D) de  la turbulence, le trafic internet, le rythme cardiaque, les textes littéraires, et (en 2D), des images naturelles, des peintures et des papiers photographiques anciens. En ce qui concerne les textes littéraires et les peintures, nous verrons en quoi ces méthodes permettent de fournir de nouveaux outils en textométrie et en stylométrie.
+
+- speaker: Johannes Ballé
+  date: 04 Mai 2017
+  time: 15h-16h
+  room: 314
+  affiliation: Google & New York University
+  url: https://balle.io/
+  slides: balle
+  title: The importance of local gain control.
+  abstract: Local gain control is ubiquitous in biological sensory systems and leads, for example, to masking effects in the visual system. When modeled as an operation known as divisive normalization, it represents an invertible nonlinear transformation, and has several interesting properties useful for image processing. We introduce a generalized version of the transform (GDN), and use it to construct a novel visual quality metric which outperforms MS-SSIM in predicting human distortion assessments. We also show it can be used to Gaussianize image densities, yielding factorized representations, and providing probabilistic image models superior to sparse representations. Finally, we use it to design a simple image compression method, yielding compression quality which is visually close to the state of the art.
+
+- speaker: Claire Boyer
+  date: 30 Mars 2017
+  time: 14h-15h
+  room: W (ENS)
+  affiliation: UPMC
+  url: http://www.lsta.upmc.fr/boyer/
+  title: Adapting to unknown noise level in super-resolution.
+  abstract: We study sparse spikes deconvolution over the space of complex-valued measures when the input measure is a finite sum of Dirac masses. We introduce a new procedure to handle the spike deconvolution when the noise level is unknown. Prediction and localization results will be presented for this approach. An insight on the probabilistic tools used in the proofs could be briefly given as well.
+
+- speaker: Nicolas Papadakis
+  date: 30 Mars 2017
+  time: 15h-16h
+  room: W (ENS)
+  affiliation: CNRS et Bordeaux 1
+  url: https://www.math.u-bordeaux.fr/~npapadak/
+  title: Covariant LEAst-Square Re-fitting for image restoration.
+  abstract: We propose a new framework to remove parts of the systematic errors affecting popular restoration algorithms, with a special focus for image processing tasks. Generalizing ideas that emerged for l1 regularization, we develop an approach re-fitting the results of standard methods towards the input data. Total variation regularizations and non-local means are special cases of interest. We identify important covariant information that should be preserved by the re-fitting method, and emphasize the importance of preserving the Jacobian (w.r.t. the observed signal) of the original estimator. Then, we provide an approach that has a ``twicing'' flavor and allows re-fitting the restored signal by adding back a local affine transformation of the residual term. We illustrate the benefits of our method on numerical simulations for image restoration tasks. Joint work with C.-A. Deledalle (IMBordeaux), J. Salmon (TELECOM ParisTech) and S. Vaiter (IMBourgogne).
+
+- speaker: Patrick Perez
+  date: 2 Mars 2017
+  time: 14h-15h
+  room: 314
+  affiliation: Technicolor
+  url: http://www.technicolor.com/en/patrick-perez
+  slides: perez
+  title: Signaux sur graphe, du traitement à l'apprentissage.
+  abstract: Motivées par la profusion de signaux intéressants qui sont attachés un graphe (un réseau de transport, un réseau social, un maillage 3D) ou dont la structure interne est bien captée par un graphe entre ses parties (un image, un son), des études visant à étendre aux graphes les outils classiques de la théorie et du traitement des signaux ont vu le jour dans un passé récent. Nous rappellerons les bases de telles extensions, en particulier au moyen de l'analyse spectrale de graphe, pour nous concentrer ensuite sur plusieurs problèmes et applications; (1) L'échantillonnage aléatoire de signaux sur graphe et la reconstruction à partir des échantillons obtenus avec application aux super-pixels d'une image; (2)  L'extraction et la régression de corrections harmoniques de maillages paramétriques avec application à la modélisation de visages; (3) L'unification de traitements locaux et non-locaux de signaux sur graphe au moyen de réseaux convolutifs aléatoires ou appris, avec application au débruitage et à l'édition d'images.
+
+- speaker: Valérie Perrier
+  date: 2 Mars 2017
+  time: 15h-16h
+  room: 314
+  affiliation: LJK
+  url: http://www-ljk.imag.fr/membres/Valerie.Perrier/
+  title: Application des ondelettes à divergence nulle pour le transport optimal
+  abstract: "Dans de nombreuses applications, la solution du problème est  un champ de vecteur qui doit vérifier une condition de divergence nulle : c'est le cas des champs de vitesse incompressibles solutions des équations de Navier-Stokes, ou du champ magnétique pour les solutions de Maxwell. Plus récemment, les champs à divergence nulle ont trouvé d'autres applications, comme la compression de champs de vecteur en infographie, ou encore la résolution du transport optimal dans sa formulation dynamique. Dans cet exposé, nous intéressons à la décomposition des champs à divergence nulle vérifiant des conditions aux limites \"physiques\" : pour cela nous introduisons une nouvelle base d'ondelettes à divergence nulle sur le carré ou le cube, qui diagonalise les opérateurs de dérivation. En particulier sur cette base, la complexité pour résoudre un Laplacien-Dirichlet avec condition de divergence nulle est optimale (linéaire). Dans un deuxième temps, nous considérons la formulation du transport optimal dynamique de Benamou-Brenier, que nous reformulons sur un espace de contraintes à divergence nulle. La minimisation de la fonctionnelle est alors effectuée par une descente de gradient sur l'espace des coefficients d'ondelettes à divergence nulle, et uniquement grâce à des décompositions-recompositions sur ondelettes. Ce travail est effectué en collaboration avec Morgane Henri, Souleymane Kadri-Harouna (université de La Rochelle) et Emmanuel Maître."
+
+- speaker: Caroline Chaux
+  date: 2 Février 2017
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS et I2M
+  url: https://www.i2m.univ-amu.fr/~caroline.chaux/
+  slides: chaux
+  title: Nonnegative Tensor Factorization using a proximal algorithm, application to 3D fluorescence spectroscopy.
+  abstract: This is a Joint work with Xuan Vu, Nadège Thirion-Moreau and Sylvain Maire (LSIS, Toulon). We address the problem of third order nonnegative tensor factorization with penalization. More precisely, the Canonical Polyadic Decomposition (CPD) is considered. It constitutes a compact and informative model consisting of decomposing a tensor into a minimal sum of rank-one terms.  This multi-linear decomposition has been widely studied in the litterature. Coupled with 3D fluorescence spectroscopy analysis, it has found numerous interesting applications in chemistry, chemometrics, data analysis for the environment, monitoring and so on. The resulting inverse problem at hand is often hard to solve especially when the tensor rank is unknown and when data corrupted by noise and large dimensions are considered. We adopted a variational approach and the factorization problem is thus formulated under a penalized minimization problem.  Indeed, a new penalized nonnegative third order CPD algorithm has been derived based on a block coordinate variable metric forward-backward method. The proposed iterative algorithm have been successfully applied not only to synthetic data (showing its efficiency, robustness and flexibility) but also on real 3D fluorescence spectroscopy data.
+
+- speaker: Simon Masnou
+  date: 2 Février 2017
+  time: 15h-16h
+  room: 314
+  affiliation: Institut Camille Jordan
+  url: http://math.univ-lyon1.fr/homes-www/masnou/
+  slides: masnou
+  title: Reconstruction de volume à partir de coupes.
+  abstract: Le problème de reconstruire un volume 3D à partir de coupes 2D est fréquent dans de nombreuses applications en imagerie médicale ou en infographie. La principale difficulté est d'incorporer les contraintes car, en fonction du contexte, on peut parfois vouloir imposer des contraintes strictes, et d'autres fois conserver une certaine liberté en cas de données bruitées ou imprécises. Je présenterai des résultats récents que nous avons obtenus pour ce problème avec Elie Bretin et François Dayrens. Notre approche repose sur un modèle variationnel utilisant un terme de régularisation géométrique (tel que le périmètre ou une énergie faisant intervenir la courbure) couplé à des contraintes de densité pour les coupes. Nous avons démontré que ce modèle peut être bien approché par des énergies régulières à l'aide d'une méthode de champ de phase et nous avons proposé un schéma numérique efficace et précis pour son approximation numérique. Je présenterai les résultats que nous avons obtenus pour des contraintes variées, coupes planaires ou non planaires, parallèles ou non parallèles, surfaciques ou ponctuelles, etc. La méthode peut être étendue à des volumes multiples, ce qui est notamment intéressant pour la reconstruction de données segmentées.
+
+- speaker: Sandrine Anthoine
+  date: 5 Janvier 2017
+  time: 14h-15h
+  room: 314
+  affiliation: CNRS et I2M
+  url: http://www.i2m.univ-amu.fr/~santhoine/
+  title: Generalized greedy algorithms
+  slides: anthoine
+  abstract: Matching Pursuit or CoSaMP are classical algorithms in signal processing that seek the best \(k\)-term approximation of a signal on a specified dictionary. Matching Pursuit is greedy in the sense that it chooses the atoms that enter the decomposition one at a time. Its descendants, such as CoSaMP or Subspace Pursuit, do not exactly choose one atom at a time but still aim at pinpointing the support of length \(k\) exactly of the solution. By opposition to convex relaxation alternatives, such as \(\ell_1\) penalized solutions, which do not seek an exactly \(k\)-sparse solution, we generally term Matching Pursuit, and its descendants "greedy". In approximation theory, the notion of "best" approximation is naturally in the sense of the \(\ell_2\) norm. Hence greedy algorithms are designed to find the \(k\)-sparse element that minimizes the \(\ell_2\) discrepancy. By contrast with convex relaxation, it is not easy to extend their scope to other discrepancies and obtain convergence guarantees. In this work, we propose to extend the scope of four greedy algorithms, Subspace Pursuit, CoSaMP, Orthogonal Matching Pursuit with Replacement and Iterative Hard Thresholding to the problem of findings zeros of operators in a Hilbert space. To do so we design the "Restricted Diagonal Property", which, as the "Restricted Isometry Property" in the classical case, ensures the good behavior of the algorithms. We are thus able for example to use these algorithms to find sparse critical points of functions that are neither convex nor concave. We finally give examples that illustrate the method. This is joint work with F.-X. Dupé (LIF).
+
+- speaker: Jean-Marie Mirebeau
+  date: 5 Janvier 2017
+  time: 15h-16h
+  room: 314
+  affiliation: CNRS, labo de mathématiques d'Orsay
+  url: http://www.math.u-psud.fr/~mirebeau/
+  slides: mirebeau
+  title: Calcul de chemins minimaux avec pénalisation de courbure, via l'algorithme du Fast Marching. Applications en segmentation d'images.
+  abstract: Nous considérons des modèles de plus courts chemins avec pénalisation de courbure, tels que les élasticas d'Euler/Mumford, ou la voiture de Reed-Shepp avec ou sans marche arrière. Pour calculer le chemin d'énérgie minimale joignant deux points donnés, nous approchons ces modèles singuliers à l'aide de métriques Riemanniennes ou Finsleriennes fortement anisotropes sur l'espace produit \(\mathbb{R}^d \times S^{d-1}\). Les équations eikonales associées sont ensuites résolues via des variantes spécialisées de l'algorithme du Fast-Marching. Nous présentons des applications à la segmentation de structures tubulaires dans les images médicales.
+
+- speaker: Jean-Michel Morel
+  date: 24 Novembre 2016
+  time: 14h-15h
+  room: 314
+  affiliation: ENS Cachan
+  url: https://sites.google.com/site/jeanmichelmorelcmlaenscachan/
+  title: The ego-motion scale space.
+  slides: morel
+  abstract: This is a joint work with Javier Sánchez Pérez (Universidad de Las Palmas Gran Canaria). We address the homographic stabilization of video. This is the process by which the jitter of a moving camera is being compensated automatically from the video itself, in absence of external calibration information like the  one that would be provided by accelerometers or gyroscopes. I will discuss the various modes to define video stabilization. Then I will display several examples illustrating the visual benefits and inconveniences of stabilization.  It turns out that the filtering process of  the signal produced by the stabilization brings valuable intrinsic information about ego-motion.  This yields what we naturally called ego-motion scale space. Indeed the stabilization signal can be the object of a time-frequency analysis and yield an intrinsic description of the camera motion.
+
+- speaker: Maureen Clerc
+  date: 24 Novembre 2016
+  time: 15h-16h
+  room: 314
+  affiliation: INRIA
+  url: http://www-sop.inria.fr/members/Maureen.Clerc/index.php
+  slides: clerc
+  title: Imaging brain activity
+  abstract: The living human brain is a tremendously complex organ that modern science is striving to better understand. Electroencephalography (EEG) allows to study it non-invasively, at a macroscopic scale. Typically, EEG datasets consist of multi-trial and multi-sensor signals, buried in very strong noise, making information extraction extremely challenging. In this talk I will address brain activity reconstruction and its application to real-time brain activity interpretation for brain-computer interfaces.
+
+- speaker: Stéphane Mallat
+  date: 3 Novembre 2016
+  time: 14h-15h
+  room: 314
+  affiliation: Ecole Normale Superieure
+  slides: mallat
+  url: https://www.di.ens.fr/~mallat/
+  title: Unsupervised Learning and Inverse Problems with Deep Neural Networks
+  abstract: Deep neural networks have obtained remarkable results to learn generative image models. We show that it opens a new probabilistic framework to define non-Gaussian and non-ergodic random processes, which can be estimated with a reduced number of samples. The mathematics are introduced through multiscale wavelet scattering networks and applied to image and audio textures, but also to standard statistical physics processes such as Ising or stochatic geometry. We explain how such models are applied to inverse problems and super-resolution.
+
+- speaker: Emilie Chouzenoux
+  date: 3 Novembre 2016
+  time: 15h-16h
+  room: 314
+  affiliation: Université Paris-Est Marne-La-Vallée
+  url: http://www-syscom.univ-mlv.fr/~chouzeno/
+  slides: chouzenoux
+  title:  A Block Parallel Majorize-Minimize Memory Gradient Algorithm
+  abstract: In the field of 3D image recovery, huge amounts of data need to be processed. Parallel optimization methods are then of main interest since they allow to overcome memory limitation issues, while benefiting from the intrinsic acceleration provided by recent multicore computing architectures. In this context, we propose a Block Parallel Majorize-Minimize Memory Gradient (BP3MG) algorithm for solving  large scale optimization problems. This algorithm combines a block coordinate strategy with an efficient parallel update. The proposed method is applied to a 3D microscopy image restoration problem involving a depth-variant blur, where it is shown to lead to significant computational time savings with respect to a sequential approach.
+
+- speaker: Frédéric Champagnat
+  date: 6 Octobre 2016
+  time: 14h-15h
+  room: 413
+  affiliation: ONERA
+  url: "https://www.researchgate.net/profile/F_Champagnat"
+  slides: champagnat
+  title: "Régularisation spatio-temporelle physique pour la mesure de champs de vitesse des fluides"
+  abstract: "La vélocimétrie par imagerie de particules PIV est un outil essentiel d'investigation de la turbulence ouvrant la voie d'une analyse Lagrangienne et offrant un moyen d'accéder à la mesure de pression. Le développement de la PIV haute cadence (dite PIV TR pour 'time resolved') a permis l'émergence de nouvelles classes de méthodes reposant sur la cohérence spatio-temporelle des champs de vitesse. Les approches les plus courantes en PIV TR reposent sur un développement de Taylor spatio-temporel du champ de mouvement. L'exploitation de ces régularités par des outils de régularisation 'générique' permet déjà de pallier efficacement les défauts de l'imagerie TR (résolution spatiale limitée, biais liés au repliement spatial). L'objet de cette présentation est d'aborder la régularisation physique de ces données qui s'appuie en l'espèce sur les équations de Navier-Stokes incompressibles (ou des approximations physiques de ces dernières). Nous donnons d'abord les principes généraux des méthodes d'assimilation qui permettent d'estimer des champs de vitesses respectant strictement Navier-Stokes à partir d'images PIV TR. Puis nous présentons une alternative originale basée sur une approximation de Navier-Stokes permettant sous certaines hypothèses d'obtenir un champ résolu en temps à partir d'une mesure du champ moyen et d'une mesure ponctuelle résolue en temps. Nous illustrons la capacité d'amélioration du RSB et de super-résolution de ces méthodes et traçons leurs limites et les voies de recherche en cours. Collaborateurs: R. Yegavian, B. Leclaire, O. Marquet, S. Beneddine, D. Sipp"
+
+
+- speaker: Stephanie Allassonniere
+  date: 6 Octobre 2016
+  time: 15h00-16h00
+  room: 413
+  affiliation: Paris 5
+  slides: allassonniere
+  url: https://sites.google.com/site/stephanieallassonniere/
+  title: "Mixed-effect model for the spatiotemporal analysis of longitudinal manifold-valued data"
+  abstract: "In this work, we propose a generic hierarchical spatiotemporal model for longitudinal manifold-valued data, which consist in repeated measurements over time for a group of individuals. This model allows us to estimate a group-average trajectory of progression, considered as a geodesic of a given Riemannian manifold. Individual trajectories of progression are obtained as random variations, which consist in parallel shifting and time reparametrization, of the average trajectory. These spatiotemporal transformations allow us to characterize changes in the direction and in the pace at which trajectories are followed. We propose to estimate the parameters of the model using a stochastic version of the expectation-maximization (EM) algorithm, the Monte Carlo Markov Chain Stochastic Approximation EM (MCMC SAEM) algorithm.  This generic spatiotemporal model is used to analyze the temporal progression of a family of biomarkers. This progression model estimates a normative scenario of the progressive impairments of several cognitive functions, considered here as biomarkers, during the course of Alzheimer’s disease. The estimated average trajectory provides a normative scenario of disease progression. Random effects provide unique insights into the variations in the ordering and timing of the succession of cognitive impairments across different individuals."
