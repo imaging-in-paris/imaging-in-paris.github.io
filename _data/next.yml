@@ -1,30 +1,11 @@
-- speaker: Anna Niemiec
-  date: May 6th
-  time: 2pm
-  affiliation: LPSC, Université Grenoble-Alpes 
-  url: https://annaniemiec.github.io/
-  title: "Probing the Universe with Cluster Gravitational Lensing: Status and Challenges"
-  abstract: "Cosmology is the study of the Universe: its composition, its large-scale structure, and its evolution. A key challenge is that most of the matter in the Universe is dark and invisible to direct observation. To map its distribution, we rely on indirect methods, and in particular on gravitational lensing, which exploits the deflection of light by the gravitational potential of massive structures. Observationally, lensing manifests as distortions in the shapes of background galaxies, and in extreme cases, the formation of multiple images of the same source. However, inferring the matter distribution from lensing observables is a complex inverse problem, requiring carefully designed modeling techniques. In this talk, I will review the steps involved in going from astrophysical images to mass maps, focusing on the largest gravitationally bound structures in the Universe: galaxy clusters. I will highlight several critical challenges where further methodological developments are ongoing. For instance, at the observational level, accurately measuring the shapes and positions of faint background galaxies remains difficult, particularly in images affected by atmospheric distortions, instrumental effects, and shot noise, issues that must be addressed to achieve the precision required for upcoming large surveys. I will also present our Bayesian mass reconstruction method, which combines a parametric model for the cluster-scale mass distribution with a flexible grid-based component to capture complex substructures."
-  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
-
-- speaker: Anne Gagneux
-  date: May 6th
-  time: 3pm
-  affiliation: LIP, ENS de Lyon
-  url: https://annegnx.github.io/
-  title: "Plug-and-Play methods: theory and practice"
-  abstract: "In image restoration, PnP methods leverage the strength of trainable denoisers by integrating them in existing optimization schemes. First, we will show how to leverage generative models to create new denoisers. Specifically, we introduce the PnP Flow algorithm, a PnP method based on Flow Matching.
-  In the second part of the talk, we will study desirable properties of PnP denoisers that ensure convergence of the associated iterative schemes. In particular, we provide an in-depth study of necessary and sufficient conditions for a neural network to be convex, beyond the traditional Input Convex Neural Network (ICNN) architecture"
-  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
-
 
 - speaker: Gabriel Peyré
   date: June 3rd
   time: 2pm
   affiliation: DMA, École Normale Supérieure 
   url: https://www.gpeyre.com/
-  title: ""
-  abstract: ""
+  title: "Diffusion Flows and Optimal Transport in Machine Learning"
+  abstract: "In this talk, I will review how concepts from optimal transport can be applied to analyze seemingly unrelated machine learning methods for sampling and training neural networks. The focus is on using optimal transport to study dynamical flows in the space of probability distributions. The first example will be sampling by flow matching, which regresses advection fields. In its simplest case (diffusion models), this approach exhibits a gradient structure similar to the displacement seen in optimal transport. I will then discuss Wasserstein gradient flows, where the flow minimizes a functional within the optimal transport geometry. This framework can be employed to model and understand the training dynamics of the probability distribution of neurons in two-layer networks. The final example will explore modeling the evolution of the probability distribution of tokens in deep transformers. This requires modifying the optimal transport structure to accommodate the softmax normalization inherent in attention mechanisms."
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
   
 
