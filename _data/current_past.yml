@@ -1,3 +1,13 @@
+
+- speaker: Gabriel Peyré
+  date: June 3rd
+  time: 2pm
+  affiliation: DMA, École Normale Supérieure 
+  url: https://www.gpeyre.com/
+  title: "Diffusion Flows and Optimal Transport in Machine Learning"
+  abstract: "In this talk, I will review how concepts from optimal transport can be applied to analyze seemingly unrelated machine learning methods for sampling and training neural networks. The focus is on using optimal transport to study dynamical flows in the space of probability distributions. The first example will be sampling by flow matching, which regresses advection fields. In its simplest case (diffusion models), this approach exhibits a gradient structure similar to the displacement seen in optimal transport. I will then discuss Wasserstein gradient flows, where the flow minimizes a functional within the optimal transport geometry. This framework can be employed to model and understand the training dynamics of the probability distribution of neurons in two-layer networks. The final example will explore modeling the evolution of the probability distribution of tokens in deep transformers. This requires modifying the optimal transport structure to accommodate the softmax normalization inherent in attention mechanisms."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+  
 - speaker: Anna Niemiec
   date: May 6th
   time: 2pm
@@ -63,7 +73,7 @@
   abstract: "Starting from the Reeb tree to component trees and variants, various proposals have been made for abstracting the level sets of images and their relationship. The simplest one is obtained by representing an image as a continuous function through interpolation. The easiest way to achieve it is through bilinear interpolation of the samples. Its tree of level lines can be efficiently recovered and the defects of bilinear interpolation on the regularity of level lines can be fixed through affine shortening. Several applications from mean curvature estimation to vectorization are presented. Curiously, the discrete representation of the image by a simplicial complex imposes more restrictions on what can be done. Provided they are fulfilled, several fast algorithms compete to compute the tree in this case."
   room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
 
-- speaker: Flavier Léger
+- speaker: Flavien Léger
   date: February 4th
   time: 3pm
   affiliation: INRIA, Cérémade, Université Paris Dauphine
