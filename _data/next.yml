@@ -5,7 +5,8 @@
   affiliation: ESIEE Paris, LIGM
   url: 
   title: "Synthetic training of deep image restoration networks : principles and applications"
-  abstract: ""
+  abstract: " Neural Networks have surpassed traditional prior-based approaches in solving inverse problems, but their black-box nature hinders their interpretability and confidence. To address these issues, a potential approach is to synthesize training images with controlled statistical properties. 
+In this talk, I’ll present how a simple occlusion-based image model called the Dead Leaves model can be used to generate high-quality training data for various image restoration tasks. I’ll then show how this model can be adapted to incorporate essential image properties like texture, depth, and complex object geometry. The resulting trained restoration models perform similarly to those trained on real images while offering additional benefits, such as insightful ablation studies, inherent invariance properties, and faster convergence, which I’ll discuss further."
   room: Room Pierre Grisvard (Borel building)
   
 - speaker: Laetitia Chapel 
