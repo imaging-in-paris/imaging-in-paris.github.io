@@ -29,30 +29,35 @@ Click on the title to read the abstract.
 
 {% for oneitem in site.data.next %}
 <p>
-	<details>
-	<summary>
-	
-	<a href="{{ oneitem.url }}"><b>{{ oneitem.speaker }}</b></a>  ({{ oneitem.affiliation }})<br/>
-	{{ oneitem.date }}, {{ oneitem.time }}, room {{ oneitem.room }}.<br/>
-	<b>Title:</b> <i>{{ oneitem.title }}</i> <b>&#x2B07;</b> <br/>
-	</summary>
-	<b>Abstract:</b> {{ oneitem.abstract }}
-	</details>
+  <details>
+  <summary>
+  {% if oneitem.speaker or oneitem.affiliation %}
+    <a href="{{ oneitem.url }}"><b>{{ oneitem.speaker }}</b></a> ({{ oneitem.affiliation }})<br/>
+  {% else %}
+    <b>TBA</b><br/>
+  {% endif %}
+  
+  {{ oneitem.date }}, {{ oneitem.time }}, room {{ oneitem.room }}.<br/>
+  <b>Title:</b> <i>{{ oneitem.title }}</i> <b>&#x2B07;</b><br/>
+  </summary>
+  <b>Abstract:</b> {{ oneitem.abstract }}
+  </details>
 </p>
 {% endfor %}
 
 
 
-Previous seminars of 2024-2025
+
+Previous seminars of 2025-2026
 -----
 
-The list of seminars prior to summer 2024 is available [here](previous_seminars/).
+The list of seminars prior to summer 2025 is available [here](previous_seminars/).
 
 {% for oneitem in site.data.current_past %}
 <p>
 	<details>
 	<summary>
-	<a href="{{ oneitem.url }}">{{ oneitem.speaker }}</a>
+	<a href="{{ oneitem.url }}"><b>{{ oneitem.speaker }}</b></a>
 	{% for oneaffil in oneitem.affiliation %}
 		({{ oneaffil }})
 	{% endfor %}
