@@ -1,3 +1,153 @@
+- speaker: Gabriel Peyré
+  date: June 3rd
+  time: 2pm
+  affiliation: DMA, École Normale Supérieure 
+  url: https://www.gpeyre.com/
+  title: "Diffusion Flows and Optimal Transport in Machine Learning"
+  abstract: "In this talk, I will review how concepts from optimal transport can be applied to analyze seemingly unrelated machine learning methods for sampling and training neural networks. The focus is on using optimal transport to study dynamical flows in the space of probability distributions. The first example will be sampling by flow matching, which regresses advection fields. In its simplest case (diffusion models), this approach exhibits a gradient structure similar to the displacement seen in optimal transport. I will then discuss Wasserstein gradient flows, where the flow minimizes a functional within the optimal transport geometry. This framework can be employed to model and understand the training dynamics of the probability distribution of neurons in two-layer networks. The final example will explore modeling the evolution of the probability distribution of tokens in deep transformers. This requires modifying the optimal transport structure to accommodate the softmax normalization inherent in attention mechanisms."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+  
+- speaker: Anna Niemiec
+  date: May 6th
+  time: 2pm
+  affiliation: LPSC, Université Grenoble-Alpes 
+  url: https://annaniemiec.github.io/
+  title: "Probing the Universe with Cluster Gravitational Lensing: Status and Challenges"
+  abstract: "Cosmology is the study of the Universe: its composition, its large-scale structure, and its evolution. A key challenge is that most of the matter in the Universe is dark and invisible to direct observation. To map its distribution, we rely on indirect methods, and in particular on gravitational lensing, which exploits the deflection of light by the gravitational potential of massive structures. Observationally, lensing manifests as distortions in the shapes of background galaxies, and in extreme cases, the formation of multiple images of the same source. However, inferring the matter distribution from lensing observables is a complex inverse problem, requiring carefully designed modeling techniques. In this talk, I will review the steps involved in going from astrophysical images to mass maps, focusing on the largest gravitationally bound structures in the Universe: galaxy clusters. I will highlight several critical challenges where further methodological developments are ongoing. For instance, at the observational level, accurately measuring the shapes and positions of faint background galaxies remains difficult, particularly in images affected by atmospheric distortions, instrumental effects, and shot noise, issues that must be addressed to achieve the precision required for upcoming large surveys. I will also present our Bayesian mass reconstruction method, which combines a parametric model for the cluster-scale mass distribution with a flexible grid-based component to capture complex substructures."
+  room: Amphi Yvette Cauchois (Bat Perrin)
+
+- speaker: Anne Gagneux
+  date: May 6th
+  time: 3pm
+  affiliation: LIP, ENS de Lyon
+  url: https://annegnx.github.io/
+  title: "Plug-and-Play methods: theory and practice"
+  abstract: "In image restoration, PnP methods leverage the strength of trainable denoisers by integrating them in existing optimization schemes. First, we will show how to leverage generative models to create new denoisers. Specifically, we introduce the PnP Flow algorithm, a PnP method based on Flow Matching.
+  In the second part of the talk, we will study desirable properties of PnP denoisers that ensure convergence of the associated iterative schemes. In particular, we provide an in-depth study of necessary and sufficient conditions for a neural network to be convex, beyond the traditional Input Convex Neural Network (ICNN) architecture"
+  room: Amphi Yvette Cauchois (Bat Perrin)
+
+- speaker: Pietro Gori
+  date: April 1st
+  time: 2pm
+  affiliation: Télécom Paris
+  url: https://perso.telecom-paristech.fr/pgori/index.html
+  title: "Contrastive Learning in Computer Vision and Medical Imaging - A metric learning approach"
+  abstract: "Contrastive Learning (CL) is a paradigm designed for self-supervised representation learning which has been applied to unsupervised, weakly supervised and supervised problems. The objective in CL is to estimate a parametric mapping function that maps positive samples (semantically similar) close together in the representation space and negative samples (semantically dissimilar) far away from each other. In general, positive samples can be defined in different ways depending on the problem: transformations (i.e., augmentations) of the same image (unsupervised setting), samples belonging to the same class (supervised) or with similar image attributes (weakly-supervised). The definition of negative samples varies accordingly. In this talk, we will show how a metric learning approach for CL allows us to: 1- better formalize recent contrastive losses, such as InfoNCE and SupCon, 2- derive new losses for unsupervised, supervised, and weakly supervised problems, and 3- propose new regularization terms for debiasing. Furthermore, leveraging the proposed metric learning approach and kernel theory, we will describe a novel loss, called decoupled uniformity, that allows the integration of prior knowledge, given either by generative models or weak attributes, and removes the positive-negative coupling problem, as in the InfoNCE loss. We validate the usefulness of the proposed losses on standard vision datasets and medical imaging data."
+  room: Amphi Hermite (Bat Borel)
+
+- speaker: Clément Rambour
+  date: April 1st
+  time: 3pm
+  affiliation: ISIR, Sorbonne Université
+  url: https://clementrambour.github.io/
+  title: "Robust Contrastive Vision-Language Test-Time Adaptation"
+  abstract: "Test-Time Adaptation (TTA) involves updating the model on-the-fly to handle covariate shifts in the data. Common strategies restrict updates to batch normalization parameters. Most methods minimize entropy as an objective, promoting confident predictions and leveraging batch-level optimization to emulate the 'wisdom of the crowd.' However, entropy-based methods are suboptimal for vision-language models pre-trained with a contrastive loss. In this paper, we propose ClipTTA a novel test-time adaptation method specifically tailored for CLIP. ClipTTA employs a soft contrastive image-text adaptation loss that better aligns with CLIP’s pre-training objective. Gradient of the ClipTTA loss and its training dynamics shows its robustness to pseudo-labels drift and class collapse. This ClipTTA loss can be furthermore extended it with an Outlier Contrastive Exposure loss to effectively adapt the model to better detect out-of-distribution samples while adapting only on in-distribution samples. "
+  room: Amphi Hermite (Bat Borel)
+
+- speaker: Matthieu Serfaty
+  date: March 4th
+  time: 2pm
+  affiliation: Centre Borelli, ENS Paris-Saclay
+  url: 
+  title: "Fighting misinformation in satellite imagery"
+  abstract: "Satellite imagery is quickly gaining in importance; it is a critical component in many areas, among which external security. It is thus necessary to question the reliability of such data. Is it possible to guarantee that a satellite image is authentic? How can one be protected against an organization which would try to hide illegal military gear, or reversely try to push others into action by falsely pretending that it possesses such equipments? Although forensic analysis has received a lot of academic attention these past few years, it is mostly limited to photographies; there is little research done on satellite image forensics. We propose to explore how an attacker might create satellite image forgeries, and most importantly how to defend oneself against such content. Unsupervised or self-supervised methods will be developed to analyse traces left by the processing pipeline of satellite images, so as to authentify images and detect forged ones."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Yanhao Li
+  date: March 4th
+  time: 3pm
+  affiliation: Centre Borelli, ENS Paris-Saclay
+  url: 
+  title: "Towards explainable image forensics with resampling trace analysis in the Fourier domain"
+  abstract: "Synthetic image generation methods have recently revolutionized the way in which visual content is created. However, these methods leave traces in the Fourier spectrum, which are invisible to humans but can be effectively detected by specialized tools. More specifically, some of the spectral artifacts are related to the upsampling operations employed in generative models. In this talk, I will first present a semi-white-box method dedicated to detecting synthetic images by revealing the artifacts in the Fourier domain. Then I will present a theoretical study on the artifacts left by general resampling operations, and introduce an unsupervised method that detects the traces of resampling operations in the large sense using an a contrario framework for false alarm control."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Pascal Monasse
+  date: February 4th
+  time: 2pm
+  affiliation: IMAGINE, École Nationale des Ponts et Chaussées
+  url: https://imagine.enpc.fr/~monasse/
+  title: "Tree representations of images and applications"
+  abstract: "Starting from the Reeb tree to component trees and variants, various proposals have been made for abstracting the level sets of images and their relationship. The simplest one is obtained by representing an image as a continuous function through interpolation. The easiest way to achieve it is through bilinear interpolation of the samples. Its tree of level lines can be efficiently recovered and the defects of bilinear interpolation on the regularity of level lines can be fixed through affine shortening. Several applications from mean curvature estimation to vectorization are presented. Curiously, the discrete representation of the image by a simplicial complex imposes more restrictions on what can be done. Provided they are fulfilled, several fast algorithms compete to compute the tree in this case."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Flavien Léger
+  date: February 4th
+  time: 3pm
+  affiliation: INRIA, Cérémade, Université Paris Dauphine
+  url: https://flavienleger.github.io/
+  title: "Gradient descent with a general cost"
+  abstract: "In this talk I will present an approach to iteratively minimize a given objective function using minimizing movement schemes built on general cost functions. I will introduce an explicit method, gradient descent with a general cost (GDGC), as well as an implicit, proximal-like scheme and an explicit-implicit (forward-backward) method. <br/>
+GDGC unifies several standard gradient descent-type methods: gradient descent, mirror descent, Newton’s method, and Riemannian gradient descent. I will explain how the so-called nonnegative cross-curvature condition provides tractable conditions to prove convergence rates for GDGC. <br/>
+Byproducts of this framework include: (1) a new nonsmooth mirror descent, (2) global convergence rates for Newton’s method, and (3) a clear picture of the type of convexity needed for converging schemes in the Riemannian setting. "
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Pascal Monasse
+  date: February 4th
+  time: 2pm
+  affiliation: IMAGINE, École Nationale des Ponts et Chaussées
+  url: https://imagine.enpc.fr/~monasse/
+  title: "Tree representations of images and applications"
+  abstract: "Starting from the Reeb tree to component trees and variants, various proposals have been made for abstracting the level sets of images and their relationship. The simplest one is obtained by representing an image as a continuous function through interpolation. The easiest way to achieve it is through bilinear interpolation of the samples. Its tree of level lines can be efficiently recovered and the defects of bilinear interpolation on the regularity of level lines can be fixed through affine shortening. Several applications from mean curvature estimation to vectorization are presented. Curiously, the discrete representation of the image by a simplicial complex imposes more restrictions on what can be done. Provided they are fulfilled, several fast algorithms compete to compute the tree in this case."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Émile Pierret
+  date: January 7th
+  time: 3pm
+  affiliation: IDP, Université d'Orléans
+  url: https://www.idpoisson.fr/pierret/
+  title: "Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors"
+  abstract: "Diffusion or score-based models recently showed high performance in image generation. They rely on a forward and a backward stochastic differential equations (SDE). The sampling of a data distribution is achieved by solving numerically the backward SDE or its associated flow ODE. Studying the convergence of these models necessitates to control four different types of error: the initialization error, the truncation error, the discretization and the score approximation. In this paper, we study theoretically the behavior of diffusion models and their numerical implementation when the data distribution is Gaussian. In this restricted framework where the score function is a linear operator, we can derive the analytical solutions of the forward and backward SDEs as well as the associated flow ODE. This provides exact expressions for various Wasserstein errors which enable us to compare the influence of each error type for any sampling scheme, thus allowing to monitor convergence directly in the data space instead of relying on Inception features. Our experiments show that the recommended numerical schemes from the diffusion models literature are also the best sampling schemes for Gaussian distributions."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+- speaker: Andrés Almansa
+  date: December 3rd 2024
+  time: 2pm
+  affiliation: MAP5, Université Paris Cité 
+  url: https://helios2.mi.parisdescartes.fr/~aalmansa/HomePage/
+  title: "Posterior sampling in imaging with learnt priors: from Langevin to diffusion models"
+  abstract: "In this talk we explore some recent techniques to perform posterior sampling for ill-posed inverse problems in imaging when the likelihood is known explicitly, and the prior is only known implicitly via a denoising neural network that has been pretrained on a large collection of images. We show how to extend the Unadjusted Langevin Algorithm (ULA) to this particular setting leading to Plug & Play ULA. We explore the convergence properties of PnP-ULA, the crucial role of the stepsize and its relationship with the smoothness of the prior and the likelihood. In order to relax stringent constraints on the stepsize, annealed Langevin algorithms have been proposed, which are tightly related to generative denoising diffusion probabilistic models (DDPM). The image prior that is implicit in these generative models can be adapted to perform posterior sampling, by a clever use of Gaussian approximations, with varying degrees of accuracy, like in Diffusion Posterior Sampling (DPS) and Pseudo-Inverse Guided Diffusion Models (PiGDM). We conclude with an application to blind deblurring, where DPS and PiGDM are used in combination with an Expectation Maximization algorithm to jointly estimate the unknown blur kernel, and sample sharp images from the posterior. <br/>
+Collaborators (in alphabetical order) Guillermo Carbajal, Eva Coupeté, Valentin De Bortoli, Julie Delon, Alain Durmus, Ulugbek Kamilov, Charles Laroche, Rémy Laumont, Jiaming Liu, Pablo Musé, Marcelo Pereyra, Marien Renaud, Matias Tassano."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)
+
+
+- speaker: Stanislas Strasman 
+  date: December 3rd 2024
+  time: 3pm
+  affiliation: LPSM, Sorbonne Université
+  url: 
+  title: "An analysis of the noise schedule for score-based generative models."
+  abstract: "Score-based generative models (SGMs) aim at estimating a target data distribution by learning score functions using only noise-perturbed samples from the target. Recent literature has focused extensively on assessing the error between the target and estimated distributions, gauging the generative quality through the Kullback-Leibler (KL) divergence and Wasserstein distances. Under mild assumptions on the data distribution, we establish an upper bound for the KL divergence between the target and the estimated distributions, explicitly depending on any time-dependent noise schedule. Under additional regularity assumptions, taking advantage of favorable underlying contraction mechanisms, we provide a tighter error bound in Wasserstein distance compared to state-of-the-art results. In addition to being tractable, this upper bound jointly incorporates properties of the target distribution and SGM hyperparameters that need to be tuned during training."
+  room: Amphi Yvonne Choquet-Bruhat (Bat Perrin)  
+
+
+- speaker: Samuel Vaiter
+  date: November 5th 2024
+  time: 14h
+  affiliation: CNRS, LJAD Université Côte d'Azur
+  url: 
+  title: "Successes and pitfalls of bilevel optimization in machine learning"
+  abstract: "In this talk, I will introduce bilevel optimization (BO) as a powerful framework to address several machine learning-related problems, including hyperparameter tuning, meta-learning, and data cleaning. Based on this formulation, I will describe some successes of BO, particularly in a strongly convex setting, where strong guarantees can be provided along with efficient stochastic algorithms. I will also discuss the outstanding issues of this framework, presenting geometrical and computational complexity results that show the potential difficulties in going beyond convexity, at least from a theoretical perspective."
+  room: Maryam Mirzakhani (Bat Borel, 2nd floor)
+  
+- speaker: Anna Starynska
+  date: November 5th 2024
+  time: 15h
+  affiliation: Rochester Institute of Technology, invited by the <a href="https://aissai.cnrs.fr/evenement/scientifiques-invites-intelligence-artificielle-et-humanites-numeriques/">AISSAI Center</a>
+  url: 
+  title: "Supervised erased ink detection in damaged palimpsested manuscripts"
+  abstract: "Transcribing a historical manuscript is a tedious task, especially in the case of palimpsests, where the sought text was erased and overwritten with another text. Recently, advancements in deep learning text recognition models, especially in multimodal large language models, have raised hopes for future automatization of this process. However, the two issues have prevented this progress so far. First, the absence of sufficient ground-truth data. Historical texts transcription platform Transkribus, estimates that approximately 20-30 pages of transcribed pages are required for training a model, which is already a very difficult task for historians. We assume that was meant for an undamaged manuscript, since remarks are made about enlarging the dataset in case of more variations. Second is the extreme damage to the text, which pushes us to image text in more complex modalities than a simple image scan. Thus, instead of capturing the text image, the push was made to capture the chemical composition of materials. One of the most popular systems for this became multispectral imaging systems. While it will not capture the chemical composition, it reveals the difference in the spectrum of materials.  However, until recently, msi palimpsest imaging systems lacked the data standardization procedures that created perturbation unrelated to the data composition, enabling the usage of the text transcription model on raw data. However, more and more attempts are being made to apply the standardization of multispectral imaging. This will allow us not only to create substantial data collection but also to unleash the potential presented by multispectral imaging. Our goal in this work is to test the capacity of neural network to detect the traces of undertext."
+  room: Maryam Mirzakhani (Bat Borel, 2nd floor)
+  
+- speaker: Marien Renaud
+  date: October 1st 2024
+  time: 14h
+  affiliation: Institut de Mathématiques de Bordeaux
+  title: "Plug-and-Play image restoration with Stochastic deNOising REgularization"
+  abstract: "Plug-and-Play (PnP) algorithms are a class of iterative algorithms that address image inverse problems by combining a physical model and a deep neural network for regularization. Even if they produce impressive image restoration results, these algorithms rely on a non-standard use of a denoiser on images that are less and less noisy along the iterations, which contrasts with recent algorithms based on Diffusion Models, where the denoiser is applied only on re-noised images. We will introduce a new PnP framework, called Stochastic deNOising REgularization (SNORE), which applies the denoiser only on images with noise of the adequate level. It is based on an explicit stochastic regularization, which leads to a stochastic gradient descent algorithm to solve ill-posed inverse problems. A convergence analysis of this algorithm and its annealing extension will be presented. Experimental results, competitive with respect to state-of-the-art methods, will be shown on deblurring and inpainting tasks. "
+  room: Maryam Mirzakhani (Bat Borel, 2nd floor)
+  
 - speaker: Anton François
   date: June 4th 2024
   time: 15h
