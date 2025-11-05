@@ -1,22 +1,3 @@
-- speaker: Kimia Nadjahi
-  date: November 4th
-  time: 2pm
-  affiliation: CNRS, ENS PARIS
-  url: https://kimiandj.github.io/
-  title: "Optimal Transport-based Conformal Prediction"
-  abstract: "Conformal Prediction (CP) is a principled framework for quantifying uncertainty in blackbox learning models, by constructing prediction sets with finite-sample coverage guarantees. Traditional approaches rely on scalar nonconformity scores, which fail to fully exploit the geometric structure of multivariate outputs, such as in multi-output regression or multiclass classification. Recent methods addressing this limitation impose predefined convex shapes for the prediction sets, potentially misaligning with the intrinsic data geometry. We introduce a novel CP procedure handling multivariate score functions through the lens of optimal transport. Specifically, we leverage Monge-Kantorovich vector ranks and quantiles to construct prediction regions with flexible, potentially non-convex shapes, better suited to the complex uncertainty patterns encountered in multivariate learning tasks. We prove that our approach ensures finite-sample, distribution-free coverage properties, similar to typical CP methods. We then adapt our method for multi-output regression and multiclass classification, and also propose simple adjustments to generate adaptive prediction regions with asymptotic conditional coverage guarantees. Finally, we evaluate our method on practical regression and classification problems, illustrating its advantages in terms of (conditional) coverage and efficiency. This is joint work with Gauthier Thurin (CNRS, ENS Paris) and Claire Boyer (Université Paris-Saclay)."
-  room: Amphi Darboux (Borel building)
-
-- speaker: Laetitia Chapel 
-  date: November 4th
-  time: 3pm
-  affiliation: Institut Agro Rennes-Angers, IRISA
-  url: https://people.irisa.fr/Laetitia.Chapel/
-  title: "Sliced optimal transport plans with an application to conditional flow matching"
-  abstract: "Optimal Transport (OT) has emerged as a fundamental tool in modern machine learning, mainly due to its ability to provide meaningful comparisons between probability distributions. One of the key strengths of OT is its dual nature: it not only introduces a mathematically rigorous framework defining Wasserstein distances but also constructs an optimal coupling (or transport plan) between distributions. This coupling reveals explicit correspondences between samples, enabling a broad spectrum of applications. Despite the numerous successes of optimal transport in machine learning and the availability of many tools to approximate Wasserstein distances, computing OT plans remains computationally challenging. 
-In this talk, I will present a new methodology to efficiently approximate sliced OT plans. The formulation can be recast as a bilevel optimization problem, and I will propose a differentiable generalized approximation that can be further adapted to data residing on manifolds. Finally, I will demonstrate the practical value of this approach by introducing a novel sliced OT-based conditional flow matching method for image generation, an application where fast computation of transport plans is crucial."
-  room: Amphi Darboux (Borel building)
-  
 - speaker: Samuel Hurault
   date: December 2nd
   time: 2pm
