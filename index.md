@@ -37,7 +37,7 @@ Click on the title to read the abstract.
     <b>TBA</b><br/>
   {% endif %}
   
-  {{ oneitem.date }}, {{ oneitem.time }}, room {{ oneitem.room }}.<br/>
+  {{ oneitem.date }}, {{ oneitem.time }}, {{ oneitem.room }}.<br/>
   <b>Title:</b> <i>{{ oneitem.title }}</i> <b>&#x2B07;</b><br/>
   </summary>
   <b>Abstract:</b> {{ oneitem.abstract }}
