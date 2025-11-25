@@ -3,8 +3,8 @@
   time: 2pm
   affiliation: CNRS, LIGM
   url: https://samuelhurault.netlify.app/
-  title: ""
-  abstract: ""
+  title: "From Score Matching to Diffusion: a fine-grained error analysis in the Gaussian setting"
+  abstract: "Sampling from an unknown distribution, accessible only through discrete samples, is a fundamental problem at the core of generative AI. The current state-of-the-art methods follow a two-step process: first, estimating the score function (the gradient of a smoothed log-distribution) and then applying a diffusion-based sampling algorithm. The resulting distribution's correctness can be impacted by three major factors: the generalization and optimization errors in score matching, and the discretization error in the diffusion. In this paper we provide, in the Gaussian setting, the exact Wasserstein sampling error that arises from these four error sources. This allows us to rigorously track how the anisotropy of the data distribution (encoded by its power spectrum) interacts with key parameters of the end-to-end sampling method."
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Nils Laurent
@@ -12,8 +12,8 @@
   time: 3pm
   affiliation: LASPI Roanne
   url: https://nils-laurent.github.io/
-  title: ""
-  abstract: ""
+  title: "Restauration d'Images par Algorithme Plug-and-Play Multiniveaux"
+  abstract: "Les algorithmes de reconstruction d'images Plug-and-Play (PnP) sont fondés sur des réseaux de neurones profonds débruiteurs et utilisés comme a priori pour la résolution de problèmes inverses. Malgré leur flexibilité, les algorithmes PnP requièrent un large nombre d'itérations pour converger et leur performance est sensible au choix de l'initialisation et des hyperparamètres. Dans cette présentation, nous considérons un nouvel algorithme PnP multiniveaux qui accélère la convergence en combinant des itérations faites à différentes échelles et améliore la robustesse à l'initialisation ainsi qu'aux hyperparamètres grâce à une stratégie exploitant les échelles plus grossières pour la résolution aux échelles fines. Nous pourrons observer par une série d'expériences numériques incluant le dématriçage et l'inpainting que cette nouvelle méthode est plus rapide et donne de meilleures reconstructions que d'autres algorithmes PnP états-de-l'art."
   room: Room Yvette Cauchoix (Perrin building)
 
 
