@@ -69,8 +69,8 @@
   time: 3pm
   affiliation: INRIA
   url: 
-  title: ""
-  abstract: ""
+  title: "From Statistics to Graphs: Hierarchical Clustering for Image Analysis"
+  abstract: "This talk bridges statistical theory and practical image processing. We begin by defining clustering as the recovery of high-density level sets from a statistical distribution in the Euclidean space. We show how to solve this problem efficiently using geometric (hyper)graphs, providing a theoretical foundation for hierarchical methods like HDBSCAN through percolation theory. Finally, we view images as graphs and demonstrate how to "hack" the hierarchical clustering extraction by customizing loss functions. We illustrate this approach with two applications: automatic fault detection in 2D images and unsupervized instance segmentation on 3D LiDAR point clouds."
   room: Room Yvette Cauchoix (Perrin building)
 
 
