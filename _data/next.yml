@@ -16,16 +16,14 @@
   abstract: ""
   room: Room Yvette Cauchoix (Perrin building)
 
-
 - speaker: Mathurin Massias
   date: February 3rd
   time: 2pm
   affiliation: INRIA Lyon
-  url: "https://mathurinm.github.io/"
+  url: 
   title: "The generalization of flow matching and its temporal phases: why and when does it work?"
   abstract: "A growing body of research aims to understand why diffusion and flow matching generalize so effectively, with the puzzling observation that, trained perfectly, they should only reproduce their training data. In this talk, we study reasons why generative model fail to learn the exact minimizer of their training loss.
-We first rule out the noisy nature of the loss as primary driver of generalization, showing that the stochastic and exact versions of the flow matching loss yield the same performance. We then show that failure to properly learn the exact solution occurs at small and large times, with small times being the most important for generalization. Finally, by adopting a denoising perspective on flow matching, we provide new characterization and insights on the temporal phases of the generative process.
-  The talk will be given in French."
+We first rule out the noisy nature of the loss as primary driver of generalization, showing that the stochastic and exact versions of the flow matching loss yield the same performance. We then show that failure to properly learn the exact solution occurs at small and large times, with small times being the most important for generalization. Finally, by adopting a denoising perspective on flow matching, we provide new characterization and insights on the temporal phases of the generative process. <br/> The talk will be given in French."
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Ali Joundi
@@ -33,9 +31,8 @@ We first rule out the noisy nature of the loss as primary driver of generalizati
   time: 3pm
   affiliation: Institut de Mathématiques de Bordeaux
   url: 
-  title: "Stochastic Orthogonal Regularization for deep projective priors"
-  abstract: "Many crucial tasks in image processing and computer vision are formulated as inverse problems. Therefore, it is of great importance to design efficient and robust algorithms to solve these problems. In this paper, we focus on generalized projected gradient descent (GPGD) algorithms where generalized projections are realized with learned neural networks as they provide state-of-the-art results for imaging inverse problems. Indeed, neural networks allow for projections onto unknown low-dimensional sets that model complex data, such as images. We call these projections deep projective priors. In generic settings, when the orthogonal projection onto a low-dimensional model set is used, it has been shown, under a restricted isometry assumption, that the corresponding orthogonal PGD converges with a linear rate, yielding near-optimal convergence (within the class of GPGD methods) in the classical case of sparse recovery. However, for deep projective priors trained with classical mean squared error losses, there is little guarantee that the hypotheses for linear convergence are satisfied. In this paper, we propose a stochastic orthogonal regularization of the training loss for deep projective priors. This regularization is motivated by our theoretical results: a sufficiently good approximation of the orthogonal projection guarantees linear stable recovery with performance close to orthogonal PGD. We show experimentally, using two different deep projective priors (based on autoencoders and on denoising networks), that our stochastic orthogonal regularization yields projections that improve convergence speed and robustness of GPGD in challenging inverse problem settings, in accordance with our theoretical findings.
-  The talk will be given in French."
+  title:
+  abstract: "Many crucial tasks in image processing and computer vision are formulated as inverse problems. Therefore, it is of great importance to design efficient and robust algorithms to solve these problems. In this paper, we focus on generalized projected gradient descent (GPGD) algorithms where generalized projections are realized with learned neural networks as they provide state-of-the-art results for imaging inverse problems. Indeed, neural networks allow for projections onto unknown low-dimensional sets that model complex data, such as images. We call these projections deep projective priors. In generic settings, when the orthogonal projection onto a low-dimensional model set is used, it has been shown, under a restricted isometry assumption, that the corresponding orthogonal PGD converges with a linear rate, yielding near-optimal convergence (within the class of GPGD methods) in the classical case of sparse recovery. However, for deep projective priors trained with classical mean squared error losses, there is little guarantee that the hypotheses for linear convergence are satisfied. In this paper, we propose a stochastic orthogonal regularization of the training loss for deep projective priors. This regularization is motivated by our theoretical results: a sufficiently good approximation of the orthogonal projection guarantees linear stable recovery with performance close to orthogonal PGD. We show experimentally, using two different deep projective priors (based on autoencoders and on denoising networks), that our stochastic orthogonal regularization yields projections that improve convergence speed and robustness of GPGD in challenging inverse problem settings, in accordance with our theoretical findings.  <br/> The talk will be given in French."
   room: Room Yvette Cauchoix (Perrin building)
 
 
