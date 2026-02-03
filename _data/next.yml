@@ -16,7 +16,7 @@
   abstract: ""
   room: Room Yvette Cauchoix (Perrin building)
 
-- speaker: Mathurin Massias
+- speaker: (CANCELLED) Mathurin Massias
   date: February 3rd
   time: 2pm
   affiliation: INRIA Lyon
@@ -28,7 +28,7 @@ We first rule out the noisy nature of the loss as primary driver of generalizati
   
 - speaker: Ali Joundi
   date: February 3rd
-  time: 3pm
+  time: 2pm (moved from 3pm to 2pm due to cancellation of the other talk)
   affiliation: Institut de Mathématiques de Bordeaux
   url: 
   title: "Stochastic Orthogonal Regularization for deep projective priors"
