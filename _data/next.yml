@@ -20,7 +20,7 @@
   date: February 3rd
   time: 2pm
   affiliation: INRIA Lyon
-  url: 
+  url: https://mathurinm.github.io/
   title: "The generalization of flow matching and its temporal phases: why and when does it work?"
   abstract: "A growing body of research aims to understand why diffusion and flow matching generalize so effectively, with the puzzling observation that, trained perfectly, they should only reproduce their training data. In this talk, we study reasons why generative model fail to learn the exact minimizer of their training loss.
 We first rule out the noisy nature of the loss as primary driver of generalization, showing that the stochastic and exact versions of the flow matching loss yield the same performance. We then show that failure to properly learn the exact solution occurs at small and large times, with small times being the most important for generalization. Finally, by adopting a denoising perspective on flow matching, we provide new characterization and insights on the temporal phases of the generative process. <br/> The talk will be given in French."
