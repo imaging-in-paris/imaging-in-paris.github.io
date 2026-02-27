@@ -3,8 +3,12 @@
   time: 2pm
   affiliation: CNRS, ENS Lyon
   url: https://perso.ens-lyon.fr/nelly.pustelnik/
-  title: ""
-  abstract: ""
+  title: "ReTune: Restarted Truncated unrolled networks to bridge the gap between Plug-and-Play and Unfolded Neural Networks for image restoration"
+  abstract: "In recent years, deep learning methods have transformed the field of image restoration, achieving significantly higher reconstruction quality than traditional variational approaches. Many current strategies combine principles from both variational models and neural networks, forming what are known as model-based neural networks. Among these, two main frameworks stand out: Unfolded neural networks and Plug-and-Play (PnP) methods.
+Unfolded networks emulate the iterations of proximal algorithms (also referred to as unrolled algorithms, e.g., unrolled forward–backward) to create task-specific end-to-end architectures, while PnP methods rely on pretrained denoisers to solve reconstruction problems without additional training. However, automatic differentiation in unfolded networks requires relatively shallow architectures (a small number of unrolled iterations) due to computational constraints, whereas PnP methods, though theoretically convergent, must be iterated until convergence and often underperform unfolded approaches. <br/>
+This work focuses on a specific training procedure for unfolded neural networks that still uses automatic differentiation while maintaining theoretical convergence guarantees. More precisely, our analysis shows that an unfolded neural network can be restarted to infer solutions of a variational problem with fixed parameters. Furthermore, we introduce the ReTune (Restarted Truncated unrolled networks) procedure to estimate the underlying parameters in a simple fashion, building on theoretical developments inspired by bi-level literature (Deep Equilibrium,Jacobian-free propagation).
+A deeper analysis is provided in the context of unrolled forward–backward iterations to highlight the interplay between the network depth and the number of restarts in ReTune, based on the Lipschitz properties of the algorithmic scheme. In particular, the depth controls the approximation error of a Jacobian-free step, whereas restarting the unrolled neural network allows one to reach the equilibrium point.
+This theoretical analysis is supported by numerical experiments showing that the proposed ReTune procedure goes beyond traditional learning schemes, improves performance compared to PnP strategies, and provides stronger guarantees than standard unfolded approaches."
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Nicolas Papadakis
@@ -12,8 +16,9 @@
   time: 3pm
   affiliation: Institut de Mathématiques de Bordeaux
   url: 
-  title: ""
-  abstract: ""
+  title: "Posterior Sampling with the Proximal Stochastic Gradient Langevin Algorithm"
+  abstract: "We investigate the challenge of sampling from distributions defined by non-convex potentials using the Unadjusted Langevin Algorithm (ULA). Our analysis establishes the stability of the discrete-time ULA under drift approximations, provided the potential is non-convex and strongly convex at infinity. 
+To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PSGLA), which integrates the forward-backward optimization framework with a ULA step. By leveraging our stability results and properties of the Moreau envelope, we present the first convergence proof for PSGLA in the context of non-convex potentials. We validate our theoretical findings empirically using synthetic data and real-world imaging inverse problems. Our experiments illustrate that PSGLA not only preserves the restoration quality of posterior sampling but also achieves faster convergence rates compared to the standard Stochastic Gradient Langevin Algorithm."
   room: Room Yvette Cauchoix (Perrin building)
 
 
