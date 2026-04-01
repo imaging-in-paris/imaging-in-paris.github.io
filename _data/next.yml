@@ -21,14 +21,13 @@ This theoretical analysis is supported by numerical experiments showing that the
 To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PSGLA), which integrates the forward-backward optimization framework with a ULA step. By leveraging our stability results and properties of the Moreau envelope, we present the first convergence proof for PSGLA in the context of non-convex potentials. We validate our theoretical findings empirically using synthetic data and real-world imaging inverse problems. Our experiments illustrate that PSGLA not only preserves the restoration quality of posterior sampling but also achieves faster convergence rates compared to the standard Stochastic Gradient Langevin Algorithm."
   room: Room Yvette Cauchoix (Perrin building)
 
-
 - speaker: Clément Bonet
   date: April 7th
   time: 2pm
   affiliation: CMAP, École Polytechnique
-  url: 
-  title: ""
-  abstract: ""
+  url: https://clbonet.github.io/
+  title: "Busemann Functions in the Wasserstein Space: Existence, Closed-Forms, and Applications to Slicing"
+  abstract: "The Busemann function has recently found much interest in a variety of geometric machine learning problems, as it naturally defines projections onto geodesic rays of Riemannian manifolds and generalizes the notion of hyperplanes. As several sources of data can be conveniently modeled as probability distributions, it is natural to study this function in the Wasserstein space, which carries a rich formal Riemannian structure induced by Optimal Transport metrics. In this work, we investigate the existence and computation of Busemann functions in Wasserstein space, which admits geodesic rays. We establish closed-form expressions in two important cases: one-dimensional distributions and Gaussian measures. These results enable explicit projection schemes for probability distributions on $mathbb{R}$, which in turn allow us to define novel Sliced-Wasserstein distances over Gaussian mixtures and labeled datasets. We demonstrate the efficiency of those original schemes on synthetic datasets as well as transfer learning problems."
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Louis Hauseux
