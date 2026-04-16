@@ -1,3 +1,21 @@
+- speaker: Clément Bonet
+  date: April 7th
+  time: 2pm
+  affiliation: CMAP, École Polytechnique
+  url: https://clbonet.github.io/
+  title: "Busemann Functions in the Wasserstein Space: Existence, Closed-Forms, and Applications to Slicing"
+  abstract: "The Busemann function has recently found much interest in a variety of geometric machine learning problems, as it naturally defines projections onto geodesic rays of Riemannian manifolds and generalizes the notion of hyperplanes. As several sources of data can be conveniently modeled as probability distributions, it is natural to study this function in the Wasserstein space, which carries a rich formal Riemannian structure induced by Optimal Transport metrics. In this work, we investigate the existence and computation of Busemann functions in Wasserstein space, which admits geodesic rays. We establish closed-form expressions in two important cases: one-dimensional distributions and Gaussian measures. These results enable explicit projection schemes for probability distributions on $mathbb{R}$, which in turn allow us to define novel Sliced-Wasserstein distances over Gaussian mixtures and labeled datasets. We demonstrate the efficiency of those original schemes on synthetic datasets as well as transfer learning problems."
+  room: Room Yvette Cauchoix (Perrin building)
+  
+- speaker: Louis Hauseux
+  date: April 7th
+  time: 3pm
+  affiliation: INRIA
+  url: 
+  title: "From Statistics to Graphs: Hierarchical Clustering for Image Analysis"
+  abstract: "This talk bridges statistical theory and practical image processing. We begin by defining clustering as the recovery of high-density level sets from a statistical distribution in the Euclidean space. We show how to solve this problem efficiently using geometric (hyper)graphs, providing a theoretical foundation for hierarchical methods like HDBSCAN through percolation theory. Finally, we view images as graphs and demonstrate how to hack the hierarchical clustering extraction by customizing loss functions. We illustrate this approach with two applications: automatic fault detection in 2D images and unsupervized instance segmentation on 3D LiDAR point clouds."
+  room: Room Yvette Cauchoix (Perrin building)
+
 - speaker: Nelly Pustelnik
   date: March 10th
   time: 2pm
