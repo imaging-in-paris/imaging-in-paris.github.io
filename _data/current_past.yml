@@ -1,3 +1,24 @@
+- speaker: Alessio Spagnoletti
+  date: May 12th
+  time: 2pm
+  affiliation: Université Paris Cité
+  url:
+  title: "The LATINO Family of Inverse Solvers: few-step priors for high-res image and video restoration"
+  abstract: "Recent advances in distilled latent diffusion models (aka Consistency Models) have opened new possibilities for solving inverse problems with strong generative priors and low computational cost. This talk begins with LATINO-PRO, a plug-and-play framework for text-conditioned image restoration that combines a stochastic auto-encoding step derived from latent distilled models with proximal data-consistency updates. The resulting method provides a gradient-free posterior sampling strategy that is both memory-efficient and accurate, while prompt optimization further improves performance by automatically adapting the semantic conditioning to the observed measurements. We then turn to LVTINO, an extension of this framework to video restoration. By combining video priors for temporal coherence with image priors for fine spatial detail, LVTINO enables high-definition video reconstruction with strong measurement fidelity and improved temporal stability. The final part of the talk discusses the theoretical motivation behind the stochastic auto-encoder, viewing it as an approximate contractive transport toward the learned prior and relating its behavior to the analyses of multi-step Consistency Models.
+"
+  room: Amphi Hermite (Borel building)
+
+- speaker: Yuanzhi Zhu
+  date: May 12th
+  time: 3pm
+  affiliation: École Polytechnique
+  url: https://yuanzhi-zhu.github.io/about/
+  title: "Toward One-Step Image Restoration with Generative Priors: From Plug-and-Play Diffusion to Flow Distillation"
+  abstract: "Pretrained diffusion and flow models have emerged as powerful priors for image restoration, capturing the many plausible reconstructions consistent with a single degraded observation.
+This talk begins with DiffPIR (CVPRW 2023), a training-free plug-and-play framework that uses a pretrained unconditional diffusion model as the denoiser inside an HQS splitting scheme, providing a single ~100-step recipe for super-resolution, deblurring and inpainting. We then turn to OFTSR (ICLR 2026), which distills a conditional rectified flow into a one-step student via trajectory-aligned distillation while exposing a tunable fidelity-realism trade-off at inference. The final part of the talk covers MFSR (arXiv 2026) and its follow-up SMFSR, which use a MeanFlow / SplitMeanFlow average-velocity formulation to distill a multi-step real-world SR teacher into a single- or few-step student.
+This talk will close with a unifying view of these methods, and discuss future directions worth exploring next."
+  room: Amphi Hermite (Borel building)
+
 - speaker: Clément Bonet
   date: April 7th
   time: 2pm

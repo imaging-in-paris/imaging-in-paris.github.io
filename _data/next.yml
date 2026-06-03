@@ -1,33 +1,12 @@
-
-- speaker: Alessio Spagnoletti
-  date: May 12th
-  time: 2pm
-  affiliation: Université Paris Cité
-  url: 
-  title: "The LATINO Family of Inverse Solvers: few-step priors for high-res image and video restoration"
-  abstract: "Recent advances in distilled latent diffusion models (aka Consistency Models) have opened new possibilities for solving inverse problems with strong generative priors and low computational cost. This talk begins with LATINO-PRO, a plug-and-play framework for text-conditioned image restoration that combines a stochastic auto-encoding step derived from latent distilled models with proximal data-consistency updates. The resulting method provides a gradient-free posterior sampling strategy that is both memory-efficient and accurate, while prompt optimization further improves performance by automatically adapting the semantic conditioning to the observed measurements. We then turn to LVTINO, an extension of this framework to video restoration. By combining video priors for temporal coherence with image priors for fine spatial detail, LVTINO enables high-definition video reconstruction with strong measurement fidelity and improved temporal stability. The final part of the talk discusses the theoretical motivation behind the stochastic auto-encoder, viewing it as an approximate contractive transport toward the learned prior and relating its behavior to the analyses of multi-step Consistency Models.
-"
-  room: Amphi Hermite (Borel building)
-  
-- speaker: Yuanzhi Zhu
-  date: May 12th
-  time: 3pm
-  affiliation: École Polytechnique
-  url: https://yuanzhi-zhu.github.io/about/
-  title: "Toward One-Step Image Restoration with Generative Priors: From Plug-and-Play Diffusion to Flow Distillation"
-  abstract: "Pretrained diffusion and flow models have emerged as powerful priors for image restoration, capturing the many plausible reconstructions consistent with a single degraded observation. 
-This talk begins with DiffPIR (CVPRW 2023), a training-free plug-and-play framework that uses a pretrained unconditional diffusion model as the denoiser inside an HQS splitting scheme, providing a single ~100-step recipe for super-resolution, deblurring and inpainting. We then turn to OFTSR (ICLR 2026), which distills a conditional rectified flow into a one-step student via trajectory-aligned distillation while exposing a tunable fidelity-realism trade-off at inference. The final part of the talk covers MFSR (arXiv 2026) and its follow-up SMFSR, which use a MeanFlow / SplitMeanFlow average-velocity formulation to distill a multi-step real-world SR teacher into a single- or few-step student. 
-This talk will close with a unifying view of these methods, and discuss future directions worth exploring next."
-  room: Amphi Hermite (Borel building)
-
-
 - speaker:  Gabriel Victorino Cardoso
   date: June 9th
   time: 2pm
   affiliation: Mines Paris
   url: 
-  title: ""
-  abstract: ""
+  title: "On error propagation on score-based generative models and possible implications to posterior sampling"
+  abstract: "In this talk I'll focus mainly in the paper [1], where we show that under reasonable hypothesis score-based generative model has the same advantageous forgetting properties that have been shown to exist in several Markov chain based algorithms. We will then dive into how such forgetting can be interesting from the theoretical point of view as well as from the practical point of view, also from the aspect of posterior sampling.
+
+[1] Strasman, S., Cardoso, G., Corff, S. L., Lemaire, V., & Ocello, A. (2026). On Forgetting and Stability of Score-based Generative models. arXiv preprint arXiv:2601.21868."
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Johannes Hertrich
@@ -35,7 +14,7 @@ This talk will close with a unifying view of these methods, and discuss future d
   time: 3pm
   affiliation: ENS
   url: 
-  title: ""
-  abstract: ""
+  title: "Learned and Generative Regularization for Inverse Problems "
+  abstract: "This talk explores learned and generative regularization methods for solving inverse problems in imaging. We start with the task of learning explicit regularization functionals, providing a unified framework that consolidates diverse learned regularization approaches. This enables systematic comparison of their architectural designs, training strategies, and practical performance. Afterwards, we consider the case where the regularizer is given by an unconditional denoising diffusion model and present a self-supervised fine-tuning algorithm for sampling from the posterior distribution in an inverse problem. Finally, we numerically investigate the robustness of generative and non-generative priors under imperfect settings, such as out-of-distribution data and mismatched forward models, and draw conclusions on which approach is suitable in which setting."
   room: Room Yvette Cauchoix (Perrin building)
 
