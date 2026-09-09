@@ -5,5 +5,5 @@
   url: 
   title: "How to Encode World Knowledge?"
   abstract: "Foundation models are a key platform which implicitly encodes world knowledge. In this talk we first focus on vision-language models, such as CLIP, and investigate their geometric behavior and logic behind the high-dimensional feature encoding. For instance, we find that as image or text become more rare and distinct they are encoded further from the center of the embedding. We explain why InfoNCE loss leads to that behavior. We also find out empirically that each modality can be well modeled statistically as admitting a multivariate Gaussian distribution. This finding is then proved formally, where we show InfoNCE asymptotically induces Gaussian statistics. Finally, we connect two major image foundation models – encoders and generators, through a universal normal embedding hypothesis. A surprising consequence of this hypothesis is demonstrated, where generative diffusion “noise” contains semantic data which can be accessed by linear probing for either classification or editing. This talk is based on 6 recent papers in the group published at ICML 2025, ICLR 2026 and CVPR 2026."
-  room: Room Yvette Cauchoix (Perrin building)
+  room: **SCAI seminar room** - Esclangon building, 1st floor, **Campus Pierre et Marie Curie**, 4 place Jussieu, Paris
   
