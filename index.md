@@ -10,15 +10,19 @@ redirect_from:
 
 Welcome to the website of the Parisian Seminar on the Mathematics of Imaging !  
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connections with statistics and machine learning).  It is **open to everyone**. It takes place at **[Institut Henri Poincaré](https://goo.gl/maps/TQJt1hNnzgsAJEsp6)** on the **first Tuesday** of **each month** from **2pm to 4pm**. Each seminar is composed of two presentations.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connections with statistics and machine learning).  It is **open to everyone**. It takes place at **[Institut Henri Poincaré](https://goo.gl/maps/TQJt1hNnzgsAJEsp6) ([SCAI](https://maps.app.goo.gl/AZjbaPH2tTJozJgT6) in Sept.)** on the **second (third in Sept./Nov./Apr.) Tuesday** of **each month** from **2pm to 4pm**. Each seminar is composed of two presentations.
 
 You can subscribe or unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
 
+<p style="color:red;" align="center"><b>&#9888; September seminar is taking place at SCAI</b></p>
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showTabs=1&showCalendars=0&mode=AGENDA&showNav=0&showTitle=0&hl=en&showTz=0&src=NXJrajFkZXUycmo3NDZocm5pOTgxOWNiM3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border-width:0" width="370" height="300" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10502.476939522125!2d2.3324169492123916!3d48.846401182574276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671e82eaa7aff%3A0xf280319d9e3a86e1!2sInstitut%20Henri%20Poincar%C3%A9%20-%20Sorbonne%20Universit%C3%A9%20%2F%20CNRS!5e0!3m2!1sfr!2sfr!4v1693906778746!5m2!1sfr!2sfr" width="370" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10502.476939522125!2d2.3324169492123916!3d48.846401182574276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671e82eaa7aff%3A0xf280319d9e3a86e1!2sInstitut%20Henri%20Poincar%C3%A9%20-%20Sorbonne%20Universit%C3%A9%20%2F%20CNRS!5e0!3m2!1sfr!2sfr!4v1693906778746!5m2!1sfr!2sfr" width="370" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="display: none;"></iframe>
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.677175877328!2d2.3545265768960713!3d48.84529610162747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671d239f04a4f%3A0x2b5bf4ac5e59dd43!2sSorbonne%20Center%20for%20Artificial%20Intelligence%20-%20SCAI!5e0!3m2!1sfr!2sfr!4v1789053137086!5m2!1sfr!2sfr" width="370" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+<img width="750" src="../img/plan_acces_scai.png">
 
 
 
@@ -85,9 +89,9 @@ Organizers
 - [Samy Blusseau](https://samyblusseau.jimdofree.com/) (CMM @ Mines Paris - PSL)
 - [Vincent Duval](https://who.rocq.inria.fr/Vincent.Duval/) (INRIA & CEREMADE @ Université Paris Dauphine - PSL)
 - [Arthur Leclaire](https://www.math.u-bordeaux.fr/~aleclaire/) (LTCI @ Télécom Paris)
-- [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (ISIR @ Sorbonne Université)
+- [Alasdair Newson](https://sites.google.com/site/alasdairnewson/) (MAP5 @ Université Paris Cité)
 - [Pauline Tan](https://sites.google.com/view/paulinetan) (LJLL @ Sorbonne Université) 
-- [Jonathan Vacher](https://jonathanvacher.github.io/) (MAP5 @ Université Paris Cité)
+<p style="display: none;">- [Jonathan Vacher](https://jonathanvacher.github.io/) (MAP5 @ Université Paris Cité)</p>
 
 
 Thanks
