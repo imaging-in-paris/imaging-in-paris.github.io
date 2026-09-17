@@ -10,11 +10,9 @@ redirect_from:
 
 Welcome to the website of the Parisian Seminar on the Mathematics of Imaging !  
 
-The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connections with statistics and machine learning).  It is **open to everyone**. It takes place at **[Institut Henri Poincaré](https://goo.gl/maps/TQJt1hNnzgsAJEsp6) ([SCAI](https://maps.app.goo.gl/AZjbaPH2tTJozJgT6) in Sept.)** on the **second (third in Sept./Nov./Apr.) Tuesday** of **each month** from **2pm to 4pm**. Each seminar is composed of two presentations.
+The goal of this seminar is to cover the fields of the mathematics of imaging in a very wide sense (including for instance signal processing, image processing, computer graphics, computer vision, various applications and connections with statistics and machine learning).  It is **open to everyone**. It takes place at **[Institut Henri Poincaré](https://goo.gl/maps/TQJt1hNnzgsAJEsp6) on the **second (third in Sept./Nov./Apr.) Tuesday** of **each month** from **2pm to 4pm**. Each seminar is composed of two presentations.
 
 You can subscribe or unsubscribe to the [mailing list of the seminar](https://listes.telecom-paristech.fr/mailman/listinfo/imaging-in-paris) and to the [agenda of the seminar](https://calendar.google.com/calendar/embed?src=5rkj1deu2rj746hrni9819cb3s%40group.calendar.google.com&ctz=Europe%2FParis).
-
-<p style="color:red;" align="center"><b>&#9888; September seminar is taking place at SCAI</b></p>
 
 <iframe src="https://calendar.google.com/calendar/embed?height=300&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FParis&showPrint=0&showTabs=1&showCalendars=0&mode=AGENDA&showNav=0&showTitle=0&hl=en&showTz=0&src=NXJrajFkZXUycmo3NDZocm5pOTgxOWNiM3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D81B60" style="border-width:0" width="370" height="300" frameborder="0" scrolling="no"></iframe>
 
@@ -52,10 +50,10 @@ Click on the title to read the abstract.
 
 
 
-Previous seminars of 2025-2026
+Previous seminars of 2026-2027
 -----
 
-The list of seminars prior to summer 2025 is available [here](previous_seminars/).
+The list of seminars prior to summer 2026 is available [here](previous_seminars/).
 
 {% for oneitem in site.data.current_past %}
 <p>
