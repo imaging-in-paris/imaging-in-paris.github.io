@@ -1,5 +1,5 @@
 - speaker:  Gabriel Victorino Cardoso
-  date: June 9th
+  date: June 9th 2026
   time: 2pm
   affiliation: Mines Paris
   url:
@@ -10,7 +10,7 @@
   room: Room Yvette Cauchoix (Perrin building)
 
 - speaker: Johannes Hertrich
-  date: June 9th
+  date: June 9th 2026
   time: 3pm
   affiliation: ENS
   url:
@@ -19,7 +19,7 @@
   room: Room Yvette Cauchoix (Perrin building)
 
 - speaker: Alessio Spagnoletti
-  date: May 12th
+  date: May 12th 2026
   time: 2pm
   affiliation: Université Paris Cité
   url:
@@ -29,7 +29,7 @@
   room: Amphi Hermite (Borel building)
 
 - speaker: Yuanzhi Zhu
-  date: May 12th
+  date: May 12th 2026
   time: 3pm
   affiliation: École Polytechnique
   url: https://yuanzhi-zhu.github.io/about/
@@ -40,7 +40,7 @@ This talk will close with a unifying view of these methods, and discuss future d
   room: Amphi Hermite (Borel building)
 
 - speaker: Clément Bonet
-  date: April 7th
+  date: April 7th 2026
   time: 2pm
   affiliation: CMAP, École Polytechnique
   url: https://clbonet.github.io/
@@ -49,7 +49,7 @@ This talk will close with a unifying view of these methods, and discuss future d
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Louis Hauseux
-  date: April 7th
+  date: April 7th 2026
   time: 3pm
   affiliation: INRIA
   url: 
@@ -58,7 +58,7 @@ This talk will close with a unifying view of these methods, and discuss future d
   room: Room Yvette Cauchoix (Perrin building)
 
 - speaker: Nelly Pustelnik
-  date: March 10th
+  date: March 10th 2026
   time: 2pm
   affiliation: CNRS, ENS Lyon
   url: https://perso.ens-lyon.fr/nelly.pustelnik/
@@ -71,7 +71,7 @@ This theoretical analysis is supported by numerical experiments showing that the
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Nicolas Papadakis
-  date: March 10th
+  date: March 10th 2026
   time: 3pm
   affiliation: Institut de Mathématiques de Bordeaux
   url: 
@@ -81,8 +81,8 @@ To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PS
   room: Room Yvette Cauchoix (Perrin building)
 
 - speaker: Ali Joundi
-  date: February 3rd
-  time: 2pm (moved from 3pm to 2pm due to cancellation of the other talk)
+  date: February 3rd 2026
+  time: 2pm
   affiliation: Institut de Mathématiques de Bordeaux
   url: 
   title: "Stochastic Orthogonal Regularization for deep projective priors"
@@ -90,7 +90,7 @@ To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PS
   room: Room Yvette Cauchoix (Perrin building)
 
 - speaker: Samuel Hurault
-  date: December 2nd
+  date: December 2nd 2025
   time: 2pm
   affiliation: CNRS, LIGM
   url: https://samuelhurault.netlify.app/
@@ -99,7 +99,7 @@ To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PS
   room: Room Yvette Cauchoix (Perrin building)
   
 - speaker: Nils Laurent
-  date: December 2nd
+  date: December 2nd 2025
   time: 3pm
   affiliation: LASPI Roanne
   url: https://nils-laurent.github.io/
@@ -109,7 +109,7 @@ To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PS
 
 
 - speaker: Kimia Nadjahi
-  date: November 4th
+  date: November 4th 2025
   time: 2pm
   affiliation: CNRS, ENS PARIS
   url: https://kimiandj.github.io/
@@ -118,7 +118,7 @@ To this end, we focus on the Proximal Stochastic Gradient Langevin Algorithm (PS
   room: Amphi Darboux (Borel building)
 
 - speaker: Laetitia Chapel 
-  date: November 4th
+  date: November 4th 2025
   time: 3pm
   affiliation: Institut Agro Rennes-Angers, IRISA
   url: https://people.irisa.fr/Laetitia.Chapel/
@@ -128,7 +128,7 @@ In this talk, I will present a new methodology to efficiently approximate sliced
   room: Amphi Darboux (Borel building)
   
 - speaker: Raphaël Achddou
-  date: October 7th
+  date: October 7th 2025
   time: 2pm
   affiliation: ESIEE Paris, LIGM
   url: 
