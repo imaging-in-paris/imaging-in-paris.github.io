@@ -17,8 +17,8 @@
   time: 2pm
   affiliation: Télécom Paris
   url: 
-  title: ""
-  abstract: ""
+  title: "Multimodal Representation Learning for Clinical Decision Support from Vision and Tabular Data"
+  abstract: "Clinical decision support utilising multimodal AI has advanced significantly in recent years, transforming medical imaging from a standalone diagnostic visual tool into an active, predictive anchor within modern healthcare. However, seamlessly fusing high-dimensional imaging modalities with complementary clinical data remains a central challenge due to severe data heterogeneity and representation mismatches. In this talk, I will present recent imaging-centric vision-tabular approaches applied to cardiovascular diseases, and show how addressing these specific fusion hurdles enables us to challenge established clinical baselines and drive better decision-making for patients."
   room: Amphi Choquet-Bruhat (Perrin building)
 
 - speaker: 
