@@ -4,8 +4,11 @@
   time: 2pm
   affiliation: Institut de Mathématiques de Bordeaux
   url: 
-  title: ""
-  abstract: ""
+  title: "Une méthode de frontières immergées pour la tomographie par impédance électrique "
+  abstract: "La tomographie par impédance électrique (EIT) est une technique d'imagerie non invasive qui vise à reconstruire la distribution de conductivité électrique à l'intérieur d'un domaine. Pour cela, on injecte des courants électriques par des électrodes placées sur le bord du domaine, puis on mesure les tensions qui en résultent.
+Le problème direct consiste à déterminer le potentiel électrique dans le domaine pour une conductivité donnée et un ensemble de courants injectés. Il se formule comme un système d'EDP elliptiques, avec des conditions aux limites qui modélisent le comportement des électrodes.
+Le problème inverse consiste à estimer la conductivité elle-même à partir de mesures effectuées à la surface du corps. Sur le plan mathématique, ce problème, connu sous le nom de problème de Calderón, est sévèrement mal posé. La conductivité en est la principale inconnue. D'autres quantités peuvent toutefois être mal connues et dégrader la qualité de la reconstruction, notamment la forme du domaine et la position des électrodes. Nous considérons donc le problème d'EIT dans une géométrie mobile.
+Dans cet exposé, je présente une méthode de frontières immergées pour la résolution numérique du modèle complet d'électrodes. Cette approche repose sur un maillage cartésien et ne requiert pas de discrétisation précise de la frontière. Elle est donc particulièrement adaptée aux géométries complexes ou évoluant au cours du temps. La méthode est utilisée pour résoudre le problème inverse de l’EIT, et je présenterai différentes séries de reconstruction dépendant de la modélisation utilisée pour la fonctionnelle de coût. "
   room: Amphi Choquet-Bruhat (Perrin building)
 
 
