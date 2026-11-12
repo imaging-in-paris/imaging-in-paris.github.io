@@ -29,8 +29,8 @@ Dans cet exposé, je présente une méthode de frontières immergées pour la r�
   time: 3pm
   affiliation: ENS Lyon
   url: 
-  title: ""
-  abstract: ""
+  title: "Learning-based methods for large- scale imaging inverse problems"
+  abstract: "Deep learning-based methods have revolutionized the field of imaging inverse problems, yielding state-of-the-art performance across various imaging domains. The best performing networks incorporate the imaging operator within the network architecture, typically in the form of deep unrolling. However, in large-scale problems, such as 3D imaging, most existing methods fail to incorporate the operator in the architecture due to the prohibitive amount of memory required by global forward operators, which hinder typical patching strategies. In this seminar, I will present a domain partitioning strategy and  normal operator approximations that enable the training of end-to-end reconstruction models incorporating forward operators of arbitrarily large problems into their architecture. The proposed method achieves state-of-the-art performance on 3D X-ray cone-beam tomography and 3D multi-coil accelerated MRI, while requiring only a single GPU for both training and inference."
   room: Amphi Choquet-Bruhat (Perrin building)
 
 
