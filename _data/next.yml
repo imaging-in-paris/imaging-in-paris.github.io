@@ -1,24 +1,4 @@
 
-- speaker: Maxime Di Folco
-  date: November 17th
-  time: 2pm
-  affiliation: Télécom Paris
-  url: 
-  title: "Multimodal Representation Learning for Clinical Decision Support from Vision and Tabular Data"
-  abstract: "Clinical decision support utilising multimodal AI has advanced significantly in recent years, transforming medical imaging from a standalone diagnostic visual tool into an active, predictive anchor within modern healthcare. However, seamlessly fusing high-dimensional imaging modalities with complementary clinical data remains a central challenge due to severe data heterogeneity and representation mismatches. In this talk, I will present recent imaging-centric vision-tabular approaches applied to cardiovascular diseases, and show how addressing these specific fusion hurdles enables us to challenge established clinical baselines and drive better decision-making for patients."
-  room: Amphi Choquet-Bruhat (Perrin building)
-
-- speaker: Romain Vo
-  date: November 17th
-  time: 3pm
-  affiliation: ENS Lyon
-  url: 
-  title: "Learning-based methods for large- scale imaging inverse problems"
-  abstract: "Deep learning-based methods have revolutionized the field of imaging inverse problems, yielding state-of-the-art performance across various imaging domains. The best performing networks incorporate the imaging operator within the network architecture, typically in the form of deep unrolling. However, in large-scale problems, such as 3D imaging, most existing methods fail to incorporate the operator in the architecture due to the prohibitive amount of memory required by global forward operators, which hinder typical patching strategies. In this seminar, I will present a domain partitioning strategy and  normal operator approximations that enable the training of end-to-end reconstruction models incorporating forward operators of arbitrarily large problems into their architecture. The proposed method achieves state-of-the-art performance on 3D X-ray cone-beam tomography and 3D multi-coil accelerated MRI, while requiring only a single GPU for both training and inference."
-  room: Amphi Choquet-Bruhat (Perrin building)
-
-
-
 
 
 - speaker: Mathurin Massias
@@ -26,8 +6,11 @@
   time: 2pm
   affiliation: INRIA Lyon
   url: https://mathurinm.github.io/about/
-  title: ""
-  abstract: ""
+  title: "Beyond the manifold hypothesis: on the optimal choice of parametrization for Flow matching and diffusion"
+  abstract: "Flow matching and diffusion can be trained to predict different quantities, most commonly the data x1, the source noise x0, or the velocity v. Although theoretically equivalent, these can lead to substantially different performances. We identify two main drivers for these differences: the source--data signal-to-noise ratio, and the information bottleneck induced by the neural architecture. We show that, beyond intrinsic data dimension, the factor affecting the optimal parametrization the most is a certain signal-to-noise ratio in each data covariance direction.
+From this analysis, we introduce new spectral hybrid parameterizations that adapt across time and data covariance directions; we show that these are optimal for Gaussian data.
+We also show that architecture-induced compression changes which parameterization is easier to learn, with v-prediction being more sensitive to discarded directions than x1-prediction. Experiments across architectures and source scales show that our spectral parameterizations are robust across regimes, can substantially accelerate optimization, while incurring essentially no additional training cost compared with standard parameterizations.<br/>
+Talk based on https://arxiv.org/abs/2609.32432 (and to a lesser extent https://arxiv.org/abs/2603.06454)."
   room: Amphi Choquet-Bruhat (Perrin building)
 
 - speaker: 
@@ -38,7 +21,6 @@
   title: ""
   abstract: ""
   room: Amphi Choquet-Bruhat (Perrin building)
-
 
 
 - speaker: 

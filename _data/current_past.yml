@@ -1,4 +1,24 @@
 
+- speaker: Maxime Di Folco
+  date: November 17th
+  time: 2pm
+  affiliation: Télécom Paris
+  url: 
+  title: "Multimodal Representation Learning for Clinical Decision Support from Vision and Tabular Data"
+  abstract: "Clinical decision support utilising multimodal AI has advanced significantly in recent years, transforming medical imaging from a standalone diagnostic visual tool into an active, predictive anchor within modern healthcare. However, seamlessly fusing high-dimensional imaging modalities with complementary clinical data remains a central challenge due to severe data heterogeneity and representation mismatches. In this talk, I will present recent imaging-centric vision-tabular approaches applied to cardiovascular diseases, and show how addressing these specific fusion hurdles enables us to challenge established clinical baselines and drive better decision-making for patients."
+  room: Amphi Choquet-Bruhat (Perrin building)
+
+- speaker: Romain Vo
+  date: November 17th
+  time: 3pm
+  affiliation: ENS Lyon
+  url: 
+  title: "Learning-based methods for large- scale imaging inverse problems"
+  abstract: "Deep learning-based methods have revolutionized the field of imaging inverse problems, yielding state-of-the-art performance across various imaging domains. The best performing networks incorporate the imaging operator within the network architecture, typically in the form of deep unrolling. However, in large-scale problems, such as 3D imaging, most existing methods fail to incorporate the operator in the architecture due to the prohibitive amount of memory required by global forward operators, which hinder typical patching strategies. In this seminar, I will present a domain partitioning strategy and  normal operator approximations that enable the training of end-to-end reconstruction models incorporating forward operators of arbitrarily large problems into their architecture. The proposed method achieves state-of-the-art performance on 3D X-ray cone-beam tomography and 3D multi-coil accelerated MRI, while requiring only a single GPU for both training and inference."
+  room: Amphi Choquet-Bruhat (Perrin building)
+
+
+
 - speaker: Lisl Weynans
   date: October 13th
   time: 2pm
